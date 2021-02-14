@@ -44,7 +44,7 @@ The past sessions will be on YouTube at the following link:
 
 [YouTube old sessions](https://www.youtube.com/watch?v=UH2CPXXwUyU&list=PL68G6wbDBVghZtDCRIwAheM-TXI36f668)
 
-The new session invitation will be sent to all registers on their emials.
+The new session invitation will be sent to all registers on their emails.
 
 Also, all sessions will be live on YouTbue on the follwoing link:
 
@@ -70,15 +70,17 @@ No, it's even better you don't, you can use the browser only or mobile and join 
 
 
 ## I have issue joining the meeting using MS Teams?
-Most people joining the meeting without any issue following the instructions provided in the event post on the Facebook page, if you have any issue, it could be regarding your machine configuration or due the meeting reaches out the maximum number (250). For events that exceed the maximum, it's usually repeated again, and you will get another invite for the repeated one. You still can watch the event live on Facebook or the recorded video later on the YouTube.
+Most people joining the meeting without any issue following the instructions provided in email, if you have any issue, it could be regarding your machine configuration or due the meeting reaches out the maximum numbers (250).
 
 ## I registered but I didn't get an invitation?
-Please try to double-check your email, junk folder and so on, if you still can't find the invitation, please register again and make sure you type your email correctly. There are many wrong emails in the registration.
+Please try to double-check your email, junk folder and so on, if you still can't find the invitation, please register again and make sure you type your email correctly. There are many wrong emails found in the registration.
 
 ## If I can't join the live session, can I still watch it?
 Yes, all session will be podcasting live from YouTube and you can still watch it but the questions will not be monitored during the session.
 
 ## If I can't join the live session on MS Teams either the live broadcast on the YouTube, is there any video record for the session?
+Yes, all session will be here:
+
 [YouTube old sessions](https://www.youtube.com/watch?v=UH2CPXXwUyU&list=PL68G6wbDBVghZtDCRIwAheM-TXI36f668)
 
 ## I want to contribute but I don't know what to do?
@@ -87,7 +89,7 @@ How to start contribution for this project or any other projects. There are only
 
 1. If you don’t’ like anything in the project, you see an improvement or you have a suggestion, just fork and do it in your repo then raise a PR (Pull Request).
 2. If you don’t want to do it, just raise an issue/enhancement/bug, etc. on GitHub related 
-3. You can also try to solve open issues, vote, comment, or discuss to improve the cotnent.
+3. You can also try to solve opened issues, vote for issues or discussion, comment, or discuss to improve the content.
 
 
 ## What if I raised or opened an issue and it is deleted without any comment?
