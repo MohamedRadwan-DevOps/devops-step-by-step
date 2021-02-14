@@ -1,7 +1,7 @@
 # DevOps Step-Bye-Step Arabic FAQ and  Code of Conduct
 ## Contents
 - [Where I can ask questions?](#where-i-can-ask-questions)
-- [I am new. What I should do to join?](#i-am-new.-what-i-should-do-to-join)
+- [I am new. What I should do to join?](#i-am-new-what-i-should-do-to-join)
 - [Where or how can I register?](#where-or-how-can-i-register)
 - [Do I need to register for every event/session?](#do-i-need-to-register-for-every-session)
 - [Where can I find past and future sessions?](#where-can-i-find-past-and-future-sessions)
@@ -14,7 +14,7 @@
 - [If I can't join the live session, can I still watch it?](#if-i-cant-join-the-live-session-can-i-still-watch-it)
 - [If I can't join the live session on MS Teams either the live broadcast on the YouTube, is there any video record for the session?](#if-i-cant-join-the-live-session-on-ms-teams-either-the-live-broadcast-on-the-youtube-is-there-any-video-record-for-the-session)
 - [I want to contribute but I don't know what to do?](#i-want-to-contribute-but-i-dont-know-what-to-do)
-- [What if I raised or opened an issue and it is deleted without any comment](#what-if-i-raised-or-open-an-issue-and-it-is-deleted-without-any-comment)
+- [What if I raised or opened an issue and it is deleted without any comment?](#what-if-i-raised-or-opened-an-issue-and-it-is-deleted-without-any-comment)
 - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
 - [What is needed to contributor to community?](#what-is-needed-to-contributor-to-community)
 - [Can I ask any question regarding any subject outside the session topic?](#can-i-ask-any-question-regarding-any-subject-outside-the-session-topic)
@@ -44,7 +44,11 @@ The past sessions will be on YouTube at the following link:
 
 [YouTube old sessions](https://www.youtube.com/watch?v=UH2CPXXwUyU&list=PL68G6wbDBVghZtDCRIwAheM-TXI36f668)
 
-The new session invitation will be sent to all registers on their emials:
+The new session invitation will be sent to all registers on their emials.
+
+Also, all sessions will be live on YouTbue on the follwoing link:
+
+[YouTube live sessions ](https://www.youtube.com/channel/UCXL45yrrzvu3la8S9PM5Aug)
 
 ## Where can I find and download the presentations for the previous sessions?
 You will find them on the following link:
