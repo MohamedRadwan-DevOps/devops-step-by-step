@@ -16,7 +16,7 @@
 - [I want to contribute but I don't know what to do?](#i-want-to-contribute-but-i-dont-know-what-to-do)
 - [What if I raised or opened an issue and it is deleted without any comment?](#what-if-i-raised-or-opened-an-issue-and-it-is-deleted-without-any-comment)
 - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
-- [What is needed to contributor to community?](#what-is-needed-to-contributor-to-community)
+- [What is needed to contributor to the community?](#what-is-needed-to-contributor-to-the-community)
 - [Can I ask any question regarding any subject outside the session topic?](#can-i-ask-any-question-regarding-any-subject-outside-the-session-topic)
 
 
@@ -76,7 +76,7 @@ Most people joining the meeting without any issue following the instructions pro
 Please try to double-check your email, junk folder and so on, if you still can't find the invitation, please register again and make sure you type your email correctly. There are many wrong emails found in the registration.
 
 ## If I can't join the live session, can I still watch it?
-Yes, all session will be podcasting live from YouTube and you can still watch it either live or aftwards but the questions will not be monitored during the session.
+Yes, all sessions will be broadcasted live on YouTube and you can still watch them either live or aftwards but questions will not be monitored during the session.
 
 ## If I can't join the live session on MS Teams either the live broadcast on YouTube, is there any video record for the session?
 Yes, all session will be recorded here:
@@ -87,7 +87,7 @@ Yes, all session will be recorded here:
 You need to learn what does it means to be a contributor and I am trying to help everyone here.
 To start contribution for this project or any other projects. There are only 3 ways to do that…..
 
-1. If you don’t’ like anything in the project, you see an improvement or you have a suggestion, just fork and do it in your repo then raise a PR (Pull Request).
+1. If you don’t’ like anything in the project, you see an improvement or you have a suggestion, just fork and do it in your fork (repo) then raise a PR (Pull Request).
 2. If you don’t want to do that, just raise an issue/enhancement/bug, etc. on GitHub issues.
 3. You can also try to solve opened issues, vote for issues or discussion, comment, or discuss to improve the content, etc.
 
@@ -97,13 +97,14 @@ If it’s deleted without any comments, it means you failed to provide the minim
 
 
 ## What if I raised a Pull Request (PR) and it is not accepted?
-If it’s not accepted without any comments, it means you failed to provide any value compared to the time of the feedback need to you, therefore always do a PR which has small changes and learn how to provide small values first. Just think if you can really provide a value, no one will reject that value even if it’s very small but if your PR has many changes and the feedback will take long time to report it to you than to do the task itself, probably you will not receive a feedback.
+If it’s not accepted without any comments, it means you failed to provide any value compared to the time needed to provide a feedback for you, therefore always do a PR which has small changes and learn how to provide small values first. Just think if you can really provide a value, no one will reject that value even if it’s very small but if your PR has many changes and the feedback will take long time to explain and report it to you than to do the task itself, probably you will not receive a feedback.
 E.g. if you correct a spelling mistake in few words or fix broken links and raise a PR, no one will reject that 😊
-So, again, always do a small PR and learn from the feedback for your mistakes.
 
-## What is needed to contributor to community?
+So, again, always do a small PR and learn from the feedback from your mistakes.
+
+## What is needed to contributor to the community?
 You need to learn the culture of the community, some of that as the following:
-- Honest and transparent.
+- Honest and transparent
 - Contributor vs. Consumer
 - Initiative and Proactive vs. reactive 
 - Actions vs. suggestions
