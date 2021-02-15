@@ -1,4 +1,4 @@
-# DevOps Step-Bye-Step Arabic FAQ and  Code of Conduct
+# FAQ and  Code of Conduct
 ## Contents
 - [Where I can ask questions?](#where-i-can-ask-questions)
 - [I am new. What I should do to join?](#i-am-new-what-i-should-do-to-join)
