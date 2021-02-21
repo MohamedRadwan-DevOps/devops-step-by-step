@@ -34,7 +34,7 @@ You just need to raise/open an issue with your question/problem on issues at the
 
 
 ## Is there any rules for writing our questions/issues?
-Yes, we have well-defined guidelines, please review them very well by watching the explanation in the 2nd session video by [clicking here](https://youtu.be/ci8c0GIqTDo?t=861), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/issues/2) 
+Yes, we have well-defined guidelines, please review them very well by watching the explanation in the 2nd session video by [clicking here](https://youtu.be/ci8c0GIqTDo?t=740), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/issues/2) 
 
 
 ## Where or how can I register?
