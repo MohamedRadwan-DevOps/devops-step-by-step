@@ -10,6 +10,7 @@
 - [Where can I find past and future sessions?](#where-can-i-find-past-and-future-sessions)
 - [Where can I find and download the presentations for the previous sessions?](#where-can-i-find-and-download-the-presentations-for-the-previous-sessions)
 - [I don't want to receive any invitation or emails anymore?](#i-dont-want-to-receive-any-invitation-or-emails-anymore)
+- [I have issue in the chat area during the session and I can't send message?](#i-have-issue-in-the-chat-area-during-the-session-and-i-cant-send-message)
 - [How to join the meeting?](#how-to-join-the-meeting)
 - [Do I need to install Microsoft Teams?](#do-i-need-to-install-microsoft-teams)
 - [I have an issue joining the meeting using MS Teams?](#i-have-an-issue-joining-the-meeting-using-ms-teams)
@@ -20,7 +21,7 @@
 - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
 - [What is needed to contributor to the community?](#what-is-needed-to-contributor-to-the-community)
 - [Can I ask any question regarding any subject outside the session topic?](#can-i-ask-any-question-regarding-any-subject-outside-the-session-topic)
-- [I have issue in the chat area during the session and I can't send message?](#i-have-issue-in-the-chat-area-during-the-session-and-i-cant-send-message)
+
 
 
 
@@ -33,7 +34,7 @@ You just need to raise/open an issue with your question/problem on issues at the
 
 
 ## Is there any rules for writing our questions/issues?
-Yes, we have well-defined guidelines, please review it either in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/issues/2) or watch the explanation in the 2nd session video.
+Yes, we have well-defined guidelines, please review them very well by watching the explanation in the 2nd session video by [clicking here](https://youtu.be/ci8c0GIqTDo?t=861), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/issues/2) 
 
 
 ## Where or how can I register?
@@ -146,7 +147,5 @@ No, you are only allowed to ask related questions to the discussed topics.
 Most of the questions will be at the end of the session, but you can ask a few questions during the session.
 
 
-## I have issue in the chat area during the session and I can't send message?
-I didn't disable the chat for anyone, most people have no issue, try to reconnect, if it's still not working, there is no option to do from my side.
 
 
