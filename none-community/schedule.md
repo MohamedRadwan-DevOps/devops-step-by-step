@@ -1,1 +1,1 @@
-## 1s round will start on Tuesday 1st February 2022 at 7:30 PM Egypt Time
+## 1s round will start on Tuesday 1st February 2022 at 08:00 PM Egypt Time
