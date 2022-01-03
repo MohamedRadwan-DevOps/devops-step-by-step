@@ -8,12 +8,14 @@ Module 1: Why DevOps and Digital Transformation
 
  - Digital Transformation 
  - Business and Technical Challenges
-
-Module 2: Understanding What is DevOps
-
  - What is DevOps? 
  - How DevOps can help 
  - Real Examples Before and After DevOps
+
+Module 2: Understanding What is DevOps
+- Build a small app
+- Understanding development components and quality factors
+- Manage source control
 
 Module 3: DevOps Architecture
 
@@ -30,7 +32,7 @@ Module 4: Understanding and Analyzing The Current Maturity of DevOps
 Module 5: Implementing DevOps Transformation
 
  - Visualization
- -  Measuring DevOps
+ - Measuring DevOps
  - Why Kanban is The Best for DevOps
  - Understanding the lead time and frequency of deployment
  - DevOps Implementation is Just Another Agile project
@@ -55,17 +57,22 @@ Module 7: Examples Of Different Practices Improvement in Several Areas
  - Improving Environments By Auto Provisioning Them and Implement Continuous Delivery 
  - Improving Release By Implementing Feature Flag....
 
-Module 8: Connecting User Feedback To SDLC For Wide DevOps Implementation
+Module 8: Team Collaboration and work tracking
 
- - Why Two Backlog
- - Connecting The Two Backlog
+ - Structuring Portfolio Management Elements
+ - Defining a Taxonomy And Structuring the Backlog
+ - Governance for Teams and Backlog management
+ - Build effective Dashboards
 
-Module 9: Tooling For DevOps
+Module 9: Define and Implement Continuous Integration
 
- - Why DevOps is better using Azure DevOps
- - How To Get Azure DevOps
+ - Characteristics of build automation 
+ - Implementing container strategy
+ - Managing code quality and security policies
+ - Designing a dependency management strategy 
 
-Module 10: How Cloud Can Help DevOps Transformation
-
- - Introduction To Microsoft Cloud Platform (Azure)
- - Azure and Azure DevOps
+Module 10: Define & Implement a Continuous Delivery & Release Management Strategy
+ - Design release strategy 
+ - Considerations and Understaining setting up Deployment stages
+ - Setup release management workflow
+ - Separating technical and functional release 
