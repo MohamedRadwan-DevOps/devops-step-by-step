@@ -67,6 +67,9 @@ Platform Engineer
 
 خلي بالك انا بأكد ان الكارد يكون كريدت كارد مش ديبيت كارد لان ممكن ماتعرفش تعمل الحساب لو كان ديبيت كارد.
 
+[See similar question on MS Support](https://docs.microsoft.com/en-us/answers/questions/433827/how-to-get-an-azure-account-without-credit-card.html)
+
+
 س١٣: هل هيكون في تطرق للAWS هل السوق محتاج لها اكتر؟
 
 ج١٣: لا مش هيكون فيه اي تطرق للتطبيق للAWS.
