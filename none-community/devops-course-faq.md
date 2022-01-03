@@ -116,3 +116,18 @@ Platform Engineer
 س٢٠: انا للاسف لسه متوفقتش واشتغلت فحضرتك تنصحني استغل الوقت ده في مذاكره ايه لحد ما الكورس يبدء ؟
 
 ج٢٠: اتفرج علي الفيديوهات بتاعتي عن الديف اوبس علي القناة العربي فيه Playlist ( ديف اوبس خطوة بخطوة) وعلي القناة الانجليزية بتاعتي اتفرج علي Playlist (Best Videos) الفيديوهات ديه هتفرق معاك جدا.
+
+
+س ٢١: ماهي متطلبات الجهاز اللي هنشتغل عليه؟
+
+ج٢١: 
+
+Processor (CPU): Intel Core i5 (sixth generation or newer) or equivalent
+
+Operating System: Microsoft Windows 10 Professional x64
+
+Memory 8/16 GB RAM
+
+Storage: 500 GB internal storage drive
+
+Internal or external Webcam (web came must be opened during all sessions)
