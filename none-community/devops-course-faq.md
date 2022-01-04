@@ -67,7 +67,7 @@ Platform Engineer
 
 خلي بالك انا بأكد ان الكارد يكون كريدت كارد مش ديبيت كارد لان ممكن ماتعرفش تعمل الحساب لو كان ديبيت كارد.
 
-[See similar question on MS Support](https://docs.microsoft.com/en-us/answers/questions/433827/how-to-get-an-azure-account-without-credit-card.html)
+[سؤال مشابهة لنفس الحالة والرد عليه](https://docs.microsoft.com/en-us/answers/questions/433827/how-to-get-an-azure-account-without-credit-card.html)
 
 
 س١٣: هل هيكون في تطرق للAWS هل السوق محتاج لها اكتر؟
@@ -134,3 +134,8 @@ Memory 8/16 GB RAM
 Storage: 500 GB internal storage drive
 
 Internal or external Webcam (web came must be opened during all sessions)
+
+
+س ٢٢: فيه اي حاجة تانية محتاج اعرفها عن الكورس؟
+
+ج ٢٢: محتاج تعرف ان الكورس عايز مجهود كبير وكل لما تركز وتتعب اكتر هتستفيد اكتر كمان لازم تعرف ان فيه تحضيرقوي  قبل كل محاضرة  لازم تعمله وبعد المحاضرة هيكون فيه اسينمت برده لازم تعمله 
