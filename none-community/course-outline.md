@@ -12,17 +12,22 @@ Module 1: Introduction to Agile and DevOps
 
 Module 2: Application Development Lifecyle in Action
  - Lesson 1: Developing an Application with Several options 
- - Lesson 2:Understanding Types of Applications and Their Workflow
+ - Lesson 2: Understanding Types of Applications and Their Workflow
+ - Lesson 3: Code Quality Verification in Action
+
 
 Module 3: Introduction to Cloud
-
- - Lessons to come
+ - Lesson 1: Overview of Cloud Computing Models
+ - Lesson 2: Examine Cloud Computing Models in Action
 
 Module 4: Tooling for DevOps
- - Lessons to come
+ - Lesson 1: DevOps Toolchain options
+ - Lesson 2: Azure DevOps Features and Capabilities 
  
 Module 5: Evolution of Computing Options
- - Lessons to come
+ - Lesson 1: Understanding Types of Computing
+ - Lesson 2: Virtual Machine (VM) VS. Container
+ - Lesson 3: Implementing Container Strategy 
  
 Module 6: Managing Version Control
  - Lessons to come
