@@ -1,4 +1,6 @@
 
+# Advanced Introduction to DevOps
+
 ## Course Outline
 
 Module 0: Course Overview
@@ -30,10 +32,15 @@ Module 5: Evolution of Computing Options
  - Lesson 3: Implementing Container Strategy 
  
 Module 6: Managing Version Control
- - Lessons to come
+- Lesson 1: Introduction to Source Control
+- Lesson 2: Working with Git
+- Lesson 3: Overview of Azure Repos
+- Lesson 4: Overview of GitHub
  
 Module 7: Defining and Implementing Continuous Integration
- - Lessons to come
+ - Lesson 1: Understanding Continuous Integration
+ - Lesson 2: Continuous Integration with Azure DevOps
+ - Lesson 3: Azure Pipeline Agent Configuration
  
 Module 8: Designing a Dependency Management Strategy
  - Lessons to come
@@ -58,9 +65,12 @@ Module 14: Digital Transformation and DevOps
  
 Module 15: Analyzing The Current Maturity of DevOps
  - Lessons to come
- 
-Module 16: Advanced Version Control
+
+Module 16: Applying Quality and Security for DevOps
  - Lessons to come
 
-Module 17: Docker in More Details 
+Module 17: Advanced Version Control
+ - Lessons to come
+
+Module 18: Docker in More Details 
  - Lessons to come
