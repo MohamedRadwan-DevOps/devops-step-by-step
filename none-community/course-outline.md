@@ -37,13 +37,15 @@ Module 6: Managing Version Control
 - Lesson 3: Overview of Azure Repos
 - Lesson 4: Overview of GitHub
  
-Module 7: Defining and Implementing Continuous Integration
+Module 7: Defining and Implementing Continuous Integration (CI)
  - Lesson 1: Understanding Continuous Integration
  - Lesson 2: Continuous Integration with Azure DevOps
  - Lesson 3: Azure Pipeline Agent Configuration
  
 Module 8: Designing a Dependency Management Strategy
- - Lessons to come
+ - Lesson 1: Introduction to Package Management
+ - Lesson 2: Overview of Dependency Management 
+ - Lesson 3: Integrating Packages in Build Pipeline
  
 Module 9: Defining and Implementing a Continuous Delivery & Release Strategy
  - Lessons to come
