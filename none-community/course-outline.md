@@ -47,6 +47,7 @@ Module 8: Designing a Dependency Management Strategy
  - Lesson 1: Introduction to Package Management
  - Lesson 2: Overview of Dependency Management 
  - Lesson 3: Integrating Packages in Build Pipeline
+ - Lesson 4: Managing Security and Access for Package Management
  
 Module 9: Defining and Implementing a Continuous Delivery & Release Strategy
  - Lesson 1: Understanding Continuous Delivery (CD)
@@ -59,25 +60,44 @@ Module 10: Managing Configuration Management for Infrastructure and Database
  - Lesson 2: Managing DB using Database Configuration Management (DCM)
  
 Module 11: Team Collaboration and Work Tracking
- - Lessons to come
+ - Lesson 1: Structuring Portfolio Management Elements
+ - Lesson 2: Agile Portfolio Management
+ - Lesson 3: Building Dashboard for All Project Levels
  
 Module 12: Examples Of Different Practices Improvement in Several Areas
- - Lessons to come
+ - Lesson 1: Improving Application Architecture
+ - Lesson 2: Improving Hosting Environment
+ - Lesson 3: Improving Backlog Structure and Size
+ - Lesson 4: Improving Backlog Realization By Providing Storyboard
+ - Lesson 5: Improving Release using Feature Flag & Deployment Rings
  
-Module 13: Monitoring
- - Lessons to come
+Module 13: Overview of SRE and Monitoring Practices
+ - Lesson 1: Introduction to Site Reliability Engineering (SRE)
+ - Lesson 2: Understanding Monitoring Practice 
  
 Module 14: Digital Transformation and DevOps
- - Lessons to come
+ - Lesson 1: Why Digital Transformation?
+ - Lesson 2: Realizing The Real Meaning of DevOps
  
-Module 15: Analyzing The Current Maturity of DevOps
- - Lessons to come
+Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation
+ - Lesson 1: Analyzing the Flow to Enhance The DevOps Maturity
+ - Lesson 2: Implementing DevOps Transformation
+ - Lesson 3: Agile and DevOps mindset
 
 Module 16: Applying Quality and Security for DevOps
- - Lessons to come
+ - Lesson 1: Managing Code Quality and Security Policies
+ - Lesson 2: Managing Security and Compliance
 
 Module 17: Advanced Version Control
- - Lessons to come
+ - Lesson 1: Understanding Git Basics
+ - Lesson 2: Git Branches
+ - Lesson 3: Understanding Git Merge
+ - Lesson 4: How to Deal with Merge Conflict
+ - Lesson 5: Understanding and Working with Pull Request (PR)
+ - Lesson 6: Understanding and Working with Fork
+ - Lesson 7: Overview Of Branch Policies and Protection
 
 Module 18: Docker in More Details 
- - Lessons to come
+ - Lesson 1: Getting Started with Docker
+ - Lesson 2: Understanding and Working with Docker Containers
+ - Lesson 3: Building Container Images from Docker Files
