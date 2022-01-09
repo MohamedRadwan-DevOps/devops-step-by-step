@@ -5,6 +5,7 @@
 
 Module 0: Course Overview
  - Welcome 
+ - Important Notes
  - Course Overview
 
 Module 1: Introduction to Agile and DevOps
@@ -16,7 +17,6 @@ Module 2: Application Development Lifecyle in Action
  - Lesson 1: Developing an Application with Several Options 
  - Lesson 2: Understanding Types of Applications and Their Workflow
  - Lesson 3: Code Quality Verification in Action
-
 
 Module 3: Introduction to Cloud
  - Lesson 1: Overview of Cloud Computing Models
