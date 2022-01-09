@@ -9,11 +9,11 @@ Module 0: Course Overview
 
 Module 1: Introduction to Agile and DevOps
  - Lesson 1: Waterfall vs. Agile 
- - Lesson 2: What is required to be aDevOps Engineer? 
+ - Lesson 2: What is Required to be a DevOps Engineer? 
  - Lesson 3: Understanding Lead Time and Frequency of Deployment
 
 Module 2: Application Development Lifecyle in Action
- - Lesson 1: Developing an Application with Several options 
+ - Lesson 1: Developing an Application with Several Options 
  - Lesson 2: Understanding Types of Applications and Their Workflow
  - Lesson 3: Code Quality Verification in Action
 
@@ -23,8 +23,9 @@ Module 3: Introduction to Cloud
  - Lesson 2: Examine Cloud Computing Models in Action
 
 Module 4: Tooling for DevOps
- - Lesson 1: DevOps Toolchain options
+ - Lesson 1: DevOps Toolchain Options
  - Lesson 2: Azure DevOps Features and Capabilities 
+ - Lesson 3: GitHub Features and Capabilities 
  
 Module 5: Evolution of Computing Options
  - Lesson 1: Understanding Types of Computing
@@ -48,10 +49,14 @@ Module 8: Designing a Dependency Management Strategy
  - Lesson 3: Integrating Packages in Build Pipeline
  
 Module 9: Defining and Implementing a Continuous Delivery & Release Strategy
- - Lessons to come
+ - Lesson 1: Understanding Continuous Delivery (CD)
+ - Lesson 2: Overview of Deployment Stages and Approval Process
+ - Lesson 3: Separating Functional Release from Technical Release 
+ - Lesson 4: Understanding Several Deployment Patterns
  
 Module 10: Managing Configuration Management for Infrastructure and Database
- - Lessons to come
+ - Lesson 1: Introduction to Configuration as Code (CaC)
+ - Lesson 2: Managing DB using Database Configuration Management (DCM)
  
 Module 11: Team Collaboration and Work Tracking
  - Lessons to come
