@@ -88,7 +88,7 @@ Module 16: Applying Quality and Security for DevOps
  - Lesson 1: Managing Code Quality and Security Policies
  - Lesson 2: Managing Security and Compliance
 
-Module 17: Advanced Version Control
+Module 17: Version Control in More Details 
  - Lesson 1: Understanding Git Basics
  - Lesson 2: Git Branches
  - Lesson 3: Understanding Git Merge
