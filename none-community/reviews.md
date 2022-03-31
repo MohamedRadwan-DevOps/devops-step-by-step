@@ -73,7 +73,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
-  # شهاب عوني - Senior Operation Engineer - قطر
+# شهاب عوني - Senior Operation Engineer - قطر
 
   > شهاب اتكلم فى الفيديو بتاعه على 3 نقاط اساسية
 
@@ -97,7 +97,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
-  # محمد مجدي - Quality Assurance in Customer Service - مصر
+# محمد مجدي - Quality Assurance in Customer Service - مصر
 
   > محمد شايف من الناس المشتركة فى الدفعة الاولى من الكورس ، وشايف ان مميزات الكورس ان المهندس محمد بيبتدى بال Basics لحد ما بيقدر يفهمك مجال ال DevOps بشكل كبير
   > كل محاضرة فى الكورس بتبقى مقسومة على جزئين ، الجزء النظري وبعدها الجزء العملى اللى بنطبق بيه على ال Tool عشان المعلومة نبقى طبقناها بادينا
