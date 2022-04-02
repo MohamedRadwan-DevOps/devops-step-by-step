@@ -37,7 +37,7 @@
 <a href="https://www.facebook.com/kareem.fathy.7">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>&ensp;
-   <a href="#">
+   <a href="https://www.linkedin.com/in/kareem-fathy-393ba853/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
@@ -96,6 +96,9 @@
 ### Connect with Shehab: &ensp;  <img src="https://i.ibb.co/bKP8TCS/266765110-10166083987715375-1370095315109788884-n.jpg" width="10%" height="10%" />
 <a href="https://www.facebook.com/Degoo.pop">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/shehabameen/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
 # محمد مجدي - Quality Assurance in Customer Service - مصر
@@ -114,7 +117,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
-#رحاب رجب - Backend Engineer - مصر
+# رحاب رجب - Backend Engineer - مصر
 
 > انا رحاب بشتغل باك اند ومن فتره كنت حابة ابدا اذاكر فى مجال الديف اوبس بس ما كنتش عارفه ابدأ ازاى او من فين شوفت كورس باشمهندس رضوان والحقيقه ما ترددتش لحظه انى اشترك لان انا كان لى سابق تجربة مع الباشمهندس فى برنامج المينتور وعارفه ان يمكن هاخد اكتر من توقعاتى كمان بكتير .
 
@@ -133,5 +136,23 @@
 
 ### Connect with Rehab
    <a href="https://www.linkedin.com/in/rehab-abotalep-04a22b19a/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  
+  
+# رامي رجب - DevOps Engineer - مصر
+
+> * لما حبيت أتعلم مجال ال DevOps، كان كله Self study ، مكانش في مسار واضح أتعلم منه، كنت تايه شوية وسط المصارد والكورسات الكثيرة الموجودة سواء على يوديمي أو يوتيوب، لحد ما مرة شفت البشمهندس محمد رضوان، بيدي سيشن مجاني لايف على يوتيوب بيشرح فيها Git، حضرتها وعجبني طريقة شرح البشمهندس وطريقة توصيله للمعلومة، فضلت متابع البشمهندس بعدها، لحد ما أعلن عن الكورس بتاعه. ومن غير تردد سجلت في الكورس. لأني قلت طالما هوا كان بيشرح كويس في السيشن المجاني، يبقى هيكون أجمد وعندي فرصة أسأل أكثر في الكورس.
+
+> * تعلمت من خلال الكورس، أن أنا أركز على فهم Concept أولاً، بعدها أنا أقدر أتعامل مع أي Tool عايزها. ده غير نظريته الي بيعلمهالك في تحديد الأولويات، ال Agile  وغيرها حجات كثير.
+
+> * ثقافة ال community، وإن أنا أستفيد من الزملاء الي معايا، الكلام ده كله كنت أعرف عنه نبذة بس فهمته أكثر وفهمت معناه في الكورس. ف أحب أشكرك يبشمهندس محمد.
+ 
+> * وزي كل حاجة بيكون ليها إيجابيات وسلبيات، فكان دايماً لو في سلبيات نلاقيها أو نقابلها في الكورس، فالبشمهندس محمد مستمع جيد جداً، ولو أي حاجة شايفين أنها أحسن لو اتعملت، البشمهندس بيشوف هنعملها ازاي وبتحصل.
+
+- [فيديو Rami's Review ](https://www.facebook.com/mradwandevops/videos/673536700647801 "Rami's Review")
+
+### Connect with Shehab:
+   <a href="https://www.linkedin.com/in/ramy-ragab/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
