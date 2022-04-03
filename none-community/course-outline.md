@@ -88,7 +88,7 @@ Module 16: Applying Quality and Security for DevOps
  - Lesson 1: Managing Code Quality and Security Policies
  - Lesson 2: Managing Security and Compliance
 
-Module 17: Advanced Version Control
+Module 17: Version Control in More Details 
  - Lesson 1: Understanding Git Basics
  - Lesson 2: Git Branches
  - Lesson 3: Understanding Git Merge
@@ -101,3 +101,9 @@ Module 18: Docker in More Details
  - Lesson 1: Getting Started with Docker
  - Lesson 2: Understanding and Working with Docker Containers
  - Lesson 3: Building Container Images from Docker Files
+
+Module 19: DevOps CV and Interpersonal Skills 
+ - Lesson 1: How to Create a Professional DevOps CV
+ - Lesson 2: Understanding Interpersonal Skills and How to pass the Interview
+
+ 
