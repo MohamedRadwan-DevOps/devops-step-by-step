@@ -214,3 +214,4 @@
    <a href="https://www.linkedin.com/in/aligamal-25/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
+  .
