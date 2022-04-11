@@ -34,7 +34,7 @@
   </a>
 
 
-## Thanks to all the contributors ❤️
+## Thanks to all our contributors ❤️
 <a href = "https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=MohamedRadwan-DevOps/DevOps-step-by-step-arabic"/>
 </a>
