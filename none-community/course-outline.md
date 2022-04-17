@@ -14,9 +14,11 @@ Module 1: Introduction to Agile and DevOps
  - Lesson 3: Understanding Lead Time and Frequency of Deployment
 
 Module 2: Application Development Lifecyle in Action
- - Lesson 1: Developing an Application with Several Options 
- - Lesson 2: Understanding Types of Applications and Their Workflow
- - Lesson 3: Code Quality Verification in Action
+ - Lesson 1: Introduction to Requirements Engineering and Backlog
+ - Lesson 2: Introduction to Virtual Machine (VM)
+ - Lesson 3: Developing an Application with Several Options
+ - Lesson 4: Understanding Types of Applications and Their Workflow
+ - Lesson 5: Code Quality Verification in Action
 
 Module 3: Introduction to Cloud
  - Lesson 1: Overview of Cloud Computing Models
@@ -88,7 +90,7 @@ Module 16: Applying Quality and Security for DevOps
  - Lesson 1: Managing Code Quality and Security Policies
  - Lesson 2: Managing Security and Compliance
 
-Module 17: Advanced Version Control
+Module 17: Version Control in More Details 
  - Lesson 1: Understanding Git Basics
  - Lesson 2: Git Branches
  - Lesson 3: Understanding Git Merge
