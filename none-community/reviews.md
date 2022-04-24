@@ -112,7 +112,7 @@
 
 - [فيديو Mohamed's Review ](https://www.facebook.com/mradwandevops/videos/500161098393584 "Mohamed's Review")
 
-### Connect with Mohamed: 
+### Connect with Mohamed: &ensp; <img src="https://i.ibb.co/fX6L3B5/Mohamed-Magdy-1.jpg" width="10%" height="40%" />
 <a href="https://www.facebook.com/Mohamed9Magdy">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
@@ -134,7 +134,7 @@
 
 >  اخر حاجه انا برشح الكورس ده لاى حد حابب يتعلم ديف اوبس وتايه أو اى حد تايه فى مجال السوفت وير عامة ومش عارف يحدد التراك الى يكمل فيه أدخل شوف هتعدى على مراحل الصناعة كلها وهتعرف ايه الى بيحصل فيها وهتشوف دماغك رايحه لفين أكتر وعامة كونك بتعدى على المراحل كلها فاكيد ده هيفرق معاك بشكل عام .
 
-### Connect with Rehab
+### Connect with Rehab &ensp;  <img src="https://i.ibb.co/YhCTwmk/Rehab-Ragab.jpg" width="10%" height="10%" />
    <a href="https://www.linkedin.com/in/rehab-abotalep-04a22b19a/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
@@ -152,7 +152,7 @@
 
 - [فيديو Rami's Review ](https://www.facebook.com/mradwandevops/videos/673536700647801 "Rami's Review")
 
-### Connect with Ramy:
+### Connect with Ramy: &ensp;  <img src="https://i.ibb.co/kcLzYSj/ramy.jpg" width="10%" height="10%" />
    <a href="https://www.linkedin.com/in/ramy-ragab/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
@@ -228,4 +228,34 @@
    وبتسأل اي سؤال انت عايزه وبيتم الإجابة عليه.
 
    - [فيديو Omar's Review ](https://www.facebook.com/100042445785173/videos/994532214769659/ "Omar's Review")
+
+
+   #  محمود السيد - Software Development Team Lead - الرياض
+
+> انا محمود السيد بشتغل تيم ليدر فى الرياض وحابب اعمل ريفيو عن كورس الباشمهندس محمد رضوان كورس الديف اوبس 
+هو مقدمة عن الديف اوبس طبعا هو مقدمة ولكن هو بيشرح كل شئ فى كل شئ
+
+> * بيعلمك ازاى تكتب كود وازاى تكتب Unit Test
+> * ازاى ترفع على Nuget
+> * ازاى تعمل CI/CD
+> * ازاى تتعامل مع Cloud
+> * ازاى تشتغل على Teraform
+> * ازاى تفهم اصلا تتعامل جوا تيم
+
+> وازاى تتعامل جوا تيم دى من أهم النقط الى الباشمهندس محمد موهوب فيها لان انت مش شغال لوحدك 
+ودى من ضمن المشاكل الى احنا كسينيورز وكليدز عندنا مشكله فى بعض الناس الى هو جاى يشتغل ومفكر انه بيشتغل لوحده
+لا انت شغال فى وسط تيم ونجاحك من نجاح التيم .
+
+> الباشمهندس مش بيدى بس  كورس تكنيكال لا دا بيديك خبره 20 سنه على طبق 
+> الى بيطلع من الكورس ده بيبقى مختلف ورؤيته مختلفه وطبعا الرؤية مهمةجدا ليه؟ لان احنا لما بندخل حاجة بنبقى باصين تحت رجلينا الباشمهندس محمد بيقولك لا ارفع رأسك فوق وبص لقدام وشوف انت هتكون فين.
+
+> الكورس ما شاء الله ممتاز وأى حاجة الباشمهندس محمد هيعملها هى ممتازة لانه ما شاء الله
+MVP لمدة عشر سنين على التوالى فى الديف اوبس والوحيد فى مصر والوطن العربى.
+
+- [فيديو Mahmoud's Review ](https://www.facebook.com/mradwandevops/videos/704816287374679/ "Mahmoud's Review")
+
+### Connect with Mahmoud &ensp;  <img src="https://i.ibb.co/6FcB1qX/Mahmoud-Elsayed.jpg" width="10%" height="10%" />
+   <a href="https://www.linkedin.com/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
    
