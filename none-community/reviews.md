@@ -252,6 +252,7 @@
 > الكورس ما شاء الله ممتاز وأى حاجة الباشمهندس محمد هيعملها هى ممتازة لانه ما شاء الله
 MVP لمدة عشر سنين على التوالى فى الديف اوبس والوحيد فى مصر والوطن العربى.
 
+- [فيديو Mahmoud's Review ](https://www.facebook.com/mradwandevops/videos/704816287374679/ "Mahmoud's Review")
 
 ### Connect with Mahmoud &ensp;  <img src="https://i.ibb.co/6FcB1qX/Mahmoud-Elsayed.jpg" width="10%" height="10%" />
    <a href="https://www.linkedin.com/">
