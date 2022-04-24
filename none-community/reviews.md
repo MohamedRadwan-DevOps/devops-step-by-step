@@ -112,7 +112,7 @@
 
 - [فيديو Mohamed's Review ](https://www.facebook.com/mradwandevops/videos/500161098393584 "Mohamed's Review")
 
-### Connect with Mohamed: 
+### Connect with Mohamed: &ensp; <img src="https://i.ibb.co/fX6L3B5/Mohamed-Magdy-1.jpg" width="10%" height="40%" />
 <a href="https://www.facebook.com/Mohamed9Magdy">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
@@ -134,7 +134,7 @@
 
 >  اخر حاجه انا برشح الكورس ده لاى حد حابب يتعلم ديف اوبس وتايه أو اى حد تايه فى مجال السوفت وير عامة ومش عارف يحدد التراك الى يكمل فيه أدخل شوف هتعدى على مراحل الصناعة كلها وهتعرف ايه الى بيحصل فيها وهتشوف دماغك رايحه لفين أكتر وعامة كونك بتعدى على المراحل كلها فاكيد ده هيفرق معاك بشكل عام .
 
-### Connect with Rehab
+### Connect with Rehab &ensp;  <img src="https://i.ibb.co/YhCTwmk/Rehab-Ragab.jpg" width="10%" height="10%" />
    <a href="https://www.linkedin.com/in/rehab-abotalep-04a22b19a/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
@@ -152,7 +152,7 @@
 
 - [فيديو Rami's Review ](https://www.facebook.com/mradwandevops/videos/673536700647801 "Rami's Review")
 
-### Connect with Ramy:
+### Connect with Ramy: &ensp;  <img src="https://i.ibb.co/kcLzYSj/ramy.jpg" width="10%" height="10%" />
    <a href="https://www.linkedin.com/in/ramy-ragab/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
