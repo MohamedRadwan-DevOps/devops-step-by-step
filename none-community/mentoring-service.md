@@ -1,24 +1,28 @@
-# Mentoring Service: 
+<div dir="rtl">
 
-**The service will include the following benefits:**
+# خدمة المينتور:
 
-- Sharing incoming job offers with members, and nominating them.
-- Any number of questions on Stack-Overflow with a guaranteed high-quality answer for the issues/questions.
-- A monthly session to review and improve CVs, answer any previously sent questions, and other questions in the end. 
-- 2 Tickets support per month which will include a remote session using Teamviewer with one of the team or Mohamed Radwan if needed.
-- Attending the tickets support session with other members to get more experience about other members' issues and how to solve them.
-- Attending the same course after new features for free with the next rounds as needed. 
-- 10-20% discount for other courses.
-- Mocking interviews (in the future).
-- Role-playing scenarios for soft skills in multinational companies (in the future).
+**تشمل هذه الخدمة المزايا التالية:**
+
+- مشاركة عروض العمل الوارده مع الاعضاء وترشيحهم لها.
+- أى عدد من الاسئله على ستاك اوفر فلو مع ضمان اجابة عالية الجوده للمشكلات / الاسئله.
+- جلسة شهرية لمراجعة السير الذاتية وتحسينها والإجابة على أي أسئلة سبق إرسالها وأسئلة أخرى في نهاية الجلسة. 
+- دعم بتذكرتين شهريًا والتي ستتضمن جلسة عن بعد باستخدام برنامج TeamViewer مع أحد أعضاء الفريق أو محمد رضوان إذا لزم الأمر.
+- حضور جلسة دعم التذاكر مع الاعضاءالاخرين للحصول على المزيد من الخبرة حول مشكلات الاعضاءالاخرين وكيفية حلها.
+- حضور نفس الدورة التدريبية بعد الميزات الجديدة مجانًا مع الدفعات التالية حسب الحاجة. 
+- 10-20٪ خصم للدورات الأخرى
+- مقابلات وهمية (Mocking Interviews) (فى المستقبل).
+- سيناريوهات اداء وتمثيل الأدوار للمهارات الشخصية في الشركات متعددة الجنسيات (فى المستقبل).
 
 
-**Conditions:**
+**الشروط:**
 
-- Mentor program only for people who have already taken the course. 
-- The annual membership cost per month is 300 EGP + 100 EGP Stack-Overflow license.
-- The annual membership can be paid in 3 installments every 4 months.
-- The monthly membership cost is 400 EGP + 100 EGP Stack-Overflow license.
-- Joining fee is 400 EGP.
-- Joining fee is free for course members if they join immediately after the course (1-week allowance).
-- Annual membership will save members from price increases in the future.
+- برنامج المينتور فقط  للأشخاص الذين سبق لهم الالتحاق بالدورة. 
+- تكلفة الاشتراك السنوى 300 جنيه مصرى + ترخيص ستاك اوفر فلو 100 جنيه مصرى.
+- يمكن سداد الاشتراك السنوى على 3 أقساط كل 4 شهور.
+- تكلفة الاشتراك الشهرى 400 جنيه مصرى + ترخيص ستاك اوفر فلو 100 جنيه مصرى.
+- رسوم الانضمام 400 جنيه مصري.
+-رسوم الانضمام مجانية لأعضاء الدورة إذا انضموا مباشرة بعد الدورة (فتره سماح أسبوع واحد).
+- ستعفى العضوية السنوية الأعضاء من ارتفاع الأسعار في المستقبل.
+
+</div>
