@@ -255,7 +255,7 @@ MVP لمدة عشر سنين على التوالى فى الديف اوبس وا
 - [فيديو Mahmoud's Review ](https://www.facebook.com/mradwandevops/videos/704816287374679/ "Mahmoud's Review")
 
 ### Connect with Mahmoud &ensp;  <img src="https://i.ibb.co/6FcB1qX/Mahmoud-Elsayed.jpg" width="10%" height="10%" />
-   <a href="https://www.linkedin.com/">
+   <a href="https://www.linkedin.com/in/mahmoud-mohamed-elsayed-4b0b84a8">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
    
@@ -277,5 +277,35 @@ MVP لمدة عشر سنين على التوالى فى الديف اوبس وا
 
 ### Connect with Muhammed  &ensp;  <img src="https://i.ibb.co/FWyVH4p/1641566676578.jpg" width="10%" height="10%" />
    <a href="https://www.linkedin.com/in/muhammed-eid-b81008b4/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+
+
+# عمر محمد - Backend Engineer - العراق 
+
+> انا عمر محمد من بغداد العراق بشتغل باك اند وكنت حابب اعمل شيفت كارير لمجال الديف اوبس لكن الى كان موقفنى
+كثره المصادر الى بتخليك تتشتت وما تتخذ قرار انه تعمل شيفت لانه تخاف انه يضيع وقت وبدون فائده
+لكن شوفت كورس الباشمهندس محمد رضوان شفته انسب شئ لانه على حسب خبرته الى هى اكثر من عشرين سنه وخبرته اصلا مع شركات عالميه دا الى خلانى اخد الخطوة انى اشترك معاه .
+
+> طبعا الدورة هى من افضل الدورات الى انا حضرتها بالديف اوبس لانى كنت داخل بفكره اصلا عن الديف اوبس وخرجت بفكره 
+تانيه الى هى الفكرة الصحيحه لان الى اخدناه مش مجرد ادوات وانما بيعطيك المفهوم كامل
+
+> من أهم النقاط بالدورة
+
+>* الكوميونتى المتمثله فى ستاك اوفر فلو وازاى تسأل سؤال وازاى تاخد المعلومة بشكل صحيح
+>* احنا ما اتعلمناش بس ديف اوبس وانما اتعلمنا اوامر اخرى مثل السوفت سكيلز وأهمها ترتيب الاولويات
+>* محاضرة عن ازاى تكتب السى فى بشكل صحيح
+
+
+> نصيحتى الكل يشترك فى الكورس لان انا عن نفسى منتظر الدورات المتقدمة الى هتنزل لانها هتنقلك نقلة نوعيه وتكون من ابرز الاشخاص بمجال الديف اوبس
+
+- [فيديو Omar's Review ](https://www.facebook.com/mradwandevops/videos/4807529462706358/ "Omar's Review")
+
+### Connect with Omar : &ensp;  <img src="https://i.ibb.co/W5FhB6v/omar-mohamed.jpg" width="10%"/> 
+
+<a href="https://m.facebook.com/OmarGxr">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/omar-muhammed-omar">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
