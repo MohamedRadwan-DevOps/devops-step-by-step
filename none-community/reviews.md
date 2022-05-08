@@ -116,6 +116,9 @@
 <a href="https://www.facebook.com/Mohamed9Magdy">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
+     <a href="https://www.linkedin.com/in/mohamed-magdy-598934107">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
 
 # رحاب رجب - Backend Engineer - مصر
 
