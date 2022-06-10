@@ -11,6 +11,16 @@
 
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/reviews.md" title="Click here to See Members Reviews" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⭐ Reviews</a>
 
+- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Schedule</a>
+
+- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/service-prices.md" title="Service Prices" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💰 Prices</a>
+
+- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/terms-conditions.md" title="Terms & Conditions" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Terms Conditions</a>
+
+- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/cancel-return-policy.md" title="Return Policy" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📜 Return Policy</a>
+
+- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/mentoring-service.md" title="Mentoring Service" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💪 Mentoring Service</a>
+
 
 ## Connect with me
   <a href="https://twitter.com/mradwan06">
