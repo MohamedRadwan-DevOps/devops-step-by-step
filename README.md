@@ -2,8 +2,6 @@
 
 ![DevOps Step-by-step Arabic](https://socialify.git.ci/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/image?description=1&descriptionEditable=Here%20you%20will%20find%20All%20the%20Info%20you%20might%20need%20to%20know%20about%20the%20DevOps%20Course%20I%20teach.&font=Inter&forks=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
 
-- <a href="https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel </a>
-
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/devops-course-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ FAQ</a>
@@ -12,16 +10,17 @@
 
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/reviews.md" title="Click here to See Members Reviews" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⭐ Reviews</a>
 
-- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Schedule</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Schedule</a>
 
-- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/service-prices.md" title="Service Prices" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💰 Prices</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/service-prices.md" title="Service Prices" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💰 Prices</a>
 
-- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/terms-conditions.md" title="Terms & Conditions" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Terms Conditions</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/terms-conditions.md" title="Terms & Conditions" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Terms & Conditions</a>
 
-- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/cancel-return-policy.md" title="Return Policy" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📜 Return Policy</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/cancel-return-policy.md" title="Return Policy" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📜 Return Policy</a>
 
-- <a href="https://github.com/RehabAbotalep/DevOps-step-by-step-arabic/blob/main/none-community/mentoring-service.md" title="Mentoring Service" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💪 Mentoring Service</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/mentoring-service.md" title="Mentoring Service" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💪 Mentoring Service</a>
 
+- <a href="https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel </a>
 
 ## Connect with me
   <a href="https://twitter.com/mradwan06">
