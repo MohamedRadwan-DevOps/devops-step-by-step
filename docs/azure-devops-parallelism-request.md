@@ -1,10 +1,6 @@
 # Request a free Azure DevOps Parallelism Grant
 
-Microsoft has temporarily disabled the free grant of parallel jobs for public projects and for certain private projects in new organizations. However, you can request this grant by submitting a request.
-
-Here are the steps of requesting a free Azure DevOps parallelism grant.
-
-1- For a new Azure DevOps Organization your first build pipeline will fail
+1- For your new Azure DevOps Organization your first build pipeline will fail, as Microsoft has temporarily disabled the free grant of parallel jobs for public projects and for certain private projects in new organizations.
 
 ![](images/azure-devops-parallelism-request/pipeline-run-error-1.png)
 
