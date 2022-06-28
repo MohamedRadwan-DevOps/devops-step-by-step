@@ -14,14 +14,14 @@ Here are the steps of requesting a free Azure DevOps parallelism grant.
 
 2- You need to request a free Azure DevOps parallelism grant.
 
-3- Visit this <a href="https://aka.ms/azpipelines-parallelism-request" target="_blank">Link</a> 
+3- Visit this [Link](https://aka.ms/azpipelines-parallelism-request){:target="_blank"}
 
 4- Fill out the following form 
 
 ![](images/azure-devops-parallelism-request/parallelism-request-form.png)
 
 **Note:** Your organization name in the Organization name field must be a link format like this 
-https://dev.azure.com/$(yourorganizationname) or https://$(yourorganizationname).visualstudio.com
+https://yourorganization.visualstudio.com or https://dev.azure.com/yourorganization 
 
 5- Your form submitted successfully
 
