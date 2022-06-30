@@ -134,14 +134,12 @@
 
  - **Demo 1: Create an Azure Subscription Free account.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
-
+    In this demo you will learn and understand the steps to setting up a free 3-month Windows Azure trial subscription.
 
  - **Demo 2: Create Ubuntu on Azure and connect to it using SSH and remote desktop.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to create and use secure shell (SSH) keys to connect to Linux virtual machines (VMs) in Azure.
+    Also, you will learn how to generate and store SSH keys in the Azure portal to use when creating VMs in the portal and configure a desktop environment and remote       desktop for your Linux VM running Ubuntu.
 
  - **Demo 3: Exploring cloud flexibility and scalability by adding/removing resources to VM .**
  
