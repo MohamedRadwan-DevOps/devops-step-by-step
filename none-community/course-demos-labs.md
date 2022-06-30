@@ -1,7 +1,7 @@
 
 # Advanced Introduction to DevOps
 
-## Course Demos/Labs (83 Demos)
+## Course Demos/Labs (83 Demos/Labs)
 
 ### **Module 1: Introduction to Agile and DevOps**
 
@@ -260,34 +260,34 @@
  
 ### **Module 7: Defining and Implementing Continuous Integration (CI)**
 
-|  **Demo 1: Create a CI for class library.** | (Free session) |
+|  **Demo 1: Create and configure Continuous Integration (CI) pipeline for a .NET class library.** | Free session |
 | :---| --- |
 | In this demo you will learn and understand how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc. You will also learn how to sit code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo. Also, you will learn how to create package management of the class library and to be ready to be pushed to public or private feeds. |  |
 
 
- - **Demo 2: Create a CI for API.**
+ - **Demo 2: Create and configure Continuous Integration (CI) pipeline for API.**
  
     In this demo you will learn and understand how 
     Also, you will learn and 
 
- - **Demo 3: Hosted agent vs self-hosted agent and run self-hosted to examine build folder.**
+ - **Demo 3: Build hosted agent vs self-hosted agent and run self-hosted to examine build folder.**
  
     In this demo you will learn and understand how 
     Also, you will learn and
 
 
- - **Demo 4: Use YAML CI.**
+ - **Demo 4: Use YAML over classic Continuous Integration (CI).**
  
     In this demo you will learn and understand how 
     Also, you will learn and 
 
- - **Demo 5: Create a CI for .NET core app on docker image.**
+ - **Demo 5: Create and configure Continuous Integration (CI) for .NET core app on docker image.**
  
     In this demo you will learn and understand how 
     Also, you will learn and
 
 
- - **Demo 6: Create a CI for PartsUnlimited App.**
+ - **Demo 6: Create and configure Continuous Integration (CI) for PartsUnlimited App.**
  
     In this demo you will learn and understand how 
     Also, you will learn and 
@@ -397,7 +397,7 @@
     In this demo you will learn and understand how 
     Also, you will learn and
 
-|  **Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.** | (Free session) |
+|  **Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.** | Free session |
 | :---| --- |
 | In this demo you will learn and understand how to create an Azure repo and how to push the code to the remote repo, create and configure a Continuous Integration (CI) pipeline that will build/test the application and the infrastructure as code as well. Also, you will learn and understand how to create two packages, the application package which includes all the app code like CSS, HTML, java-scripts, etc, and the infra package which includes all the terraform code of the environment on Azure. After that you will learn how to push and store the two packages to Azure artifacts, then create and configure a Continuous Deployment (CD) pipeline that picks the packages from the artifacts, after that it will provision App service on Azure, Azure SQL Server and Database using the infra package, and in the end, deploy the app package to the provisioned environment. |  |
 
@@ -525,4 +525,4 @@
 
  - **Demo 1: Examine more than 10 real professional CVs that passed the screening and they have been accepted.**
 
-    In this demo you will learn and understand some real CVs with no names either for the person or the company, but they passed the screening phase and the interview in more than one big company.
+    In this demo you will learn and understand how to write your CV based on some real CVs with no names either for the person or the company, but they passed the screening phase and the interview for more than one big company.
