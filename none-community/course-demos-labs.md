@@ -251,10 +251,10 @@
 
  
 ### **Module 7: Defining and Implementing Continuous Integration (CI)**
-| |  |
-| :---         |     :---:      |
-| **Demo 1: Create a CI for class library.**   | (Free session)     |
-| In this demo you will learn and how create Continuous Integration pipeline that check for all code quality criteria like automated testing, code coverage and how to sit code coverage threshold to make sure your code has the minimum quality to accepted in the remote repo. Also, you will learn how to create a package management of the class library and to be ready to push this package to public or private feeds.     |        |
+
+|  **Demo 1: Create a CI for class library.** | (Free session) |
+| :---| --- |
+| In this demo you will learn and understand how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc. You will also learn how to sit code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo. Also, you will learn how to create package management of the class library and to be ready to be pushed to public or private feeds. |  |
 
 
  - **Demo 2: Create a CI for API.**
@@ -389,12 +389,9 @@
     In this demo you will learn and understand how 
     Also, you will learn and
 
-| |  |
-| :---         |     :---:      |
-| **Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.**   | (Free session)     |
-|In this demo you will learn and understandhow to create Azure repo and how to push the code to the remote repo, create and configure a Continuous Integration pipeline that will build/test the application and the infrastructure as code as well.
-Also, you will learn and understand how to create two packages, the application package which includes all the app code like CSS, HTML, java-scripts, etc, and the infra package which includes all the terraform code of the environment on Azure.
-After that you will learn how to push and store the two packages to Azure artifacts, then create and configure a Continuous Deployment pipeline that picks the packages from the artifacts, after that it will provision App service on Azure, Azure SQL Server and Database using the infra package, and in the end, deploy the app package to the provisioned environment.     |        |
+|  **Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.** | (Free session) |
+| :---| --- |
+| In this demo you will learn and understand how to create an Azure repo and how to push the code to the remote repo, create and configure a Continuous Integration (CI) pipeline that will build/test the application and the infrastructure as code as well. Also, you will learn and understand how to create two packages, the application package which includes all the app code like CSS, HTML, java-scripts, etc, and the infra package which includes all the terraform code of the environment on Azure. After that you will learn how to push and store the two packages to Azure artifacts, then create and configure a Continuous Deployment (CD) pipeline that picks the packages from the artifacts, after that it will provision App service on Azure, Azure SQL Server and Database using the infra package, and in the end, deploy the app package to the provisioned environment. |  |
 
 ### **Module 11: Team Collaboration and Work Tracking**
 
