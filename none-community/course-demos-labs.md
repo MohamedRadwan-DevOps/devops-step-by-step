@@ -3,6 +3,10 @@
 
 ## Course Demos/Labs (83 Demos)
 
+### **Module 1: Introduction to Agile and DevOps**
+
+  - **No Demos**
+
 ### **Module 2: Application Development Lifecyle in Action**
  - **Demo 1: Examine SRS vs. Well-structured Backlog items (Epic, Features, PBIs).**
  
