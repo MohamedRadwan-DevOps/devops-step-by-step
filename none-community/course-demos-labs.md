@@ -42,44 +42,44 @@
 
  - **Demo 6: Create a Console App for calc (Average, Largest, Smallest).**
  
-    In this demo you will learn how to create a Console app with the logic inside of it and understand how to publish and manage the code.
+    In this demo you will learn how to create a Console app with the logic inside of it and understand how to publish and manage the app.
 		
-    Also, you will learn Software Architecture and Dependency Managment, and thier impact on your code.
+    Also, you will learn Software Architecture and Dependency Managment, and thier impact on your app.
 
  - **Demo 7: Create a Desktop App for calc (Average, Largest, Smallest).**
  
-    In this demo you will learn how to create a Desktop app with logic inside of it and understand how publish and manage the code.
+    In this demo you will learn how to create a Desktop app with logic inside of it and understand how publish and manage the app.
 		
-    Also, you will learn Software Architecture and Dependency Managment, and thier impact on your code.
+    Also, you will learn Software Architecture and Dependency Managment, and thier impact on your app.
 
  - **Demo 8: Create an API App for calc (Average, Largest, Smallest).**
  
     In this demo you will learn how to create API App with logic inside of it and understand how publish an API app, and how to call the API.
 		
-    Also, you will learn Software Architecture and how APIs can modularize your code.
+    Also, you will learn Software Architecture and how APIs can modularize your app.
 
  - **Demo 9: Create a Class Library for Calc (Average, Largest, Smallest)- amend the console app to use it.**
  
     In this demo you will learn how to create a Class Library which contains the logic and understand the basic concepts of DLLs. 
 		
-    Also, you will learn how DLL can make separate the logic from the app and how to publish your code.
+    Also, you will learn how DLL can make separate the logic from the app and how to publish your app.
 
 
  - **Demo 10: Amend the API App to use the Class Library.**
  
     In this demo you will learn to use the Class Library to seperate the logic from the app and understand how DLLs can make your code flexible and efficient.
 		
-    Also, you will learn how Dependency Management is handled and how to add the DLL to the code.
+    Also, you will learn how Dependency Management is handled and how to add the DLL to the app.
 
  - **Demo 11: Amend the Console App to use the API.**
  
-    In this demo you will learn to use the Class Library to seperate the logic from the app and understand how DLLs can improve your code.
+    In this demo you will learn to use the Class Library to seperate the logic from the app and understand how DLLs can improve your app.
 		
-    Also, you will learn Dependency Management is handled and how to add the DLL to the code. 
+    Also, you will learn Dependency Management is handled and how to add the DLL to the app. 
 
  - **Demo 12: Amend the Desktop App to use the API.**
  
-    In this demo you will learn to use the Class Library to seperate the logic from the app and understand how DLLs can improve your code.
+    In this demo you will learn to use the Class Library to seperate the logic from the app and understand how DLLs can improve your app.
 		
     Also, you will learn Dependency Management is handled and how to add the DLL to the app.
 
