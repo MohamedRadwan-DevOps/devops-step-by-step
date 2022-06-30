@@ -12,13 +12,13 @@
  
     In this demo you will learn and understand the different between the old requirements engineering  and the modern requirements engineering process and tools.
     
-    Also, you will learn and understandhow organization can structure their requirements in a very well-structured product backlog to help them manage their software delivery in an effective way.
+    Also, you will learn and understand how organization can structure their requirements in a very well-structured product backlog to help them manage their software delivery in an effective way.
  
   - **Demo 2: Create and examine Windows 11 VM (created) from gallery.**
  
     In this demo you will learn and understand how to configure your machine to work with virtual machine and how to download and configure Windows 11 VM from the cloud gallery.
 
-    Also, you will learn and understandthe main configuration and settings of the virtual machine like virtual CPU, virtual RAM, virtual HDD, etc. And how to create snapshots and manage them effectively. 
+    Also, you will learn and understand the main configuration and settings of the virtual machine like virtual CPU, virtual RAM, virtual HDD, etc. And how to create snapshots and manage them effectively. 
 
 
  - **Demo 3: Create and examine Ubuntu 20.04 VM (created) from gallery.**
@@ -36,8 +36,8 @@
 
  - **Demo 5: Create Windows 10 from ISO file.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to use the media creation tool to create an ISO file to install Windows 10.
+    Also, you will learn and examine the installed Windows environment
 
 
  - **Demo 6: Create a Console App for calc (Average, Largest, Smallest).**
