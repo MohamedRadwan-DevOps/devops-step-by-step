@@ -62,7 +62,7 @@
  
     In this demo you will learn how to create a Class Library which contains the logic and understand the basic concepts of DLLs. 
 		
-    Also, you will learn how DLL can make separate the logic from the app and how to publish your app.
+    Also, you will learn how DLL can make separate the logic from the app and how to publish your Class Library.
 
 
  - **Demo 10: Amend the API App to use the Class Library.**
