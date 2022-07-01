@@ -197,14 +197,14 @@
 
  - **Demo 1: Install-uninstall Docker on Ubuntu on HV and create some containers.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand the steps to install Docker on Ubuntu on HV and create some containers.
+    Also, you will learn how to uninstall the installed container.
 
 
  - **Demo 2: Run a .NET core app container from GitHub on Ubuntu.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to run a .NET core app containers on Ubuntu from GitHub.
+    Also, you will learn and how to know information about the running app.
 
 
  
