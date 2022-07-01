@@ -7,7 +7,7 @@
 
   - **No Demos**
 
-### **Module 2: Application Development Lifecyle in Action**
+### **Module 2: Application Development Lifecycle in Action**
  - **Demo 1: Examine SRS vs. Well-structured Backlog items (Epic, Features, PBIs).**
  
     In this demo you will learn and understand the different between the old requirements engineering  and the modern requirements engineering process and tools.
@@ -44,13 +44,13 @@
  
     In this demo you will learn how to create a Console app with the logic inside of it and understand how to publish and manage the app.
 		
-    Also, you will learn Software Architecture and Dependency Managment, and thier impact on your app.
+    Also, you will learn Software Architecture and Dependency Management, and their impact on your app.
 
  - **Demo 7: Create a Desktop App for calc (Average, Largest, Smallest).**
  
     In this demo you will learn how to create a Desktop app with logic inside of it and understand how publish and manage the app.
 		
-    Also, you will learn Software Architecture and Dependency Managment, and thier impact on your app.
+    Also, you will learn Software Architecture and Dependency Management, and their impact on your app.
 
  - **Demo 8: Create an API App for calc (Average, Largest, Smallest).**
  
@@ -67,19 +67,19 @@
 
  - **Demo 10: Amend the API App to use the Class Library.**
  
-    In this demo you will learn to use the Class Library to seperate the logic from the app and understand how DLLs can make your code flexible and efficient.
+    In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can make your code flexible and efficient.
 		
     Also, you will learn how Dependency Management is handled and how to add the DLL to the app.
 
  - **Demo 11: Amend the Console App to use the API.**
  
-    In this demo you will learn to use the Class Library to seperate the logic from the app and understand how DLLs can improve your app.
+    In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can improve your app.
 		
     Also, you will learn Dependency Management is handled and how to add the DLL to the app. 
 
  - **Demo 12: Amend the Desktop App to use the API.**
  
-    In this demo you will learn to use the Class Library to seperate the logic from the app and understand how DLLs can improve your app.
+    In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can improve your app.
 		
     Also, you will learn Dependency Management is handled and how to add the DLL to the app.
 
@@ -87,7 +87,7 @@
  
     In this demo you will learn how to Create a 2nd API app and understand how to call the 1st API from the 2nd API. 
 		
-    Also, you will learn how Modern Software Architecture can make improve your code by introducing modulariztion versus old monolithic application. 
+    Also, you will learn how Modern Software Architecture can make improve your code by introducing modularization versus old monolithic application. 
 
  - **Demo 14: Examine Several API requests and well form the JSON return.**
  
@@ -213,47 +213,50 @@
 
  - **Demo 1: Examine a History of repo on GitHub.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to get the history of all the actions made on a git repo.
+    Also, you will learn how to go to a certain commit from the history and make it the current head.
 
 
  - **Demo 2: Install Git on Windows and Ubuntu.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to install git on a Windows machine.
+    Also, you will learn how to install git on Ubuntu machine.
+
 
  - **Demo 3: Hand-typed text files Vs. Generated text files.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to auto generate text files using command line interface or GUI.
+    Also, you will learn the difference between hand-typed text files and the generated text files.
 
 
  - **Demo 4: Use git as a local repo (config, init, commit, etc).**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to deal with your local repo and use git commands to configure your repo and initialize git on it.
+    Also, you will learn how to commit your changes to keep track of your work locally or publish them to the remote repo.
+
 
  - **Demo 5: Use git as a remote repo from the local one (clone, pull, push, etc) Azure Repo.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn how to use version control to sync your local repo with the remote repo, and understand how git technology works.
+    Also, you will learn how to use the git commands (clone, pull, push, etc) and keep your work updated with your teammates work.
 
 
  - **Demo 6: Use git remote repo with GitHub.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to use Github to create a remote repo.
+    Also, you will learn how your local and remote repos can be connected together through git version control.
+
 
  - **Demo 7: Work with git using IDE (Visual Studio) to interact with Azure Repo and GitH.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to use Visual Studio Code -an example of a popular IDE- to interact with your remote repo on Github and Azure Repo.
+    Also, you will learn and see how you can keep your local repo synced with the remote one.
 
 
  - **Demo 8: Work with git using IDE (VS Code) to interact with Azure Repo.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how actions can be made on Azure Repo from your machine through VS Code terminal.
+    Also, you will learn how to create a new branch, pull from remote repo and push your changes to it. 
 
 
 
@@ -331,7 +334,7 @@
 
  - **Demo 7: Package and publish a .NET Docker image to Docker Hub.**
  
-    In this demo you will learn and understandhow 
+    In this demo you will learn and understand how 
     Also, you will learn and
 
 
