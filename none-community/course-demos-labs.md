@@ -120,7 +120,7 @@
 
  - **Demo 19: Create Unit test for the class library.**
  
-    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library, you will learn the triple A method (Arrange Act Assert method) to measure the code cverage and to know if the business logic is returning the targeted values.
+    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library, you will learn the triple A (Arrange, Act, Assert) testing method to measure the code cverage and to know if the business logic is returning the targeted values.
     
     Also, you will learn the difference between the Static Analysis and Dynamic Analysis and know the components of Unit test and how to create it.
 
@@ -406,7 +406,7 @@
     Also, you will learn and
 
 
- - **Demo 2: Provision infrastructure (Web App on Azure) using Terraform andAzure Pipeline.**
+ - **Demo 2: Provision infrastructure (Web App on Azure) using Terraform and Azure Pipeline.**
  
     In this demo you will learn and understand how 
     Also, you will learn and 
