@@ -182,19 +182,22 @@
 
  - **Demo 1: Examine Azure DevOps docs, create org and examine all services.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to create an Azure DevOps account, how to create your first organization, and a look at Azure DevOps available docs.
+    
+    Also, you will learn about the available services and features that Azure DevOps provide over other CI/CD platforms.
 
 
  - **Demo 2: Using Azure DevOps API to create items through Postman and Azure DevOps CLI.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how install Postman and create items through it, how to install Azure DevOps CLI and create items through it.
+    
+    Also, you will learn how creating items through Postman and Azure DevOps CLI differ from one another. 
 
  - **Demo 3: Use Demo generator to generate several projects and examine them.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how generate Demo projects in Azure DevOps, that contain items in different stages.
+    
+    Also, you will learn how to process certain items in different stages and how monitoring Azure DevOps makes it easier to manage your pipelines.
 
 
 
