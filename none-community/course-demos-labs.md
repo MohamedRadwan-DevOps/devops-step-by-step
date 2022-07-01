@@ -114,12 +114,15 @@
 
  - **Demo 18: Replace the class library in the API with the nuget package library.**
  
-    In this demo you will learn and understand how to remove the class library that added to the API by legacy way and replacing it with the package that will be downloaded from the NuGet package management. Also, you will learn the difference between Modern Engineering and Legacy Way, and how to delete the package and restore it to the application before building.
+    In this demo you will learn and understand how to remove the class library that contained the logic in the API app and replace it with the package that was uploaded to NuGet package management.
+    
+    Also, you will learn the difference between Modern Software Archiecture and Software Archiecture, and how to delete the package and restore it to the application before building.
 
  - **Demo 19: Create Unit test for the class library.**
  
-    In this demo you will learn and understand how to add a Unit test project to the Calc Class library to know if the business logic for the Class library working  
-    properly or not Also, you will learn the difference between the Static Analysis and Dynamic Analysis and know the components of Unit test and how to create it.
+    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library, you will learn the triple A method (Arrange Act Assert method) to measure the code cverage and to know if the business logic is returning the targeted values.
+    
+    Also, you will learn the difference between the Static Analysis and Dynamic Analysis and know the components of Unit test and how to create it.
 
  - **Demo 20: Explain and examine code coverage, code metrics.**
  
@@ -289,30 +292,35 @@
 
  - **Demo 2: Create and configure Continuous Integration (CI) pipeline for API.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to perform Continuous Integration (CI), the case behind developing CI pipelines, and how it improves the overall software development lifecycle.
+    
+    Also, you will learn how to use Azure DevOps to deploy a CI pipeline and how to implement a CI Strategy. 
 
  - **Demo 3: Build hosted agent vs self-hosted agent and run self-hosted to examine build folder.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn the difference between hosted agents vs a self hosted agent and understand how run a self hosted agent to perform CI.
+    
+    Also, you will learn the benefits of each approach and the use case for each of them.
 
 
  - **Demo 4: Use YAML over classic Continuous Integration (CI).**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to use YAML over classic GUI CI pipeline, and how YAML can improve the felxibility you have over your pipelines.
+    
+    Also, you will learn how to write a .yml file and attach it to the repo. 
 
  - **Demo 5: Create and configure Continuous Integration (CI) for .NET core app on docker image.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to create and configure a CI pipeline for a .NET core app hosted on docker image repository.
+    
+    Also, you will learn the workflow needed to pull the docker image and perform the build pipeline.
 
 
  - **Demo 6: Create and configure Continuous Integration (CI) for PartsUnlimited App.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to create and configure a CI pipeline for one of the available demos in Azure DevOps demo generator (PartsUnlimited App).
+    
+    Also, you will learn the difference between continious integration, where each change will intitate a pipeline and how you can add approvals to the workflow. 
 
 
  
