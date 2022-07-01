@@ -96,8 +96,9 @@
 
  - **Demo 15: Package API and Deploy it to local IIS and expose to public.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how package the API application to local IIS web server then making the local machine accessible from outside the
+    network. Also, you will learn how to make the IIS web server understanding the API App through downloading and installing ASP.NET Core Hosting Bundle, and how to
+    use the port forwarding through your ISP router to make the local machine accessible to the public
 
 
  - **Demo 16: Intro to nuget package management.**
