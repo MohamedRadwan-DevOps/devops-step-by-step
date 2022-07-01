@@ -10,33 +10,34 @@
 ### **Module 2: Application Development Lifecycle in Action**
  - **Demo 1: Examine SRS vs. Well-structured Backlog items (Epic, Features, PBIs).**
  
-    In this demo you will learn and understand the different between the old requirements engineering  and the modern requirements engineering process and tools.
+    In this demo you will learn and understand the difference between the old requirements engineering  and the modern requirements engineering process and tools.
     
-    Also, you will learn and understand how organization can structure their requirements in a very well-structured product backlog to help them manage their software delivery in an effective way.
+    Also, you will learn and understand how an organization can structure their requirements in a very well-structured product backlog to help them manage their software delivery in an effective manner.
  
   - **Demo 2: Create and examine Windows 11 VM (created) from gallery.**
  
-    In this demo you will learn and understand how to configure your machine to work with virtual machine and how to download and configure Windows 11 VM from the cloud gallery.
+    In this demo you will learn and understand how to configure your machine to work with virtual machines (VMs) and how to download and configure Windows 11 VM from the cloud repository.
 
-    Also, you will learn and understand the main configuration and settings of the virtual machine like virtual CPU, virtual RAM, virtual HDD, etc. And how to create snapshots and manage them effectively. 
+    Also, you will learn and understand the main configuration and settings of the virtual machines like virtual CPU, virtual RAM, virtual HDD, etc. And how to create and manage snapshots effectively. 
 
 
  - **Demo 3: Create and examine Ubuntu 20.04 VM (created) from gallery.**
  
-    In this demo you will learn and understand how to download and configure Ubuntu 20.04 VM from the cloud gallery.
+    In this demo you will learn and understand how to download and configure Ubuntu 20.04 VM from the cloud repository.
 
     Also, you will learn and examine the Ubuntu 20.04 environment.
 
 
  - **Demo 4: Create and examine Ubuntu 18.04 VM (created) from gallery.**
  
-    In this demo you will learn and understand how to download and configure Ubuntu 18.04 VM from the cloud gallery.
+    In this demo you will learn and understand how to download and configure Ubuntu 18.04 VM from the cloud repository.
 
     Also, you will learn and examine the Ubuntu 18.04 environment.
 
  - **Demo 5: Create Windows 10 from ISO file.**
  
     In this demo you will learn and understand how to use the media creation tool to create an ISO file to install Windows 10.
+    
     Also, you will learn and examine the installed Windows environment
 
 
@@ -96,18 +97,19 @@
 
  - **Demo 15: Package API and Deploy it to local IIS and expose to public.**
  
-    In this demo you will learn and understand how package the API application to local IIS web server then making the local machine accessible from outside the
-    network. Also, you will learn how to make the IIS web server understanding the API App through downloading and installing ASP.NET Core Hosting Bundle, and how to
-    use the port forwarding through your ISP router to make the local machine accessible to the public
+    In this demo you will learn and understand how to package the API app to local IIS web server then port forwarding to make the local machine accessible from outside the network.
+    
+    Also, you will learn how to make the IIS web server read (understand) the API App through downloading and installing ASP.NET Core Hosting Bundle, and how to use the port forwarding through your ISP router to make the local machine accessible to the public.
 
 
  - **Demo 16: Intro to nuget package management.**
  
- In this demo you will learn an essential tool for any modern development.The Microsoft-supported mechanism for sharing code is NuGet, which defines how packages       for.NET are created, hosted, and consumed, and provides the tools for each of those roles.
+    In this demo you will learn an essential tool for any modern development.The Microsoft-supported mechanism for sharing code is NuGet, which defines how packages       for.NET are created, hosted, and consumed, and provides the tools for each of those roles.
 
  - **Demo 17: Package the class library and publish it to nuget package.**
  
-    In this demo you will learn and understand a mechanism through which developers can create, share, and consume useful code. 
+    In this demo you will learn and understand a mechanism through which developers can create, share, and consume useful code.
+    
     Also, you will learn how the code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
 
  - **Demo 18: Replace the class library in the API with the nuget package library.**
@@ -206,14 +208,16 @@
 
  - **Demo 1: Install-uninstall Docker on Ubuntu on HV and create some containers.**
  
-    In this demo you will learn and understand the steps to install Docker on Ubuntu on HV and create some containers.
+    In this demo you will learn and understand the steps to install Docker container on an Ubuntu OS on HyperV and create some containers.
+    
     Also, you will learn how to uninstall the installed container.
 
 
  - **Demo 2: Run a .NET core app container from GitHub on Ubuntu.**
  
-    In this demo you will learn and understand how to run a .NET core app containers on Ubuntu from GitHub.
-    Also, you will learn and how to know information about the running app.
+    In this demo you will learn and understand how to run a .NET core app container on Ubuntu OS from GitHub.
+    
+    Also, you will learn how to gather information about the running app.
 
 
  
@@ -223,48 +227,56 @@
  - **Demo 1: Examine a History of repo on GitHub.**
  
     In this demo you will learn and understand how to get the history of all the actions made on a git repo.
+    
     Also, you will learn how to go to a certain commit from the history and make it the current head.
 
 
  - **Demo 2: Install Git on Windows and Ubuntu.**
  
     In this demo you will learn and understand how to install git on a Windows machine.
+    
     Also, you will learn how to install git on Ubuntu machine.
 
 
  - **Demo 3: Hand-typed text files Vs. Generated text files.**
  
     In this demo you will learn and understand how to auto generate text files using command line interface or GUI.
+    
     Also, you will learn the difference between hand-typed text files and the generated text files.
 
 
  - **Demo 4: Use git as a local repo (config, init, commit, etc).**
  
     In this demo you will learn and understand how to deal with your local repo and use git commands to configure your repo and initialize git on it.
+    
     Also, you will learn how to commit your changes to keep track of your work locally or publish them to the remote repo.
 
 
  - **Demo 5: Use git as a remote repo from the local one (clone, pull, push, etc) Azure Repo.**
  
     In this demo you will learn how to use version control to sync your local repo with the remote repo, and understand how git technology works.
+    
     Also, you will learn how to use the git commands (clone, pull, push, etc) and keep your work updated with your teammates work.
 
 
  - **Demo 6: Use git remote repo with GitHub.**
  
     In this demo you will learn and understand how to use Github to create a remote repo.
+    
     Also, you will learn how your local and remote repos can be connected together through git version control.
 
 
  - **Demo 7: Work with git using IDE (Visual Studio) to interact with Azure Repo and GitH.**
  
     In this demo you will learn and understand how to use Visual Studio Code -an example of a popular IDE- to interact with your remote repo on Github and Azure Repo.
+    
     Also, you will learn and see how you can keep your local repo synced with the remote one.
 
 
  - **Demo 8: Work with git using IDE (VS Code) to interact with Azure Repo.**
  
     In this demo you will learn and understand how actions can be made on Azure Repo from your machine through VS Code terminal.
+    
     Also, you will learn how to create a new branch, pull from remote repo and push your changes to it. 
 
 
