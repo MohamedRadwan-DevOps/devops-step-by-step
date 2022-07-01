@@ -112,8 +112,7 @@
 
  - **Demo 18: Replace the class library in the API with the nuget package library.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to remove the class library that added to the API by legacy way and replacing it with the package that will be downloaded from the NuGet package management. Also, you will learn the difference between Modern Engineering and Legacy Way, and how to delete the package and restore it to the application before building.
 
  - **Demo 19: Create Unit test for the class library.**
  
