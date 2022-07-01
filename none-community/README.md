@@ -6,6 +6,8 @@
 
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/source-code" title="Source Code/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📑 Source Code </a>
 
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/docs" title="Guides" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🎯 Guides </a>
+
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/devops-course-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ FAQ</a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ What do you need to Join this course</a>
