@@ -102,7 +102,7 @@
 
  - **Demo 16: Intro to nuget package management.**
  
- In this demo you will learn an essential tool for any modern development.The Microsoft-supported mechanism for sharing code is NuGet, which defines how packages for .NET are created, hosted, and consumed, and provides the tools for each of those roles.
+ In this demo you will learn an essential tool for any modern development.The Microsoft-supported mechanism for sharing code is NuGet, which defines how packages       for.NET are created, hosted, and consumed, and provides the tools for each of those roles.
 
  - **Demo 17: Package the class library and publish it to nuget package.**
  
