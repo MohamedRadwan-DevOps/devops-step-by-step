@@ -119,9 +119,8 @@
 
  - **Demo 19: Create Unit test for the class library.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
+    In this demo you will learn and understand how to add a Unit test project to the Calc Class library to know if the business logic for the Class library working  
+    properly or not Also, you will learn the difference between the Static Analysis and Dynamic Analysis and know the components of Unit test and how to create it.
 
  - **Demo 20: Explain and examine code coverage, code metrics.**
  
