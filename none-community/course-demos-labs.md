@@ -142,32 +142,39 @@
 
  - **Demo 1: Create an Azure Subscription Free account.**
  
-    In this demo you will learn and understand the steps to setting up a free 3-month Windows Azure trial subscription.
+    In this demo you will learn and understand the steps to setting up a free Azure account.
+    
+    Also, you will learn the different cloud deployements available within major cloud providers like (IaaS,PaaS,SaaS,FaaS),and the different cloud offerings like (storage & compute).
 
  - **Demo 2: Create Ubuntu on Azure and connect to it using SSH and remote desktop.**
  
-    In this demo you will learn and understand how to create and use secure shell (SSH) keys to connect to Linux virtual machines (VMs) in Azure.
-    Also, you will learn how to generate and store SSH keys in the Azure portal to use when creating VMs in the portal and configure a desktop environment and remote       desktop for your Linux VM running Ubuntu.
+    In this demo you will learn and understand how to create and use secure shell (SSH) keys to connect to Linux virtual machine (VM) in Azure.
+    
+    Also, you will learn how to generate and store SSH keys in the Azure portal to use when creating VMs in the portal as well as configuring a desktop environment and remote desktop for your Linux VM running Ubuntu.
 
  - **Demo 3: Exploring cloud flexibility and scalability by adding/removing resources to VM .**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn the different sizes available for virtual machines (VMs) and how quick it is to deploy a VM and understand how to change the required computation power based on your needs (scale-up vs scale-out).
+    
+    Also, you will learn how enterprises used to managed their on-premise infrastructure vs cloud managed infrastucture. 
 
- - **Demo 4: Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expos port 80 and deploy the API app.**
+ - **Demo 4: Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expose port 80 and deploy the API app.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how create a Windows 10 VM using Readily available image repository, how to enable IIS (windows webserver) from windows features, and how to install a .NET core runtime from the web.
+    
+    Also, you will learn how to port forward and expose port 80 to allow traffic to reach your API app, which you will deploy on IIS. 
 
  - **Demo 5: Create a Web App on Azure and deploy the API using FTP.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to deploy a Web App resource on Azure and add it to a resource group.
+    
+    Also, you will learn how to deploy the API to the Web App service using FTP (File Transfer Protocol). 
 
- - **Demo 6: Examine SasS like office-365.**
+ - **Demo 6: Examine SaaS products like office-365.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how SaaS products (like office-365) differ from other type of cloud offerings.
+    
+    Also, you will learn how SaaS is considered a consumerized service compared to PaaS and IaaS, where you don't manage anything but your own data.
 
 
 
