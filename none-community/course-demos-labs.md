@@ -96,20 +96,19 @@
 
  - **Demo 15: Package API and Deploy it to local IIS and expose to public.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how package the API application to local IIS web server then making the local machine accessible from outside the
+    network. Also, you will learn how to make the IIS web server understanding the API App through downloading and installing ASP.NET Core Hosting Bundle, and how to
+    use the port forwarding through your ISP router to make the local machine accessible to the public
 
 
  - **Demo 16: Intro to nuget package management.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+ In this demo you will learn an essential tool for any modern development.The Microsoft-supported mechanism for sharing code is NuGet, which defines how packages       for.NET are created, hosted, and consumed, and provides the tools for each of those roles.
 
  - **Demo 17: Package the class library and publish it to nuget package.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
+    In this demo you will learn and understand a mechanism through which developers can create, share, and consume useful code. 
+    Also, you will learn how the code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
 
  - **Demo 18: Replace the class library in the API with the nuget package library.**
  
@@ -204,14 +203,14 @@
 
  - **Demo 1: Install-uninstall Docker on Ubuntu on HV and create some containers.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand the steps to install Docker on Ubuntu on HV and create some containers.
+    Also, you will learn how to uninstall the installed container.
 
 
  - **Demo 2: Run a .NET core app container from GitHub on Ubuntu.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to run a .NET core app containers on Ubuntu from GitHub.
+    Also, you will learn and how to know information about the running app.
 
 
  
