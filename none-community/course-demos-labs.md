@@ -92,8 +92,8 @@
 
  - **Demo 14: Examine Several API requests and well form the JSON return.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to make several API calls at once
+    Also, you will learn the way to return the API in JSON form.
 
  - **Demo 15: Package API and Deploy it to local IIS and expose to public.**
  
