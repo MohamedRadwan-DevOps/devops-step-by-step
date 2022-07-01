@@ -213,47 +213,50 @@
 
  - **Demo 1: Examine a History of repo on GitHub.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to get the history of all the actions made on a git repo.
+    Also, you will learn how to go to a certain commit from the history and make it the current head.
 
 
  - **Demo 2: Install Git on Windows and Ubuntu.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to install git on a Windows machine.
+    Also, you will learn how to install git on Ubuntu machine.
+
 
  - **Demo 3: Hand-typed text files Vs. Generated text files.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to auto generate text files using command line interface or GUI.
+    Also, you will learn the difference between hand-typed text files and the generated text files.
 
 
  - **Demo 4: Use git as a local repo (config, init, commit, etc).**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to deal with your local repo and use git commands to configure your repo and initialize git on it.
+    Also, you will learn how to commit your changes to keep track of your work locally or publish them to the remote repo.
+
 
  - **Demo 5: Use git as a remote repo from the local one (clone, pull, push, etc) Azure Repo.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn how to use version control to sync your local repo with the remote repo, and understand how git technology works.
+    Also, you will learn how to use the git commands (clone, pull, push, etc) and keep your work updated with your teammates work.
 
 
  - **Demo 6: Use git remote repo with GitHub.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to use Github to create a remote repo.
+    Also, you will learn how your local and remote repos can be connected together through git version control.
+
 
  - **Demo 7: Work with git using IDE (Visual Studio) to interact with Azure Repo and GitH.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to use Visual Studio Code -an example of a popular IDE- to interact with your remote repo on Github and Azure Repo.
+    Also, you will learn and see how you can keep your local repo synced with the remote one.
 
 
  - **Demo 8: Work with git using IDE (VS Code) to interact with Azure Repo.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how actions can be made on Azure Repo from your machine through VS Code terminal.
+    Also, you will learn how to create a new branch, pull from remote repo and push your changes to it. 
 
 
 
