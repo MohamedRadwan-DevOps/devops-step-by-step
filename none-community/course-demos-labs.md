@@ -126,6 +126,7 @@
 
 
  - **Demo 20: Explain and examine code coverage, code metrics.**
+ - 
      In this demo you will learn and understand how to calculate code coverage and code metrics for the three methods (Average, Largest, Smallest) in Calc Class Library App.
 
      Also, you will learn the components of code metrics and the relation between some metrics like Maintainability Index and Cyclomatic Inheritance with Unit test.  
