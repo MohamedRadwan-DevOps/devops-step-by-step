@@ -137,8 +137,10 @@
 
  - **Demo 22: Examine a UI test and run it.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand the concept of UI Testing and how to run it on a specific project.
+    
+    Also, you will learn how to control the sleep threading for each UI test and use the NuGet package management to update any package required to run a UI test like selenium.webdriver.chromedriver in our example.
+
 
 
 ### **Module 3: Introduction to Cloud**
