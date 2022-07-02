@@ -120,7 +120,7 @@
 
  - **Demo 19: Create Unit test for the class library.**
  
-    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library to know if the business logic for the Class library working properly or not, you will learn the triple A method (Arrange Act Assert method) to measure the code cverage and to know if the business logic is returning the targeted values.
+    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library to know if the business logic for the Class library working properly or not, you will learn the triple A method (Arrange Act Assert method) to measure the code coverage and to know if the business logic is returning the targeted values.
     
     Also, you will learn the difference between the Static Analysis and Dynamic Analysis and know the components of Unit test and how to create it.
 
@@ -147,7 +147,7 @@
  
     In this demo you will learn and understand the steps to setting up a free Azure account.
     
-    Also, you will learn the different cloud deployements available within major cloud providers like (IaaS,PaaS,SaaS,FaaS),and the different cloud offerings like (storage & compute).
+    Also, you will learn the different cloud deployments available within major cloud providers like (IaaS,PaaS,SaaS,FaaS),and the different cloud offerings like (storage & compute).
 
  - **Demo 2: Create Ubuntu on Azure and connect to it using SSH and remote desktop.**
  
@@ -306,7 +306,7 @@
 
  - **Demo 4: Use YAML over classic Continuous Integration (CI).**
  
-    In this demo you will learn and understand how to use YAML over classic GUI CI pipeline, and how YAML can improve the felxibility you have over your pipelines.
+    In this demo you will learn and understand how to use YAML over classic GUI CI pipeline, and how YAML can improve the flexibility you have over your pipelines.
     
     Also, you will learn how to write a .yml file and attach it to the repo. 
 
@@ -321,7 +321,7 @@
  
     In this demo you will learn and understand how to create and configure a CI pipeline for one of the available demos in Azure DevOps demo generator (PartsUnlimited App).
     
-    Also, you will learn the difference between continious integration, where each change will intitate a pipeline and how you can add approvals to the workflow. 
+    Also, you will learn the difference between continuos integration, where each change will initiate a pipeline and how you can add approvals to the workflow. 
 
 
  
@@ -373,7 +373,7 @@
 
  - **Demo 1: Create a CD for API.**
  
-    In this demo you will learn and understand how 
+    In this demo you will learn and understand how
     Also, you will learn and
 
 
