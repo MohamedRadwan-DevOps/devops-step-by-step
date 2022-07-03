@@ -116,7 +116,7 @@
  
     In this demo you will learn and understand how to remove the class library that contained the logic in the API app and replace it with the package that was uploaded to NuGet package management.
     
-    Also, you will learn the difference between Modern Software Archiecture and Software Archiecture, and how to delete the package and restore it to the application before building.
+    Also, you will learn the difference between Modern Software Architecture and Software Architecture, and how to delete the package and restore it to the application before building.
 
  - **Demo 19: Create Unit test for the class library.**
  
