@@ -347,10 +347,9 @@
 
  - **Demo 3: Use feed views to share packages.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
-
+    In this demo you will learn and understand how to use azure devops piplines to share your packages through adding task (NuGet push) to publish the package in you 
+    NuGet account 
+     
  - **Demo 4: Package and publish class library to Azure Artifact feed and use it from Visual Studio.**
  
     In this demo you will learn and understand how 
