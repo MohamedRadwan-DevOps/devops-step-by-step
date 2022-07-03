@@ -126,9 +126,11 @@
 
 
  - **Demo 20: Explain and examine code coverage, code metrics.**
- 
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+ - 
+     In this demo you will learn and understand how to calculate code coverage and code metrics for the three methods (Average, Largest, Smallest) in Calc Class Library App.
+
+     Also, you will learn the components of code metrics and the relation between some metrics like Maintainability Index and Cyclomatic Inheritance with Unit test.  
+
 
  - **Demo 21: Configure unit test run-settings to generate test results and code coverage.**
  
@@ -137,8 +139,10 @@
 
  - **Demo 22: Examine a UI test and run it.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand the concept of UI Testing and how to run it on a specific project.
+    
+    Also, you will learn how to control the sleep threading for each UI test and use the NuGet package management to update any package required to run a UI test like selenium.webdriver.chromedriver in our example.
+
 
 
 ### **Module 3: Introduction to Cloud**
@@ -514,20 +518,16 @@
 
  - **Demo 1: Use git branch and merge.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
+    In this demo you will learn and understand about Git branching and how to merge these branches to a local or remote repository.
 
  - **Demo 2: Use git PR with Azure Repo and GitHub.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to create pull requests (PRs) to change, review, and merge code in a Git repository.
+    Also, you will learn review pull requests in Azure Repo and GitHub.
 
  - **Demo 3: Create fork with GitHub and use PR.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
+    In this demo you will learn and understand about how to fork a repo with GitHub and how to use use pull requests( PRs).
 
 
 ### **Module 18: Docker in More Details** 
