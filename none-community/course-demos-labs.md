@@ -116,11 +116,11 @@
  
     In this demo you will learn and understand how to remove the class library that contained the logic in the API app and replace it with the package that was uploaded to NuGet package management.
     
-    Also, you will learn the difference between Modern Software Archiecture and Software Archiecture, and how to delete the package and restore it to the application before building.
+    Also, you will learn the difference between Modern Software Architecture and Software Architecture, and how to delete the package and restore it to the application before building.
 
  - **Demo 19: Create Unit test for the class library.**
  
-    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library to know if the business logic for the Class library working properly or not, you will learn the triple A method (Arrange Act Assert method) to measure the code cverage and to know if the business logic is returning the targeted values.
+    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library to know if the business logic for the Class library working properly or not, you will learn the triple A method (Arrange Act Assert method) to measure the code coverage and to know if the business logic is returning the targeted values.
     
     Also, you will learn the difference between the Static Analysis and Dynamic Analysis and know the components of Unit test and how to create it.
 
@@ -151,7 +151,7 @@
  
     In this demo you will learn and understand the steps to setting up a free Azure account.
     
-    Also, you will learn the different cloud deployements available within major cloud providers like (IaaS,PaaS,SaaS,FaaS),and the different cloud offerings like (storage & compute).
+    Also, you will learn the different cloud deployments available within major cloud providers like (IaaS,PaaS,SaaS,FaaS),and the different cloud offerings like (storage & compute).
 
  - **Demo 2: Create Ubuntu on Azure and connect to it using SSH and remote desktop.**
  
@@ -163,7 +163,7 @@
  
     In this demo you will learn the different sizes available for virtual machines (VMs) and how quick it is to deploy a VM and understand how to change the required computation power based on your needs (scale-up vs scale-out).
     
-    Also, you will learn how enterprises used to managed their on-premise infrastructure vs cloud managed infrastucture. 
+    Also, you will learn how enterprises used to managed their on-premise infrastructure vs cloud managed infrastructure. 
 
  - **Demo 4: Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expose port 80 and deploy the API app.**
  
@@ -310,7 +310,7 @@
 
  - **Demo 4: Use YAML over classic Continuous Integration (CI).**
  
-    In this demo you will learn and understand how to use YAML over classic GUI CI pipeline, and how YAML can improve the felxibility you have over your pipelines.
+    In this demo you will learn and understand how to use YAML over classic GUI CI pipeline, and how YAML can improve the flexibility you have over your pipelines.
     
     Also, you will learn how to write a .yml file and attach it to the repo. 
 
@@ -325,7 +325,7 @@
  
     In this demo you will learn and understand how to create and configure a CI pipeline for one of the available demos in Azure DevOps demo generator (PartsUnlimited App).
     
-    Also, you will learn the difference between continious integration, where each change will intitate a pipeline and how you can add approvals to the workflow. 
+    Also, you will learn the difference between continuos integration, where each change will initiate a pipeline and how you can add approvals to the workflow. 
 
 
  
@@ -377,30 +377,28 @@
 
  - **Demo 1: Create a CD for API.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
+    In this demo you will learn and understand how to setup a continuos delivery pipeline for an API.
+    Also, you will see how to create a CD for an API which has been created from scratch in previous lessons.
 
  - **Demo 2: Create a CD for Parts-Unlimited.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to create a CD for a Web App.
+    Also, you will learn and apply what you have learned on a Web App we already created in previous lesson(Parts-Unlimited).
 
  - **Demo 3: Configure Azure Pipeline as a process for self-hosted and run UI tests.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
+    In this demo you will learn and understand how to configure Azure pipeline as a self-hosed agents. 
+    Also, you will learn the process to run UI tests for your self-hosted agent.
 
  - **Demo 4: Deploy docker image to Azure Container App Service.**
- 
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+
+    In this demo you will learn how to create a container image for your application, and understand how to push the image to a container registry.
+    Also, you will learn how to deploy the image to Azure App Service, and understand how to deploy the image to Azure Container Instances (ACI)
 
  - **Demo 5: Enable Continuous Integration and Continuous Deployment.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn how to enable continuos integration and continuous delivery in your pipeline.
+    Also, you will learn how to disable some features in the CD or CI and leave the rest enabled.
 
  
 ### **Module 10: Managing Configuration Management for Infrastructure and Database**
