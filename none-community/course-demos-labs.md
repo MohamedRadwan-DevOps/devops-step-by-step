@@ -104,7 +104,9 @@
 
  - **Demo 16: Intro to nuget package management.**
  
-    In this demo you will learn an essential tool for any modern development.The Microsoft-supported mechanism for sharing code is NuGet, which defines how packages       for.NET are created, hosted, and consumed, and provides the tools for each of those roles.
+    In this demo you will learn an essential tool for any modern software development.The Microsoft-supported methodology for sharing code which is NuGet.
+    
+    NuGet defines how packages for .NET are created, hosted, as well as consumed, and provides the tools for each of those roles.
 
  - **Demo 17: Package the class library and publish it to nuget package.**
  
@@ -120,7 +122,7 @@
 
  - **Demo 19: Create Unit test for the class library.**
  
-    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library to know if the business logic for the Class library working properly or not, you will learn the triple A method (Arrange Act Assert method) to measure the code coverage and to know if the business logic is returning the targeted values.
+    In this demo you will learn and understand how to add and perform Unit Testing on the Calc Class library to know if the business logic for the Class library working properly or not, you will learn the triple A (Arrange, Act, Assert) method to measure the code coverage and to know if the business logic is returning the targeted values.
     
     Also, you will learn the difference between the Static Analysis and Dynamic Analysis and know the components of Unit test and how to create it.
 
@@ -377,27 +379,33 @@
 
  - **Demo 1: Create a CD for API.**
  
-    In this demo you will learn and understand how to setup a continuos delivery pipeline for an API.
+    In this demo you will learn and understand how to setup a continuos delivery pipeline for an API app.
+    
     Also, you will see how to create a CD for an API which has been created from scratch in previous lessons.
 
  - **Demo 2: Create a CD for Parts-Unlimited.**
  
     In this demo you will learn and understand how to create a CD for a Web App.
+    
     Also, you will learn and apply what you have learned on a Web App we already created in previous lesson(Parts-Unlimited).
+    
 
  - **Demo 3: Configure Azure Pipeline as a process for self-hosted and run UI tests.**
  
     In this demo you will learn and understand how to configure Azure pipeline as a self-hosed agents. 
+    
     Also, you will learn the process to run UI tests for your self-hosted agent.
 
  - **Demo 4: Deploy docker image to Azure Container App Service.**
 
     In this demo you will learn how to create a container image for your application, and understand how to push the image to a container registry.
+    
     Also, you will learn how to deploy the image to Azure App Service, and understand how to deploy the image to Azure Container Instances (ACI)
 
  - **Demo 5: Enable Continuous Integration and Continuous Deployment.**
  
     In this demo you will learn how to enable continuos integration and continuous delivery in your pipeline.
+    
     Also, you will learn how to disable some features in the CD or CI and leave the rest enabled.
 
  
@@ -405,14 +413,17 @@
 
   - **Demo 1: Provision infrastructure (Web App and Azure SQL on Azure) using ARM and Azure Pipeline.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to provision azure resources (Web App and Azure SQL) using Azure Resource Manager (ARM) Template, and adding an initiation step in Azure Pipelines.
+    
+    Also, you will learn how IaC can improve your infrastucture provisioning process and deliver the flexbility that the cloud provides.
 
 
- - **Demo 2: Provision infrastructure (Web App on Azure) using Terraform andAzure Pipeline.**
+ - **Demo 2: Provision infrastructure (Web App on Azure) using Terraform and Azure Pipeline.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how  provision azure resource (Web App) using Terraform by HashiCorp, and adding an initiation step in Azure Pipelines.
+    
+    Also, you will learn how IaC can improve your infrastucture provisioning process by procuring the required resources when they are only needed.
+    
 
  - **Demo 3: Install and Configure Liquibase on Azure pipeline self-hosted agent.**
  
