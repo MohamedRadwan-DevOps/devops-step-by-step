@@ -159,7 +159,7 @@
  
     In this demo you will learn the different sizes available for virtual machines (VMs) and how quick it is to deploy a VM and understand how to change the required computation power based on your needs (scale-up vs scale-out).
     
-    Also, you will learn how enterprises used to managed their on-premise infrastructure vs cloud managed infrastucture. 
+    Also, you will learn how enterprises used to managed their on-premise infrastructure vs cloud managed infrastructure. 
 
  - **Demo 4: Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expose port 80 and deploy the API app.**
  
@@ -373,30 +373,28 @@
 
  - **Demo 1: Create a CD for API.**
  
-    In this demo you will learn and understand how
-    Also, you will learn and
-
+    In this demo you will learn and understand how to setup a continuos delivery pipeline for an API.
+    Also, you will see how to create a CD for an API which has been created from scratch in previous lessons.
 
  - **Demo 2: Create a CD for Parts-Unlimited.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to create a CD for a Web App.
+    Also, you will learn and apply what you have learned on a Web App we already created in previous lesson(Parts-Unlimited).
 
  - **Demo 3: Configure Azure Pipeline as a process for self-hosted and run UI tests.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
+    In this demo you will learn and understand how to configure Azure pipeline as a self-hosed agents. 
+    Also, you will learn the process to run UI tests for your self-hosted agent.
 
  - **Demo 4: Deploy docker image to Azure Container App Service.**
- 
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+
+    In this demo you will learn how to create a container image for your application, and understand how to push the image to a container registry.
+    Also, you will learn how to deploy the image to Azure App Service, and understand how to deploy the image to Azure Container Instances (ACI)
 
  - **Demo 5: Enable Continuous Integration and Continuous Deployment.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn how to enable continuos integration and continuous delivery in your pipeline.
+    Also, you will learn how to disable some features in the CD or CI and leave the rest enabled.
 
  
 ### **Module 10: Managing Configuration Management for Infrastructure and Database**
