@@ -135,6 +135,7 @@
  - **Demo 21: Configure unit test run-settings to generate test results and code coverage.**
  
     In this demo you will learn and understand how to run settings file to configure tests and build Using Calc Class library that are run from command line.
+    
     Also, you will learn and how to use code coverage feature of visual studio that determines the number of lines of code.
 
  - **Demo 22: Examine a UI test and run it.**
