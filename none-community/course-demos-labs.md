@@ -433,7 +433,6 @@
 - **Demo 4: Using Liquibase for DB configuration management with H2 DB.**
  
     In this demo you will learn and understand how to used the installed Liquibase on Azure pipeline for DB configuration management with H2 DB.
-    Also, you will learn and 
 
  - **Demo 5: Deploy DB changes to Snowflake using Liquibase and Azure Pipeline.**
  
