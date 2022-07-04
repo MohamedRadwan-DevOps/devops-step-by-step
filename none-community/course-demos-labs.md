@@ -342,8 +342,8 @@
 
  - **Demo 2: Package and publish the class library to NuGet.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand to package your class libarary(use unique name for the class libarary) from your visual studio and also how to upload        and publish it throw CLi or NuGet dashboard  
+    Also, you will learn how to install the new package as refrence 
 
  - **Demo 3: Use feed views to share packages.**
  
