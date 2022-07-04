@@ -430,16 +430,15 @@
     In this demo you will learn and understand how download and configure Liquibase and it's extentions and the jdbc driver on your self-hosted machine.
     Also, you will learn and how to define it as global variable to all users to be able to communicate for pipline agent run as service.
 
-
- - **Demo 4: Using Liquibase for DB configuration management with H2 DB.**
+- **Demo 4: Using Liquibase for DB configuration management with H2 DB.**
  
-    In this demo you will learn and understand how 
+    In this demo you will learn and understand how to used the installed Liquibase on Azure pipeline for DB configuration management with H2 DB.
     Also, you will learn and 
 
  - **Demo 5: Deploy DB changes to Snowflake using Liquibase and Azure Pipeline.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how we can utilize Liquibase, a Database Change Management Tool, to deploy database changes in Snowflake using Liquibase and Azure Pipeline.
+
 
 |  **Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.** | Free session |
 | :---| --- |
@@ -494,20 +493,17 @@
 
   - **Demo 1: Create a monitoring dashboards of Log Analytics data.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to Log Analytics dashboards can visualize all of your saved log queries, giving you the ability to find, correlate, and share IT operational data in the organization.
 
 
  - **Demo 2:  Create and use Log Analytics workspace.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to create a Log Analytics workspace, Also, you will learn and how to collect logs and data.
+    
 
  - **Demo 3: Create, view, and manage metric alerts.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
+    In this demo you will learn and understand how to create, view, and manage metric alert rules through Azure portal and Azure CLI.
 
 ### **Module 14: Digital Transformation and DevOps**
 
@@ -521,10 +517,8 @@
 
   - **Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
-
+    In this demo you will learn and understand how to Integrate static application security testing into DevOps pipeline when you develop applications for the cloud.
+ 
 ### **Module 17: Version Control in More Details** 
 
  - **Demo 1: Use git branch and merge.**
