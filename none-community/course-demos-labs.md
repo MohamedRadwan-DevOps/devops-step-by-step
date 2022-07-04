@@ -136,8 +136,9 @@
 
  - **Demo 21: Configure unit test run-settings to generate test results and code coverage.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to run settings file to configure tests and build Using Calc Class library that are run from command line.
+    
+    Also, you will learn and how to use code coverage feature of visual studio that determines the number of lines of code.
 
  - **Demo 22: Examine a UI test and run it.**
  
@@ -341,15 +342,14 @@
 
  - **Demo 2: Package and publish the class library to NuGet.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand to package your class libarary(use unique name for the class libarary) from your visual studio and also how to upload        and publish it throw CLi or NuGet dashboard  
+    Also, you will learn how to install the new package as refrence 
 
  - **Demo 3: Use feed views to share packages.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
-
-
+    In this demo you will learn and understand how to use azure devops piplines to share your packages through adding task (NuGet push) to publish the package in you 
+    NuGet account 
+     
  - **Demo 4: Package and publish class library to Azure Artifact feed and use it from Visual Studio.**
  
     In this demo you will learn and understand how 
@@ -427,8 +427,8 @@
 
  - **Demo 3: Install and Configure Liquibase on Azure pipeline self-hosted agent.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how download and configure Liquibase and it's extentions and the jdbc driver on your self-hosted machine.
+    Also, you will learn and how to define it as global variable to all users to be able to communicate for pipline agent run as service.
 
 
  - **Demo 4: Using Liquibase for DB configuration management with H2 DB.**
