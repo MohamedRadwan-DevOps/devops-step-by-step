@@ -103,3 +103,8 @@ Module 18: Docker in More Details
  - Lesson 1: Getting Started with Docker
  - Lesson 2: Understanding and Working with Docker Containers
  - Lesson 3: Building Container Images from Docker Files
+
+Module 19: Mentoring, CV and Interpersonal Skills 
+ - Lesson 1: Mentoring service and how I can help you to support your career
+ - Lesson 2: How to build a professional CV to pass in big organization
+ - Lesson 3: Interpersonal and soft skills you need to work in big organization
