@@ -545,19 +545,17 @@
 
  - **Demo 1: Working with Docker in more details on Linux.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand more about docker, container, image, also understand different between docker and virtual machine, 
+    and how to install docker on linux.
 
 
  - **Demo 2: Working with Docker on Windows.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+   In this demo you will learn more about how to use docker on window. 
 
  - **Demo 3: More about Docker and how to use Docker compose.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand more about docker compose, and also how to create docker compose file and run multiple container on same time.
 
 
 
