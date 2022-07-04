@@ -427,8 +427,8 @@
 
  - **Demo 3: Install and Configure Liquibase on Azure pipeline self-hosted agent.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how download and configure Liquibase and it's extentions and the jdbc driver on your self-hosted machine.
+    Also, you will learn and how to define it as global variable to all users to be able to communicate for pipline agent run as service.
 
 
  - **Demo 4: Using Liquibase for DB configuration management with H2 DB.**
