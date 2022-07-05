@@ -154,6 +154,7 @@
     
     Also, you will learn and how to use code coverage feature of visual studio that determines the number of lines of code.
 
+
  - **Demo 22: Examine a UI test and run it.**
  
     In this demo you will learn and understand the concept of UI Testing and how to run it on a specific project.
@@ -170,11 +171,13 @@
     
     Also, you will learn the different cloud deployments available within major cloud providers like (IaaS,PaaS,SaaS,FaaS),and the different cloud offerings like (storage & compute).
 
+
  - **Demo 2: Create Ubuntu on Azure and connect to it using SSH and remote desktop.**
  
     In this demo you will learn and understand how to create and use secure shell (SSH) keys to connect to Linux virtual machine (VM) in Azure.
     
     Also, you will learn how to generate and store SSH keys in the Azure portal to use when creating VMs in the portal as well as configuring a desktop environment and remote desktop for your Linux VM running Ubuntu.
+
 
  - **Demo 3: Exploring cloud flexibility and scalability by adding/removing resources to VM .**
  
@@ -182,11 +185,13 @@
     
     Also, you will learn how enterprises used to managed their on-premise infrastructure vs cloud managed infrastructure. 
 
+
  - **Demo 4: Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expose port 80 and deploy the API app.**
  
     In this demo you will learn and understand how create a Windows 10 VM using Readily available image repository, how to enable IIS (windows webserver) from windows features, and how to install a .NET core runtime from the web.
     
     Also, you will learn how to port forward and expose port 80 to allow traffic to reach your API app, which you will deploy on IIS. 
+
 
  - **Demo 5: Create a Web App on Azure and deploy the API using FTP.**
  
@@ -194,12 +199,12 @@
     
     Also, you will learn how to deploy the API to the Web App service using FTP (File Transfer Protocol). 
 
+
  - **Demo 6: Examine SaaS products like office-365.**
  
     In this demo you will learn and understand how SaaS products (like office-365) differ from other type of cloud offerings.
     
     Also, you will learn how SaaS is considered a consumerized service compared to PaaS and IaaS, where you don't manage anything but your own data.
-
 
 
 
@@ -218,6 +223,7 @@
     
     Also, you will learn how creating items through Postman and Azure DevOps CLI differ from one another. 
 
+
  - **Demo 3: Use Demo generator to generate several projects and examine them.**
  
     In this demo you will learn and understand how generate Demo projects in Azure DevOps, that contain items in different stages.
@@ -226,7 +232,6 @@
 
 
 
- 
 ### **Module 5: Evolution of Computing Options**
 
  - **Demo 1: Install-uninstall Docker on Ubuntu on HV and create some containers.**
@@ -243,7 +248,6 @@
     Also, you will learn how to gather information about the running app.
 
 
- 
  
 ### **Module 6: Managing Version Control**
 
@@ -304,7 +308,6 @@
 
 
 
- 
 ### **Module 7: Defining and Implementing Continuous Integration (CI)**
 
 |  **Demo 1: Create and configure Continuous Integration (CI) pipeline for a .NET class library.** | Free session |
@@ -318,6 +321,7 @@
     
     Also, you will learn how to use Azure DevOps to deploy a CI pipeline and how to implement a CI Strategy. 
 
+
  - **Demo 3: Build hosted agent vs self-hosted agent and run self-hosted to examine build folder.**
  
     In this demo you will learn the difference between hosted agents vs a self hosted agent and understand how run a self hosted agent to perform CI.
@@ -330,6 +334,7 @@
     In this demo you will learn and understand how to use YAML over classic GUI CI pipeline, and how YAML can improve the flexibility you have over your pipelines.
     
     Also, you will learn how to write a .yml file and attach it to the repo. 
+
 
  - **Demo 5: Create and configure Continuous Integration (CI) for .NET core app on docker image.**
  
@@ -396,7 +401,6 @@
 
 
 
-
 ### **Module 9: Defining and Implementing a Continuous Delivery & Release Strategy**
 
 
@@ -435,6 +439,7 @@
     Also, you will learn how to disable some features in the CD or CI and leave the rest enabled.
 
  
+ 
 ### **Module 10: Managing Configuration Management for Infrastructure and Database**
 
   - **Demo 1: Provision infrastructure (Web App and Azure SQL on Azure) using ARM and Azure Pipeline.**
@@ -454,11 +459,14 @@
  - **Demo 3: Install and Configure Liquibase on Azure pipeline self-hosted agent.**
  
     In this demo you will learn and understand how download and configure Liquibase and it's extentions and the jdbc driver on your self-hosted machine.
+    
     Also, you will learn and how to define it as global variable to all users to be able to communicate for pipline agent run as service.
+    
 
 - **Demo 4: Using Liquibase for DB configuration management with H2 DB.**
  
     In this demo you will learn and understand how to used the installed Liquibase on Azure pipeline for DB configuration management with H2 DB.
+    
 
  - **Demo 5: Deploy DB changes to Snowflake using Liquibase and Azure Pipeline.**
  
@@ -468,6 +476,8 @@
 |  **Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.** | Free session |
 | :---| --- |
 | In this demo you will learn and understand how to create an Azure repo and how to push the code to the remote repo, create and configure a Continuous Integration (CI) pipeline that will build/test the application and the infrastructure as code as well. Also, you will learn and understand how to create two packages, the application package which includes all the app code like CSS, HTML, java-scripts, etc, and the infra package which includes all the terraform code of the environment on Azure. After that you will learn how to push and store the two packages to Azure artifacts, then create and configure a Continuous Deployment (CD) pipeline that picks the packages from the artifacts, after that it will provision App service on Azure, Azure SQL Server and Database using the infra package, and in the end, deploy the app package to the provisioned environment. |  |
+
+
 
 ### **Module 11: Team Collaboration and Work Tracking**
 
@@ -510,9 +520,12 @@
     Also, you will learn and
 
 
+
 ### **Module 12: Examples Of Different Practices Improvement in Several Areas**
 
   - **No Demos**
+
+
 
 ### **Module 13: Overview of SRE and Monitoring Practices**
 
@@ -530,6 +543,8 @@
  
     In this demo you will learn and understand how to create, view, and manage metric alert rules through Azure portal and Azure CLI.
 
+
+
 ### **Module 14: Digital Transformation and DevOps**
 
    - **No Demos**
@@ -538,11 +553,15 @@
 
   - **No Demos**
 
+
+
 ### **Module 16: Applying Quality and Security for DevOps**
 
   - **Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline.**
  
     In this demo you will learn and understand how to Integrate static application security testing into DevOps pipeline when you develop applications for the cloud.
+ 
+ 
  
 ### **Module 17: Version Control in More Details** 
 
@@ -553,11 +572,14 @@
  - **Demo 2: Use git PR with Azure Repo and GitHub.**
  
     In this demo you will learn and understand how to create pull requests (PRs) to change, review, and merge code in a Git repository.
+    
     Also, you will learn review pull requests in Azure Repo and GitHub.
+
 
  - **Demo 3: Create fork with GitHub and use PR.**
  
     In this demo you will learn and understand about how to fork a repo with GitHub and how to use use pull requests( PRs).
+
 
 
 ### **Module 18: Docker in More Details** 
