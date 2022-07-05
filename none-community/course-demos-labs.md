@@ -13,6 +13,7 @@
     In this demo you will learn and understand the difference between the old requirements engineering  and the modern requirements engineering process and tools.
     
     Also, you will learn and understand how an organization can structure their requirements in a very well-structured product backlog to help them manage their software delivery in an effective manner.
+    
  
   - **Demo 2: Create and examine Windows 11 VM (created) from gallery.**
  
@@ -33,6 +34,7 @@
     In this demo you will learn and understand how to download and configure Ubuntu 18.04 VM from the cloud repository.
 
     Also, you will learn and examine the Ubuntu 18.04 environment.
+    
 
  - **Demo 5: Create Windows 10 from ISO file.**
  
@@ -46,18 +48,21 @@
     In this demo you will learn how to create a Console app with the logic inside of it and understand how to publish and manage the app.
 		
     Also, you will learn Software Architecture and Dependency Management, and their impact on your app.
+    
 
  - **Demo 7: Create a Desktop App for calc (Average, Largest, Smallest).**
  
     In this demo you will learn how to create a Desktop app with logic inside of it and understand how publish and manage the app.
 		
     Also, you will learn Software Architecture and Dependency Management, and their impact on your app.
+    
 
  - **Demo 8: Create an API App for calc (Average, Largest, Smallest).**
  
     In this demo you will learn how to create API App with logic inside of it and understand how publish an API app, and how to call the API.
 		
     Also, you will learn Software Architecture and how APIs can modularize your app.
+    
 
  - **Demo 9: Create a Class Library for Calc (Average, Largest, Smallest)- amend the console app to use it.**
  
@@ -71,29 +76,35 @@
     In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can make your code flexible and efficient.
 		
     Also, you will learn how Dependency Management is handled and how to add the DLL to the app.
+    
 
  - **Demo 11: Amend the Console App to use the API.**
  
     In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can improve your app.
 		
     Also, you will learn Dependency Management is handled and how to add the DLL to the app. 
+    
 
  - **Demo 12: Amend the Desktop App to use the API.**
  
     In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can improve your app.
 		
     Also, you will learn Dependency Management is handled and how to add the DLL to the app.
+    
 
  - **Demo 13: Create another API that consumes the 1st API.**
  
     In this demo you will learn how to Create a 2nd API app and understand how to call the 1st API from the 2nd API. 
 		
     Also, you will learn how Modern Software Architecture can make improve your code by introducing modularization versus old monolithic application. 
+    
 
  - **Demo 14: Examine Several API requests and well form the JSON return.**
  
-    In this demo you will learn and understand how to make several API calls at once
+    In this demo you will learn and understand how to make several API calls at once.
+    
     Also, you will learn the way to return the API in JSON form.
+    
 
  - **Demo 15: Package API and Deploy it to local IIS and expose to public.**
  
@@ -107,18 +118,21 @@
     In this demo you will learn an essential tool for any modern software development.The Microsoft-supported methodology for sharing code which is NuGet.
     
     NuGet defines how packages for .NET are created, hosted, as well as consumed, and provides the tools for each of those roles.
+    
 
  - **Demo 17: Package the class library and publish it to nuget package.**
  
     In this demo you will learn and understand a mechanism through which developers can create, share, and consume useful code.
     
     Also, you will learn how the code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
+    
 
  - **Demo 18: Replace the class library in the API with the nuget package library.**
  
     In this demo you will learn and understand how to remove the class library that contained the logic in the API app and replace it with the package that was uploaded to NuGet package management.
     
     Also, you will learn the difference between Modern Software Architecture and Software Architecture, and how to delete the package and restore it to the application before building.
+
 
  - **Demo 19: Create Unit test for the class library.**
  
@@ -336,40 +350,49 @@
 
   - **Demo 1: Create and examine feed on Azure artifact with different options.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn what are feeds and understand how to use them to share packages, while also controlling permissions to those packages.
+    
+    Also, you will learn how Azure artifact provide different options to create and use feeds.
 
 
  - **Demo 2: Package and publish the class library to NuGet.**
  
-    In this demo you will learn and understand to package your class libarary(use unique name for the class libarary) from your visual studio and also how to upload        and publish it throw CLi or NuGet dashboard  
-    Also, you will learn how to install the new package as refrence 
+    In this demo you will learn and understand how to package your class library and also how to publish it through CLI or NuGet dashboard.
+    
+    Also, you will learn how to install the new package from NuGet Package Management. 
+    
 
  - **Demo 3: Use feed views to share packages.**
  
-    In this demo you will learn and understand how to use azure devops piplines to share your packages through adding task (NuGet push) to publish the package in you 
-    NuGet account 
+    In this demo you will learn and understand how to use feed views , and how feeds can steamline the process of sharing your packages.
+    
      
  - **Demo 4: Package and publish class library to Azure Artifact feed and use it from Visual Studio.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn how to package and publish a class library to Azure Artifact feed, and understand how this process streamlime package management.
+    
+    Also, you will learn how to use that package from Visual Studio and how to manage the package. 
+    
 
  - **Demo 5: Package and publish the API App to Azure Pipeline Artifact.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how to package and publish the API App by generating the artifact from Azure Pipeline.
+    
+    Also, you will learn the ease of use that Azure DevOps provides to manage your packages.
 
 
  - **Demo 6: Package and publish PartsUnlimited App to Azure Pipeline Artifact.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and 
+    In this demo you will learn and understand how to package and publish the PartsUnlimited App by generating the artifact from Azure Pipeline.
+    
+    Also, you will learn the ease of use that Azure DevOps provides to manage your packages. 
+    
 
  - **Demo 7: Package and publish a .NET Docker image to Docker Hub.**
  
-    In this demo you will learn and understand how 
-    Also, you will learn and
+    In this demo you will learn and understand how package and publish a .NET docker image to Docker Hub, which is a docker repo for to store your packages.
+    
+    Also, you will learn how this process improves collaboration on package management and ensures a consistent proecess for delivering a packaged app.
 
 
 
@@ -382,6 +405,7 @@
     In this demo you will learn and understand how to setup a continuos delivery pipeline for an API app.
     
     Also, you will see how to create a CD for an API which has been created from scratch in previous lessons.
+    
 
  - **Demo 2: Create a CD for Parts-Unlimited.**
  
@@ -395,12 +419,14 @@
     In this demo you will learn and understand how to configure Azure pipeline as a self-hosed agents. 
     
     Also, you will learn the process to run UI tests for your self-hosted agent.
+    
 
  - **Demo 4: Deploy docker image to Azure Container App Service.**
 
     In this demo you will learn how to create a container image for your application, and understand how to push the image to a container registry.
     
-    Also, you will learn how to deploy the image to Azure App Service, and understand how to deploy the image to Azure Container Instances (ACI)
+    Also, you will learn how to deploy the image to Azure App Service, and understand how to deploy the image to Azure Container Instances (ACI).
+    
 
  - **Demo 5: Enable Continuous Integration and Continuous Deployment.**
  
