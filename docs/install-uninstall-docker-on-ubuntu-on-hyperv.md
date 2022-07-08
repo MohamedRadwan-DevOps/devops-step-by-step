@@ -1,4 +1,4 @@
-# Install/uninstall Docker on Ubuntu on HV:
+# Install/uninstall Docker on Ubuntu on Hyper-V:
 
 1.1 Navigate to Hyber-V manager -> open ubuntu VM-> login
 
