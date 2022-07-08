@@ -21,7 +21,7 @@
 
 وكمان الميعاد هيتم تحديثة علي صفحة المواعيد التالية:
   
-[المواعيد](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/schedule.md)
+[المواعيد](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-schedule.md)
 
 كمان الافضل انك تشوف المراجعات للناس اللي خلصت الكورس كل واحد بيشرح تجربته واستفادته واللي ممكن تبقي قريبة جدا من حالتك فهترد علي كل اسئلتك
 
