@@ -1,6 +1,6 @@
 ## Schedule for our CoP/CoE/Mentor
 
-**All the time slots are provided in Egypt/Cairo time.**
+**All the time slots are provided in UK/London time.**
 
 | Date    | Time    |    Session Title| Speaker | Speaker Pic|
 | -------------|-- | ----------| ------|------|
