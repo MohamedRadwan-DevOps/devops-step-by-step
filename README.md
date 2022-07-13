@@ -1,4 +1,4 @@
-# DevOps Step-by-step Arabic
+# DevOps Step-By-Step
 ![devops-step-by-step](https://socialify.git.ci/MohamedRadwan-DevOps/devops-step-by-step/image?font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
