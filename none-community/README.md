@@ -10,6 +10,8 @@
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/devops-course-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ FAQ</a>
 
+- <a href="http://devopsvisionsqa.mohamedradwan.com/" title="Q/A" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">🙋‍♀️ Q/A</a>
+
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ What do you need to Join this course</a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/reviews.md" title="Click here to See Members Reviews" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⭐ Reviews</a>
