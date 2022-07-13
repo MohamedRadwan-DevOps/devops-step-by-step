@@ -1,5 +1,6 @@
+# DevOps CoP (Community of Practice)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedRadwan-devops/DevOps-step-by-step/main//none-community/images/mics/cop.gif" />
+  <img src="https://raw.githubusercontent.com/MohamedRadwan-devops/DevOps-step-by-step/main//none-community/images/mics/cop-2.gif" />
 </p>
 
 ## Schedule for our CoP/CoE/Mentor
