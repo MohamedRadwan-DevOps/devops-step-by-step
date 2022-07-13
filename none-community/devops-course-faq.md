@@ -20,11 +20,11 @@
 
 وكمان الميعاد هيتم تحديثة علي صفحة المواعيد التالية:
 
-[المواعيد](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-schedule.md)
+[المواعيد](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md)
 
 و الأفضل انك تشوف المراجعات للناس اللي خلصت الكورس كل واحد بيشرح تجربته واستفادته واللي ممكن تبقى قريبة جدا من حالتك فهترد علي كل أسئلتك
 
-[المراجعات على الكورس](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/reviews.md)
+[المراجعات على الكورس](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/reviews.md)
 
 س٤: هل الكورس ممكن يفيد في الموبايل أبليكيشن؟ وانا كنت أخدت أساسيات البرمجة مع مهندس مشرف هتنفعني؟ وال DevOps ممكن ينفعني في ايه بعد كده؟
 
@@ -104,7 +104,7 @@
 
 هيكون قادر إنه يحل أي مشكلة لديك أو يجاوب على أي سؤال عندك. وانا هشرف على الدعم الفني بنفسي علشان أتأكد إنه بالمستوى المطلوب.
 
-[ده لينك لمعلومات أكتر عن برنامج المينتور](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/mentoring-service.md)
+[ده لينك لمعلومات أكتر عن برنامج المينتور](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md)
 
 س١٧: ايه هو سعر الدعم الفني أو برنامج المينتور؟
 
@@ -112,7 +112,7 @@
 
 كمان بيعفي من سعر الترخيص وسعر الخدمة أفضل ٢٠ الى ٥٠ شخص في الدعم الفني، هيتم التحديد لاحقا.
 
-[ده لينك لمعلومات اكترعن برنامج المينتور](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/mentoring-service.md)
+[ده لينك لمعلومات اكترعن برنامج المينتور](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md)
 
 س١٨: هل فيه مميزات أخرى للدعم الفني أو برنامج المينتور؟
 
@@ -161,4 +161,4 @@
 
 لمزيد من التفاصيل عن الأسعار يرجي مراجعة:
 
-[قائمة اسعار الخدمات](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/service-prices.md)
+[قائمة اسعار الخدمات](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/service-prices.md)

@@ -1,6 +1,6 @@
 # DevOps CoP (Community of Practice)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedRadwan-devops/DevOps-step-by-step/main//none-community/images/mics/cop-2.gif" />
+  <img src="https://raw.githubusercontent.com/MohamedRadwan-devops/devops-step-by-step/main//none-community/images/mics/cop-2.gif" />
 </p>
 
 ## Schedule for our CoP/CoE/Mentor
@@ -9,8 +9,8 @@
 
 | Date    | Time    |    Session Title| Speaker |   Pic    |
 | --------|-------- | ----------------| --------|----------|
-| 20 July 2022| 20:00 - 21:30  | How to prepare your CV and get prepared for a DevOps recruitment interview? | Guy Morley | ![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/main//none-community/images/speakers/Guy-Morley.png)|
-| 03 August 2022| 20:00 - 21:30  | How to prepare your CV and get prepared for a DevOps recruitment interview? | Charlie Nash | ![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/main//none-community/images/speakers/Charlie-Nash.png)|
-| 17 August 2022| 20:00 - 21:30  | GitHub and Azure: End to Eend Delivery | April Edwards | ![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/main//none-community/images/speakers/April-Edwards.png)|
+| 20 July 2022| 20:00 - 21:30  | How to prepare your CV and get prepared for a DevOps recruitment interview? | Guy Morley | ![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)|
+| 03 August 2022| 20:00 - 21:30  | How to prepare your CV and get prepared for a DevOps recruitment interview? | Charlie Nash | ![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Charlie-Nash.png)|
+| 17 August 2022| 20:00 - 21:30  | GitHub and Azure: End to Eend Delivery | April Edwards | ![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/April-Edwards.png)|
 
 

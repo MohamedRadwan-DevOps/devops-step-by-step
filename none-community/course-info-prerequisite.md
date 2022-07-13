@@ -11,7 +11,7 @@
 
 تاريخ الكورس: سيتم الإعلان عن الموعد قبل تاريخ البدء باسبوعين، من المتوقع  وليس اكيد بداية الكورس        أول فبراير. 
   
-  [انظر التحديث علي صفحة المواعيد](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-schedule.md)
+  [انظر التحديث علي صفحة المواعيد](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md)
 
 
  للحجز:
@@ -34,9 +34,9 @@
   
   لو فيه اي اسئلة؟ بص علي صفحة الأسئلة والأجوبة التالية:
   
-[الأسئلة والأجوبة](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/devops-course-faq.md)
+[الأسئلة والأجوبة](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/devops-course-faq.md)
   
 وكمان الميعاد هيتم تحديثه علي صفحة المواعيد التالية:
   
-[المواعيد](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-schedule.md)
+[المواعيد](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md)
 </div>
