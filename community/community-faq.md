@@ -28,13 +28,13 @@
 ## Where can I ask questions?
 You just need to raise/open an issue with your question/problem on issues at the following link, please make sure to search for old issues first before raising a new one.
 
-[Review closed issues here](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/issues)
+[Review closed issues here](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues)
 
-[Raise a new issue or ask a new question here](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/issues?q=is%3Aissue+is%3Aclosed)
+[Raise a new issue or ask a new question here](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues?q=is%3Aissue+is%3Aclosed)
 
 
 ## Is there any rules for writing our questions/issues?
-Yes, we have well-defined guidelines, please review them very well by watching the explanation in the 2nd session video by [clicking here](https://youtu.be/ci8c0GIqTDo?t=740), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/issues/2) 
+Yes, we have well-defined guidelines, please review them very well by watching the explanation in the 2nd session video by [clicking here](https://youtu.be/ci8c0GIqTDo?t=740), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues/2) 
 
 
 ## Where or how can I register?
@@ -72,7 +72,7 @@ Also, all sessions will be live on YouTbue on the follwoing link:
 ## Where can I find and download the presentations for the previous sessions?
 You will find them on the following link:
 
-[The presentations of old sessions:](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/tree/main/presentations)
+[The presentations of old sessions:](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/tree/main/presentations)
 
 
 ## I don't want to receive any invitation or emails anymore?
