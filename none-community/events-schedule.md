@@ -1,3 +1,4 @@
+![DevOps CoP](https://raw.githubusercontent.com/MohamedRadwan-devops/DevOps-step-by-step/main//none-community/images/mics/cop.gif)
 ## Schedule for our CoP/CoE/Mentor
 
 **All the time slots are provided in UK/London time.**
