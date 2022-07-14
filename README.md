@@ -29,7 +29,9 @@
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/events-schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Events Schedule</a>
 
-- <a href="https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel </a>
+- <a href="https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel (English)</a>
+
+- <a href="https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel (Arabic) </a>
 
 ## Connect with me
   <a href="https://twitter.com/mradwan06">
