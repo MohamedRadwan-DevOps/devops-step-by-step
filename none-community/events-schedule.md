@@ -9,8 +9,8 @@
 
 | Date    | Time    |    Session Title| Speaker |   Pic    |
 | --------|-------- | ----------------| --------|----------|
-| 20 July 2022| 20:00 - 21:30  | How to prepare your CV and get prepared for a DevOps recruitment interview? | Guy Morley | ![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)|
-| 03 August 2022| 20:00 - 21:30  | How to prepare your CV and get prepared for a DevOps recruitment interview? | Charlie Nash | ![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Charlie-Nash.png)|
-| 17 August 2022| 20:00 - 21:30  | GitHub and Azure: End to End Delivery | April Edwards | ![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/April-Edwards.png)|
+| 03 August 2022| 20:00 - 21:30  | How to prepare your CV and get prepared for a DevOps recruitment interview? | [Charlie Nash](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/events-speakers.md) | ![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Charlie-Nash.png)|
+| 17 August 2022| 20:00 - 21:30  | GitHub and Azure: End to End Delivery | [April Edwards](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/events-speakers.md) | ![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/April-Edwards.png)|
+| 07 September 2022| 20:00 - 21:30  | How to prepare your CV and get prepared for a DevOps recruitment interview? | [Guy Morley](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/events-speakers.md) | ![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)|
 
 
