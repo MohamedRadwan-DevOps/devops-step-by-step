@@ -12,6 +12,19 @@ Charlie is a Principal Recruitment  Consultant
 
 <br></br>
 
+
+![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Luke-Killick.png)
+
+Luke Killick
+=============
+
+Bio
+---
+
+Luke fells into recruitment after university, starting in the contracting markets and moving into the permanent world. This followed a mixed bag of sales roles which, as it turns out, applies pretty well to recruitment and resourcing. His professional interests include sales, recruiting strategy, and tech.
+
+<br></br>
+
 ![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/April-Edwards.png)
 
 April Edwards
