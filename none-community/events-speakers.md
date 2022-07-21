@@ -47,7 +47,9 @@ Charlie Nash
 Bio
 ---
 
-Charlie is a Principal Recruitment  Consultant 
+Charlie is a Principal DevOps Recruitment Consultant who began his recruiting career in 2014 and throughout the past 7+ years, has matched the best quality talent to suitable positions all over the world. Charlie has worked roles across Europe and South America, and now currently focuses on the UK market specifically.
+
+Upon joining Stott and May, Charlie has continued to build his network across DevOps, Infrastructure and Cloud focusing on perm placements across the UK.
 
 <br></br>
 
