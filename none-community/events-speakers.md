@@ -1,19 +1,6 @@
 # About Our Guest Speakers
 
-![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Charlie-Nash.png)
-
-Charlie Nash
-=============
-
-Bio
----
-
-Charlie is a Principal Recruitment  Consultant 
-
-<br></br>
-
-
-![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Luke-Killick.png)
+![Luke Killick](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Luke-Killick.png)
 
 Luke Killick
 =============
@@ -52,3 +39,15 @@ Bio
 Guy is a Managing Director With the help of his team he is responsible for strategy, staff management & direction, sales & marketing, financial control & management, training & development and recruitment. He is also personally responsible for managing and supporting their strategically important clients and business development. 
 
 <br></br>
+![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Charlie-Nash.png)
+
+Charlie Nash
+=============
+
+Bio
+---
+
+Charlie is a Principal Recruitment  Consultant 
+
+<br></br>
+
