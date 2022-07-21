@@ -1,14 +1,19 @@
 # Course Reviews
----
+
 ![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
 
-##Full Name
-##Position/Country
+## Full Name
+## Position/Country
 
-<review text>
+[review text]
 
+Reviewer's Video
 
-### Connect with <reviewer name>: &ensp; 
+<a href="x">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
+</a> &ensp; 
+
+### Connect with [reviewer name]: &ensp; 
 <a href="https://www.linkedin.com/in/x">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a> &ensp; 
@@ -21,13 +26,20 @@
 
 ![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Female.png)
 
-##Full Name
-##Position/Country
+## Full Name
+## Position/Country
 
-<review text>
+[review text]
+
+Reviewer's Video
+
+<a href="x">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
+</a> &ensp; 
 
 
-### Connect with <reviewer name>: &ensp; 
+### Connect with [reviewer name]: &ensp; 
+
 <a href="https://www.linkedin.com/in/x">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a> &ensp; 
