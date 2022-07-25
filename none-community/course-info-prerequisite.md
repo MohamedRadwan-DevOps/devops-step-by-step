@@ -65,7 +65,7 @@ Course date: The exact date will be announced two weeks before the start date. I
 
 For Registration:
 
-Contact financial manager Mrs. Nadia via WhatsApp by clicking on the [next] link (https://wa.me/201224073193) or sending a message to this number (00201224073193)
+Contact financial manager Mrs. Nadia via WhatsApp by click on the [next] link (https://wa.me/201224073193) or send a message to this number (00201224073193)
 
   
 Course prerequisites : Computer and programming fundamentals ,general knowledge of the software industry life cycle,and the logical and critical thinking skills are very important
