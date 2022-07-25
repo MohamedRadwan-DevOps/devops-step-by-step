@@ -48,7 +48,8 @@ Course Name: Adanced Introducdion to DevOps
 The duration of the course: 30 hours divided into 10 sessions, one session per week, the duration of the session is 3 hours, the day and date of the session will be agreed upon later after confirmation of the subscription. It is expected, but not certain, that it will be on Tuesday at 7 or 8 pm Cairo time
 
   
-Price excluded the recorded sessions: 6500 Egyptian pounds 
+Price excluded the recorded sessions: 6500 Egyptian pounds
+ 
 Price included the recorded sessions: 10,000 Egyptian pounds 
 
   
