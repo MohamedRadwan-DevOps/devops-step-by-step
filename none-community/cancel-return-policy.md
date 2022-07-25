@@ -5,7 +5,7 @@
 يرجي العلم ايضا انه يمكن الغاء الكورس في اي وقت نتيجة لعدم التزام المشترك بالقواعد والشروط الخاصة بالكورس وفي هذه الحالة سيتم استرجاع المبلغ بنفس طريقة طلب الإسترجاع.
 
 
-# Cancellation and Return Policy
+# Return and Cancellation Policy
 
 Please note that a refund can only be requested before half of the course duration, i.e. before Session No. 5. In this case, the refund will be made after deducting the value of the sessions attended or that have expired before the refund. The application fee will also be deducted from the administration fee in addition to the transfer fee.
 
