@@ -68,5 +68,4 @@ the annual membership will exempt the members from any price increase in the fut
 - Cost of one technical support ticket is 300 EGP, and 10 tickets can be purchased for 2000 EGP which is 200 EGP per ticket, It has to be used in the same year of membership subscription
 - Cost of the private session is 400 Egyptian pounds per session.
 
-
 </div>
