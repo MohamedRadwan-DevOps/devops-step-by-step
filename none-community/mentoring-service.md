@@ -57,7 +57,7 @@
 - Role Play Scenarios of soft skills at the top level multinational companies (in the future).
 
 
-** conditions:**
+Conditions:
 
 - Mentoring program is exclusive only to the members who have previously enrolled in the course in any batch.
 - Cost of the annual subscription is 1500 Egyptian pounds, which is 125 Egyptian pounds (monthly).
