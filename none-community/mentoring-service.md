@@ -33,3 +33,40 @@
 
 
 </div>
+
+
+<div dir="rtl">
+
+# Mentoring service:
+
+**This service includes the following benefits:**
+
+- Sharing employment offers that are received from companies with the members and nominating them.
+- Providing a high-quality answer for any number of questions on Stack Overflow.
+- A monthly session will be conducted to answer any questions received from the members and any asked questions at the end of the session and review CVs and give recommendations to enhance it
+- Monthly technical support tickets, which will include a remote session using TeamViewer with a team member or Mohamed Radwan if necessary, while making sure that the issue is resolved or a definitive answer to the question.
+- The chance to attend a technical support tickets session with other members to get more experience about the issues and how to solve them.
+- The chance to attend the same course with the new modifications and improvements free of charge with the next rounds
+- 10-20% discount for other courses.
+- Private sessions, the duration of the session is half an hour.
+- Attending and participating in CoP (Community of Practice) events
+- Attending and participating in CoE events (Center of Excellence)
+- Watch exclusive and private videos on YouTube
+- Inviting the world's most valuable names in the field of DevOps to give exclusive sessions about the latest new developments.
+- Simulating a mock interview at the top level multinational companies (in the future)
+- Role Play Scenarios of soft skills at the top level multinational companies (in the future).
+
+
+** conditions:**
+
+- Mentoring program is exclusive only to the members who have previously enrolled in the course in any batch.
+- Cost of the annual subscription is 1500 Egyptian pounds, which is 125 Egyptian pounds (monthly).
+- Annual subscription is paid once a year at the beginning of the subscription.
+- Joining fee of the program is 3000 Egyptian pounds, to be paid once.
+- Course members are exempted from joining fees if they join immediately after the course (the grace period is only one month after the course).
+the annual membership will exempt the members from any price increase in the future.
+- Cost of one technical support ticket is 300 EGP, and 10 tickets can be purchased for 2000 EGP which is 200 EGP per ticket, It has to be used in the same year of membership subscription
+- Cost of the private session is 400 Egyptian pounds per session.
+
+
+</div>
