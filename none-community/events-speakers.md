@@ -8,7 +8,7 @@ Luke Killick
 Bio
 ---
 
-Luke fells into recruitment after university, starting in the contracting markets and moving into the permanent world. This followed a mixed bag of sales roles which, as it turns out, applies pretty well to recruitment and resourcing. His professional interests include sales, recruiting strategy, and tech.
+Luke is a Senior Recruiter in the UK, he falls into recruitment after university, starting in the contracting markets and moving into the permanent world. This followed a mixed bag of sales roles which, as it turns out, applies pretty well to recruitment and resourcing. His professional interests include sales, recruiting strategy, and tech.
 
 <br></br>
 
