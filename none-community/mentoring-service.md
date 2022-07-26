@@ -41,7 +41,7 @@
 
 **This service includes the following benefits:**
 
-- Sharing employment offers that are received from companies with the members and nominating them.
+- Sharing job offers that are received from companies with the members and nominating them.
 - Providing a high-quality answer for any number of questions on Stack Overflow.
 - A monthly session will be conducted to answer any questions received from the members and any asked questions at the end of the session and review CVs and give recommendations to enhance it
 - Monthly technical support tickets, which will include a remote session using TeamViewer with a team member or Mohamed Radwan if necessary, while making sure that the issue is resolved or a definitive answer to the question.
