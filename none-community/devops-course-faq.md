@@ -1,164 +1,190 @@
-هذه بعض الأسئلة التي وصلتني من بعض الناس وإجاباتي عليها:
+## **Frequently Asked Questions (FAQ)**
 
-س١: هل بعد إنهاء الكورس هكون مؤهل إني أشتغل مهندس ديف اوبس؟
+These are some of the questions I received and my answers to them:
 
-ج١: نعم، فبالرغم من أن الكورس هو مقدمة متقدمة ولكن لو خلصته هتكون قادر تماما انك تقدم على وظيفة وانك تشتغل لأن هدفي الرئيسي هو تأسيسك صح وتجهيزك لسوق العمل الحقيقي.
+**Q1: Will I be qualified to work as a DevOps Engineer after finishing the course?**
 
-س٢: مش واضح ال tools الي هنستخدمها سواء azuredevops أو Jenkins وهل هنتطرق للجزء الخاص بال Configuration management tool زي ال Ansible أو ال Teraform وهل هنتطرق لمواضيع زي Docker and Kubernetes؟
+A1: Yes as a Junior DevOps Eng. Even though this course is an advanced introduction, you shall be fully capable of applying for a job and working, because my main objective is to properly build and equip you for the actual job market. Also, it depends on other knowledge and skills you have and remember, you need time in an actual DevOps job to get the real experience.
 
-ج٢: هنستخدم Azure DevOps ومافيش Jenkins، اه طبعا بالنسبة لل Configuration Management هتبقي Terraform بالنسبة لل Docker اكيد بس kubernetes هيكون نظري فقط.
+**Q2: It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins? Will we work with Configuration Management Tools such as Ansible or Teraform? Will we get into subjects like Kubernetes and Docker?**
 
-كمان فيه حاجة مهمة جدا جدا، الكورس مش هدفه تعلم الأدوات أو التكنولوجي، ولكن تعلم الممارسات بغض النظر عن الأدوات أو التكنولوجي.
+A2: We will use Azure DevOps, but no Jenkins. Yes of course we will work with Configuration Management Tools and it will be Teraform. As for Docker, we shall definitely get into it, but Kubernetes will be just theoretical.
 
-لكن علشان نفهم الممارسات لازم نطبقها باستخدام أي أدوات و أي تكنولوجي، لكن حرفيا انت تقدر تطبق اللي انت هتتعلمه بأي أدوات أو أي تكنولجي تانية ودي ميزة إضافية للكورس لأن انت بقيت فاهم الأساس. والأدوات والتكنولوجي أصبحت وسيلة وليست غاية.
+Also, there is another extremely important thing: the course objective is not to learn tools or technologies, but rather the practices and the principles regardless of tools or technology.
 
-س٣: الكورس هيبدأ امتى و ازاي أدفع الفلوس ومافيش ميعاد معين للدفع؟
+However, to learn the practices, we must apply them using any tools or technology. You can literally apply what you will learn using any other tools or technology not just the ones you’ve learned in class, and this is an additional advantage to the course: Because you have understood the foundation, tools and technology became much easier to understand and use any of them.
 
-ج٣: لو انت عايز تشترك تواصل مع أ.نادية المدير المالي عبر الواتس أب عبرالضغط علي الرابط [التالي](https://wa.me/201224073193) أو إرسال رسالة للرقم ده (00201224073193)
+**Q3: When shall the course start? How shall I pay? Is there a deadline for payment?**
 
-كمان أنا هعلن عن ميعاد بداية الكورس لكل دفعة علي الفيسبوك ولو انت ملحقتش المرة ديه، ادخل اللي بعدها أو اللي بعدها.
+A3: The course has two class to join, English and Arabic. 
 
-وكمان الميعاد هيتم تحديثة علي صفحة المواعيد التالية:
+So, if you are interested in joining the **English** class, please contact our Financial Manager in UK, Ms. Rania via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
 
-[المواعيد](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md)
+But, if you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms. Nadia via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
 
-و الأفضل انك تشوف المراجعات للناس اللي خلصت الكورس كل واحد بيشرح تجربته واستفادته واللي ممكن تبقى قريبة جدا من حالتك فهترد علي كل أسئلتك
+Also, I will announce the course start date for each round on Linked-In and Facebook. So, if you couldn’t enroll in this time, you could try with the next round or the one after.
 
-[المراجعات على الكورس](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/reviews.md)
+Moreover, the timing shall be updated on the following timetable page:
 
-س٤: هل الكورس ممكن يفيد في الموبايل أبليكيشن؟ وانا كنت أخدت أساسيات البرمجة مع مهندس مشرف هتنفعني؟ وال DevOps ممكن ينفعني في ايه بعد كده؟
+[Timetable](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md)
 
-ج٤: الكورس هيفيد في طريقة تصنيع الموبيل أبليكيشن من حيث دورة حياة البرنامج ورفع كفاءته، أكيد أساسيات البرمجة هتفرق جدا معاك وخصوصا لو أخدتها مع م. مشرف. كمان الديف اوبس وظيفة ممكن تشتغلها وليها سوق كبير في العالم كله والطلب عليها بيزيد.
+And it is best you take a look at the reviews left by those who have finished the course. Each and every one of them explains how they benefited from the course and shares their experience that might be very close to your case and thereby answering all your questions.
 
-س٥: أنا كنت أخدت حاجات بسيطة في ال DevOps في كورس ال data warehouse في الكلية بس الحقيقة المجال نفسه مش واضح أوي. فلو ممكن توضح hint عنه و ال opportunity المتاحة وهل هيكون تكملة ل career full stack؟
+[Course Reviews](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/reviews.md)
 
-ج٥: هو مش تكملة لل Full stack هو اتجاه تاني خالص، بس لو انت Full stack فده حاجة كويسة لأن هيساعدك كتير.
 
-س٦: هل الكورس أغلبه نظري الهدف منه فهم ال DevOps concept؟
+**Q4: Will the course be useful in Mobile Application? I have taken the Programming Fundamentals Course before with Eng. Moshrif, will it benefit me? How will DevOps benefit me afterwards?**
 
-ج٦: الكورس عملي جدا وهتشتغل بإيدك وتعمل كل حاجة ومن الأول للآخر.
+A4: The Course shall be useful in any specialization in software whether it's a mobile application, back-end, or full-stack because it covers the foundation of the software industry practices and principles in terms of the product’s life cycle and enhancing its performance. 
 
-س٧: وهل هيكون في كورس بعده للمستوى الأعلى جاهز علطول ولا هيكون في فترة طويلة بين الكورسين؟
+Of course, a programming fundamentals course will make a huge difference especially if you took it with Eng. Moshrif. 
 
-ج٧: الكورس هيكون دسم جدا مش عايز أقول بس انت تقدر عليه، على العموم بعد الكورس هيكون فيه أكتر من كورس حسب التخصص، أنا عايزك تعتبر ان الكورس ده أساسي وكافي إنك تشتغل (لكن هتتخرج منه كإنك دكتور ممارس عام أو إعدادي هندسة). هدفه إنك تتأسس صح وتكون جاهز للشغل وبتعرف تشتغل فعلا بس مش متخصص ومش خبير. وديه حاجة لازم تيجي من الشغل والدراسة في نفس الوقت.
+You can also work in DevOps roles; it has a huge market demand all over the world, especially in the UK and EU.
 
-مافيش كورسات جاهزة. أكيد هاخد وقت علشان أجهز أي كورسات تانية بس مش هيكون طويل إن شاء الله.
 
-س٨: ما هي الوظايف اللي ممكن أقدم عليها بعد الكورس ؟ لإني حاليا بشتغل system analyst وحابب أعمل شفت career؟
 
-ج٨: فيه أكتر من مستوى وظيفي للديف اوبس وكمان أكتر من تخصص داخلي بس كمستوي أول هتقدر تقدم عليه هيكون:
+**Q5: I’ve taken an overview of DevOps in a Data Warehousing class in college but in fact, the field itself is a bit unclear. If you could just give us a hint on what it is and the available opportunities for it and will it be a complement to a career in Full stack development?**
+
+A5: It is not a complement to a career in Full Stack development, it is a whole new direction. But, if you are a full stack developer, then it is a good thing because it will help you a lot.
+
+**Q6: Is the course mostly theoretical aimed at understanding the concepts of DevOps?**
+
+A6: The course is very practical, and you’ll have hands-on experience and do everything yourself from A to Z, it has more than 83 Demos/Labs you will learn and do them yourself, see the following link for the list of Demos/Labs for the course.
+
+[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-demos-labs.md)
+
+**Q7: Will there be an advanced level course immediately after or will there be a long time period between both courses?**
+
+A7: The course shall be very rich. I don’t want to say, “just you handle this one and then worry about the next one later on!”. I just want you to consider this course is the foundation and enough for you to start working. (But you’ll graduate from it like a GP physician or a first-year engineering student) The purpose of this course is for you to be properly built and ready for work and for you to actually know how to do the work itself but it will not make you a specialist or an expert. This is something that must come with simultaneous work-study
+
+There are no more courses ready at the moment. Of course, it will take some time from me to prepare any more courses but hopefully, it won’t take long.
+
+**Q8: What are the jobs I can apply for after finishing the course? Because I’m currently working as a system analyst, and I want to make a career shift**
+
+A8: There is more than one professional level for DevOps as well as more than one sub-specialization. But as an entry level you shall be able apply for:
 
 - DevOps Engineer
-
 - Platform Engineer
 
-س٩: أي شهادة ممكن أختبر فيها بعد الكورس ؟
+**Q9: Is there a Certification track with Exams?**
 
-ج٩: يوجد شهادة حضور فقط.
+A9: NO, only an attendance certificate.
 
-س١٠: أنا عملت Install local Gitlab وكمان Docker security with trivy scanner وعندي شوية معلومات عن ال DevOps وجربت شوية لابات على Qiuklabs إلا إنه في الصور أمامي شايف خبرة كبيرة طبعاً وشايف موديل ٧ حاجة عظمة جدا بالنسبالي بس عشان أكون موضح هدفي أكتر أنا بعمل كل دا عشان أكون devsecops اللي أنا محتاجه kubernetes وكمان Gitlab ci and integration طبعا، أنا عارف إنك عامل حاجة لكل الناس بس محتاج نصحيتك؟
+**Q10: I’ve locally installed Gitlab as well as Docker Security with Trivy Scanner, and I have some information about DevOps. I’ve tried a few labs of Qwiklabs. But I’m seeing a great experience obviously in the course, especially in Module 7 is marvelous but to be clear on what my goals are, I’m doing all this to be a DevSecOps Engineer. So, what I need is Kubernetes as well as Gitlab (CI) and integration of course. I know you are doing something that suits everyone but, I need your advice.**
 
-ج١٠: الكورس ما بيستخدمش Gilab هو هيستخدم Azure Pipeline بدل منه. علشان تكون DevSecOps لازم الأول تكون DevOps كويس ومتأسس صح لأن ال DevSecOps هو مرحلة متقدمة من ال DevOps. و الكورس ده مقدمة عنها بس مش هنتطرق للتفاصيل.
+A10: This course does not use Gitlab, it uses Azure pipeline instead. For you to be a DevSecOps Engineer, you have to be a good, properly built DevOps engineer first because DevSecOps is an advanced stage of DevOps. And this course provides an introduction to DevSecOps but we will not get into details.
 
-الكورس إن شاء الله هيكون نقلة نوعية في طريقة تفكيرك وشغلك في المجال، فنصيحتي، سيبك من كل اللي فات وابدأ معي من الأول بطريقتي و إن شاء الله هتشوف النتيجة وهتنبهر من نفسك ومن اللي هتقدر تعمله.
+The course will be a an advanced leap in your way of thinking and in your work in the field. So, my advice is, forget everything and start with me from scratch, my way, and hopefully you’ll see the result and you’ll even impress yourself with what you’ll be capable of doing.
 
-س١١: ما الفرق بين ال AWS وال AZURE؟ وهل لازم يكون عندي أساس لينكس أو عارف حاجة عنه لاني معرفش عن اللينكس حاجة حالياً؟
+**Q11 What is the difference between AWS and Azure? And do I have to have a Linux background or at least know something about it because I know nothing about Linux?**
 
-ج١١: دول شركتين مختلفتين بيقدموا الخدمة السحابية، ولا مش لازم خالص هتتعلم كل ده في الكورس.
+A11: Those are two different companies that provide cloud services, and no you don’t have to be an expert but you should know basic bash script; you shall learn all that in the course.
+You can review all the prerequisites of the course on the following link:
 
-س١٢: ما أهمية وجود كريدت كارد في الكورس وهل هيتسحب منه فلوس؟ ولو معنديش كريدت كارد هعمل ايه؟
+[Course prerequisites](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-info-prerequisite.md)
 
-ج١٢: الكريدت كارد هيكون علشان عمل حساب مجاني على مايكروسوفت اذور كلاود واللي هيديك خدمات بمبلغ ٣٠٠٠ جنية مجانية. ومافيش أي فلوس هتتسحب من الكارد بتاعك، لأني هعلمك ازاي تقفل الخاصية ديه.
 
-لو ماعندكش كريدت كارد؟
+**Q12: How important is it to have a credit card in the course? And will money be withdrawn from it? And what if I don’t have a credit card, what shall I do?**
 
-هتدفع مبلغ ١٥٠٠ جنية عشان أضيفك علي حساب الكلاود الخاص بي والغير مجاني.
+A12: The credit card is for free registration on Microsoft Azure Cloud that will provide you with $200 worth of free services. And no money shall be withdrawn from your card, because I shall teach you how to deactivate this feature.
 
-خلي بالك أنا بأكد إن الكارد يكون كريدت كارد مش ديبيت كارد لإن ممكن ماتعرفش تعمل الحساب لو كان ديبيت كارد.
+If you don’t have a credit card?
 
-[سؤال مشابه لنفس الحالة والرد عليه](https://docs.microsoft.com/en-us/answers/questions/433827/how-to-get-an-azure-account-without-credit-card.html)
+You can pay me $100 to add you to my premium cloud account so you can practice the labs and the exercises.
 
-س١٣: هل هيكون في تطرق للAWS هل السوق محتاج لها اكتر؟
+Make sure the card is a credit card not a debit card as you might not be able to register an account with a debit card.
 
-ج١٣: لا مش هيكون فيه أي تطرق للتطبيق للAWS. بس في الأخر AWS و AZURE هما خدمات كلاود بيختلفوا فقط من حيث التطبيق وليس العلم أو المفاهيم.
+[A similar question about the same case and the answer to it](https://docs.microsoft.com/en-us/answers/questions/433827/how-to-get-an-azure-account-without-credit-card.html)
 
-الكورس مش هدفة تعلم الأدوات أو التكنولوجي زي AWS أو AZURE ولكن تعلم الممارسات بغض النظر عن الأدوات أو التكنولجي.
+**Q13: Will we get into AWS? Is it more desirable in the market?**
 
-لكن علشان نفهم الممارسات لازم نطبقها باستخدام أي أدوات و تكنولجي، وانا هستخدم AZURE.
+A13: No, we shall not get to apply on AWS But, in the end, AWS and Azure are both cloud service provider. The different only in terms of application not in terms of knowledge or concepts.
 
-لكن حرفيا انت تقدر تطبق اللي انت هتتعلمه بأي أدوات أو تكنولوجي تانية ودي ميزة إضافية للكورس لأنه بيعتمد على فهم الأساس. والأدوات والتكنولوجي أصبحت وسيلة وليست غاية، والسوق محتاج الاثنين بنفس الطلب تقريبا.
+The course objective is not to learn tools or technology like AWS or Azure, but rather to learn the practices and the principles regardless of any tools or technology.
 
-س١٤: ماذا لو لم يكن عندي المتطلبات المطلوبة للكورس؟
+However, to learn the practices, we must apply them using any tools or technology. You can literally apply what you will learn using any other tools or technology not just the ones you’ve learned in class, and this is an additional advantage to the course: Because you have understood the foundation, tools and technology became much easier to understand and use any of them.
 
-ج١٤: في الحالة ديه حاول تعمل برنامج صغير زي جدول مواعيد أو دفتر تليفونات باستخدام ASP.NET MVC كمان تقرأ كتير عن SDLC.
+In the end AWS and Azure have market demands almost equally.
 
-احنا هنكتب كود ونعمل برنامج صغير في الكورس فأنا مش عايز تكون أول مرة تشوف أو تكتب كود يبقي في الكورس، لازم تستعد قبلها.
 
-س١٥: هل الكورس والمحاضرات هتكون مسجلة علشان لو ماقدرتش أحضر؟
 
-ج١٥: المحاضرات هتكون مسجلة وبتكون متاحة بشكل مجاني لمدة ٤ أيام انت بتختارهم بس لو عايز تسجيل المحاضرة بشكل دايم فسعر المحاضرة الواحدة المسجلة هيكون ٤٥٠ جنيه إضافية، علشان كده انا بأكد على أهمية حضور المحاضرات وعدم التغيب.
+**Q14: What if I don’t have the course requirements/prerequisites?**
 
-س١٦: هل يوجد مميزات أخرى للكورس؟
+A14: In that case, try developing a simple software program like a timetable or phone-book using ASP.NET MVC, reading up a lot on SDLC, get quick overview about bash and Power shell and some basic fundamental about DB and you should be ready, don't spend too long.
 
-ج١٦: الكورس هيكون فيه دعم فني واشتراك مجاناً في برنامج المنتور أول ٣ شهور.
+We are going to code and develop a simple software in the course. So, I don’t want your first time seeing or writing code to be in the course; you have to come prepared so you can keep up.
 
-هيكون قادر إنه يحل أي مشكلة لديك أو يجاوب على أي سؤال عندك. وانا هشرف على الدعم الفني بنفسي علشان أتأكد إنه بالمستوى المطلوب.
+**Q15: Will the course and lectures be recorded in case I couldn’t attend live sessions?**
 
-[ده لينك لمعلومات أكتر عن برنامج المينتور](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md)
+A15: Yes, the lectures shall be recorded and available for free for 4 days you shall be choosing in advance. However, if you want a permanent recording of the lecture, the price of a single lecture will be an additional $25. That is why I am stressing the importance of attendance and not skipping.
 
-س١٧: ايه هو سعر الدعم الفني أو برنامج المينتور؟
+**Q16: Are there any more advantages to the course?**
 
-ج١٧: أولا الدعم الفني أو برنامج المينتور هو خدمة اختيارية وليست اجبارية، تكلفة الترخيص لبرنامج الدعم الفني ١٥٠ جنية شهرية وتكلفة الدعم الفني نفسه ٣٥٠ جنية شهريا ولكن أول ثلاث شهور مجاناً.
+A16: The course shall have technical support and a free subscription to the mentorship program for the first 3 months.
 
-كمان بيعفي من سعر الترخيص وسعر الخدمة أفضل ٢٠ الى ٥٠ شخص في الدعم الفني، هيتم التحديد لاحقا.
+Your mentor shall be able to solve any problems you might face or answer any question you might have. And I shall personally supervise the program to make sure it lives up to the desired standard.
 
-[ده لينك لمعلومات اكترعن برنامج المينتور](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md)
+[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md)
 
-س١٨: هل فيه مميزات أخرى للدعم الفني أو برنامج المينتور؟
+**Q17: How much does the technical support or mentorship program cost?**
 
-ج١٨: أفضل ٢٠ الي ٥٠ شخص في الدعم الفني وهم التوب في الكورس والأكثر اجتهاداً ومتابعة وتقديم حلول لمشاكل الدعم الفني سيتم ترشيحهم لشركات سواء داخل مصر أو خارجها.
+A17: First of all, the technical support or mentorship program is an optional choice and not mandatory. The subscription fees is $7/month and it's payed annually which means $84/year.
 
-س١٩: هل المجال ده أقدر أشتغل فيه وأنا معنديش خبرة وخريج جديد؟
+Also, the mentorship and the technical support are free for people who contribute to our internal community.
 
-ج١٩: لو انت خريج المجال وكنت شاطر أساسا والتزمت وتعبت في الكورس إن شاء الله بعد ماتخلص هتشتغل أحسن من اللي بقاله في المجال خمس سنيين بس تبذل مجهود محترم في الكورس.
+[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md)
 
-لكن لو انت مش خريج المجال ولا عندك خبرة في البرمجة أكيد محتاج وقت علشان تستوعب وتطبق. المجال بتاعنا عموما مجال النفس الطويل.
+**Q18: Are there any more advantages to the technical support or mentorship program?**
 
-س٢٠: أنا للأسف لسه متوفقتش واشتغلت فحضرتك تنصحني أستغل الوقت ده في مذاكرة ايه لحد ما الكورس يبدأ؟
+A18: The top 20 to 50 people in the mentorship or technical support, those who are the best and the most diligent students in the course, who provide the most follow-up and the best solutions to technical support problems, shall be nominated to work for companies in the UK or EU.
 
-ج٢٠: اتفرج علي الفيديوهات بتاعتي عن الديف اوبس على القناة العربي فيه Playlist ([ديف اوبس خطوة بخطوة](https://www.youtube.com/playlist?list=PL68G6wbDBVghLXN2nDq_J5EGo-qo4QlGJ)) وعلى القناة الانجليزية بتاعتي اتفرج على Playlist ([Best Videos](https://www.youtube.com/playlist?list=PLe14MLC-Nwy5u0w1mD1l2kEiKW16ZlMYG)) الفيديوهات ديه هتفرق معاك جدا.
+**Q19: Will I be able to work in this field as a fresh graduate with no experience?**
 
-س ٢١: ماهي متطلبات الجهاز اللي هنشتغل عليه؟
+A19: If you are a graduate of this field and were basically clever, committed, and made a lot of effort in the course, hopefully after you finish you shall be able to work better than those who have been in the field for five years, but you have to make a significant amount of effort in the course and also target the junior job as it will be impossible to join as a Senior DevOps which needs a lot of real experience.
 
-ج٢١:
+But, if you are not a graduate of the field nor do you have experience in programming, then you definitely need a lot of time to comprehend and apply. Our field is generally that of patience and endurance.
+
+**Q20: Unfortunately, I haven’t successfully found a job yet. What do you suggest I do to make good use of my time till the course starts?**
+
+A20: Watch my DevOps videos on my Youtube channels.
+
+
+For **English speaking**, watch the ([Best Videos](https://www.youtube.com/playlist?list=PLe14MLC-Nwy5u0w1mD1l2kEiKW16ZlMYG)) playlist. Those videos with make a huge difference.
+
+For **Arabic speaking**, watch the ([DevOps-Step-by-Step](https://www.youtube.com/playlist?list=PLe14MLC-Nwy5u0w1mD1l2kEiKW16ZlMYG)) playlist. Those videos with make a huge difference.
+
+
+**Q21: What are the minimum system requirements for the course?**
+
+A21:
 
 - Processor (CPU): Intel Core i5 (sixth generation or newer) or equivalent
-
 - Operating System: Microsoft Windows 10 Professional x64
-
 - Memory 8/16 GB RAM
-
 - Storage: 500 GB internal storage drive
-
 - Internal or external Webcam (webcam must be opened during all sessions)
 
-س٢٢: فيه أي حاجة تانية محتاج أعرفها عن الكورس؟
+**Q22: Is there anything else I need to know about the course?**
 
-ج ٢٢: محتاج تعرف إن الكورس عايز مجهود كبير وكل لما تركز وتتعب أكتر هتستفيد أكتر. كمان لازم تعرف إن فيه تحضير قوي قبل كل محاضرة لازم تعمله وبعد المحاضرة هيكون فيه أسينمنت برده لازم تعمله.
+A22: You need to know that this is a demanding course and the more you focus and effort you put in the course, the more you benefit from it. Also, you must know that there is significant preparation that you must do before every lecture and after every lecture there shall be an assessments that you must take, see the following link for the list of Demos/Labs for the course.
 
-س٢٣: كيف يتم حضور المحاضرات؟
+[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-demos-labs.md)
 
-ج ٢٣: سوف يتم إرسال دعوة اجتماع قبل كل محاضرة بأسبوع باستخدام مايكروسوفت تيمز على الإيميل اللي تم استخدامه في التسجيل كمان سيتم إرسال دعوة تجربية قبل بدء الكورس
-وسيتم الاتصال بكل شخص للتأكيد عليه.
 
-س ٢٤: ماهو آخر موعد للتسجيل في الكورس؟
 
-ج٢٤: آخر موعد في أي دورة قبل البدء بأُسبوعين يستثني منها الدورة الأولي واللي هيكون آخر يوم للتسجيل ٢٨ يناير.
+**A23: How do I attend the lectures?**
 
-س ٢٥: هل ممكن أشتري تسجيل المحاضرات من غير ما أسجل في الكورس؟
+A23: A meeting invitation shall be sent a week before every lecture via Microsoft Teams to the email used in registration. Also, a demo invitation shall be sent before the course starts and there is a discord channel to join so if you have any questions or issues, you can ask there.
 
-ج٢٥: أيوة ينفع وفي الحالة دي سعر الكورس المسجل ١٠٠٠٠ جنيه.
+**Q24: What is the deadline for course registration?**
 
-لمزيد من التفاصيل عن الأسعار يرجي مراجعة:
+A24: The registration deadline for any course is two weeks prior to the course start date.
 
-[قائمة اسعار الخدمات](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/service-prices.md)
+**Q25: Can I purchase the lecture recordings without registering for the course?**
+
+A25: Yes, that is possible, and in that case the price of the recorded course shall be $750.
+
+For more details regarding prices, please check the price page:
+
+[Service Price List](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/service-prices.md)
+
