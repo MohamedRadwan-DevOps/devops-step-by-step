@@ -1,5 +1,4 @@
-# DevOps Step-by-step Arabic
-
+# DevOps Step-by-step
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
@@ -12,7 +11,7 @@
 
 - <a href="http://devopsvisionsqa.mohamedradwan.com/" title="Q/A" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">🙋‍♀️ Q/A</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ What do you need to Join this course</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ Course Info and Prerequisites</a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/reviews.md" title="Click here to See Members Reviews" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⭐ Reviews</a>
 
@@ -38,6 +37,9 @@
   </a>&ensp;
   <a href="https://www.linkedin.com/in/mohamedahmedradwan/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+    <a href="https://www.youtube.com/user/MRadwanMSF">
+  <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
   </a>&ensp;
   <a href="https://www.youtube.com/c/MohamedRadwanArabic">
   <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
