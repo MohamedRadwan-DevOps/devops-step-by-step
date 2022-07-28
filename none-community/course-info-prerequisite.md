@@ -19,7 +19,7 @@ $750.
   
 **Payment methods:** 
 
-Bank transfer, PayPal Vodafone cash.
+Bank transfer, PayPal and Vodafone cash.
 
   
 **Course date:** 
@@ -33,7 +33,7 @@ The exact date will be announced two weeks before the start date.
 
 The course has two class to join, English and Arabic. 
 
-So, if you are interested in joining the **English** class, please contact our Financial Manager in UK, Ms. Rania via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
+So, if you are interested in joining the **English** class, please contact our Financial Manager in the UK, Ms. Rania via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
 
 But, if you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms. Nadia via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
 
@@ -43,16 +43,16 @@ But, if you are interested in joining the **Arabic** class, please contact our F
 
 - Computer and programming fundamentals ,general knowledge of the software industry life cycle,and the logical and critical thinking skills are very important
 
-- Networking basics
+- Basics of Networking
 
 - Basics of Databases
 
-- Power Shell basics
+- Basics of Power-Shell
 
-- Bash Scripting basics
+- Basics of Bash Scripting
 
   
-The course also requires that you have a credit card (you must have a credit card, not a debit card).
+The course also requires that you have a credit card (you must have a credit card, not a debit card) to activate your Azure Free account.
 
 **Course level:** 
 
