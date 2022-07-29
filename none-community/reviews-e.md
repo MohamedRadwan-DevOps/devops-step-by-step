@@ -263,26 +263,25 @@ My advice to everyone is to participate in the course without hesitation.
 I myself am waiting for more advanced courses to be available, because they will take you through leaps and bounds and be one of the most prominent people in the field of DevOps.
 
 Reviewer's Video
-
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Omar's Review ](https://www.facebook.com/mradwandevops/videos/4807529462706358/ "Omar's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
+### Connect with Omar Muhammad: &ensp; 
+<img src="https://i.ibb.co/W5FhB6v/omar-mohamed.jpg" width="10%"/> 
 
-<a href="https://www.facebook.com/x">
+<a href="https://m.facebook.com/OmarGxr">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/omar-muhammed-omar">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
+
 
 <br></br>
 
 ## Ramy Ragab
-## DevOps Engineer/CEgypt
+## DevOps Engineer/Egypt
 
 Hi, i am Ramy Ragab, i am a DevOps Engineer for almost 3 years now, currently residing in Egypt.
 
@@ -305,24 +304,21 @@ And like everything, it has its pros and cons. If there was any negatives. we wo
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Rami's Review ](https://www.facebook.com/mradwandevops/videos/673536700647801 "Rami's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Ramy Ragab: &ensp; 
+
+<img src="https://i.ibb.co/kcLzYSj/ramy.jpg" width="10%" height="10%" />
+   <a href="https://www.linkedin.com/in/ramy-ragab/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
-
-<a href="https://www.facebook.com/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
+
 
 <br></br>
 
-## Shehab
+## Shehab Ameen
 ## Senior Infrastructure Operations Engineer/Qatar
 
 Hi, i am Shehab, I am a Senior Infrastructure Operations Engineer,currently residing in Qatar.
@@ -361,19 +357,18 @@ My advice to all young people who work in the IT field or who are about to enter
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Shehab's Review ](https://www.facebook.com/mradwandevops/videos/754838375903559 "Shehab's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
+### Connect with Shehab Ameen: &ensp; 
 
-<a href="https://www.facebook.com/x">
+<img src="https://i.ibb.co/bKP8TCS/266765110-10166083987715375-1370095315109788884-n.jpg" width="10%" height="10%" />
+<a href="https://www.facebook.com/Degoo.pop">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/shehabameen/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
 <br></br>
