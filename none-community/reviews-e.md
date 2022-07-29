@@ -41,22 +41,19 @@ The Course is different than all other courses, it actually prepares you to be a
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Ahmed's Review ](https://www.facebook.com/mradwandevops/videos/1025132721459225 "Ahmed's Review")
 
-### Connect with [reviewer name]: &ensp; 
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
 
-<a href="https://www.facebook.com/x">
+### Connect with Ahmed El-Sherbeeny : &ensp; 
+<img src="https://i.ibb.co/KVChR06/1639042753833.jpg" width="10%" height="10%" />
+<a href="https://www.facebook.com/ahmed.b.elsherbeeny">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/ahmed-sherbeeny-a57831a3/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
 <br></br>
-
-![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Female.png)
 
 ## Kareem Khamis
 ## Shifting Career to DevOps/USA
@@ -90,19 +87,17 @@ Currently, i am continuing with Mohamed Radwan in the Mentoring and Technical Su
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Kareem's Review ](https://www.facebook.com/mradwandevops/videos/669577997624111 "Kareem's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
-
-<a href="https://www.facebook.com/x">
+### Connect with Kareem Khamis: &ensp; 
+<img src="https://i.ibb.co/KwrNvnj/8b761250-0455-405c-9bad-5a4bebbb5c25.png" width="10%" height="10%" />
+<a href="https://www.facebook.com/kareem.fathy.7">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/kareem-fathy-393ba853/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
 <br></br>
@@ -128,19 +123,14 @@ Overall, the course is more than fantastic, and anything that Mohamed Radwan doe
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Mahmoud's Review ](https://www.facebook.com/mradwandevops/videos/704816287374679/ "Mahmoud's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Mahmoud Mohamed Elsayed: &ensp; 
+<img src="https://i.ibb.co/6FcB1qX/Mahmoud-Elsayed.jpg" width="10%" height="10%" />
+   <a href="https://www.linkedin.com/in/mahmoud-mohamed-elsayed-4b0b84a8">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
-
-<a href="https://www.facebook.com/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
 <br></br>
@@ -174,19 +164,17 @@ Lastly, i would like to thank Mohamed Radwan and all my colleague.
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Mohamed's Review ](https://www.facebook.com/mradwandevops/videos/458593219288274 "Mohamed's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
-
-<a href="https://www.facebook.com/x">
+### Connect with Mohamed Sheirf: &ensp; 
+<img src="https://i.ibb.co/1dbJbL2/46516319-2125978917453227-1487508772749312000-n.jpg" width="10%" height="10%" />
+<a href="https://www.facebook.com/profile.php?id=100001234190748">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/mohamed-el-sherif-b2a386120/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
 <br></br>
@@ -214,19 +202,17 @@ I would like to Thank Mohamed Radwan, and if there are any other courses i would
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Mohamed's Review ](https://www.facebook.com/mradwandevops/videos/500161098393584 "Mohamed's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
-
-<a href="https://www.facebook.com/x">
+### Connect with Mohamed Magdy: &ensp; 
+<img src="https://i.ibb.co/fX6L3B5/Mohamed-Magdy-1.jpg" width="10%" height="40%" />
+<a href="https://www.facebook.com/Mohamed9Magdy">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>
+     <a href="https://www.linkedin.com/in/mohamed-magdy-598934107">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
 <br></br>
@@ -248,20 +234,9 @@ Lastly, the community that is available on Q&A Platform, that helps you solve al
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Omar's Review ](https://www.facebook.com/100042445785173/videos/994532214769659/ "Omar's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
-
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
-
-<a href="https://www.facebook.com/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-  </a>
 
 <br></br>
 
@@ -288,26 +263,25 @@ My advice to everyone is to participate in the course without hesitation.
 I myself am waiting for more advanced courses to be available, because they will take you through leaps and bounds and be one of the most prominent people in the field of DevOps.
 
 Reviewer's Video
-
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Omar's Review ](https://www.facebook.com/mradwandevops/videos/4807529462706358/ "Omar's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
+### Connect with Omar Muhammad: &ensp; 
+<img src="https://i.ibb.co/W5FhB6v/omar-mohamed.jpg" width="10%"/> 
 
-<a href="https://www.facebook.com/x">
+<a href="https://m.facebook.com/OmarGxr">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/omar-muhammed-omar">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
+
 
 <br></br>
 
 ## Ramy Ragab
-## DevOps Engineer/CEgypt
+## DevOps Engineer/Egypt
 
 Hi, i am Ramy Ragab, i am a DevOps Engineer for almost 3 years now, currently residing in Egypt.
 
@@ -330,24 +304,21 @@ And like everything, it has its pros and cons. If there was any negatives. we wo
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Rami's Review ](https://www.facebook.com/mradwandevops/videos/673536700647801 "Rami's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Ramy Ragab: &ensp; 
+
+<img src="https://i.ibb.co/kcLzYSj/ramy.jpg" width="10%" height="10%" />
+   <a href="https://www.linkedin.com/in/ramy-ragab/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
-
-<a href="https://www.facebook.com/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
+
 
 <br></br>
 
-## Shehab
+## Shehab Ameen
 ## Senior Infrastructure Operations Engineer/Qatar
 
 Hi, i am Shehab, I am a Senior Infrastructure Operations Engineer,currently residing in Qatar.
@@ -386,19 +357,18 @@ My advice to all young people who work in the IT field or who are about to enter
 
 Reviewer's Video
 
-<a href="x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-</a> &ensp; 
+[Shehab's Review ](https://www.facebook.com/mradwandevops/videos/754838375903559 "Shehab's Review")
 
 
-### Connect with [reviewer name]: &ensp; 
 
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
+### Connect with Shehab Ameen: &ensp; 
 
-<a href="https://www.facebook.com/x">
+<img src="https://i.ibb.co/bKP8TCS/266765110-10166083987715375-1370095315109788884-n.jpg" width="10%" height="10%" />
+<a href="https://www.facebook.com/Degoo.pop">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/shehabameen/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
 <br></br>
