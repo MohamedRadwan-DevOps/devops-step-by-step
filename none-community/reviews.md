@@ -1,6 +1,6 @@
 # Course Reviews
 
-![Karim](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/kareem-fathy.png)
+![Kareem](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/kareem-fathy.png)
 
 ## Kareem Khamis
 ## Shifting Career to DevOps/USA
@@ -34,12 +34,12 @@ Currently, i am continuing with Mohamed Radwan in the Mentoring and Technical Su
 
 Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtu.be/saRVh1KfU4A">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
 
-### Connect with [reviewer name]: &ensp; 
+### Connect with Kareem: &ensp; 
 <a href="https://www.linkedin.com/in/kareem-fathy-393ba853/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a> &ensp; <a href="https://www.facebook.com/kareem.fathy.7">
@@ -48,7 +48,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mahmoud-mohamed-elsayed.png)
+![Mahmoud](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mahmoud-mohamed-elsayed.png)
 
 ## Mahmoud Mohamed Elsayed
 ## Software Development Team Lead/KSA
@@ -71,21 +71,19 @@ Overall, the course is more than fantastic, and anything that Mohamed Radwan doe
 
 Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtu.be/N-BkDJsQQTQ">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
 
-### Connect with [reviewer name]: &ensp; 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Mahmoud: &ensp; 
+<a href="https://www.linkedin.com/in/mahmoud-mohamed-elsayed-4b0b84a8">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; <a href="https://www.facebook.com/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-  </a>
+</a>
 
 <br></br>
 
-![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mohamed-el-sherif-.png)
+![Mohamed Sheirf](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mohamed-el-sherif-.png)
 
 ## Mohamed Sheirf
 ## Network Security Engineer/Egypt
@@ -116,21 +114,21 @@ Lastly, i would like to thank Mohamed Radwan and all my colleague.
 
 Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtu.be/pSrz6o2s3tg">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
 
-### Connect with [reviewer name]: &ensp; 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Mohamed: &ensp; 
+<a href="https://www.linkedin.com/in/mohamed-el-sherif-b2a386120/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; <a href="https://www.facebook.com/x">
+</a> &ensp; <a href="https://www.facebook.com/profile.php?id=100001234190748">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
 <br></br>
 
-![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mohamed-magdy.png)
+![Mohamed](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mohamed-magdy.png)
 
 ## Mohamed Magdy
 ## Quality Assurance in the Customer Service Sector/Egypt
@@ -155,23 +153,22 @@ I would like to Thank Mohamed Radwan, and if there are any other courses i would
 
 Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtu.be/DXMtwHVAI1w">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
 
-### Connect with [reviewer name]: &ensp; 
+### Connect with Mohamed: &ensp; 
 
-### Connect with [reviewer name]: &ensp; 
-<a href="https://www.linkedin.com/in/x">
+<a href="https://www.linkedin.com/in/mohamed-magdy-598934107">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; <a href="https://www.facebook.com/x">
+</a> &ensp; <a href="https://www.facebook.com/Mohamed9Magdy">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
 <br></br>
 
-![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
+![Omar](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
 
 ## Omar Ahmed
 ## Database Admin/KSA
@@ -188,26 +185,18 @@ Moreover, I learned the art of Priority setting, and that is if you need somethi
 
 Lastly, the community that is available on Q&A Platform, that helps you solve all the issues you face, and supports you in the assignments as well.
 
-Reviewer's Video
+Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtube.com/shorts/7-gJqDslFrU">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
 
-### Connect with [reviewer name]: &ensp; 
-
-<a href="https://www.linkedin.com/in/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; 
-
-<a href="https://www.facebook.com/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
 <br></br>
 
-![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/omar-muhammed-omar.png)
+![Omar Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/omar-muhammed-omar.png)
 
 ## Omar Muhammad 
 ## Back-end Engineer/Iraq
@@ -233,15 +222,15 @@ I myself am waiting for more advanced courses to be available, because they will
 
 Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtu.be/PStuDvQsnas">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
 
-### Connect with [reviewer name]: &ensp; 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Omar: &ensp; 
+<a href="https://www.linkedin.com/in/omar-muhammed-omar">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; <a href="https://www.facebook.com/x">
+</a> &ensp; <a href="https://m.facebook.com/OmarGxr">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
@@ -250,9 +239,9 @@ Reviewer's Video (Arabic)
 ![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/ramy-ragab.png)
 
 ## Ramy Ragab
-## DevOps Engineer/CEgypt
+## DevOps Engineer/Egypt
 
-Hi, i am Ramy Ragab, i am a DevOps Engineer for almost 3 years now, currently residing in Egypt.
+Hi, i am Ramy Ragab, I am a DevOps Engineer for almost 3 years now, currently residing in Egypt.
 
 
 When I wanted to learn the field of DevOps, it was all Self study, It was not  a clear roadmap to learn from, I was a little lost among the many resources and courses available, whether on Udemy or YouTube.
@@ -273,21 +262,19 @@ And like everything, it has its pros and cons. If there was any negatives. we wo
 
 Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtu.be/9chENVzk3oE">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
 
-### Connect with [reviewer name]: &ensp; 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Ramy: &ensp; 
+<a href="https://www.linkedin.com/in/ramy-ragab/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; <a href="https://www.facebook.com/x">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-  </a>
+</a> &ensp; 
 
 <br></br>
 
-![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/shehabameen.png)
+![Shehab](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/shehabameen.png)
 
 ## Shehab
 ## Senior Infrastructure Operations Engineer/Qatar
@@ -328,21 +315,21 @@ My advice to all young people who work in the IT field or who are about to enter
 
 Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtu.be/FasbTPrhJ8U">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
 
-### Connect with [reviewer name]: &ensp; 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Shehab: &ensp; 
+<a href="https://www.linkedin.com/in/shehabameen/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; <a href="https://www.facebook.com/x">
+</a> &ensp; <a href="https://www.facebook.com/Degoo.pop">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
 <br></br>
 
-![Full Name](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
+![Ahmed](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
 
 ## Ahmed El-Sherbeeny
 ## Technical Support Team-Lead/UAE
@@ -384,14 +371,14 @@ The Course is different than all other courses, it actually prepares you to be a
 
 Reviewer's Video (Arabic)
 
-<a href="x">
+<a href="https://youtu.be/Hvqd0XBIYE0">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
 </a> &ensp; 
 
-### Connect with [reviewer name]: &ensp; 
-<a href="https://www.linkedin.com/in/x">
+### Connect with Ahmed: &ensp; 
+<a href="https://www.linkedin.com/in/ahmed-sherbeeny-a57831a3/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; <a href="https://www.facebook.com/x">
+</a> &ensp; <a href="https://www.facebook.com/ahmed.b.elsherbeeny">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>
 
