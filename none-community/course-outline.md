@@ -94,8 +94,8 @@ Module 17: Version Control in More Details
  - Lesson 1: Understanding Git Basics
  - Lesson 2: Git Branches
  - Lesson 3: Understanding Git Merge
- - Lesson 4: How to Deal with Merge Conflict
- - Lesson 5: Understanding and Working with Pull Request (PR)
+ - Lesson 4: Understanding and Working with Pull Request (PR)
+ - Lesson 5: How to Deal with Merge Conflict
  - Lesson 6: Understanding and Working with Fork
  - Lesson 7: Overview Of Branch Policies and Protection
 
