@@ -384,4 +384,37 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
+## Rehab Ragab
+## Back-end Engineer/Egypt
+
+Hi, I am Rehab, I am a Back-end Engineer.
+
+For the longest while I wanted to start studying DevOps, but I did not know how or where to start from.
+
+I saw a course with Mohamed Radwan, and I did not hesitate to sign up because I have had a previous experience with Mohamed Radwan in the Mentor program where he helped me before and I knew that the course would exceed my expectations.
+
+The course has many perks but 4 points stood out for me. 
+
+First: The course is very organized. You already know ,even before starting, where you will start and where you will end. The sequence and flow of the presentation of information is smooth, which makes you eager and excited to know the next part, and keep you anticipated for more.
+
+Second: It does not focus on tools, but focuses on building the foundation by introducing concepts, and I found that really useful, reason being when you start with the tool without focusing on the concepts you will falter at the first sight of problems.
+
+Learning a tool will not help you in learning another tool, but learning the building blocks is useful, so you will be able to adapt new tools easily and quickly. 
+
+Third: Q&A Platform and how it teaches us and lets us practice how to ask proper questions, how to answer these questions and how to transform these questions into a knowledge hub.
+
+Fourth: The mentorship program, and the advices Mohamed Radwan gives are priceless. One of which is priority setting which has influnced me a great deal in both my professional and personal live!
+
+The last thing I would like to recommend is this course to anyone who wants to learn DevOps and is currently lost, or anyone who is lost in the field of software in general, and do not know what track to follow.
+
+The course gives you a high level overview of what is the SDLC and how it evolved over the years, and more importantly it is coming from first hand account from a professional who was doing it the old way and was able to adept and evolve to be a coach in the new way!
+
+### Connect with Rehab Ragab : &ensp; 
+<img src="https://i.ibb.co/YhCTwmk/Rehab-Ragab.jpg" width="10%" height="10%" />
+   <a href="https://www.linkedin.com/in/rehab-abotalep-04a22b19a/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+
+<br></br>
+
 
