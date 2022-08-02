@@ -372,3 +372,104 @@ Reviewer's Video
   </a>
 
 <br></br>
+
+
+## Rehab Ragab
+## Back-end Engineer/Egypt
+
+Hi, I am Rehab, I am a Back-end Engineer.
+
+For the longest while I wanted to start studying DevOps, but I did not know how or where to start from.
+
+I saw a course with Mohamed Radwan, and I did not hesitate to sign up because I have had a previous experience with Mohamed Radwan in the Mentor program where he helped me before and I knew that the course would exceed my expectations.
+
+The course has many perks but 4 points stood out for me. 
+
+First: The course is very organized. You already know ,even before starting, where you will start and where you will end. The sequence and flow of the presentation of information is smooth, which makes you eager and excited to know the next part, and keep you anticipated for more.
+
+Second: It does not focus on tools, but focuses on building the foundation by introducing concepts, and I found that really useful, reason being when you start with the tool without focusing on the concepts you will falter at the first sight of problems.
+
+Learning a tool will not help you in learning another tool, but learning the building blocks is useful, so you will be able to adapt new tools easily and quickly. 
+
+Third: Q&A Platform and how it teaches us and lets us practice how to ask proper questions, how to answer these questions and how to transform these questions into a knowledge hub.
+
+Fourth: The mentorship program, and the advices Mohamed Radwan gives are priceless. One of which is priority setting which has influnced me a great deal in both my professional and personal live!
+
+The last thing I would like to recommend is this course to anyone who wants to learn DevOps and is currently lost, or anyone who is lost in the field of software in general, and do not know what track to follow.
+
+The course gives you a high level overview of what is the SDLC and how it evolved over the years, and more importantly it is coming from first hand account from a professional who was doing it the old way and was able to adept and evolve to be a coach in the new way!
+
+### Connect with Rehab Ragab : &ensp; 
+<img src="https://i.ibb.co/YhCTwmk/Rehab-Ragab.jpg" width="10%" height="10%" />
+   <a href="https://www.linkedin.com/in/rehab-abotalep-04a22b19a/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+
+<br></br>
+
+## Neveen Abd-Elazeem
+## Developer/Egypt
+
+Hi, I'm Nevin, I am a civil engineer and I decided to Shift Career and work in programming, after I learned the basics of programming and enjoyed it.
+
+I was confused as to what specialization I would focus on, especially that I enjoyed every aspect of software development. The amount of information, courses and certificates on the internet at this time was overwhelming.
+
+Mohamed Radwan announced the DevOps course around this time, in which he will explain in detail everything about DevOps and SDLC.
+
+Prior to beginning the course, I knew about Mohamed Radwan,since I was a subscriber on his YouTube channel for period of time.
+
+Truth is that I found the way he explains topics and his depth and breadth of knowledge is unparalleled. His way of conveying the information and providing links under his YouTube videos for those who want to implement it by hand is astonishing, considering that this is free content at the end of day, also not to mention his use of Gifs that explain so much in little steps.
+
+The information provided in the course is well established. I participated in the course, and frankly, it was fantastic,however one point stood out which is the detailed preparation points and their arrangement in order to deliver an idea that is complex in a simple and easy to understand formate.
+
+If you are still a beginner, you will have to invest a lot of effort and time to get things working but it will also teach you lot in return. 
+
+If you have any issue or question you are struggling with, you can always use the Q&A platform where you will find people always willing to help you.
+
+The Q&A platform has taught us how to ask proper questions and provide the needed details, so we get answered in a timely manner.
+
+Mohamed Radwan also taught us how to deal with hardships, and resolve deadlocks, as well as how to deal with any problems we face with minimal loses, while learning from our mistakes.
+
+Lastly,Mohamed Radwan gave us a lot of advices, and taught us how to properly invest time to learn new things,and get the most out of our time by prioritizing everything we do.
+
+
+### Connect with Neveen Abd-Elazeem : &ensp; 
+<img src="https://i.ibb.co/g7hHKDK/651a68b1-9040-40c9-a0a8-a1d59cda326c.jpg" width="10%" height="10%" />
+
+   <a href="https://www.linkedin.com/in/eng-neveen-abd-elazeem-b57041217/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+
+<br></br>
+
+## Ali Gamal
+## Embedded Systems and IoT Engineer/Egypt
+
+Hi, I am Ali Gamal,and I am an Embedded Systems and IoT Engineer.
+
+I was in the first batch and I am happy to be a part of that great experience.
+
+Originally I thought the DevOps field is difficult, but it became clear that the field is very easy.
+
+I had no idea about the DevOps field. But with effort and focus, I was able to stay ahead of the game. You will need to invest time and effort,take the matter seriously because the amount of information that you will take from Mohamed Radwan is mind blowing.
+
+The best thing in the course is that practical demos, and despite the fact that there are a lot of concepts that needs to be covered, they are always demonstrated with practical examples.
+
+Finally, Mohamed Radwan would like to reassure people who do not have a software background not to worry, because Mohamed Radwan starts with you literally from scratch. The topics are not as complicated but require understanding of base concepts, to be able to apply.
+
+Another part is the support you get in the course or after, whether Mentoring Or Q&A Platform,which provides you with the tools to solve problems efficiently by getting help from other colleagues in the course. 
+
+The most important part is that Mohamed Radwan provides the tools and feedback to create compelling C.V. that is up to professional International Standards,which will get your foot through the door!
+
+
+### Connect with Ali Gamal : &ensp; 
+<img src="https://i.ibb.co/865D7Jz/aligamal.jpg" width="10%" height="10%" /> 
+
+<a href="https://www.facebook.com/eng.ali.gamal/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>&ensp;
+   <a href="https://www.linkedin.com/in/aligamal-25/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+
+<br></br>
