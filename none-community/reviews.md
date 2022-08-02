@@ -384,10 +384,12 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
+![Rehab](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Rehab.png)
+
 ## Rehab Ragab
 ## Back-end Engineer/Egypt
 
-Hi, I am Rehab, I am a Back-end Engineer.
+Hi, I am Rehab Ragab, I am a Back-end Engineer.
 
 For the longest while I wanted to start studying DevOps, but I did not know how or where to start from.
 
@@ -395,7 +397,7 @@ I saw a course with Mohamed Radwan, and I did not hesitate to sign up because I 
 
 The course has many perks but 4 points stood out for me. 
 
-First: The course is very organized. You already know ,even before starting, where you will start and where you will end. The sequence and flow of the presentation of information is smooth, which makes you eager and excited to know the next part, and keep you anticipated for more.
+First: The course is very organized. You already know, even before starting, where you will start and where you will end. The sequence and flow of the presentation of information is smooth, which makes you eager and excited to know the next part, and keep you anticipated for more.
 
 Second: It does not focus on tools, but focuses on building the foundation by introducing concepts, and I found that really useful, reason being when you start with the tool without focusing on the concepts you will falter at the first sight of problems.
 
@@ -410,7 +412,6 @@ The last thing I would like to recommend is this course to anyone who wants to l
 The course gives you a high level overview of what is the SDLC and how it evolved over the years, and more importantly it is coming from first hand account from a professional who was doing it the old way and was able to adept and evolve to be a coach in the new way!
 
 ### Connect with Rehab Ragab : &ensp; 
-<img src="https://i.ibb.co/YhCTwmk/Rehab-Ragab.jpg" width="10%" height="10%" />
    <a href="https://www.linkedin.com/in/rehab-abotalep-04a22b19a/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
