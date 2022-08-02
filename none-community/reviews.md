@@ -380,7 +380,7 @@ Reviewer's Video (Arabic)
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a> &ensp; <a href="https://www.facebook.com/ahmed.b.elsherbeeny">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-  </a>
+</a>
 
 <br></br>
 
@@ -417,5 +417,20 @@ The course gives you a high level overview of what is the SDLC and how it evolve
   </a>
 
 <br></br>
+
+![Dummy User](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
+
+## Dummy Review
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Connect with Dummy User: &ensp; 
+<a href="https://www.linkedin.com/in/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a> &ensp; <a href="https://www.facebook.com/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+</a>
+
+
 
 
