@@ -276,7 +276,7 @@ Reviewer's Video (Arabic)
 
 ![Shehab](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/shehabameen.png)
 
-## Shehab
+## Shehab Awni
 ## Senior Infrastructure Operations Engineer/Qatar
 
 Hi, i am Shehab, I am a Senior Infrastructure Operations Engineer,currently residing in Qatar.
@@ -389,7 +389,7 @@ Reviewer's Video (Arabic)
 ## Rehab Ragab
 ## Back-end Engineer/Egypt
 
-Hi, I am Rehab Ragab, I am a Back-end Engineer.
+Hi, I am Rehab, I am a Back-end Engineer.
 
 For the longest while I wanted to start studying DevOps, but I did not know how or where to start from.
 
@@ -418,18 +418,72 @@ The course gives you a high level overview of what is the SDLC and how it evolve
 
 <br></br>
 
-![Dummy User](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
+![Neveen](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/eng-neveen-abd-elazeem.png)
 
-## Dummy Review
+## Neveen Abd-Elazeem
+## Civil Engineer/Egypt
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Hi, I'm Neveen, I am a Civil Engineer, and I decided to Shift Career and work in programming, after I learned the basics of programming and enjoyed it.
 
-### Connect with Dummy User: &ensp; 
-<a href="https://www.linkedin.com/in/">
+I was confused as to what specialization I would focus on, especially that I enjoyed every aspect of software development. The amount of information, courses and certificates on the internet at this time was overwhelming.
+
+Mohamed Radwan announced the DevOps course around this time, in which he will explain in detail everything about DevOps and SDLC.
+
+Prior to beginning the course, I knew about Mohamed Radwan,since I was a subscriber on his YouTube channel for period of time.
+
+Truth is that I found the way he explains topics and his depth and breadth of knowledge is unparalleled. His way of conveying the information and providing links under his YouTube videos for those who want to implement it by hand is astonishing, considering that this is a free content at the end of day, also not to mention his use of Gifs that explain so much in little steps.
+
+The information provided in the course is well established. I participated in the course, and frankly, it was fantastic,however one point stood out which is the detailed preparation points and their arrangement in order to deliver an idea that is complex in a simple and easy to understand formate.
+
+If you are still a beginner, you will have to invest a lot of effort and time to get things working but it will also teach you lot in return. 
+
+If you have any issue or question you are struggling with, you can always use the Q&A platform where you will find people always willing to help you.
+
+The Q&A platform has taught us how to ask proper questions and provide the needed details, so we get answered in a timely manner.
+
+Mohamed Radwan also taught us how to deal with hardships, and resolve deadlocks, as well as how to deal with any problems we face with minimal loses, while learning from our mistakes.
+
+Lastly, Mohamed Radwan gave us a lot of advices, and taught us how to properly invest time to learn new things, and get the most out of our time by prioritizing everything we do.
+
+
+### Connect with Neveen Abd-Elazeem : &ensp; 
+<a href="https://www.linkedin.com/in/eng-neveen-abd-elazeem-b57041217/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a> &ensp; <a href="https://www.facebook.com/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
 </a>
+
+<br></br>
+
+![Ali](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/aligamal.png)
+
+## Ali Gamal
+## Embedded Systems and IoT Engineer/Egypt
+
+Hi, I am Ali Gamal, and I am an Embedded Systems and IoT Engineer.
+
+I was in the first batch and I am happy to be a part of that great experience.
+
+Originally I thought the DevOps field is difficult, but it became clear that the field is very easy.
+
+I had no idea about the DevOps field. But with effort and focus, I was able to stay ahead of the game. You will need to invest time and effort, take the matter seriously because the amount of information that you will take from Mohamed Radwan is mind blowing.
+
+The best thing in the course is that practical demos, and despite the fact that there are a lot of concepts that needs to be covered, they are always demonstrated with practical examples.
+
+Finally, Mohamed Radwan would like to reassure people who do not have a software background not to worry, because Mohamed Radwan starts with you literally from scratch. The topics are not as complicated but require understanding of base concepts, to be able to apply.
+
+Another part is the support you get in the course or after, whether Mentoring Or Q&A Platform,which provides you with the tools to solve problems efficiently by getting help from other colleagues in the course. 
+
+The most important part is that Mohamed Radwan provides the tools and feedback to create compelling C.V. that is up to professional International Standards, which will get your foot through the door!
+
+
+### Connect with Ali Gamal : &ensp; 
+<a href="https://www.facebook.com/eng.ali.gamal/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+</a>&ensp;
+<a href="https://www.linkedin.com/in/aligamal-25/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+
+<br></br>
 
 
 
