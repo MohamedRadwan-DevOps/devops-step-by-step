@@ -473,3 +473,47 @@ The most important part is that Mohamed Radwan provides the tools and feedback t
   </a>
 
 <br></br>
+
+## Mohamed Eid
+## DevOps Engineer/Egypt
+
+I’m Mohamed Eid, I am a DevOps Engineer currently residing in Cairo. I really liked the way Mohamed Radwan explained subjects even in matters far from the technicalities. this helped me a lot by showing me paths I didnt think about before.
+
+I was very enthusiastic about the contents of the course, and about DevOps in particular, specially with Mohamed Radwan’s experience, which I learned is valiable due to the fact that I followed his Youtube channel and knew about the quality of his content
+
+The main features of the course are:
+
+First: The course is very professionally organized and the way the information is linked together is very easy, and the roadmap you see explain the DevOps Concepts from the beginning to the end with great detail. Not only that but Mohamed Radwan shows everything manually first then how it is automated, to hammer into you the concept of automation and efficiency.
+
+Second: The course does not focus on teaching you a specific tool. The course focuses on teaching concepts that will make you able to learn any tool easily, and you will have the flexibility to move between one tool and another.
+
+Third: It is not just a course that you learn, Mohamed Radwan’s goal is to build a community for DevOps Professionals, so of course it will help you a lot, including building a network of relations from all countries, and this will help you transfer experiences from and to everyone, and it will also open up job opportunities for you, so I advise everyone and recommend the course very much to them and also I hope that everyone makes an effort to get the maximum benefit from the course.
+
+Fourth: Having a stack overflow will help you very much in solving any problem you face, which is a great asset to have anywhere.
+
+
+
+### Connect with Mohamed Eid : &ensp; 
+<img src="https://i.ibb.co/FWyVH4p/1641566676578.jpg" width="10%" height="10%" />
+   <a href="https://www.linkedin.com/in/muhammed-eid-b81008b4/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <br></br>
+
+
+## Ahmed Ola
+## Senior Web Developer/Egypt
+
+My name is Ahmed Ola, I work as a senior web developer currently residing in Cairo.
+
+ I was in the first batch of the course, and this is my review. The course is excellent and focuses on the basic concepts, not just tools that you learn without understanding.
+ 
+The course has practical application on all stages of CI CD and I advise Anyone who needs to start in DevOps should start with Mohamed Radwan at first to understand the reason behind DevOps culture and how DevOps fits in the software industry as a whole. 
+
+
+### Connect with Ahmed Ola : &ensp; 
+<a href="https://www.linkedin.com/in/ahmedola/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+
+<br></br>
