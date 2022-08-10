@@ -310,11 +310,11 @@
 
 ### **Module 7: Defining and Implementing Continuous Integration (CI)**
 
-|  **Demo 1: Create and configure Continuous Integration (CI) pipeline for a .NET class library.** | Free session |
-| :---| --- |
-| In this demo you will learn and understand how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc. You will also learn how to sit code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo. Also, you will learn how to create package management of the class library and to be ready to be pushed to public or private feeds. |  |
-
-
+ - **Demo 1: Create and configure Continuous Integration (CI) pipeline for a .NET class library.**
+ 
+    In this demo you will learn and understand how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc. You will also learn how to sit code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo. Also, you will learn how to create package management of the class library and to be ready to be pushed to public or private feeds.
+    
+    
  - **Demo 2: Create and configure Continuous Integration (CI) pipeline for API.**
  
     In this demo you will learn and understand how to perform Continuous Integration (CI), the case behind developing CI pipelines, and how it improves the overall software development lifecycle.
