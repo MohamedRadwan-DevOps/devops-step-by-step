@@ -69,3 +69,16 @@ Bio
 Guy is a Managing Director With the help of his team he is responsible for strategy, staff management & direction, sales & marketing, financial control & management, training & development and recruitment. He is also personally responsible for managing and supporting their strategically important clients and business development. 
 
 <br></br>
+
+![Chafik Belhaoues](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Chafik-Belhaoues.png)
+
+Chafik Belhaoues
+=============
+
+Bio
+---
+
+Chafik is the founder of Brainboard, he is an engineer with more than 15 years of experience building and managing cloud infrastructures (on-prem and in the cloud). He worked on different positions DevOps, SRE and cloud architecture and before starting his own company he was the CTO of Scaleway (French cloud provider).
+
+<br></br>
+
