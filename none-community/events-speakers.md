@@ -28,6 +28,36 @@ You can find April at a variety of conferences, as well as a frequent guest on p
 
 <br></br>
 
+![Mohamed Moshrif](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Mohamed-Moshrif.png)
+
+Mohamed Moshrif
+=============
+
+Bio
+---
+
+Mohamed Moshrif is an Engineering Manager @Google, Ex-Amazon, Ex-Microsoft, Ex-Booking.com. 
+
+Mohamed got over 19 years of combined diverse experience under my belt that spans all aspects of software development whether it's technical, business, managerial or educational.
+
+In the last couple of years, he helped multiple international businesses to open local branches in Egypt to give the same quality of work with much lower costs, helped them build teams and branches from scratch including day to day responsibilities of running a complete business.
+
+
+<br></br>
+![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Charlie-Nash.png)
+
+Charlie Nash
+=============
+
+Bio
+---
+
+Charlie is a Principal DevOps Recruitment Consultant who began his recruiting career in 2014 and throughout the past 7+ years, has matched the best quality talent to suitable positions all over the world. Charlie has worked roles across Europe and South America, and now currently focuses on the UK market specifically.
+
+Upon joining Stott and May, Charlie has continued to build his network across DevOps, Infrastructure and Cloud focusing on perm placements across the UK.
+
+<br></br>
+
 ![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)
 
 Guy Morley
@@ -46,10 +76,3 @@ Charlie Nash
 
 Bio
 ---
-
-Charlie is a Principal DevOps Recruitment Consultant who began his recruiting career in 2014 and throughout the past 7+ years, has matched the best quality talent to suitable positions all over the world. Charlie has worked roles across Europe and South America, and now currently focuses on the UK market specifically.
-
-Upon joining Stott and May, Charlie has continued to build his network across DevOps, Infrastructure and Cloud focusing on perm placements across the UK.
-
-<br></br>
-
