@@ -28,15 +28,20 @@ You can find April at a variety of conferences, as well as a frequent guest on p
 
 <br></br>
 
-![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)
+![Mohamed Moshrif](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Mohamed-Moshrif.png)
 
-Guy Morley
+Mohamed Moshrif
 =============
 
 Bio
 ---
 
-Guy is a Managing Director With the help of his team he is responsible for strategy, staff management & direction, sales & marketing, financial control & management, training & development and recruitment. He is also personally responsible for managing and supporting their strategically important clients and business development. 
+Mohamed Moshrif is an Engineering Manager @Google, Ex-Amazon, Ex-Microsoft, Ex-Booking.com. 
+
+Mohamed got over 19 years of combined diverse experience under my belt that spans all aspects of software development whether it's technical, business, managerial or educational.
+
+In the last couple of years, he helped multiple international businesses to open local branches in Egypt to give the same quality of work with much lower costs, helped them build teams and branches from scratch including day to day responsibilities of running a complete business.
+
 
 <br></br>
 ![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Charlie-Nash.png)
@@ -53,3 +58,14 @@ Upon joining Stott and May, Charlie has continued to build his network across De
 
 <br></br>
 
+![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)
+
+Guy Morley
+=============
+
+Bio
+---
+
+Guy is a Managing Director With the help of his team he is responsible for strategy, staff management & direction, sales & marketing, financial control & management, training & development and recruitment. He is also personally responsible for managing and supporting their strategically important clients and business development. 
+
+<br></br>

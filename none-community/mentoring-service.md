@@ -1,6 +1,6 @@
-## Mentoring service:
+## Mentorship Program:
 
-**This service includes the following benefits:**
+**This program includes the following benefits:**
 
 - Sharing job offers that are received from companies with the members and nominating them.
 - Providing a high-quality answer for any number of questions on our internal Stack-Overflow.
@@ -20,7 +20,7 @@
 
 **Conditions:**
 
-- Mentoring program is exclusive only to the members who have previously enrolled in the course in any batch.
+- Mentorship program is exclusive only to the members who have previously enrolled in the course in any batch.
 - Cost of the annual subscription is $84 annually, which is $7/month.
 - Annual subscription is paid once a year at the beginning of the subscription.
 - Joining fees of the program is $320, to be paid once.
