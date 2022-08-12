@@ -82,3 +82,15 @@ Chafik is the founder of Brainboard, he is an engineer with more than 15 years o
 
 <br></br>
 
+Miles Cattini
+=============
+
+Bio
+---
+
+Miles is a Core Cloud Solution Architect for Microsoft. Based in Australia with a focus on Government and regulated industry, his professional focus is guiding risk-averse buisness embrace a technological landscape of uncertainty and constant change.
+
+Now based in country Australia, Miles spent years working across a variety of industries in the UK.
+
+<br></br>
+
