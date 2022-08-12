@@ -82,6 +82,8 @@ Chafik is the founder of Brainboard, he is an engineer with more than 15 years o
 
 <br></br>
 
+![Miles Cattini](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Miles-Cattini.png)
+
 Miles Cattini
 =============
 
