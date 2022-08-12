@@ -58,18 +58,6 @@ Upon joining Stott and May, Charlie has continued to build his network across De
 
 <br></br>
 
-![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)
-
-Guy Morley
-=============
-
-Bio
----
-
-Guy is a Managing Director With the help of his team he is responsible for strategy, staff management & direction, sales & marketing, financial control & management, training & development and recruitment. He is also personally responsible for managing and supporting their strategically important clients and business development. 
-
-<br></br>
-
 ![Chafik Belhaoues](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Chafik-Belhaoues.png)
 
 Chafik Belhaoues
@@ -96,3 +84,14 @@ Now based in country Australia, Miles spent years working across a variety of in
 
 <br></br>
 
+![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)
+
+Guy Morley
+=============
+
+Bio
+---
+
+Guy is a Managing Director With the help of his team he is responsible for strategy, staff management & direction, sales & marketing, financial control & management, training & development and recruitment. He is also personally responsible for managing and supporting their strategically important clients and business development. 
+
+<br></br>
