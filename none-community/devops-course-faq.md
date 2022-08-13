@@ -16,7 +16,7 @@ However, to learn the practices, we must apply them using any tools or technolog
 
 **Q3: When shall the course start? How shall I pay? Is there a deadline for payment?**
 
-A3: The course has two class to join, English and Arabic. 
+A3: The course has two classes to join, English and Arabic. 
 
 So, if you are interested in joining the **English** class, please contact our Financial Manager in UK, Ms. Rania via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
 
