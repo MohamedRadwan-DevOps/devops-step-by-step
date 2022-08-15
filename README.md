@@ -5,6 +5,8 @@
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
 
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-lessons-preparation.md" title="Course Preparation Points" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Course Preparation Points </a>
+
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/source-code" title="Source Code/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📑 Source Code </a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/docs" title="Guides" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🎯 Guides </a>
