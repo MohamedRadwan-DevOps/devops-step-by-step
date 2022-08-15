@@ -1,6 +1,6 @@
 # Course Reviews
 
-![Kareem Khamis](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/kareem-fathy.png)
+![Kareem Khamis](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/kareem-fathy.png)
 
 ## Kareem Khamis
 ## Shifting Career to DevOps/USA
@@ -48,7 +48,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Mahmoud Elsayed](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mahmoud-mohamed-elsayed.png)
+![Mahmoud Elsayed](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/mahmoud-mohamed-elsayed.png)
 
 ## Mahmoud Mohamed Elsayed
 ## Software Development Team Lead/KSA
@@ -83,7 +83,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Mohamed Sheirf](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mohamed-el-sherif-.png)
+![Mohamed Sheirf](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/mohamed-el-sherif-.png)
 
 ## Mohamed Sheirf
 ## Network Security Engineer/Egypt
@@ -128,7 +128,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Mohamed Magdy](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/mohamed-magdy.png)
+![Mohamed Magdy](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/mohamed-magdy.png)
 
 ## Mohamed Magdy
 ## Quality Assurance in the Customer Service Sector/Egypt
@@ -168,7 +168,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Omar Ahmed](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
+![Omar Ahmed](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/Male.png)
 
 ## Omar Ahmed
 ## Database Admin/KSA
@@ -196,7 +196,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Omar Muhammad](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/omar-muhammed-omar.png)
+![Omar Muhammad](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/omar-muhammed-omar.png)
 
 ## Omar Muhammad 
 ## Back-end Engineer/Iraq
@@ -236,7 +236,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Ramy Ragab](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/ramy-ragab.png)
+![Ramy Ragab](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/ramy-ragab.png)
 
 ## Ramy Ragab
 ## DevOps Engineer/Egypt
@@ -274,7 +274,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Shehab Awni](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/shehabameen.png)
+![Shehab Awni](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/shehabameen.png)
 
 ## Shehab Awni
 ## Senior Infrastructure Operations Engineer/Qatar
@@ -329,7 +329,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Ahmed El-Sherbeeny](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Male.png)
+![Ahmed El-Sherbeeny](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/Male.png)
 
 ## Ahmed El-Sherbeeny
 ## Technical Support Team-Lead/UAE
@@ -384,7 +384,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Ahmed Ola](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/ahmedola.png)
+![Ahmed Ola](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/ahmedola.png)
 
 ## Ahmed Ola
 ## Senior Web Developer/Egypt
@@ -403,7 +403,7 @@ The course has practical application on all stages of CI CD and I advise anyone 
 
 <br></br>
 
-![Rehab Ragab](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/Rehab.png)
+![Rehab Ragab](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/Rehab.png)
 
 ## Rehab Ragab
 ## Back-end Engineer/Egypt
@@ -437,7 +437,7 @@ The course gives you a high level overview of what is the SDLC and how it evolve
 
 <br></br>
 
-![Neveen Abd-Elazeem](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/eng-neveen-abd-elazeem.png)
+![Neveen Abd-Elazeem](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/eng-neveen-abd-elazeem.png)
 
 ## Neveen Abd-Elazeem
 ## Civil Engineer/Egypt
@@ -472,7 +472,7 @@ Lastly, Mohamed Radwan gave us a lot of advices, and taught us how to properly i
 
 <br></br>
 
-![Ali Gamal](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/aligamal.png)
+![Ali Gamal](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/aligamal.png)
 
 ## Ali Gamal
 ## Embedded Systems and IoT Engineer/Egypt
@@ -504,7 +504,7 @@ The most important part is that Mohamed Radwan provides the tools and feedback t
 
 <br></br>
 
-![Mohamed Eid](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/reviewers/muhammed-eid.jfif)
+![Mohamed Eid](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/reviewers/muhammed-eid.jfif)
 
 ## Mohamed Eid
 ## DevOps Engineer/Egypt
