@@ -1,6 +1,6 @@
 # About Our Guest Speakers
 
-![Luke Killick](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Luke-Killick.png)
+![Luke Killick](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Luke-Killick.png)
 
 Luke Killick
 =============
@@ -12,7 +12,7 @@ Luke is a Senior Recruiter in the UK, he falls into recruitment after university
 
 <br></br>
 
-![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/April-Edwards.png)
+![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/April-Edwards.png)
 
 April Edwards
 =============
@@ -28,7 +28,7 @@ You can find April at a variety of conferences, as well as a frequent guest on p
 
 <br></br>
 
-![Mohamed Moshrif](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Mohamed-Moshrif.png)
+![Mohamed Moshrif](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Mohamed-Moshrif.png)
 
 Mohamed Moshrif
 =============
@@ -44,7 +44,7 @@ In the last couple of years, he helped multiple international businesses to open
 
 
 <br></br>
-![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Charlie-Nash.png)
+![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Charlie-Nash.png)
 
 Charlie Nash
 =============
@@ -58,7 +58,7 @@ Upon joining Stott and May, Charlie has continued to build his network across De
 
 <br></br>
 
-![Chafik Belhaoues](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Chafik-Belhaoues.png)
+![Chafik Belhaoues](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Chafik-Belhaoues.png)
 
 Chafik Belhaoues
 =============
@@ -70,7 +70,7 @@ Chafik is the founder of Brainboard, he is an engineer with more than 15 years o
 
 <br></br>
 
-![Miles Cattini](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Miles-Cattini.png)
+![Miles Cattini](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Miles-Cattini.png)
 
 Miles Cattini
 =============
@@ -84,7 +84,7 @@ Now based in country Australia, Miles spent years working across a variety of in
 
 <br></br>
 
-![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//none-community/images/speakers/Guy-Morley.png)
+![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Guy-Morley.png)
 
 Guy Morley
 =============

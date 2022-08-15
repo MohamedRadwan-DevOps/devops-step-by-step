@@ -26,7 +26,7 @@ Bank transfer, PayPal and Vodafone cash.
 
 The exact date will be announced two weeks before the start date.
 
-[Check for schedule update on this page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md)
+[Check for schedule update on this page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
 
 
 **For Registration:**
@@ -60,8 +60,8 @@ Beginner to advanced.
 
 For any inquiries? Look at the following Q&A page:
 
-[Q&A](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/devops-course-faq.md)
+[Q&A](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-faq.md)
 
 The starting date will be updated on the following course Date & Time page:
 
-[Date & Time Schedule ](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md)
+[Date & Time Schedule ](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)

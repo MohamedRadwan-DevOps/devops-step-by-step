@@ -26,11 +26,11 @@ Also, I will announce the course start date for each round on Linked-In and Face
 
 Moreover, the timing shall be updated on the following timetable page:
 
-[Timetable](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md)
+[Timetable](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
 
 And it is best you take a look at the reviews left by those who have finished the course. Each and every one of them explains how they benefited from the course and shares their experience that might be very close to your case and thereby answering all your questions.
 
-[Course Reviews](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/reviews.md)
+[Course Reviews](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/reviews.md)
 
 
 **Q4: Will the course be useful in Mobile Application? I have taken the Programming Fundamentals Course before with Eng. Moshrif, will it benefit me? How will DevOps benefit me afterwards?**
@@ -51,7 +51,7 @@ A5: It is not a complement to a career in Full Stack development, it is a whole 
 
 A6: The course is very practical, and you’ll have hands-on experience and do everything yourself from A to Z, it has more than 83 Demos/Labs you will learn and do them yourself, see the following link for the list of Demos/Labs for the course.
 
-[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-demos-labs.md)
+[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-demos-labs.md)
 
 **Q7: Will there be an advanced level course immediately after or will there be a long time period between both courses?**
 
@@ -81,7 +81,7 @@ The course will be a an advanced leap in your way of thinking and in your work i
 A11: Those are two different companies that provide cloud services, and no you don’t have to be an expert but you should know basic bash script; you shall learn all that in the course.
 You can review all the prerequisites of the course on the following link:
 
-[Course prerequisites](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-info-prerequisite.md)
+[Course prerequisites](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-info-prerequisite.md)
 
 
 **Q12: How important is it to have a credit card in the course? And will money be withdrawn from it? And what if I don’t have a credit card, what shall I do?**
@@ -124,7 +124,7 @@ A16: The course shall have technical support and a free subscription to the ment
 
 Your mentor shall be able to solve any problems you might face or answer any question you might have. And I shall personally supervise the program to make sure it lives up to the desired standard.
 
-[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md)
+[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md)
 
 **Q17: How much does the technical support or mentorship program cost?**
 
@@ -132,7 +132,7 @@ A17: First of all, the technical support or mentorship program is an optional ch
 
 Also, the mentorship and the technical support are free for people who contribute to our internal community.
 
-[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md)
+[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md)
 
 **Q18: Are there any more advantages to the technical support or mentorship program?**
 
@@ -168,7 +168,7 @@ A21:
 
 A22: You need to know that this is a demanding course and the more you focus and effort you put in the course, the more you benefit from it. Also, you must know that there is significant preparation that you must do before every lecture and after every lecture there shall be an assessments that you must take, see the following link for the list of Demos/Labs for the course.
 
-[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-demos-labs.md)
+[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-demos-labs.md)
 
 
 
@@ -186,5 +186,5 @@ A25: Yes, that is possible, and in that case the price of the recorded course sh
 
 For more details regarding prices, please check the price page:
 
-[Service Price List](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/service-prices.md)
+[Service Price List](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md)
 

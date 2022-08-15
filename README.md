@@ -1,33 +1,33 @@
 # DevOps Step-By-Step
 ![devops-step-by-step](https://socialify.git.ci/MohamedRadwan-DevOps/devops-step-by-step/image?font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source-code" title="Source Code/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📑 Source Code </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/source-code" title="Source Code/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📑 Source Code </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/docs" title="Guides" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🎯 Guides </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/docs" title="Guides" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🎯 Guides </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/devops-course-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ FAQ</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ FAQ</a>
 
 - <a href="http://devopsvisionsqa.mohamedradwan.com/" title="Q/A" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">🙋‍♀️ Q/A</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ Course Info and Prerequisites</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ Course Info and Prerequisites</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/reviews.md" title="Click here to See Members Reviews" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⭐ Reviews</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/reviews.md" title="Click here to See Members Reviews" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⭐ Reviews</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/course-schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Course Schedule</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Course Schedule</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/service-prices.md" title="Service Prices" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💰 Prices</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md" title="Service Prices" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💰 Prices</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/terms-conditions.md" title="Terms & Conditions" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Terms & Conditions</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/terms-conditions.md" title="Terms & Conditions" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Terms & Conditions</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/cancel-return-policy.md" title="Return Policy" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📜 Return Policy</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/cancel-return-policy.md" title="Return Policy" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📜 Return Policy</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/mentoring-service.md" title="Mentoring Service" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💪 Mentoring Service</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md" title="Mentoring Service" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💪 Mentoring Service</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/none-community/events-schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Events Schedule</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/events-schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Events Schedule</a>
 
 - <a href="https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel (English)</a>
 
