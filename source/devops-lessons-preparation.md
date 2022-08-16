@@ -62,9 +62,9 @@
 
 - Virtual Machine
 
-[Virtual Machine Webpage](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
+    [Virtual Machine Webpage](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
 
-[Virtual Machine Video](https://www.youtube.com/watch?v=2v_3f_jjLL4&t=44s)
+    [Virtual Machine Video](https://www.youtube.com/watch?v=2v_3f_jjLL4&t=44s)
 
 - Install Visual Studio 2019 community edition on your machine (Windows only)
 
@@ -491,11 +491,11 @@
 
     [Upstream source for package management Video](https://www.youtube.com/watch?v=1PyY66FHs0Q)
 
-- Azure Artifices permissions and roles
+- Azure Artifacts permissions and roles
 
-    [Azure Artifices permissions and roles Webpage](https://docs.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops)
+    [Azure Artifacts permissions and roles Webpage](https://docs.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops)
 
-    [Azure Artifices permissions and roles Video](https://www.youtube.com/watch?v=N6YUNW3Xz4A)
+    [Azure Artifacts permissions and roles Video](https://www.youtube.com/watch?v=N6YUNW3Xz4A)
 
 - Versioning software
 
