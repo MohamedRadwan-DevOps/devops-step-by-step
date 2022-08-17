@@ -9,27 +9,27 @@ Hi, my name is Kareem Khamis, currently residing in USA, I wanted to do a quick 
 
 I was in the first batch attending the course, I am considered one of the people who are shifting their career to DevOps, I will briefly try to explain my fondness with the course. 
 
-My fondness could be expressed  in two parts:
-	The first part is: DevOps as a field.
-	The second part is: Mentoring and Support Program. 
+I liked the course because of 2 reasons:
+	The first reason is: DevOps as a field.
+	The second reason is: Mentoring and Support Program. 
 
 The course was a detailed roadmap for the DevOps Career, the course taught me what to learn, when to learn it, and how to apply what I learn practically; And this is the Course's Strongest Suit. I did not see this in any other course,specially in the DevOps Field.
 
 Most of the other courses usually delve right away into Technology or Tools, where as with Mohamed Radwan, I learned Architecture from scratch, and he explained the definitions and practices in detail.
 
-By following this path, it made me technology and tool Agnostic, and this gave me the flexibility to learn any new tool whenever i want it.
+By following this path, it made me technology and tool Agnostic, and this gave me the flexibility to learn any new tool whenever I want it.
 
-Now for the second part, the community on the Q&A Platform, really helped me solve any issue i faced when solving the assignment, wether it be from Mohamed Radwan Personally or any one in the course!
+Now for the second part, the community on the Q&A Platform, really helped me solve any issue I faced when solving the assignment, wether it be from Mohamed Radwan Personally or any one in the course!
 
-The final point which i will discuss is the Mentorship program, Mohamed Radwan's Thinking and directives are very practical.
+The final point which I will discuss is the Mentorship program, Mohamed Radwan's Thinking and directives are very practical.
 
 Let me give you an example to clarify, one of the traits he hammered into us in this age of informational chaos, is Priority Setting!
 
-This taught me what and when to learn, and how to maximize the benefit of what i learned, and this saved alot of effort and time!
+This taught me what and when to learn, and how to maximize the benefit of what I learned, and this saved alot of effort and time!
 
 And thus Priority setting has become a staple in my everyday life.
 
-Currently, i am continuing with Mohamed Radwan in the Mentoring and Technical Support program, and i want to close by saying Thank you Mohamed Radwan and Good Luck!
+Currently, I am continuing with Mohamed Radwan in the Mentoring and Technical Support program, and I want to close by saying Thank you Mohamed Radwan and Good Luck!
 
 
 Reviewer's Video (Arabic)
@@ -67,7 +67,7 @@ Mohamed Radwan is not just giving you a technical course, he is passing to you a
 
 Those who enter the course, gets a change in their mindset in all aspects of their life. They stop looking under their feet and start looking at the horizon infront of them!
 
-Overall, the course is more than fantastic, and anything that Mohamed Radwan does is always Excellent, he is a 10+ consecutive years Microsoft MVP, the only one in Egypt and Middle East with those qualifications!
+Overall, the course is more than fantastic, and anything that Mohamed Radwan does is always Excellent, he is a 10+ consecutive years Microsoft MVP, the only one in Egypt and Middle East with those qualifications and one of the few in the world!
 
 Reviewer's Video (Arabic)
 
@@ -88,7 +88,7 @@ Reviewer's Video (Arabic)
 ## Mohamed Sheirf
 ## Network Security Engineer/Egypt
 
-Hi, i am Mohamed Sheirf, Network Security Engineer, currently residing in Cairo,Egypt.
+Hi, I am Mohamed Sheirf, Network Security Engineer, currently residing in Cairo,Egypt.
 
 I started to shift towards DevOps Engineering not to long ago and faced alot of problems and issues, mainly due to the sheer amount of resources, or like Mohamed Radwan likes to call it, Informational Chaos.
 
@@ -108,9 +108,9 @@ The second perk of the course, is that Mohamed Radwan, explains concepts not tec
 The third perk of the course is the Mentoring program,where as Mohamed Radwan, transfers his knowledge, specially when it comes to soft-skills and how to handle conflicts in workplaces.
 Mohamed also influenced me by showing me how to develop myself and that has saved me alot of time and effort.
 
-Finally i would like to say to those who are system admins or have no programming background, do not be hesitant, because Mohamed Radwan Literary starts with you from the grounds up!
+Finally I would like to say to those who are system admins or have no programming background, do not be hesitant, because Mohamed Radwan Literary starts with you from the grounds up!
 
-Lastly, i would like to thank Mohamed Radwan and all my colleague.
+Lastly, I would like to thank Mohamed Radwan and all of my colleague.
 
 Reviewer's Video (Arabic)
 
@@ -133,7 +133,7 @@ Reviewer's Video (Arabic)
 ## Mohamed Magdy
 ## Quality Assurance in the Customer Service Sector/Egypt
 
-Hi, i am Mohamed Magdy, Quality Assurance in the Customer Service Sector, currently residing in Cairo,Egypt.
+Hi, I am Mohamed Magdy, Quality Assurance in the Customer Service Sector, currently residing in Cairo, Egypt.
 
 I was in the first batch in Mohamed Radwan's Course, and wanted to give a brief review.
 
@@ -141,7 +141,7 @@ First, Mohamed Radwan starts from the very basics until you understand what is a
 
 Second, each session is divided into 2 parts, the basics part and the practical part.
 
-And he lets us apply those concepts in the hands on assignments.
+And he lets us apply those concepts in the hands-on assignments.
 
 Third, is the Q&A Platform, which we use to ask questions about issues we faced or answer questions regarding issues other members faced, and you would always find someone answering these questions whether it be Mohamed Radwan or any other colleague.
 
@@ -149,7 +149,7 @@ Thus saving me alot of time when facing a problem.
 
 The Agile nature of Mohamed Radwan, allowed him to accept feedback right away and apply it to the next sessions, and he also passed this mentality to us aswell.
 
-I would like to Thank Mohamed Radwan, and if there are any other courses i would not hesitate to enroll!
+I would like to Thank Mohamed Radwan, and if there are any other courses I would not hesitate to enroll!
 
 Reviewer's Video (Arabic)
 
@@ -177,9 +177,9 @@ Hi, my name is Omar Ahmed, a Database Admin, currently residing in ,KSA.
 
 I wanted to make a small review about Mohamed Radwan's Course.
 
-I was in the first batch, and i was one of the people who are shifting career to DevOps field.
+I was in the first batch, and I was one of the people who are shifting career to DevOps field.
 
-I benefited from the course because it had a clear roadmap for the DevOps field, and it allowed to learn what i want and apply it seamlessly.
+I benefited from the course because it had a clear roadmap for the DevOps field, and it allowed to learn what I want and apply it seamlessly.
 
 Moreover, I learned the art of Priority setting, and that is if you need something you don't procrastinate.
 
@@ -201,13 +201,13 @@ Reviewer's Video (Arabic)
 ## Omar Muhammad 
 ## Back-end Engineer/Iraq
 
-I am Omar Muhammad from Baghdad, Iraq. I am a back-end engineer and I also handle system admin at the company i work for.
+I am Omar Muhammad from Baghdad, Iraq. I am a back-end engineer and I also handle system admin at the company I work for.
 
-I wanted to do a shift career for the DevOps field for a long time, but what stopped me was  there are a lot of sources that make you distracted and do not make a decision to do the shift because you are afraid that it is wasting time and without benefit.
+I wanted to do a shift career for the DevOps field for a long time, but what stopped me was there are a lot of sources that make you distracted and do not make a decision to do the shift because you are afraid that it is wasting time and without benefit.
 
 I saw the course of Mohamed Radwan, I saw it as the most appropriate organized course because it is based on his experience, which is more than 20 years in international companies, this made me take the step of attending the course with him.
 
-Of course, the course is one of the best courses that I attended in DevOps field because when i started the course i had a background about DevOps and at the end i had a completely different mindset about what is DevOps, which is the right mindset because we did not only study tools or steps you apply, but rather we took concepts, and how to apply these concepts systematically; taking into consideration the seniority level.
+Of course, the course is one of the best courses that I attended in DevOps field because when I started the course I had a background about DevOps and at the end I had a completely different mindset about what is DevOps, which is the right mindset because we did not only study tools or steps you apply, but rather we took concepts, and how to apply these concepts systematically; taking into consideration the seniority level.
 
 One of the most important points of the course
 
@@ -241,7 +241,7 @@ Reviewer's Video (Arabic)
 ## Ramy Ragab
 ## DevOps Engineer/Egypt
 
-Hi, i am Ramy Ragab, I am a DevOps Engineer for almost 3 years now, currently residing in Egypt.
+Hi, I am Ramy Ragab, I am a DevOps Engineer for almost 3 years now, currently residing in Egypt.
 
 
 When I wanted to learn the field of DevOps, it was all Self study, It was not  a clear roadmap to learn from, I was a little lost among the many resources and courses available, whether on Udemy or YouTube.
@@ -256,7 +256,7 @@ I did not hesitate one bit to sign up for the course; Because I said as long as 
 
 I learned through the course, that I focus on understanding the Concepts first, then I can work with any tool I want. On to of that Mohamed Radwan also teaches you about setting priorities, the Agile mindset and many other ways of thinking.
 
-The culture of the community, and the benefit i get from colleagues is priceless, In the begining i only new abit about the power of community but I understood it more and understood its meaning in the course. I would like to thank Mohamed Radwan for that.
+The culture of the community, and the benefit I get from colleagues is priceless, In the begining I only new abit about the power of community but I understood it more and understood its meaning in the course. I would like to thank Mohamed Radwan for that.
 
 And like everything, it has its pros and cons. If there was any negatives. we would bring them up to Mohamed Radwan and since he is a very good listener, he would listen and start applying the fixes immediately, which was a good demonstration on applying the principles of Agile.
 
@@ -279,7 +279,7 @@ Reviewer's Video (Arabic)
 ## Shehab Awni
 ## Senior Infrastructure Operations Engineer/Qatar
 
-Hi, i am Shehab, I am a Senior Infrastructure Operations Engineer,currently residing in Qatar.
+Hi, I am Shehab, I am a Senior Infrastructure Operations Engineer,currently residing in Qatar.
 
 I will divide the video to 3 main parts
 
@@ -294,8 +294,8 @@ The way he explains it, is very benefital specially to people outside the softwa
 
 Mohamed Radwan explains concepts not just tools and technologies, and this is really important to understand, because these are the pillars that the software industry are built upon.
 
-The period i spent in the course, gave me the experience i needed to know what would my future look like, and what should i study after.
-Ypu will be able to make your own Roadmap, and also can determine what you need to study after that.
+The period I spent in the course, gave me the experience I needed to know what would my future look like, and what should I study after.
+You will be able to make your own Roadmap, and also can determine what you need to study after that.
 
 
 
@@ -359,7 +359,7 @@ As long as you learn the concepts, you can apply them to any tool.
 And that is what Mohamed Radwan provided in the Course.
 
 I was in the first batch, and the course was indeed impactful.
-When i start the course, i was lose, and hated development & programming, and thought it was hard.
+When I startED the course, I was lose, and hated development & programming, and thought it was hard.
 
 Turns out it is easy, but it will require some effort and focus, you will be required to invest time and effort in yourself.
 
@@ -509,9 +509,9 @@ The most important part is that Mohamed Radwan provides the tools and feedback t
 ## Mohamed Eid
 ## DevOps Engineer/Egypt
 
-I’m Mohamed Eid, I am a DevOps Engineer currently residing in Cairo. I really liked the way Mohamed Radwan explained subjects even in matters far from the technicalities. this helped me a lot by showing me paths I didnt think about before.
+I’m Mohamed Eid, I am a DevOps Engineer currently residing in Cairo. I really liked the way Mohamed Radwan explained subjects even in matters far from the technicalities. This helped me a lot by showing me paths I didnt think about before.
 
-I was very enthusiastic about the contents of the course, and about DevOps in particular, specially with Mohamed Radwan’s experience, which I learned is valiable due to the fact that I followed his Youtube channel and knew about the quality of his content
+I was very enthusiastic about the contents of the course, and about DevOps in particular, specially with Mohamed Radwan’s experience, which I learned is valiable due to the fact that I followed his Youtube channel and knew about the quality of his content.
 
 The main features of the course are:
 
@@ -521,7 +521,7 @@ Second: The course does not focus on teaching you a specific tool. The course fo
 
 Third: It is not just a course that you learn, Mohamed Radwan’s goal is to build a community for DevOps Professionals, so of course it will help you a lot, including building a network of relations from all countries, and this will help you transfer experiences from and to everyone, and it will also open up job opportunities for you, so I advise everyone and recommend the course very much to them and also I hope that everyone makes an effort to get the maximum benefit from the course.
 
-Fourth: Having a stack overflow will help you very much in solving any problem you face, which is a great asset to have anywhere.
+Fourth: Having a Q&A Platform will help you very much in solving any problem you face, which is a great asset to have anywhere.
 
 
 
