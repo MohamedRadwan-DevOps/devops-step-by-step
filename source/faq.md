@@ -23,8 +23,6 @@
 - [Can I ask any question regarding any subject outside the session topic?](#can-i-ask-any-question-regarding-any-subject-outside-the-session-topic)
 
 
-
-
 ## Where can I ask questions?
 You just need to raise/open an issue with your question/problem on issues at the following link, please make sure to search for old issues first before raising a new one.
 

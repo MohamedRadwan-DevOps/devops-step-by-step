@@ -1,11 +1,11 @@
 # DevOps Step-By-Step
 ![devops-step-by-step](https://socialify.git.ci/MohamedRadwan-DevOps/devops-step-by-step/image?font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-lessons-preparation.md" title="Course Preparation Points" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Course Preparation Points </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-lessons-preparation.md" title="Course Preparation Points" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Course Preparation Points </a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/source-code" title="Source Code/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📑 Source Code </a>
 
@@ -15,7 +15,7 @@
 
 - <a href="http://devopsvisionsqa.mohamedradwan.com/" title="Q/A" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">🙋‍♀️ Q/A</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ Course Info and Prerequisites</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ Course Info and Prerequisites</a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/reviews.md" title="Click here to See Members Reviews" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⭐ Reviews</a>
 
