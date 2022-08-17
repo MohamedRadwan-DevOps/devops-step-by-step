@@ -243,16 +243,15 @@ You just need to raise/open an issue with your question/problem on issues at the
 
 
 ## Are there any rules for writing our questions/issues?
-Yes, we have well-defined guidelines, please review them very well by watching the explanation in the 2nd session video by [clicking here](https://youtu.be/ci8c0GIqTDo?t=740), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues/2) 
+Yes, we have well-defined guidelines, please review them very well by watching the explanation in the 2nd session video by [clicking here](https://www.youtube.com/watch?v=C3sPXx4Hzmw), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues/2) 
 
 
 ## Where or how can I register?
 **For the Course Community Edition (CE)**
-Arabic Form
-[https://forms.office.com/r/hU6k7FK1pW](https://forms.office.com/r/hU6k7FK1pW)
 
-English Form:
-[https://forms.office.com/r/9W8baHZkJ1](https://forms.office.com/r/9W8baHZkJ1)
+[Arabic Form](https://forms.office.com/r/hU6k7FK1pW)
+
+[English Form](https://forms.office.com/r/9W8baHZkJ1)
 
 Notes:
 
@@ -260,17 +259,12 @@ Notes:
 - We will move the Arabic registrations from the English form to the Arabic one.
 
 **For the Course Enterprise Edition (EE)**
-Kindly check this [question]()
+
+Kindly check this [question](https://github.com/RehabAbotalep/devops-step-by-step/blob/main/source/faq.md#when-shall-the-course-start-how-shall-i-pay-is-there-a-deadline-for-payment)
 
 
 ## I registered but I didn't get an invitation.
-First please try to double-check your email, junk folder and so on, if you still can't find the invitation, kindly note that we have more than 2500 registrations, and we will select only 200 for each round, so if you didn't receive the invitation please wait your turn maybe for the next 3 rounds if still not receiving it, plz register again.
-
-Arabic Form
-[https://forms.office.com/r/hU6k7FK1pW](https://forms.office.com/r/hU6k7FK1pW)
-
-English Form:
-[https://forms.office.com/r/9W8baHZkJ1](https://forms.office.com/r/9W8baHZkJ1)
+First please try to double-check your email, junk folder and so on, if you still can't find the invitation, kindly note that we have more than 2500 registrations, and we will select only 200 for each round, so if you didn't receive the invitation please wait your turn maybe for the next 3 rounds if still not receiving it, plz register again see this [question](https://github.com/RehabAbotalep/devops-step-by-step/blob/main/source/faq.md#where-or-how-can-i-register)
 
 Notes:
 
