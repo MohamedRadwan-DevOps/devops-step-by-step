@@ -11,7 +11,7 @@
 
 - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/docs" title="Guides" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🎯 Guides </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ FAQ</a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ FAQ</a>
 
 - <a href="http://devopsvisionsqa.mohamedradwan.com/" title="Q/A" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">🙋‍♀️ Q/A</a>
 
