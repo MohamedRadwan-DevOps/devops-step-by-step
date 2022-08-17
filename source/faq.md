@@ -42,7 +42,7 @@
   - [I have an issue joining the meeting using MS Teams?](#i-have-an-issue-joining-the-meeting-using-ms-teams)
   - [If I can't join the live session, can I still watch it?](#if-i-cant-join-the-live-session-can-i-still-watch-it)
   - [If I can't join the live session on MS Teams, is there any video record for the session?](#if-i-cant-join-the-live-session-on-ms-teams-is-there-any-video-record-for-the-session)
-  - [I want to contribute but I don't know what to do.](#i-want-to-contribute-but-i-dont-know-what-to-do)
+  - [I want to contribute but I don't know what should I do?](#i-want-to-contribute-but-i-dont-know-what-should-i-do)
   - [What if I raised or opened an issue and it is deleted without any comment?](#what-if-i-raised-or-opened-an-issue-and-it-is-deleted-without-any-comment)
   - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
   - [What is needed to contribute to the community?](#what-is-needed-to-contribute-to-the-community)
@@ -324,7 +324,7 @@ Yes, all sessions will be recorded here:
 [YouTube English Channel](https://www.youtube.com/user/MRadwanMSF)
 
 
-## I want to contribute but I don't know what to do.
+## I want to contribute but I don't know what should I do?
 You need to learn what it means to be a contributor and I am trying to help everyone here.
 To start contributing to this project or any other projects. There are only 3 ways to do that…..
 
