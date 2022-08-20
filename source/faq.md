@@ -1,8 +1,7 @@
 
 # Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
-## Content
-- [Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)](#frequently-asked-questions-faq-and--code-of-conduct-coc)
-  - [Content](#content)
+
+
   - [Will I be qualified to work as a DevOps Engineer after finishing the course?](#will-i-be-qualified-to-work-as-a-devops-engineer-after-finishing-the-course)
   - [It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?](#it-is-unclear-what-tools-we-shall-use-whether-they-are-azure-devops-or-jenkins-will-we-work-with-configuration-management-tools-such-as-ansible-or-terraform-will-we-get-into-subjects-like-kubernetes-and-docker)
   - [When shall the course start? How shall I pay? Is there a deadline for payment?](#when-shall-the-course-start-how-shall-i-pay-is-there-a-deadline-for-payment)
@@ -28,11 +27,11 @@
   - [How do I attend the lectures?](#how-do-i-attend-the-lectures)
   - [What is the deadline for course registration?](#what-is-the-deadline-for-course-registration)
   - [Can I purchase the lecture recordings without registering for the course?](#can-i-purchase-the-lecture-recordings-without-registering-for-the-course)
-  - [Where can I ask questions?](#where-can-i-ask-questions)
+  - [Where can I ask questions for the free course (CE)?](#where-can-i-ask-questions-for-the-free-course-ce)
   - [Are there any rules for writing our questions/issues?](#are-there-any-rules-for-writing-our-questionsissues)
   - [Where or how can I register?](#where-or-how-can-i-register)
-  - [I registered but I didn't get an invitation.](#i-registered-but-i-didnt-get-an-invitation)
-  - [I am new. What I should do to join?](#i-am-new-what-i-should-do-to-join)
+  - [I registered for the free course (CE) but I didn't get an invitation.](#i-registered-for-the-free-course-ce-but-i-didnt-get-an-invitation)
+  - [I am new. What I should do to join the free course (CE)?](#i-am-new-what-i-should-do-to-join-the-free-course-ce)
   - [Do I need to register for every session?](#do-i-need-to-register-for-every-session)
   - [Where can I find past and future sessions?](#where-can-i-find-past-and-future-sessions)
   - [I don't want to receive any invitations or emails anymore?](#i-dont-want-to-receive-any-invitations-or-emails-anymore)
@@ -47,15 +46,19 @@
   - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
   - [What is needed to contribute to the community?](#what-is-needed-to-contribute-to-the-community)
   - [Can I ask any questions regarding any subject outside the session topic?](#can-i-ask-any-questions-regarding-any-subject-outside-the-session-topic)
-
-
 ## Will I be qualified to work as a DevOps Engineer after finishing the course?
 
-Yes as a Junior DevOps Eng. Even though this course is an advanced introduction, you shall be fully capable of applying for a job and working, because my main objective is to properly build and equip you for the actual job market. Also, it depends on other knowledge and skills you have and remember, you need time in an actual DevOps job to get real experience.
+Yes as a Junior DevOps Eng. Even though this course is an advanced introduction, you shall be fully capable of applying for a job and working, because our main objective is to properly build and equip you for the actual job market. 
+
+Also, it depends on other knowledge and skills you have and remember, you need time in an actual DevOps job to get real experience.
 
 ## It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?
 
-A2: We will use Azure DevOps, but no Jenkins. Yes of course we will work with Configuration Management Tools and it will be Terraform. As for Docker, we shall definitely get into it, but Kubernetes will be just theoretical.
+We will use Azure DevOps and GitHub, but no Jenkins. 
+
+Yes of course we will work with Configuration Management Tools and it will be Terraform. 
+
+As for Docker, we shall definitely get into it, but Kubernetes will be just theoretical.
 
 Also, there is another extremely important thing: the course objective is not to learn tools or technologies, but rather the practices and the principles regardless of tools or technology.
 
@@ -63,13 +66,13 @@ However, to learn the practices, we must apply them using any tools or technolog
 
 ## When shall the course start? How shall I pay? Is there a deadline for payment?
 
-A3: The course has two classes to join, English and Arabic. 
+The course has two classes to join, English and Arabic. 
 
-So, if you are interested in joining the **English** class, please contact our Financial Manager in the UK, Ms Rania via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
+So, if you are interested in joining the **English** class, please contact our Financial Manager in the UK, Ms Rania via WhatsApp and send a text msg to the following no. (**004407403919116**)
 
-But, if you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms Nadia via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
+But, if you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms Nadia via WhatsApp and send a text msg to the following no. (**00201224073193**)
 
-Also, I will announce the course start date for each round on Linked In and Facebook. So, if you couldn’t enrol at this time, you could try with the next round or the one after.
+Also, we will announce the course start date for each round on Linked In and Facebook. So, if you couldn’t enrol at this time, you could try with the next round or the one after.
 
 Moreover, the timing shall be updated on the following timetable page:
 
@@ -82,7 +85,7 @@ And it is best you take a look at the reviews left by those who have finished th
 
 ## Will the course be useful in Mobile applications? I have taken the Programming Fundamentals Course before with Eng. Moshrif, will it benefit me? How will DevOps benefit me afterwards?
 
-A4: The Course shall be useful in any specialization in software whether it's a mobile application, back-end, or full-stack because it covers the foundation of the software industry practices and principles in terms of the product’s life cycle and enhancing its performance. 
+The Course shall be useful in any specialization in software whether it's a mobile application, back-end, or full-stack because it covers the foundation of the software industry practices and principles in terms of the product’s life cycle and enhancing its performance. 
 
 Of course, a programming fundamentals course will make a huge difference especially if you took it with Eng. Moshrif. 
 
@@ -98,17 +101,19 @@ It is not a complement to a career in Full Stack development, it is a whole new 
 
 The course is very practical, and you’ll have hands-on experience and do everything yourself from A to Z, it has more than 83 Demos/Labs you will learn and do them yourself, see the following link for the list of Demos/Labs for the course.
 
-[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-demos-labs.md)
+[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md)
 
 ## Will there be an advanced level course immediately after or will there be a long time period between both courses?
 
-The course shall be very rich. I don’t want to say, “just handle this one and then worry about the next one later on!”. I just want you to consider this course as the foundation and enough for you to start working. (But you’ll graduate from it like a GP physician or a first-year engineering student) The purpose of this course is for you to be properly built and ready for work and for you to actually know how to do the work itself but it will not make you a specialist or an expert. This is something that must come with simultaneous work-study
+The course shall be very rich. I don’t want to say, “just handle this one and then worry about the next one later on!”. I just want you to consider this course as the foundation and enough for you to start working. (But you’ll graduate from it like a GP physician or a first-year engineering student) The purpose of this course is for you to be properly built and ready for work and for you to actually know how to do the work itself but it will not make you a specialist or an expert. 
+
+This is something that must come with simultaneous work-study
 
 There are no more courses ready at the moment. Of course, it will take some time for me to prepare for any more courses but hopefully, it won’t take long.
 
 ## What are the jobs I can apply for after finishing the course? Because I’m currently working as a system analyst, and I want to make a career shif?
 
-here is more than one professional level for DevOps as well as more than one sub-specialization. But as an entry-level you shall be able to apply for:
+Here is more than one professional level for DevOps as well as more than one sub-specialization. But as an entry-level you shall be able to apply for:
 
 - DevOps Engineer
 - Platform Engineer
@@ -119,16 +124,17 @@ NO, only an attendance certificate.
 
 ## I’ve locally installed Gitlab as well as Docker Security with Trivy Scanner, and I have some information about DevOps. I’ve tried a few labs of Qwiklabs. But I’m seeing a great experience obviously in the course, especially in Module 7 is marvellous but to be clear on what my goals are, I’m doing all this to be a DevSecOps Engineer. So, what I need is Kubernetes as well as Gitlab (CI) and integration of course. I know you are doing something that suits everyone but, I need your advice.
 
+
 This course does not use Gitlab, it uses Azure pipeline instead. For you to be a DevSecOps Engineer, you have to be a good, properly built DevOps engineer first because DevSecOps is an advanced stage of DevOps. And this course provides an introduction to DevSecOps but we will not get into details.
 
-The course will be an advanced leap in your way of thinking and in your work in the field. So, my advice is, to forget everything and start with me from scratch, my way, and hopefully, you’ll see the result and you’ll even impress yourself with what you’ll be capable of doing.
+The course will be an advanced leap in your way of thinking and in your work in the field. So, my advice is, to forget everything and start with us from scratch, our way, and hopefully, you’ll see the result and you’ll even impress yourself with what you’ll be capable of doing.
 
 ## What is the difference between AWS and Azure? And do I have to have a Linux background or at least know something about it because I know nothing about Linux?
 
 Those are two different companies that provide cloud services, and no you don’t have to be an expert but you should know basic bash script; you shall learn all that in the course.
 You can review all the prerequisites of the course on the following link:
 
-[Course prerequisites](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-info-prerequisite.md)
+[Course prerequisites](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-info-prerequisite.md)
 
 
 ## How important is it to have a credit card in the course? And will the money be withdrawn from it? And what if I don’t have a credit card, what shall I do?
@@ -137,7 +143,7 @@ The credit card is for free registration on Microsoft Azure Cloud that will prov
 
 If you don’t have a credit card?
 
-You can pay me $100 to add you to my premium cloud account so you can practice the labs and the exercises.
+You can pay us $100 to add you to our  premium cloud account so you can practice the labs and the exercises.
 
 Make sure the card is a credit card, not a debit card as you might not be able to register an account with a debit card.
 
@@ -157,13 +163,13 @@ In the end, AWS and Azure have market demands almost equally.
 
 ## What if I don’t have the course requirements/prerequisites?
 
-In that case, try developing a simple software program like a timetable or phone book using ASP.NET MVC, reading up a lot on SDLC, get a quick overview about bash and Power shell and some basic fundamentals about DB and you should be ready, don't spend too long.
+In that case, try developing a simple software program like a timetable or phone book using ASP.NET MVC and C#, reading up a lot on SDLC, get a quick overview about bash and Power shell and some basic fundamentals about DB and you should be ready, don't spend too long.
 
 We are going to code and develop simple software in the course. So, I don’t want your first time seeing or writing code to be in the course; you have to come prepared so you can keep up.
 
 ## Will the course and lectures be recorded in case I couldn’t attend live sessions?
 
-A15: Yes, the lectures shall be recorded and available for free for 4 days you shall be chosen in advance. However, if you want a permanent recording of the lecture, the price of a single lecture will be an additional $25. That is why I am stressing the importance of attendance and not skipping.
+Yes, the lectures shall be recorded and available for free for 4 days you shall be chosen in advance. However, if you want a permanent recording of the lecture, the price of a single lecture will be an additional $25. That is why I am stressing the importance of attendance and not skipping.
 
 ## Are there any more advantages to the course?
 
@@ -177,7 +183,7 @@ Your mentor shall be able to solve any problems you might face or answer any que
 
 First of all, the technical support or mentorship program is an optional choice and not mandatory. The subscription fee is $7/month and it's paid annually which means $84/year.
 
-Also, the mentorship and the technical support are free for people who contribute to our internal community.
+Also, the mentorship and the technical support are free for the top contributors who contribute to our internal/external community.
 
 [This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md)
 
@@ -189,7 +195,9 @@ The top 20 to 50 people in the mentorship or technical support, those who are th
 
 If you are a graduate of this field and were basically clever, committed, and made a lot of effort in the course, hopefully after you finish you shall be able to work better than those who have been in the field for five years, but you have to make a significant amount of effort in the course and also target the junior job as it will be impossible to join as a Senior DevOps which needs a lot of real experience.
 
-But, if you are not a graduate of the field nor do you have experience in programming, then you definitely need a lot of time to comprehend and apply. Our field is generally that of patience and endurance.
+But, if you are not a graduate of the field nor do you have experience in programming, then you definitely need a lot of time to comprehend and apply. 
+
+Our field is generally that of patience and endurance.
 
 ## Unfortunately, I haven’t successfully found a job yet. What do you suggest I do to make good use of my time till the course starts?
 
@@ -211,7 +219,9 @@ For **Arabic speaking**, watch the ([DevOps-Step-by-Step](https://www.youtube.co
 
 ## Is there anything else I need to know about the course?
 
-You need to know that this is a demanding course and the more you focus and effort you put into the course, the more you benefit from it. Also, you must know that there is significant preparation that you must do before every lecture and after every lecture, there shall be an assessment that you must take, see the following link for the list of Demos/Labs for the course.
+You need to know that this is a demanding course and the more you focus and effort you put into the course, the more you benefit from it. 
+
+Also, you must know that there is significant preparation that you must do before every lecture and after every lecture, there shall be an assessment that you must take, see the following link for the list of Demos/Labs for the course.
 
 [Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md)
 
@@ -219,11 +229,13 @@ You need to know that this is a demanding course and the more you focus and effo
 
 ## How do I attend the lectures?
 
-A23: A meeting invitation shall be sent a week before every lecture via Microsoft Teams to the email used in registration. Also, a demo invitation shall be sent before the course starts and there is a discord channel to join so if you have any questions or issues, you can ask there.
+A meeting invitation shall be sent a week before every lecture via Microsoft Teams to the email used in registration. 
+
+Also, a demo invitation shall be sent before the course starts and there is a discord channel to join so if you have any questions or issues, you can ask there.
 
 ## What is the deadline for course registration?
 
-A24: The registration deadline for any course is two weeks prior to the course start date.
+The registration deadline for any course is two weeks prior to the course start date.
 
 ## Can I purchase the lecture recordings without registering for the course?
 
@@ -234,7 +246,7 @@ For more details regarding prices, please check the price page:
 [Service Price List](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md)
 
 
-## Where can I ask questions?
+## Where can I ask questions for the free course (CE)?
 You just need to raise/open an issue with your question/problem on issues at the following link, please make sure to search for old issues first before raising a new one.
 
 [Review closed issues here](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues)
@@ -243,36 +255,40 @@ You just need to raise/open an issue with your question/problem on issues at the
 
 
 ## Are there any rules for writing our questions/issues?
-Yes, we have well-defined guidelines, please review them very well by watching the explanation in the 2nd session video by [clicking here](https://www.youtube.com/watch?v=C3sPXx4Hzmw), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues/2) 
+Yes, we have well-defined guidelines, please review them very well by watching the explanation in the session video by [clicking here](https://www.youtube.com/watch?v=C3sPXx4Hzmw), also you can review them in this closed issue ( [issue #2 )](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues/2) 
 
 
 ## Where or how can I register?
-**For the Course Community Edition (CE)**
+**For the Course Community Edition (CE) (Free)**
 
-[Arabic Form](https://forms.office.com/r/hU6k7FK1pW)
+We have two classes, English and Arabic. So, for the English class, register here:
 
 [English Form](https://forms.office.com/r/9W8baHZkJ1)
 
-Notes:
 
-- If you are Arabian please register only in the Arabic session.
-- We will move the Arabic registrations from the English form to the Arabic one.
+For the Arabic class, register here:
 
-**For the Course Enterprise Edition (EE)**
+[Arabic Form](https://forms.office.com/r/hU6k7FK1pW)
 
-Kindly check this [question](https://github.com/RehabAbotalep/devops-step-by-step/blob/main/source/faq.md#when-shall-the-course-start-how-shall-i-pay-is-there-a-deadline-for-payment)
-
-
-## I registered but I didn't get an invitation.
-First please try to double-check your email, junk folder and so on, if you still can't find the invitation, kindly note that we have more than 2500 registrations, and we will select only 200 for each round, so if you didn't receive the invitation please wait your turn maybe for the next 3 rounds if still not receiving it, plz register again see this [question](https://github.com/RehabAbotalep/devops-step-by-step/blob/main/source/faq.md#where-or-how-can-i-register)
 
 Notes:
 
 - If you are Arabian please register only in the Arabic session.
-- We will move the Arabic registrations from the English form to the Arabic one., and make sure you type your email correctly.
+
+**For the Course Enterprise Edition (EE) (Paid)**
+
+Kindly check this [question](#when-shall-the-course-start-how-shall-i-pay-is-there-a-deadline-for-payment)
 
 
-## I am new. What I should do to join?
+## I registered for the free course (CE) but I didn't get an invitation.
+First please try to double-check your email, junk folder and so on, if you still can't find the invitation, kindly note that we have more than 2500 registrations, and we will select only 200 for each round, so if you didn't receive the invitation please wait your turn maybe for the next 3 rounds if still not receiving it, plz register again see this [question](#where-or-how-can-i-register)
+
+Notes:
+
+- If you are Arabian please register only in the Arabic session and make sure you type your email correctly.
+
+
+## I am new. What I should do to join the free course (CE)?
 You just need to do the following:
 1. Register.
 2. Click watch on this repo.
