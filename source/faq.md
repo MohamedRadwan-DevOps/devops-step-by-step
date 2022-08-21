@@ -46,6 +46,7 @@
   - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
   - [What is needed to contribute to the community?](#what-is-needed-to-contribute-to-the-community)
   - [Can I ask any questions regarding any subject outside the session topic?](#can-i-ask-any-questions-regarding-any-subject-outside-the-session-topic)
+  - [What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?](#what-is-the-difference-between-the-course-ce-community-edition-and-the-course-ee-enterprise-edition)
 ## Will I be qualified to work as a DevOps Engineer after finishing the course?
 
 Yes as a Junior DevOps Eng. Even though this course is an advanced introduction, you shall be fully capable of applying for a job and working, because our main objective is to properly build and equip you for the actual job market. 
@@ -380,6 +381,15 @@ You need to learn the culture of the community, some of that as the following:
 No, you are only allowed to ask related questions to the discussed topics.
 Most of the questions will be at the end of the session, but you can ask a few questions during the session.
 
+## What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?
+
+| Points                    | Community Editiond (CE)        | Enterprise Edition (EE) |
+|---------------------------|--------------------------------|-------------------------|
+|Questions Platform         |[GitHub Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) | [Q&A platform](http://devopsvisionsqa.mohamedradwan.com)
+|Time for answering your questions? | There is no obligation to resolve them, maybe resolved in a week, month, or couldn't be resolved at all|We have an obligation to resolve them and they have a high priority.|
+|Sessions                    | Monthly session we have 2500 registrations, so we will invite only 250 every session.|Weekly Session|
+|Duration expected to finish the course? | One year or more depends on your performance | 3 months |
+|Support & Help              | You will be provided by guides and community support, and it is your turn to build your materials, if you have any questions while studying you can ask for them in the GitHub Issues or in the free monthly sessions. | Well descriptive lessons and demos, and well explained in the weekly session, and if you have any questions you can ask them during the session.|
 
 
 
