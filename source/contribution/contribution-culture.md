@@ -6,6 +6,19 @@
 
 1. Your pull request must have only changes (commits) that related to the related issue or PBI.
 
+1. To make your pull request only have commits that are related to the related issue 
+
+   - Create a new branch (with the name of the issue or PBI) from your main branch.
+   - Switch to the new branch (git checkout new-branch-name).
+   - Make the changes you want
+   - Add and commit your changes
+   - Switch again to the main branch (git checkout main).
+   - Squash merge(git merge --squash new-branch-name) the new branch on the main branch.
+   - Commit your merge changes.
+   - Push from your main to your remote repo.
+   - Finally, open the pull request from your remote to the original remote repo this will open a PR that has only one commit and only the related changes.
+
+
 1. You can't assign an item to yourself directly, you should have the approval first.
 
 1. If you want to work on any PBIs, you can ask for approval first, once you get the approved and assigned, you can start working.
