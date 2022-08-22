@@ -31,11 +31,17 @@ The exact date will be announced two weeks before the start date.
 
 **For Registration:**
 
-The course has two class to join, English and Arabic. 
+The course has two classes to join, English and Arabic. 
 
-So, if you are interested in joining the **English** class, please contact our Financial Manager in the UK, Ms. Rania via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
+So, if you are interested in joining the **English** class, please contact our Financial Manager in the UK, Ms Rania via WhatsApp and send a text msg to the following no. (**004407403919116**)
 
-But, if you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms. Nadia via WhatsApp on the following [link](https://wa.me/201224073193) or send a text to this no. (00201224073193)
+But, if you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms Nadia via WhatsApp and send a text msg to the following no. (**00201224073193**)
+
+Also, we will announce the course start date for each round on Linked In and Facebook. So, if you couldn’t enrol at this time, you could try with the next round or the one after.
+
+Moreover, the timing shall be updated on the following timetable page:
+
+[Timetable](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
 
 
   

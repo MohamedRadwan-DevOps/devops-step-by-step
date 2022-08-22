@@ -1,7 +1,8 @@
 
 # Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
 
-
+  - [I am confused, is it a free course or a paid course?](#i-am-confused-is-it-a-free-course-or-a-paid-course)
+  - [What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?](#what-is-the-difference-between-the-course-ce-community-edition-and-the-course-ee-enterprise-edition)
   - [Will I be qualified to work as a DevOps Engineer after finishing the course?](#will-i-be-qualified-to-work-as-a-devops-engineer-after-finishing-the-course)
   - [It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?](#it-is-unclear-what-tools-we-shall-use-whether-they-are-azure-devops-or-jenkins-will-we-work-with-configuration-management-tools-such-as-ansible-or-terraform-will-we-get-into-subjects-like-kubernetes-and-docker)
   - [When shall the course start? How shall I pay? Is there a deadline for payment?](#when-shall-the-course-start-how-shall-i-pay-is-there-a-deadline-for-payment)
@@ -46,7 +47,24 @@
   - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
   - [What is needed to contribute to the community?](#what-is-needed-to-contribute-to-the-community)
   - [Can I ask any questions regarding any subject outside the session topic?](#can-i-ask-any-questions-regarding-any-subject-outside-the-session-topic)
-  - [What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?](#what-is-the-difference-between-the-course-ce-community-edition-and-the-course-ee-enterprise-edition)
+
+## I am confused, is it a free course or a paid course?
+
+All our courses here has two editions, Community Edition (CE) and Enterprise Edition (EE), the CE is free and the EE is paid.
+
+## What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?
+
+| Points                    | Community Edition (CE)        | Enterprise Edition (EE) |
+|---------------------------|--------------------------------|-------------------------|
+|Questions Platform type    |[GitHub Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) | [Q&A platform](http://devopsvisionsqa.mohamedradwan.com)
+|Questions Platform acceptability    |Public | Private
+|Time for answering your questions? | There is no obligation to resolve them, maybe resolved in a week, month, or couldn't be resolved at all.|We have an obligation to resolve them in short time and they have a high priority.|
+|Sessions                    | Monthly session we have 5000 registrations, so we will invite only 500 every session.|A few registrations and have Weekly Session.|
+|Duration expected to finish the course? | One year or more depends on your performance. | 3 months. |
+|Support & Help              | You will be provided by guides and community support, and it is your turn to build your materials, if you have any questions while studying you can ask for them in the GitHub Issues or in the free monthly sessions. | Well descriptive lessons and demos with step-by-step video and guidance, and well explained in the weekly session, and if you have any questions you can ask them during the session.|
+|Mentorship              | Public and indirect. | Private and direct.|
+
+
 ## Will I be qualified to work as a DevOps Engineer after finishing the course?
 
 Yes as a Junior DevOps Eng. Even though this course is an advanced introduction, you shall be fully capable of applying for a job and working, because our main objective is to properly build and equip you for the actual job market. 
@@ -207,7 +225,7 @@ Watch my DevOps videos on my Youtube channels.
 
 For **English speaking**, watch the ([Best Videos](https://www.youtube.com/playlist?list=PLe14MLC-Nwy5u0w1mD1l2kEiKW16ZlMYG)) playlist. Those videos make a huge difference.
 
-For **Arabic speaking**, watch the ([DevOps-Step-by-Step](https://www.youtube.com/playlist?list=PLe14MLC-Nwy5u0w1mD1l2kEiKW16ZlMYG)) playlist. Those videos make a huge difference.
+For **Arabic speaking**, watch the ([DevOps-Step-by-Step](https://youtube.com/playlist?list=PL68G6wbDBVghZtDCRIwAheM-TXI36f668)) playlist. Those videos make a huge difference.
 
 
 ## What are the minimum system requirements for the course?
@@ -381,15 +399,7 @@ You need to learn the culture of the community, some of that as the following:
 No, you are only allowed to ask related questions to the discussed topics.
 Most of the questions will be at the end of the session, but you can ask a few questions during the session.
 
-## What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?
 
-| Points                    | Community Editiond (CE)        | Enterprise Edition (EE) |
-|---------------------------|--------------------------------|-------------------------|
-|Questions Platform         |[GitHub Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) | [Q&A platform](http://devopsvisionsqa.mohamedradwan.com)
-|Time for answering your questions? | There is no obligation to resolve them, maybe resolved in a week, month, or couldn't be resolved at all|We have an obligation to resolve them and they have a high priority.|
-|Sessions                    | Monthly session we have 2500 registrations, so we will invite only 250 every session.|Weekly Session|
-|Duration expected to finish the course? | One year or more depends on your performance | 3 months |
-|Support & Help              | You will be provided by guides and community support, and it is your turn to build your materials, if you have any questions while studying you can ask for them in the GitHub Issues or in the free monthly sessions. | Well descriptive lessons and demos, and well explained in the weekly session, and if you have any questions you can ask them during the session.|
 
 
 
