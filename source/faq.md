@@ -1,7 +1,6 @@
 
 # Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
-
-  - [I am confused, is it a free course or a paid course?](#i-am-confused-is-it-a-free-course-or-a-paid-course)
+  - [I am confused, the course is free or paid?](#i-am-confused-the-course-is-free-or-paid)
   - [What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?](#what-is-the-difference-between-the-course-ce-community-edition-and-the-course-ee-enterprise-edition)
   - [Will I be qualified to work as a DevOps Engineer after finishing the course?](#will-i-be-qualified-to-work-as-a-devops-engineer-after-finishing-the-course)
   - [It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?](#it-is-unclear-what-tools-we-shall-use-whether-they-are-azure-devops-or-jenkins-will-we-work-with-configuration-management-tools-such-as-ansible-or-terraform-will-we-get-into-subjects-like-kubernetes-and-docker)
@@ -48,7 +47,7 @@
   - [What is needed to contribute to the community?](#what-is-needed-to-contribute-to-the-community)
   - [Can I ask any questions regarding any subject outside the session topic?](#can-i-ask-any-questions-regarding-any-subject-outside-the-session-topic)
 
-## I am confused, is it a free course or a paid course?
+## I am confused, the course is free or paid?
 
 All our courses here has two editions, Community Edition (CE) and Enterprise Edition (EE), the CE is free and the EE is paid.
 
@@ -57,7 +56,7 @@ All our courses here has two editions, Community Edition (CE) and Enterprise Edi
 | Points                    | Community Edition (CE)        | Enterprise Edition (EE) |
 |---------------------------|--------------------------------|-------------------------|
 |Questions Platform type    |[GitHub Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) | [Q&A platform](http://devopsvisionsqa.mohamedradwan.com)
-|Questions Platform acceptability    |Public | Private
+|Questions Platform accessability    |Public | Private
 |Time for answering your questions? | There is no obligation to resolve them, maybe resolved in a week, month, or couldn't be resolved at all.|We have an obligation to resolve them in short time and they have a high priority.|
 |Sessions                    | Monthly session we have 5000 registrations, so we will invite only 500 every session.|A few registrations and have Weekly Session.|
 |Duration expected to finish the course? | One year or more depends on your performance. | 3 months. |
@@ -85,9 +84,9 @@ However, to learn the practices, we must apply them using any tools or technolog
 
 ## When shall the course start? How shall I pay? Is there a deadline for payment?
 
-The course has two classes to join, English and Arabic. 
+Both course editions have two classes to join, English and Arabic and for the Enterprise Edition. 
 
-So, if you are interested in joining the **English** class, please contact our Financial Manager in the UK, Ms Rania via WhatsApp and send a text msg to the following no. (**004407403919116**)
+If you are interested in joining the **English** class, please contact our Financial Manager in the UK, Ms Rania via WhatsApp and send a text msg to the following no. (**004407403919116**)
 
 But, if you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms Nadia via WhatsApp and send a text msg to the following no. (**00201224073193**)
 
