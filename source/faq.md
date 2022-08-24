@@ -46,6 +46,7 @@
   - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
   - [What is needed to contribute to the community?](#what-is-needed-to-contribute-to-the-community)
   - [Can I ask any questions regarding any subject outside the session topic?](#can-i-ask-any-questions-regarding-any-subject-outside-the-session-topic)
+  - [How to join CE (Community Edition) of DevOps Course 🎓?](#how-to-join-ce-community-edition-of-devops-course-?)
 
 ## I am confused, the course is free or paid?
 
@@ -399,6 +400,29 @@ No, you are only allowed to ask related questions to the discussed topics.
 Most of the questions will be at the end of the session, but you can ask a few questions during the session.
 
 
+## How to join CE (Community Edition) of DevOps Course 🎓?
+
+1.Register in the CE (Community Edition) form for [English](https://forms.office.com/pages/responsepage.aspx?id=VMuHclbbA0SbDZvix-_OTqgojK5IrnRMlfeHaXYhy01URjBWU0dISjQ4S1kxRjRKWksxS1FQOVBTNy4u) or for [Arabic](https://forms.office.com/pages/responsepage.aspx?id=VMuHclbbA0SbDZvix-_OTqgojK5IrnRMlfeHaXYhy01UQ1ZQU1hENEpHUUZHQzM4NFFPQUxFRTRVTi4u).
+
+2.Star the repo (click the star) and Watch the repo (click watch for all activities).
+<br>
+<br />
+![](docs/images/how-to-join-CE/star-watch.png)
+<br>
+<br />
+3.Watch all the previous videos for the CE on our [English YouTube Channel](https://www.youtube.com/watch?v=Xe50JHgZBe0&list=PLe14MLC-Nwy7rtcVN-_1FHRblRdI3F1x9) or [Arabic Youtube Channel](https://www.youtube.com/watch?v=FVw3mn_1hmE&list=PL68G6wbDBVgjbCdbwiW_jGjd13WTFTPyw).
+
+4.Review the [Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) and the [FAQ Page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md).
+
+5.Review the repo very well and be aware of all the content in it.
+
+6.Review the [course outline](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-outline.md), lesson description (coming soon), [preparation points](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-lessons-preparation.md), and [demo labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md) pages.
+
+7.Practice what you learned to achieve all the outcomes.
+
+8.If you have any issues or inquiries, raise an [issue](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) on GitHub but make sure it's not repeated in the [closed issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues?q=is%3Aissue+is%3Aclosed) or [FAQ Page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md).
+
+9.Attend the free sessions and ask about any problems that you face in accordance to our Code of Conduct.
 
 
 
