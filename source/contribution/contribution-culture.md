@@ -32,3 +32,6 @@
 1. Don't move item from new to Ready until it has size and priority.
 
 1. Use comments in PBIs and Issues to discuss any topics and avoid using chat except urgent cases.
+
+1. The commits, PR name should be well descriptive and not include the issue name only, use the following format for the PR name:
+**Issue-number-Description**
