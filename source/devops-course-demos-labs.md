@@ -10,30 +10,36 @@
 ### **Module 2: Application Development Lifecycle in Action**
  - **Demo 1: Examine SRS vs. Well-structured Backlog items (Epic, Features, PBIs).**
  
-    In this demo you will learn and understand the difference between the old requirements engineering  and the modern requirements engineering process and tools.
-    
-    Also, you will learn and understand how an organization can structure their requirements in a very well-structured product backlog to help them manage their software delivery in an effective manner.
+    In this demo, you will learn and understand the difference between classic and modern requirements engineering processes and tools.
+
+    Also, you will learn how to capture the requirements in classic software engineering using SRS (Software Requirements Specification), how the SRS document includes all details of the requirements like Actors, Use Case diagram, domain model, Sequence diagram, and Activity diagram.
+
+    Also, you will learn how to capture the requirements in modern software engineering using Azure DevOps Product Backlog, and how the requirements can be organized into Themes, Epics, Features, and the Product Backlog Items (PBIs).
+
+    Also, you will understand how to write the acceptance criteria, and how to divide it into functional, usability, and data criteria for the PBI, how to set the priority, estimated and actual effort, and the expected time (Iteration) for delivering this PBI.
     
  
   - **Demo 2: Create and examine Windows 11 VM (created) from gallery.**
  
-    In this demo you will learn and understand how to configure your machine to work with virtual machines (VMs) and how to download and configure Windows 11 VM from the cloud repository.
+    In this demo, you will learn and understand how to enable virtualization to your processor, and enable windows to feature Hyper-V to configure your machine to work with virtual machines (VMs).
 
-    Also, you will learn and understand the main configuration and settings of the virtual machines like virtual CPU, virtual RAM, virtual HDD, etc. And how to create and manage snapshots effectively. 
+    Also, you will learn how to create Windows 11 VM from gallery on the cloud using Windows 11 image, and how to connect, start, sign in to to the created VM, and start exploring it.
+
+    Also, you will explore the VM settings, and learn how to configure them (Memory, Hard Disk, CPU, etc). After that, you will learn how to create multiple checkpoints, and learn how every checkpoit includes only the diff/ delta between the current and the previous version of the hard disk, how to apply one of the created checkpoints and revert the previous version, also how to delete, export the checkpoint, and how to create a virtual switch sothat you can communicate over the internet.
 
 
  - **Demo 3: Create and examine Ubuntu 20.04 VM (created) from gallery.**
  
-    In this demo you will learn and understand how to download and configure Ubuntu 20.04 VM from the cloud repository.
+    In this demo, you will learn and understand how to create Ubuntu 20.04 VM from gallery on the cloud using Ubuntu 20.04 image.
 
-    Also, you will learn and examine the Ubuntu 20.04 environment.
+    Also, you will learn and examine how to set the machine configuration (language, keyboard layout, location, user name, password, etc), how to apply your configuration changes and login to the created VM using the set username and password. After that, you can start exploring your VM, do your work and finally how to shut it down.
 
 
  - **Demo 4: Create and examine Ubuntu 18.04 VM (created) from gallery.**
  
-    In this demo you will learn and understand how to download and configure Ubuntu 18.04 VM from the cloud repository.
+    In this demo, you will learn and understand how to create Ubuntu 18.04 VM from gallery on the cloud using Ubuntu 18.04 image.
 
-    Also, you will learn and examine the Ubuntu 18.04 environment.
+    Also, you will learn and examine how to set the machine configuration (language, keyboard layout, location, user name, password, etc), how to apply your configuration changes and login to the created VM using the set username and password. After that, you can connect and start exploring your VM, do your work and finally how to shut it down.
     
 
  - **Demo 5: Create Windows 10 from ISO file.**
