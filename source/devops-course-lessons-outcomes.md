@@ -14,8 +14,6 @@
 
     Also, understanding the difference between being T-Shaped and I-Shaped and how Knowledge and Skills levels change for each form.
 
-
-
 - Lesson 3: Understanding Lead Time and Frequency of Deployment 
 
     Understanding the difference between Lead time and  Cycle time, what it means for frequency of deployment, how they are important to measure the progress of the project, and how improving them is very important for achieving high performance and continuous delivery.
