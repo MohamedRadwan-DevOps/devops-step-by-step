@@ -1,6 +1,6 @@
 
 # Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
-  - [I am confused, the course is free or paid?](#i-am-confused-the-course-is-free-or-paid)
+  - [I am confused, is the course free or paid?](#i-am-confused-is-the-course-free-or-paid)
   - [What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?](#what-is-the-difference-between-the-course-ce-community-edition-and-the-course-ee-enterprise-edition)
   - [Will I be qualified to work as a DevOps Engineer after finishing the course?](#will-i-be-qualified-to-work-as-a-devops-engineer-after-finishing-the-course)
   - [It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?](#it-is-unclear-what-tools-we-shall-use-whether-they-are-azure-devops-or-jenkins-will-we-work-with-configuration-management-tools-such-as-ansible-or-terraform-will-we-get-into-subjects-like-kubernetes-and-docker)
@@ -47,13 +47,13 @@
   - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
   - [What is needed to contribute to the community?](#what-is-needed-to-contribute-to-the-community)
   - [Can I ask any questions regarding any subject outside the session topic?](#can-i-ask-any-questions-regarding-any-subject-outside-the-session-topic)
-## I am confused, the course is free or paid?
+## I am confused, is the course free or paid?
 
 All our courses here has two editions, Community Edition (CE) and Enterprise Edition (EE), the CE is free and the EE is paid.
 
 ## What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?
 
-| Points                    | Community Edition (CE)        | Enterprise Edition (EE) |
+| Subject                    | Community Edition (CE)        | Enterprise Edition (EE) |
 |---------------------------|--------------------------------|-------------------------|
 |Questions Platform type    |[GitHub Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) | [Q&A platform](http://devopsvisionsqa.mohamedradwan.com)
 |Questions Platform accessability    |Public | Private
@@ -331,7 +331,7 @@ Kindly check this [question](#when-shall-the-course-start-how-shall-i-pay-is-the
 
 
 ## I registered for the free course (CE) but I didn't get an invitation.
-First please try to double-check your email, junk folder and so on, if you still can't find the invitation, kindly note that we have more than 2500 registrations, and we will select only 200 for each round, so if you didn't receive the invitation please wait your turn maybe for the next 3 rounds if still not receiving it, plz register again see this [question](#where-or-how-can-i-register)
+First please try to double-check your email, junk folder and so on, if you still can't find the invitation, kindly note that we have more than 5000 registrations, and we will select only 200 for each round, so if you didn't receive the invitation please wait your turn maybe for the next 3 rounds if still not receiving it, plz register again see this [question](#where-or-how-can-i-register)
 
 Notes:
 
@@ -353,6 +353,7 @@ No, you don't need to register for every session, once you registered for one se
 The past sessions will be on YouTube at the following link:
 
 [YouTube Arabic Channel](https://www.youtube.com/c/MohamedRadwanArabic)
+
 [YouTube English Channel](https://www.youtube.com/user/MRadwanMSF)
 
 For future sessions, an invitation will be sent to the registered users in their emails.
@@ -387,6 +388,7 @@ Yes, all sessions will be recorded and uploaded to the YouTube channel, so you c
 Yes, all sessions will be recorded here:
 
 [YouTube Arabic Channel](https://www.youtube.com/c/MohamedRadwanArabic)
+
 [YouTube English Channel](https://www.youtube.com/user/MRadwanMSF)
 
 
