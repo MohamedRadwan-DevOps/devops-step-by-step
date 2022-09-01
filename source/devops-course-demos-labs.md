@@ -500,9 +500,9 @@
     In this demo you will learn and understand how we can utilize Liquibase, a Database Change Management Tool, to deploy database changes in Snowflake using Liquibase and Azure Pipeline.
 
 
-|  **Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.** | Free session |
-| :---| --- |
-| In this demo you will learn and understand how to create an Azure repo and how to push the code to the remote repo, create and configure a Continuous Integration (CI) pipeline that will build/test the application and the infrastructure as code as well. Also, you will learn and understand how to create two packages, the application package which includes all the app code like CSS, HTML, java-scripts, etc, and the infra package which includes all the terraform code of the environment on Azure. After that you will learn how to push and store the two packages to Azure artifacts, then create and configure a Continuous Deployment (CD) pipeline that picks the packages from the artifacts, after that it will provision App service on Azure, Azure SQL Server and Database using the infra package, and in the end, deploy the app package to the provisioned environment. |  |
+**Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.** (Free session)
+
+In this demo you will learn and understand how to create an Azure repo and how to push the code to the remote repo, create and configure a Continuous Integration (CI) pipeline that will build/test the application and the infrastructure as code as well. Also, you will learn and understand how to create two packages, the application package which includes all the app code like CSS, HTML, java-scripts, etc, and the infra package which includes all the terraform code of the environment on Azure. After that you will learn how to push and store the two packages to Azure artifacts, then create and configure a Continuous Deployment (CD) pipeline that picks the packages from the artifacts, after that it will provision App service on Azure, Azure SQL Server and Database using the infra package, and in the end, deploy the app package to the provisioned environment.
 
 
 
