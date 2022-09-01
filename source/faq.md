@@ -5,6 +5,7 @@
   - [Will I be qualified to work as a DevOps Engineer after finishing the course?](#will-i-be-qualified-to-work-as-a-devops-engineer-after-finishing-the-course)
   - [It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?](#it-is-unclear-what-tools-we-shall-use-whether-they-are-azure-devops-or-jenkins-will-we-work-with-configuration-management-tools-such-as-ansible-or-terraform-will-we-get-into-subjects-like-kubernetes-and-docker)
   - [When shall the course start? How shall I pay? Is there a deadline for payment?](#when-shall-the-course-start-how-shall-i-pay-is-there-a-deadline-for-payment)
+  - [How to join the CE (Community Edition) of the DevOps Course?](#how-to-join-the-ce-community-edition-of-the-devops-course)
   - [Will the course be useful in Mobile applications? I have taken the Programming Fundamentals Course before with Eng. Moshrif, will it benefit me? How will DevOps benefit me afterwards?](#will-the-course-be-useful-in-mobile-applications-i-have-taken-the-programming-fundamentals-course-before-with-eng-moshrif-will-it-benefit-me-how-will-devops-benefit-me-afterwards)
   - [I’ve taken an overview of DevOps in a Data Warehousing class in college but in fact, the field itself is a bit unclear. If you could just give us a hint on what it is and the available opportunities for it and will it be a complement to a career in Full stack development?](#ive-taken-an-overview-of-devops-in-a-data-warehousing-class-in-college-but-in-fact-the-field-itself-is-a-bit-unclear-if-you-could-just-give-us-a-hint-on-what-it-is-and-the-available-opportunities-for-it-and-will-it-be-a-complement-to-a-career-in-full-stack-development)
   - [Is the course mostly theoretical and aimed at understanding the concepts of DevOps?](#is-the-course-mostly-theoretical-and-aimed-at-understanding-the-concepts-of-devops)
@@ -46,7 +47,6 @@
   - [What if I raised a Pull Request (PR) and it is not accepted?](#what-if-i-raised-a-pull-request-pr-and-it-is-not-accepted)
   - [What is needed to contribute to the community?](#what-is-needed-to-contribute-to-the-community)
   - [Can I ask any questions regarding any subject outside the session topic?](#can-i-ask-any-questions-regarding-any-subject-outside-the-session-topic)
-
 ## I am confused, the course is free or paid?
 
 All our courses here has two editions, Community Edition (CE) and Enterprise Edition (EE), the CE is free and the EE is paid.
@@ -99,6 +99,38 @@ Moreover, the timing shall be updated on the following timetable page:
 And it is best you take a look at the reviews left by those who have finished the course. Each and every one of them explains how they benefited from the course and shares their experience that might be very close to your case and thereby answering all your questions.
 
 [Course Reviews](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/reviews.md)
+
+
+## How to join the CE (Community Edition) of the DevOps Course?
+
+1. There are two versions of the CE course, English and Arabic
+
+	For the English version, register using the [English form](https://forms.office.com/r/9W8baHZkJ1).
+
+	For the Arabic version, register using the [Arabic form](https://forms.office.com/r/hU6k7FK1pW).
+
+2. Star the repo (click the star) and Watch the repo (click watch for all activities).
+
+3. Watch all the previous videos for the CE on the YouTube channels 
+
+	For the English version, watch this playlist [English YouTube Channel](https://www.youtube.com/watch?v=Xe50JHgZBe0&list=PLe14MLC-Nwy7rtcVN-_1FHRblRdI3F1x9).
+
+	For the Arabic version, watch this playlist [Arabic YouTube Channel](https://www.youtube.com/watch?v=7NUmA81ehyk&list=PL68G6wbDBVgjbCdbwiW_jGjd13WTFTPyw).
+
+4. Review the [Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) and the [FAQ Page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md).
+
+5. Review the repo very well and be aware of all the content in it and all updates, it's your responsibility to keep sync with all updates.
+
+
+6. Review the [course outline](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-outline.md), lesson description [lesson outcome](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-lessons-outcomes.md), [preparation points](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-lessons-preparation.md), and [demo labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md) pages.
+
+7. Practice what you learned to achieve all the outcomes.
+
+8. If you have any issues or inquiries, raise an [issue](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) on GitHub but make sure it's not repeated in the [closed issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues?q=is%3Aissue+is%3Aclosed) or [FAQ Page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md).
+
+9. Attend the free sessions and ask about any problems that you face in accordance to our Code of Conduct.
+
+10. Remember, never ask a question that is already answered in the issue or the FAQ or throughout the update of the repo.
 
 
 ## Will the course be useful in Mobile applications? I have taken the Programming Fundamentals Course before with Eng. Moshrif, will it benefit me? How will DevOps benefit me afterwards?
