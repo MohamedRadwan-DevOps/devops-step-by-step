@@ -3,11 +3,31 @@
 
 ## Course Demos/Labs (83 Demos/Labs)
 
-### **Module 1: Introduction to Agile and DevOps**
+  - [**Module 1: Introduction to Agile and DevOps**](#module-1-introduction-to-agile-and-devops)
+  - [**Module 2: Application Development Lifecycle in Action**](#module-2-application-development-lifecycle-in-action)
+  - [**Module 3: Introduction to Cloud**](#module-3-introduction-to-cloud)
+  - [**Module 4: Tooling for DevOps**](#module-4-tooling-for-devops)
+  - [**Module 5: Evolution of Computing Options**](#module-5-evolution-of-computing-options)
+  - [**Module 6: Managing Version Control**](#module-6-managing-version-control)
+  - [**Module 7: Defining and Implementing Continuous Integration (CI)**](#module-7-defining-and-implementing-continuous-integration-ci)
+  - [**Module 8: Designing a Dependency Management Strategy**](#module-8-designing-a-dependency-management-strategy)
+  - [**Module 9: Defining and Implementing a Continuous Delivery & Release Strategy**](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
+  - [**Module 10: Managing Configuration Management for Infrastructure and Database**](#module-10-managing-configuration-management-for-infrastructure-and-database)
+  - [**Module 11: Team Collaboration and Work Tracking**](#module-11-team-collaboration-and-work-tracking)
+  - [**Module 12: Examples Of Different Practices Improvement in Several Areas**](#module-12-examples-of-different-practices-improvement-in-several-areas)
+  - [**Module 13: Overview of SRE and Monitoring Practices**](#module-13-overview-of-sre-and-monitoring-practices)
+  - [**Module 14: Digital Transformation and DevOps**](#module-14-digital-transformation-and-devops)
+  - [**Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation**](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
+  - [**Module 16: Applying Quality and Security for DevOps**](#module-16-applying-quality-and-security-for-devops)
+  - [**Module 17: Version Control in More Details**](#module-17-version-control-in-more-details)
+  - [**Module 18: Docker in More Details**](#module-18-docker-in-more-details)
+  - [**Module 19: Mentoring, CV and Interpersonal Skills**](#module-19-mentoring-cv-and-interpersonal-skills)
+
+## **Module 1: Introduction to Agile and DevOps**
 
   - **No Demos**
 
-### **Module 2: Application Development Lifecycle in Action**
+## **Module 2: Application Development Lifecycle in Action**
 
  - **Demo 1: Examine SRS vs. Well-structured Backlog items (Epic, Features, PBIs).**
  
@@ -170,7 +190,7 @@
 
 
 
-### **Module 3: Introduction to Cloud**
+## **Module 3: Introduction to Cloud**
 
  - **Demo 1: Create an Azure Subscription Free account.**
  
@@ -215,7 +235,7 @@
 
 
 
-### **Module 4: Tooling for DevOps**
+## **Module 4: Tooling for DevOps**
 
  - **Demo 1: Examine Azure DevOps docs, create org and examine all services.**
  
@@ -239,7 +259,7 @@
 
 
 
-### **Module 5: Evolution of Computing Options**
+## **Module 5: Evolution of Computing Options**
 
  - **Demo 1: Install-uninstall Docker on Ubuntu on HV and create some containers.**
  
@@ -256,7 +276,7 @@
 
 
  
-### **Module 6: Managing Version Control**
+## **Module 6: Managing Version Control**
 
  - **Demo 1: Examine a History of repo on GitHub.**
  
@@ -315,7 +335,7 @@
 
 
 
-### **Module 7: Defining and Implementing Continuous Integration (CI)**
+## **Module 7: Defining and Implementing Continuous Integration (CI)**
 
  - **Demo 1: Create and configure Continuous Integration (CI) pipeline for a .NET class library.**
  
@@ -358,7 +378,7 @@
 
 
  
-### **Module 8: Designing a Dependency Management Strategy**
+## **Module 8: Designing a Dependency Management Strategy**
 
   - **Demo 1: Create and examine feed on Azure artifact with different options.**
  
@@ -408,7 +428,7 @@
 
 
 
-### **Module 9: Defining and Implementing a Continuous Delivery & Release Strategy**
+## **Module 9: Defining and Implementing a Continuous Delivery & Release Strategy**
 
 
  - **Demo 1: Create a CD for API.**
@@ -447,7 +467,7 @@
 
  
  
-### **Module 10: Managing Configuration Management for Infrastructure and Database**
+## **Module 10: Managing Configuration Management for Infrastructure and Database**
 
   - **Demo 1: Provision infrastructure (Web App and Azure SQL on Azure) using ARM and Azure Pipeline.**
  
@@ -486,7 +506,7 @@
 
 
 
-### **Module 11: Team Collaboration and Work Tracking**
+## **Module 11: Team Collaboration and Work Tracking**
 
  - **Demo 1: Structure People Dimension in Portfolio Management.**
  
@@ -528,13 +548,13 @@
 
 
 
-### **Module 12: Examples Of Different Practices Improvement in Several Areas**
+## **Module 12: Examples Of Different Practices Improvement in Several Areas**
 
   - **No Demos**
 
 
 
-### **Module 13: Overview of SRE and Monitoring Practices**
+## **Module 13: Overview of SRE and Monitoring Practices**
 
   - **Demo 1: Create a monitoring dashboards of Log Analytics data.**
  
@@ -552,17 +572,17 @@
 
 
 
-### **Module 14: Digital Transformation and DevOps**
+## **Module 14: Digital Transformation and DevOps**
 
    - **No Demos**
 
-### **Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation**
+## **Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation**
 
   - **No Demos**
 
 
 
-### **Module 16: Applying Quality and Security for DevOps**
+## **Module 16: Applying Quality and Security for DevOps**
 
   - **Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline.**
  
@@ -570,7 +590,7 @@
  
  
  
-### **Module 17: Version Control in More Details** 
+## **Module 17: Version Control in More Details** 
 
  - **Demo 1: Use git branch and merge.**
  
@@ -589,7 +609,7 @@
 
 
 
-### **Module 18: Docker in More Details** 
+## **Module 18: Docker in More Details** 
 
  - **Demo 1: Working with Docker in more details on Linux.**
  
@@ -607,7 +627,7 @@
 
 
 
-### **Module 19: Mentoring, CV and Interpersonal Skills** 
+## **Module 19: Mentoring, CV and Interpersonal Skills** 
 
  - **Demo 1: Examine more than 10 real professional CVs that passed the screening and they have been accepted.**
 
