@@ -26,7 +26,7 @@
 
     Also, you will learn how to create Windows 11 VM from gallery on the cloud using Windows 11 image, and how to connect, start, sign in to to the created VM, and start exploring it.
 
-    Also, you will explore the VM settings, and learn how to configure them (Memory, Hard Disk, CPU, etc). After that, you will learn how to create multiple checkpoints, and learn how every checkpoit includes only the diff/ delta between the current and the previous version of the hard disk, how to apply one of the created checkpoints and revert the previous version, also how to delete, export the checkpoint, and how to create a virtual switch sothat you can communicate over the internet. 
+    Also, you will explore the VM settings, and learn how to configure them (Memory, Hard Disk, CPU, etc). After that, you will learn how to create multiple checkpoints, and learn how every checkpoint includes only the diff/ delta between the current and the previous version of the hard disk, how to apply one of the created checkpoints and revert the previous version, also how to delete, export the checkpoint, and how to create a virtual switch sothat you can communicate over the internet. 
 
 
  - **Demo 3: Create and examine Ubuntu 20.04 VM (created) from gallery.**
