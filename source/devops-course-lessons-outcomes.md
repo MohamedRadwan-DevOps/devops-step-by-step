@@ -133,15 +133,5 @@ Also, apply and implement the following demos.
 
 ### Lesson 3: GitHub Features and Capabilities 
 
-Understanding and exploring Azure DevOps features and Capabilities, what are the different sub-platforms of Azure DevOps (Boards, Repos, Pipeline, etc)?
+Understanding and learning what is GitHub, what are the different options to import repo in GitHub, and what are GitHub Apps, and Actions.
 
-Also, understand what is Azure Boards, Repos, Pipeline, Test Plans, and Artifacts, how to create an Azure organization and examine all its services, how to use the Azure DevOps API to create items, and how to generate projects using the Demo generator and explore them very well.
-
-Also, apply and implement the following demos.
-- Examine Azure DevOps docs, create org and examine all the services.
-- Using Azure DevOps API to create items through Postman and Azure DevOps CLI.
-- Use a Demo generator to generate several projects and examine them.
-
-### Lesson 2: Azure DevOps Features and Capabilities
-
-Understanding and learning what is GitHub, what are the different options to import repo in GitHub, and what are GitHub Apps, and GitHub Actions.
