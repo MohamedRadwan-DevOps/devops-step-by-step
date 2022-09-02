@@ -148,100 +148,111 @@
 
  ### Demo 5: Create Windows 10 from ISO file. 
  
-  In this demo you will learn and understand how to use the media creation tool to create an ISO file to install Windows 10.
-  
-  Also, you will learn and examine the installed Windows environment
+  In this demo, you will learn and understand how to create an empty VM, apply all its configurations, how to assign its memory either dynamic or static, configure networking and virtual switch, connect to Virtual Hard Disk (VHD) and set its size.
+
+  Also, you will learn how to start your configured machine, insert an ISO file to install Windows 10, configure your installed Windows, explore it and finally shut down your machine.
 
 
  ### Demo 6: Create a Console App for calc (Average, Largest, Smallest). 
  
-  In this demo you will learn how to create a Console app with the logic inside of it and understand how to publish and manage the app.
+  In this demo you will learn and understand how to download and install Visual Studio 2019, open VS, create a new Console Application project, configure your new project, choose your target Framework, and ensure that your app is running fine.
 
-  Also, you will learn Software Architecture and Dependency Management, and their impact on your app.
+  How to add a new class to write your app business logic and write the code for the Average, largest, and Smallest methods.
+
+  Average to calculate the average of an array of numbers, 
+  Smallest to calculate the smallest number of an array of numbers, 
+  Largest to calculate the largest number of an array of numbers.
+
+  Also, you will learn how to use your created class and create an object from it, call its three methods, run your app and make sure it is working as expected, and finally how to distribute and publish your app, explore your published folder and run the .exe file to make sure everything works as expected.
     
 
  ### Demo 7: Create a Desktop App for calc (Average, Largest, Smallest). 
  
-  In this demo you will learn how to create a Desktop app with logic inside of it and understand how publish and manage the app.
+  In this demo, you will learn and understand how to create a new Desktop Application project, configure your new project, and how create a button, and a textbox and configure them.
 
-  Also, you will learn Software Architecture and Dependency Management, and their impact on your app.
+  How to add a new class to write your app business logic and write the code for the Average, largest, and Smallest methods (same as the business logic of the console app of [demo 6](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) ).
+
+  Also, you will learn how to use your created class and create an object from it, call its three methods, run your app and make sure it is working as expected, and finally how to distribute and publish your app, explore your published folder, setup and install your published app and make sure it is working as expected.
     
 
  ### Demo 8: Create an API App for calc (Average, Largest, Smallest). 
  
-  In this demo you will learn how to create API App with logic inside of it and understand how publish an API app, and how to call the API.
+  In this demo, you will learn and understand how to create a new API App project, configure it, create a new controller, and write the business logic of the calc app (Average, Smallest, Largest) inside it.
 
-  Also, you will learn Software Architecture and how APIs can modularize your app.
+  Also, you will learn how to build your app, configure your launch settings, run your app on IIS Express (built-in web server on VS), call all APIs with different numbers to make sure all working as expected, and finally publish your created API App and explore the published folder.
     
 
  ### Demo 9: Create a Class Library for Calc (Average, Largest, Smallest)- amend the console app to use it. 
  
-  In this demo you will learn how to create a Class Library which contains the logic and understand the basic concepts of DLLs. 
+  In this demo, you will learn and understand how to create a new Class Library project, configure it, add new class, and write the business logic of the calc app (Average, Smallest, Largest) inside it.
 
-  Also, you will learn how DLL can make separate the logic from the app and how to publish your Class Library.
+  Also, you will learn how to build your app, explore the build folder and examine the DLL file.
+
+  How to replace the business logic inside your [Console App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) with using the DLL of the Class Library, and make sure it is working as expected.
 
 
  ### Demo 10: Amend the API App to use the Class Library. 
  
-  In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can make your code flexible and efficient.
+  In this demo, you will learn and understand how to use the Class Library to separate the logic from the app and understand how DLLs can make your code flexible and efficient.
 
-  Also, you will learn how Dependency Management is handled and how to add the DLL to the app.
+  Also, you will learn how to add the DLL file to your created [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), and a reference to it, and replace the business logic code inside by the added Class Library, build and run your app and make sure it is working as expected.
     
 
  ### Demo 11: Amend the Console App to use the API. 
  
-  In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can improve your app.
-
-  Also, you will learn Dependency Management is handled and how to add the DLL to the app. 
+  In this demo, you will learn and understand how to replace the Class Library inside your created Console App by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), using them, build and run your app to make sure it is working as expected.
     
 
  ### Demo 12: Amend the Desktop App to use the API. 
  
-  In this demo you will learn to use the Class Library to separate the logic from the app and understand how DLLs can improve your app.
-
-  Also, you will learn Dependency Management is handled and how to add the DLL to the app.
-    
+  In this demo, you will learn and understand how to replace the business logic inside  your created [Desktop App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-7-create-a-desktop-app-for-calc-average-largest-smallest) by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest) and using them, build and run your app to make sure it is working as expected
 
  ### Demo 13: Create another API that consumes the 1st API. 
  
-  In this demo you will learn how to Create a 2nd API app and understand how to call the 1st API from the 2nd API. 
+  In this demo, you will learn how to Create a 2nd API app and understand how to call the 1st API from the 2nd API. 
 
-  Also, you will learn how Modern Software Architecture can make improve your code by introducing modularization versus old monolithic application. 
+  Also, you will learn how Modern Software Architecture can make improve your code by introducing modularization versus old monolithic applications. 
     
 
  ### Demo 14: Examine Several API requests and well form the JSON return. 
  
-  In this demo you will learn and understand how to make several API calls at once.
+  In this demo, you will learn and understand how to make and examine several public APIs, and format the APIs results to JSON format.
   
-  Also, you will learn the way to return the API in JSON form.
+  Also, you will learn how to make a Get API request to retrieve all projects in your Azure DevOps organization, and also a Post API request to create a project, item, etc.
     
 
  ### Demo 15: Package API and Deploy it to local IIS and expose to public. 
  
-  In this demo you will learn and understand how to package the API app to local IIS web server then port forwarding to make the local machine accessible from outside the network.
+  In this demo, you will learn and understand how to package the API app, turn on the Windows feature Internet Information Service (IIS), and how download ASP.NET core runtime and Windows Server Hosting (Windows Hosting Bundle) to make the IIS web server understand the API App, and how to deploy your API package to the local IIS web server, and finally call all API methods (Average, Smallest, and Largest) and make sure it's working as expected.
   
-  Also, you will learn how to make the IIS web server read (understand) the API App through downloading and installing ASP.NET Core Hosting Bundle, and how to use the port forwarding through your ISP router to make the local machine accessible to the public.
+  Also, you will learn how to expose port 800 (port forward), so that your local machine becomes a web server and is accessible to the public.
 
 
- ### Demo 16: Intro to nuget package management. 
+ ### Demo 16: Intro to NuGet package management. 
  
-  In this demo you will learn an essential tool for any modern software development.The Microsoft-supported methodology for sharing code which is NuGet.
-  
-  NuGet defines how packages for .NET are created, hosted, as well as consumed, and provides the tools for each of those roles.
-    
+  In this demo, you will learn more about the public package management NuGet, which is the package manager for .NET. The NuGet client tools provide the ability to produce and consume packages. The NuGet Gallery is the central package repository used by all package authors and consumers.
+
+  Explore Nuget packages list, how to search for any package by its name or author, its download numbers, its author's profile, explore its commands to install it, reference to it, etc.
+
+  Also, you will learn how to open package management inside Visual Studio (client for NuGet package), browse packages, and install/uninstall any package you want.
+
 
  ### Demo 17: Package the class library and publish it to nuget package. 
  
-  In this demo you will learn and understand a mechanism through which developers can create, share, and consume useful code.
+  In this demo, you will learn and understand a mechanism through which developers can create, share, and consume useful code.
   
-  Also, you will learn how the code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
-    
+  How the code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
+
+  Also, you will learn how to create an account on the Nuget, sign in, generate an API key to use to push the Class Library to NuGet, and finally push it.
+
 
  ### Demo 18: Replace the class library in the API with the nuget package library. 
  
-  In this demo you will learn and understand how to remove the class library that contained the logic in the API app and replace it with the package that was uploaded to NuGet package management.
+  In this demo, you will learn and understand the difference between Modern Software Architecture and Classic Software Architecture, and how to remove the class library that contained the logic in the API app and replace it with the package that was published to NuGet package management.
+
+  How to search for your published package from VS, install it, build and run your app and make sure everything works as expected.
   
-  Also, you will learn the difference between Modern Software Architecture and Software Architecture, and how to delete the package and restore it to the application before building.
+  Also, you will learn how is important to restore the packages before building your app if they were deleted as the app is using the deleted DLL and there is a dependency on it.
 
 
  ### Demo 19: Create Unit test for the class library. 
@@ -253,23 +264,22 @@
 
  ### Demo 20: Explain and examine code coverage, code metrics. 
  
-   In this demo you will learn and understand how to calculate code coverage and code metrics for the three methods (Average, Largest, Smallest) in Calc Class Library App.
+   In this demo you will learn and understand how to calculate code coverage and code metrics for the three methods (Average, Largest, Smallest) in the Calc Class Library App.
 
-   Also, you will learn the components of code metrics and the relation between some metrics like Maintainability Index and Cyclomatic Inheritance with Unit test.  
+   Also, you will learn the different quality metrics, what is Cyclomatic Complexity, Maintainability Index metric, Depth of Inheritance metric, Class Coupling metric, Lines of Source code metric, and how can we use them to measure the quality of code.
 
 
  ### Demo 21: Configure unit test run-settings to generate test results and code coverage. 
  
-  In this demo you will learn and understand how to run settings file to configure tests and build Using Calc Class library that are run from command line.
-  
-  Also, you will learn and how to use code coverage feature of visual studio that determines the number of lines of code.
+  In this demo, you will learn and understand how to configure Unit tests in Visual Studio by using a .runsettings file, and how to configure your project run settings to the added .runsettings file.
 
+  Also, you will learn and explore that after adding the .runsettings file the TestResults folder will contain the TestResult file (trx) which contains the details about the run test like the result summary, and an HTML file which includes the test run details.
 
  ### Demo 22: Examine a UI test and run it. 
  
-  In this demo you will learn and understand the concept of UI Testing and how to run it on a specific project.
+  In this demo, you will learn and understand the concept of UI Testing and how to run it on a specific project.
   
-  Also, you will learn how to control the sleep threading for each UI test and use the NuGet package management to update any package required to run a UI test like selenium.webdriver. chrome driver in our example.
+  Also, you will learn how to control the sleep threading for each UI test and use the NuGet package management to update any package required to run a UI test like Selenium.Webdriver.ChromeDriver in our example.
 
 
 
