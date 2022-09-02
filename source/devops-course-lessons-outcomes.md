@@ -1,7 +1,6 @@
-## DevOps Course lessons outcomes:
+# DevOps Course lessons outcomes:
 
-**Module 1: Introduction to Agile and DevOps**
-
+## Module 1: Introduction to Agile and DevOps
 - Lesson 1: Waterfall vs. Agile
 
     Understanding and learning that Agile and waterfall are two distinctive methodologies of processes to complete projects, the difference between them, how Agile is an iterative/incremental methodology that incorporates a cyclic and collaborative process, and Waterfall is a sequential methodology.
@@ -22,7 +21,7 @@
 
 <hr>
 
-**Module 2: Application Development Lifecycle in Action**
+## Module 2: Application Development Lifecycle in Action
 
 - Lesson 1: Introduction to Requirements Engineering and Backlog
 
@@ -34,13 +33,13 @@
 
    Also, understand how to enable virtualization, create and examine Windows 11 VM from the gallery, what is the checkpoint, and how to create, apply, and delete it.
 
-   Also, understand and practise how to create Ubuntu 20.04 and 18.04 VM from the gallery on the cloud using Ubuntu 20.04 and 18.04 images, and how to create an empty VM, create all configurations to it and install Windows 10 from the ISO file.
+   Also, understand and practice how to create Ubuntu 20.04 and 18.04 VM from the gallery on the cloud using Ubuntu 20.04 and 18.04 images, and how to create an empty VM, create all configurations to it and install Windows 10 from the ISO file.
 
 - Lesson 3: Developing an Application with Several Options
 
     Understanding the structure of the applications, how to organize and structure your app logically (for humans) and physically (for machines), and what is the difference between DLL and the Exe.
 
-    Also, apply and implement the following demos (**Note:** it is very important to practise and implement these demos).
+    Also, apply and implement the following demos (**Note:** it is very important to practice and implement these demos).
     - Create a Console App with business logic inside.
     - Create a Desktop App with business logic inside.
     - Create an API App with business logic inside.

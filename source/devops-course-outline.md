@@ -34,7 +34,7 @@
  - Lesson 2: What is Required to be a DevOps Engineer? 
  - Lesson 3: Understanding Lead Time and Frequency of Deployment
 
-## Module 2: Application Development Lifecyle in Action
+## Module 2: Application Development Lifecycle in Action
  - Lesson 1: Introduction to Requirements Engineering and Backlog
  - Lesson 2: Introduction to Virtual Machine (VM)
  - Lesson 3: Developing an Application with Several Options

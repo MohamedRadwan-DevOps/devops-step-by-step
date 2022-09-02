@@ -1,6 +1,25 @@
-## DevOps Course lessons preparation points:
+# DevOps Course lessons preparation points:
 
-**Module 1:**
+  - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
+  - [Module 2: Application Development Lifecycle in Action](#module-2-application-development-lifecycle-in-action)
+  - [Module 3: Introduction to Cloud](#module-3-introduction-to-cloud)
+  - [Module 4: Tooling for DevOps](#module-4-tooling-for-devops)
+  - [Module 5: Evolution of Computing Options](#module-5-evolution-of-computing-options)
+  - [Module 6: Managing Version Control](#module-6-managing-version-control)
+  - [Module 7: Defining and Implementing Continuous Integration (CI)](#module-7-defining-and-implementing-continuous-integration-ci)
+  - [Module 8: Designing a Dependency Management Strategy](#module-8-designing-a-dependency-management-strategy)
+  - [Module 9: Defining and Implementing a Continuous Delivery & Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
+  - [Module 10: Managing Configuration Management for Infrastructure and Database](#module-10-managing-configuration-management-for-infrastructure-and-database)
+  - [Module 11: Team Collaboration and Work Tracking](#module-11-team-collaboration-and-work-tracking)
+  - [Module 12: Examples Of Different Practices Improvement in Several Areas](#module-12-examples-of-different-practices-improvement-in-several-areas)
+  - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
+  - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
+  - [Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
+  - [Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
+  - [Module 17: Version Control in More Details](#module-17-version-control-in-more-details)
+  - [Module 18: Docker in More Details](#module-18-docker-in-more-details)
+
+## Module 1: Introduction to Agile and DevOps 
 
 - Backlog and AC (Acceptance Criteria)
 
@@ -58,7 +77,7 @@
 
 <hr>
 
-**Module 2:**
+## Module 2: Application Development Lifecycle in Action 
 
 - Virtual Machine
 
@@ -187,7 +206,7 @@
 <hr>
 
 
-**Module 3:**
+## Module 3: Introduction to Cloud 
 
 - Cloud computing
 
@@ -255,7 +274,7 @@
 
 <hr>
 
-**Module 4:**
+## Module 4: Tooling for DevOps 
 
 - Azure DevOps
 
@@ -343,7 +362,7 @@
 
 <hr>
 
-**Module 5:**
+## Module 5: Evolution of Computing Options 
 
 - Virtual Machine
 
@@ -371,7 +390,7 @@
 
 <hr>
 
-**Module 6:**
+## Module 6: Managing Version Control 
 
 - Version Control
 
@@ -393,7 +412,7 @@
 
 <hr>
 
-**Module 7:**
+## Module 7: Defining and Implementing Continuous Integration (CI) 
 
 - Continuous Integration (CI)
 
@@ -443,7 +462,7 @@
 
 <hr>
 
-**Module 8:**
+## Module 8: Designing a Dependency Management Strategy 
 
 - NuGet
 
@@ -511,7 +530,7 @@
 
 <hr>
 
-**Module 9:**
+## Module 9: Defining and Implementing a Continuous Delivery & Release Strategy 
 
 - John Allspaw delivery cycles chart
 
@@ -589,7 +608,7 @@
 
 <hr>
 
-**Module 10:**
+## Module 10: Managing Configuration Management for Infrastructure and Database 
 
 - Infrastructure as Code (IaC)
 
@@ -623,7 +642,7 @@
 
 <hr>
 
-**Module 11:**
+## Module 11: Team Collaboration and Work Tracking 
 
 - Portfolio Management
 
@@ -663,7 +682,7 @@
 
 <hr>
 
-**Module 12:**
+## Module 12: Examples Of Different Practices Improvement in Several Areas 
 
 - Portfolio Management using Azure DevOps
 
@@ -691,7 +710,7 @@
 
 <hr>
 
-**Module 13:**
+## Module 13: Overview of SRE and Monitoring Practices 
 
 - DevOps vs. SRE
 
@@ -737,7 +756,7 @@
 
 <hr>
 
-**Module 14:**
+## Module 14: Digital Transformation and DevOps 
 
 - Shift Left vs Shift Right in Software
 
@@ -757,7 +776,7 @@
 
 <hr>
 
-**Module 15:**
+## Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation 
 
 - Status report vs progress report
 
@@ -773,7 +792,7 @@
 
 <hr>
 
-**Module 16:**
+## Module 16: Applying Quality and Security for DevOps 
 
 - Compliance
 
@@ -879,7 +898,7 @@
 
 <hr>
 
-**Module 17:**
+## Module 17: Version Control in More Details 
 
 - Git branch
 
@@ -943,7 +962,7 @@
 
 <hr>
 
-**Module 18:**
+## Module 18: Docker in More Details 
 
 - Docker image vs Docker container
 
