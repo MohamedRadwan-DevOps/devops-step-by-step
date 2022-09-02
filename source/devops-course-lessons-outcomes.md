@@ -28,7 +28,7 @@ Understanding the difference between Lead time and  Cycle time, what it means fo
 
 Also, understanding how DevOps covers The End-to-End Engineering, and one of its goals is enhancing lead time and increasing the frequency of deployment.
 
-<hr>
+
 
 ## Module 2: Application Development Lifecycle in Action
 
@@ -87,4 +87,3 @@ Also, apply and implement the following demos (**Note:** it is very important to
   - Explain and examine code coverage, and code metrics.
   - Examine a UI test and run it.
 
-<hr>
