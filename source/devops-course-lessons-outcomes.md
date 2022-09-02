@@ -80,3 +80,59 @@
     - Examine a UI test and run it.
 
 <hr>
+
+**Module 3: Introduction to Cloud**
+
+- Lesson 1: Overview of Cloud Computing Models
+
+    Understanding and learning what is Cloud Computing, what are cloud computing models, what is the difference between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), what are the Cloud Computing Deployment Models, what is the difference between On-Premise (Private), Public, and Hybrid Cloud, and what is the Cloud Provider.
+
+    Also, understand what is Multi-cloud, why choose Multi-cloud, and some examples for the Cloud Service Models. 
+
+- Lesson 2: Examine Cloud Computing Models in Action
+
+    Understanding and learning how to create an Azure subscription (free account), how to create an Azure resource group, how to create Ubuntu VM on Azure, and how to connect to it from your local machine.
+
+    Also, understand and explore flexible scalability by adding/removing resources to VM, how to create and explore the website in the Infrastructure as a Service (IaaS) model, create and explore the website in the Platform as a Service (PaaS) model, explore the Software as Services(SaaS), what is Azure and what is inside it.
+
+    Also, apply and implement the following demos.
+    - Create an Azure Subscription Free account.
+    - Create Ubuntu on Azure and connect to it using SSH.
+    - Exploring flexible scalability by adding-removing resources to VM.
+    - Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expose port 80 and deploy the API.
+    - Create a Web App on Azure and deploy the API using FTP.
+    - Examine SasS like office-365.
+
+<hr>
+
+**Module 4: Tooling for DevOps**
+
+- Lesson 1: DevOps Toolchain Options
+
+    Understanding and learning the disconnected Tools and Processes, the connected Tools and Processes, what is the difference between them, and how Azure DevOps is a complete End-to-End toolchain that covers the entire development lifecycle.
+
+    Also, understand what are the main services of Azure DevOps, and how DevOps is an End-to-End Process that covers all stages (Plan, Develop, Release, and Monitor).
+
+- Lesson 2: Azure DevOps Features and Capabilities
+
+    Understanding and exploring Azure DevOps features and Capabilities, what are the different sub-platforms of Azure DevOps (Boards, Repos, Pipeline, etc)?
+
+    Also, understand what is Azure Boards, Repos, Pipeline, Test Plans, and Artifacts, how to create an Azure organization and examine all its services, how to use the Azure DevOps API to create items, and how to generate projects using the Demo generator and explore them very well.
+
+     Also, apply and implement the following demos.
+    - Examine Azure DevOps docs, create org and examine all the services.
+    - Using Azure DevOps API to create items through Postman and Azure DevOps CLI.
+    - Use a Demo generator to generate several projects and examine them.
+  
+  <br>
+    
+- Lesson 3: GitHub Features and Capabilities 
+
+    Understanding and learning what is GitHub, what are the different options to import repo in GitHub, and what are GitHub Apps, and GitHub Actions.
+
+<hr>
+
+
+ 
+
+
