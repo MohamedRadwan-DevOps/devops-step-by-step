@@ -9,6 +9,13 @@
     - [Lesson 3: Developing an Application with Several Options](#lesson-3-developing-an-application-with-several-options)
     - [Lesson 4: Understanding Types of Applications and Their Workflow](#lesson-4-understanding-types-of-applications-and-their-workflow)
     - [Lesson 5: Code Quality Verification in Action](#lesson-5-code-quality-verification-in-action)
+  - [Module 3: Introduction to Cloud](#module-3-introduction-to-cloud)
+    - [Lesson 1: Overview of Cloud Computing Models](#lesson-1-overview-of-cloud-computing-models)
+    - [Lesson 2: Examine Cloud Computing Models in Action](#lesson-2-examine-cloud-computing-models-in-action)
+ - [Module 4: Tooling for DevOps](#module-4-tooling-for-devops)
+   - [Lesson 1: DevOps Toolchain Options](#lesson-1-devops-toolchain-options)
+   - [Lesson 2: Azure DevOps Features and Capabilities](#lesson-2-azure-devops-features-and-capabilities)
+   - [Lesson 3: GitHub Features and Capabilities](#lesson-3-github-features-and-capabilities)
 ## Module 1: Introduction to Agile and DevOps
 ### Lesson 1: Waterfall vs. Agile
 
@@ -59,31 +66,72 @@ Also, apply and implement the following demos (**Note:** it is very important to
 - Amend the Desktop App to use the API.
 - Create another API App that will use the 1st API.
   
-  <br>
 
 ### Lesson 4: Understanding Types of Applications and Their Workflow
 
-  Understanding what are the different types of applications, what are the types of architecture models and workflow for these different applications.
+Understanding what are the different types of applications, what are the types of architecture models and workflow for these different applications.
 
-  What are the components/elements of the App development, what is the difference between Library and API, and and when we need the dependency libraries (DLLs).
+What are the components/elements of the App development, what is the difference between Library and API, and and when we need the dependency libraries (DLLs).
 
-  Also, understand the concept of packaging and its process, why it is important, why we do it, what is the concept of package management, and what is the NuGet package management and explore it well.
+Also, understand the concept of packaging and its process, why it is important, why we do it, what is the concept of package management, and what is the NuGet package management and explore it well.
 
-  Also, apply and implement the following demos.
-  - Package and deploy API app to IIS.
-  - Package the class library and publish it to the NuGet package
-  - Replace the class library in the API with the NuGet package library.
-
-  <br>
+Also, apply and implement the following demos.
+- Package and deploy API app to IIS.
+- Package the class library and publish it to the NuGet package
+- Replace the class library in the API with the NuGet package library.
   
 ### Lesson 5: Code Quality Verification in Action
 
-  Understanding the different types of verification, what is the difference between static and dynamic analysis, how to write a unit test for your app, and what are the different quality metrics.
+Understanding the different types of verification, what is the difference between static and dynamic analysis, how to write a unit test for your app, and what are the different quality metrics.
 
-  Also, understand what is cyclomatic complexity, maintainability index metric, depth of inheritance metric, class Coupling metric, lines of Source code metric, and code coverage and how can we use them to measure the quality of code.
+Also, understand what is cyclomatic complexity, maintainability index metric, depth of inheritance metric, class Coupling metric, lines of Source code metric, and code coverage and how can we use them to measure the quality of code.
 
-  Also, apply and implement the following demos.
-  - Create a Unit test for the class library.
-  - Explain and examine code coverage, and code metrics.
-  - Examine a UI test and run it.
+Also, apply and implement the following demos.
+- Create a Unit test for the class library.
+- Explain and examine code coverage, and code metrics.
+- Examine a UI test and run it.
+
+## Module 3: Introduction to Cloud
+
+### Lesson 1: Overview of Cloud Computing Models
+
+Understanding and learning what is Cloud Computing, what are cloud computing models, what is the difference between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), what are the Cloud Computing Deployment Models, what is the difference between On-Premise (Private), Public, and Hybrid Cloud, and what is the Cloud Provider.
+
+Also, understand what is Multi-cloud, why choose Multi-cloud, and some examples for the Cloud Service Models.
+
+### Lesson 2: Examine Cloud Computing Models in Action
+
+Understanding and learning how to create an Azure subscription (free account), how to create an Azure resource group, how to create Ubuntu VM on Azure, and how to connect to it from your local machine.
+
+Also, understand and explore flexible scalability by adding/removing resources to VM, how to create and explore the website in the Infrastructure as a Service (IaaS) model, create and explore the website in the Platform as a Service (PaaS) model, explore the Software as Services(SaaS), what is Azure and what is inside it.
+
+Also, apply and implement the following demos.
+- Create an Azure Subscription Free account.
+- Create Ubuntu on Azure and connect to it using SSH.
+- Exploring flexible scalability by adding-removing resources to VM.
+- Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expose port 80 and deploy the API.
+- Create a Web App on Azure and deploy the API using FTP.
+- Examine SasS like office-365.
+
+## Module 4: Tooling for DevOps
+### Lesson 1: DevOps Toolchain Options
+
+Understanding and learning the disconnected Tools and Processes, the connected Tools and Processes, what is the difference between them, and how Azure DevOps is a complete End-to-End toolchain that covers the entire development lifecycle.
+
+Also, understand what are the main services of Azure DevOps, and how DevOps is an End-to-End Process that covers all stages (Plan, Develop, Release, and Monitor).
+
+### Lesson 2: Azure DevOps Features and Capabilities
+
+Understanding and exploring Azure DevOps features and Capabilities, what are the different sub-platforms of Azure DevOps (Boards, Repos, Pipeline, etc)?
+
+Also, understand what is Azure Boards, Repos, Pipeline, Test Plans, and Artifacts, how to create an Azure organization and examine all its services, how to use the Azure DevOps API to create items, and how to generate projects using the Demo generator and explore them very well.
+
+Also, apply and implement the following demos.
+- Examine Azure DevOps docs, create org and examine all the services.
+- Using Azure DevOps API to create items through Postman and Azure DevOps CLI.
+- Use a Demo generator to generate several projects and examine them.
+
+### Lesson 3: GitHub Features and Capabilities 
+
+Understanding and learning what is GitHub, what are the different options to import repo in GitHub, and what are GitHub Apps, and Actions.
 
