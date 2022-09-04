@@ -531,6 +531,32 @@ Fourth: Having a Q&A Platform will help you very much in solving any problem you
 </a>
 <br></br>
 
+![Abdelhalim Zaki](images/reviewers/Abdelhalim-Zaki.png)
+
+## Abdelhalim Zaki
+## Freelance / Egypt
+
+Hi, I am Abdelhalim Zaki Mohammed, Working as a freelance in non-software industry. I attended the second batch and it was such a great experience, I wanted to do a review about Mohammed's Radwan DevOps Course.
+
+I have decided to make a career shift to DevOps Dec 2021, and no matter how long I google the internet it was always the same problem for me, a lot of resources without a clear vision of the whole picture they all offer tools, not the core DevOps practice as I have learned later.
+
+I saw Mohammed Radwan was marketing for his course, And I saw it as an opportunity for me Since it's such an opportunity to have someone like Mohammed in my network.
+
+When I started the course I was amazed at the effort and dedication to deliver simplified info and the idea of showing you the big picture of the SDLC to be able to understand that DevOps engineer is not just about Pipelines and that every part of SDLC is releated to DevOps concepts, The course strongest suit that it provides you with the practices not the tools and during the course it will always deliver the info that you need when you need it he won't give you the typical 100000 info about a tool that you might use in the future.
+
+Following the path designed in the course it will give you a better understanding and a depth of the core principles, By the time you finish the course, no matter the tool you want to learn you will be able to learn it easily since you already have the core knowledge of what is this tool should do and you already have practical experience about DevOps Practice itself.
+
+The course is easily delivered but still has a lot of knowledge and demos that if you don't work hard on yourself and practice, ask about the info you don't understand you will definitaly fall behind.
+
+The Mentor Program provided by the course is outstanding mentor speakers that will prepare their content to be able to provide you with experience to achieve the same goal as the course prepares you to be a DevOps Engineer, Also it gives you an interaction as one to one with Mohamed himself as mentor service.
 
 
+### Connect with Abdelhalim Zaki : &ensp; 
+<a href="https://www.facebook.com/A.halim.zaki/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+</a>&ensp;
+<a href="https://www.linkedin.com/in/abdelhalimzaki/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
 
+<br></br>
