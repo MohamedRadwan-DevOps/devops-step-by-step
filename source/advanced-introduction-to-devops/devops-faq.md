@@ -107,16 +107,16 @@ And it is best you take a look at the reviews left by those who have finished th
 
 	For the Arabic version, watch this playlist [Arabic YouTube Channel](https://www.youtube.com/watch?v=7NUmA81ehyk&list=PL68G6wbDBVgjbCdbwiW_jGjd13WTFTPyw).
 
-4. Review the [Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) and the [FAQ Page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/faq.md).
+4. Review the [Issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) and the [FAQ Page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-faq.md).
 
 5. Review the repo very well and be aware of all the content in it and all updates, it's your responsibility to keep sync with all updates.
 
 
-6. Review the [course outline](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/outline.md), lesson description [lesson outcome](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/lessons-outcomes.md), [preparation points](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/preparation.md), and [demo labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/demos-labs.md) pages.
+6. Review the [course outline](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-outline.md), lesson description [lesson outcome](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-lessons-outcomes.md), [preparation points](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/preparation.md), and [demo labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md) pages.
 
 7. Practice what you learned to achieve all the outcomes.
 
-8. If you have any issues or inquiries, raise an [issue](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) on GitHub but make sure it's not repeated in the [closed issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues?q=is%3Aissue+is%3Aclosed) or [FAQ Page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/faq.md).
+8. If you have any issues or inquiries, raise an [issue](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues) on GitHub but make sure it's not repeated in the [closed issues](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/issues?q=is%3Aissue+is%3Aclosed) or [FAQ Page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-faq.md).
 
 9.  Attend the free sessions and ask about any problems that you face in accordance to our Code of Conduct.
 
@@ -141,7 +141,7 @@ It is not a complement to a career in Full Stack development, it is a whole new 
 
 The course is very practical, and you’ll have hands-on experience and do everything yourself from A to Z, it has more than 83 Demos/Labs you will learn and do them yourself, see the following link for the list of Demos/Labs for the course.
 
-[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/demos-labs.md)
+[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md)
 
 ## Will there be an advanced level course immediately after or will there be a long time period between both courses?
 
@@ -174,7 +174,7 @@ The course will be an advanced leap in your way of thinking and in your work in 
 Those are two different companies that provide cloud services, and no you don’t have to be an expert but you should know basic bash script; you shall learn all that in the course.
 You can review all the prerequisites of the course on the following link:
 
-[Course prerequisites](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/info-prerequisite.md)
+[Course prerequisites](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-info-prerequisite.md)
 
 
 ## How important is it to have a credit card in the course? And will the money be withdrawn from it? And what if I don’t have a credit card, what shall I do?
@@ -263,7 +263,7 @@ You need to know that this is a demanding course and the more you focus and effo
 
 Also, you must know that there is significant preparation that you must do before every lecture and after every lecture, there shall be an assessment that you must take, see the following link for the list of Demos/Labs for the course.
 
-[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/demos-labs.md)
+[Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md)
 
 
 
