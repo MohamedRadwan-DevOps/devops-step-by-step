@@ -1,6 +1,6 @@
 ## Service Price
 
-**Course fees**
+**Advanced Introduction to DevOps Course fees**
 
  - The first package: $500.
 

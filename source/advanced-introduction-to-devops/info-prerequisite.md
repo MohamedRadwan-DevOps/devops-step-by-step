@@ -66,7 +66,7 @@ Beginner to advanced.
 
 For any inquiries? Look at the following Q&A page:
 
-[Q&A](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md)
+[Q&A](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/faq.md)
 
 The starting date will be updated on the following course Date & Time page:
 
