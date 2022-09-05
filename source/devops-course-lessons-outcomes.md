@@ -16,7 +16,18 @@
    - [Lesson 1: DevOps Toolchain Options](#lesson-1-devops-toolchain-options)
    - [Lesson 2: Azure DevOps Features and Capabilities](#lesson-2-azure-devops-features-and-capabilities)
    - [Lesson 3: GitHub Features and Capabilities](#lesson-3-github-features-and-capabilities)
+ - [Module 5: Evolution of Computing Options](#module-5-evolution-of-computing-options)
+   - [Lesson 1: Understanding Types of Computing](#lesson-1-understanding-types-of-computing)
+   - [Lesson 2: Virtual Machine (VM) VS. Container](#lesson-2-virtual-machine-vm-vs-container)
+   - [Lesson 3: Implementing Container Strategy](#lesson-3-implementing-container-strategy)
+- [Module 6: Managing Version Control](#module-6-managing-version-control)
+  - [Lesson 1: Introduction to Source Control](#lesson-1-introduction-to-source-control)
+  - [Lesson 2: Working with Git](#lesson-2-working-with-git)
+  - [Lesson 3: Overview of Azure Repos](#lesson-3-overview-of-azure-repos)
+  - [Lesson 4: Overview of GitHub](#lesson-4-overview-of-github)
+
 ## Module 1: Introduction to Agile and DevOps
+
 ### Lesson 1: Waterfall vs. Agile
 
 Understanding and learning that Agile and waterfall are two distinctive methodologies of processes to complete projects, the difference between them, how Agile is an iterative/incremental methodology that incorporates a cyclic and collaborative process, and Waterfall is a sequential methodology.
@@ -114,6 +125,7 @@ Also, apply and implement the following demos.
 - Examine SasS like office-365.
 
 ## Module 4: Tooling for DevOps
+
 ### Lesson 1: DevOps Toolchain Options
 
 Understanding and learning the disconnected Tools and Processes, the connected Tools and Processes, what is the difference between them, and how Azure DevOps is a complete End-to-End toolchain that covers the entire development lifecycle.
@@ -133,5 +145,80 @@ Also, apply and implement the following demos.
 
 ### Lesson 3: GitHub Features and Capabilities 
 
-Understanding and learning what is GitHub, what are the different options to import repo in GitHub, and what are GitHub Apps, and Actions.
+Understanding and exploring Azure DevOps features and Capabilities, what are the different sub-platforms of Azure DevOps (Boards, Repos, Pipeline, etc)?
+
+Also, understand what is Azure Boards, Repos, Pipeline, Test Plans, and Artifacts, how to create an Azure organization and examine all its services, how to use the Azure DevOps API to create items, and how to generate projects using the Demo generator and explore them very well.
+
+Also, apply and implement the following demos.
+- Examine Azure DevOps docs, create org and examine all the services.
+- Using Azure DevOps API to create items through Postman and Azure DevOps CLI.
+- Use a Demo generator to generate several projects and examine them.
+
+### Lesson 2: Azure DevOps Features and Capabilities
+
+Understanding and learning what is GitHub, what are the different options to import repo in GitHub, and what are GitHub Apps, and GitHub Actions.
+
+## Module 5: Evolution of Computing Options
+
+### Lesson 1: Understanding Types of Computing
+
+Understanding and learning the evolution of Computing, how it evolved from Traditional Computing to Cloud Computing, and the difference between Physical Machines, Virtual Machines, containers, and Serverless.
+
+
+### Lesson 2: Virtual Machine (VM) VS. Container
+
+Understanding and learning what is the virtual machine (VM), what it includes, and when it is an ideal choice.
+
+What is the Container, what does it include, and what is the difference between VM and Container?
+
+Also, understand what is the value Proposition for VM VS. Containers, why we use containers, and what are the advantages of Container.
+
+Also, apply and implement the following demos.
+- Install/uninstall Docker on Ubuntu on HV and create some containers.
+- Run the .NET core app container from [GitHub](https://github.com/MohamedRadwan-DevOps/dotnet-docker) on Ubuntu.
+
+### Lesson 3: Implementing Container Strategy 
+
+Understanding and learning an overview of Containers, what is Docker, and some Azure Container-related services.
+
+## Module 6: Managing Version Control
+
+### Lesson 1: Introduction to Source Control
+
+Understanding and learning what is Source/Version Control, why we use it, and why we should keep everything under Version Control.
+
+Also, apply and implement the following demo.
+- Examine History on GitHub.
+
+
+### Lesson 2: Working with Git
+
+Understanding and learning how to install Git on Windows and Ubuntu, what are the different types of files for Version Control, what are the types of changes under Version Control, what is Conflict, and when does it happen.
+
+Also, understand the difference between Hand-typed text files and Generated text files.
+
+Also, apply and implement the following demos.
+- Install Git on Windows and Ubuntu.
+- Hand-typed text files Vs. Generated text files.
+
+### Lesson 3: Overview of Azure Repos
+
+Understanding and learning what is Azure Repos, what are types of version control that Azure Repos provide, and what is the difference between TFVC and Git.
+
+Also, understand what is local, and remote Repo, how to link the local repo with the remote repo, what are the different Git commands, and when we use them.
+
+Also, apply and implement the following demos.
+- Use git as a local repo (config, init, commit, etc).
+- Use git as a remote repo from the local one (clone, pull, push, etc) Azure Repo.
+
+### Lesson 4: Overview of GitHub
+
+Understanding and learning what is GitHub, what are the different types of GitHub accounts, and how to use Git remote repo with GitHub.
+
+Also, understand how to interact with Azure Repo, and GitHub using different IDEs like Visual Studio and Visual Studio Code.
+
+Also, apply and implement the following demos.
+- Use git remote repo with GitHub.
+- Work with git using IDE (Visual Studio) to interact with Azure Repo and GitHub.
+- Work with git using IDE (VS Code) to interact with Azure Repo.
 
