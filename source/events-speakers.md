@@ -12,22 +12,6 @@ Luke is a Senior Recruiter in the UK, he falls into recruitment after university
 
 <br></br>
 
-![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/April-Edwards.png)
-
-April Edwards
-=============
-
-Bio
----
-
-April is a Cloud Developer Advocate at Microsoft. April started her career in Ops and moved into Dev, embracing DevOps after many painful projects and seeing the light. She works with people to help them automate all the things and is a Hashicorp Ambassador.
-
-Outside of work, April spends her time competing in triathlons, backcountry skiing, or wreck diving in the depths of the sea.
-
-You can find April at a variety of conferences, as well as a frequent guest on podcasts, The DevOps Lab and other event that focus on IaC and DevOps topics.
-
-<br></br>
-
 ![Mohamed Moshrif](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Mohamed-Moshrif.png)
 
 Mohamed Moshrif
@@ -44,17 +28,20 @@ In the last couple of years, he helped multiple international businesses to open
 
 
 <br></br>
-![Charlie Nash](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Charlie-Nash.png)
 
-Charlie Nash
+![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/April-Edwards.png)
+
+April Edwards
 =============
 
 Bio
 ---
 
-Charlie is a Principal DevOps Recruitment Consultant who began his recruiting career in 2014 and throughout the past 7+ years, has matched the best quality talent to suitable positions all over the world. Charlie has worked roles across Europe and South America, and now currently focuses on the UK market specifically.
+April is a Cloud Developer Advocate at Microsoft. April started her career in Ops and moved into Dev, embracing DevOps after many painful projects and seeing the light. She works with people to help them automate all the things and is a Hashicorp Ambassador.
 
-Upon joining Stott and May, Charlie has continued to build his network across DevOps, Infrastructure and Cloud focusing on perm placements across the UK.
+Outside of work, April spends her time competing in triathlons, backcountry skiing, or wreck diving in the depths of the sea.
+
+You can find April at a variety of conferences, as well as a frequent guest on podcasts, The DevOps Lab and other event that focus on IaC and DevOps topics.
 
 <br></br>
 
