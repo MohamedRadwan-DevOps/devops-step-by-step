@@ -1,5 +1,5 @@
 
-## The Schedule for DevOps Course (English/Arabic)
+## The Schedule for Advanced Introduction to DevOps Course (English/Arabic)
 
 **All the time slots are provided in UK/London time.**
 

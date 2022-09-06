@@ -170,7 +170,7 @@
  
   In this demo, you will learn and understand how to create a new Desktop Application project, configure your new project, and how create a button, and a textbox and configure them.
 
-  How to add a new class to write your app business logic and write the code for the Average, largest, and Smallest methods (same as the business logic of the console app of [demo 6](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) ).
+  How to add a new class to write your app business logic and write the code for the Average, largest, and Smallest methods (same as the business logic of the console app of [demo 6](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) ).
 
   Also, you will learn how to use your created class and create an object from it, call its three methods, run your app and make sure it is working as expected, and finally how to distribute and publish your app, explore your published folder, setup and install your published app and make sure it is working as expected.
     
@@ -188,24 +188,24 @@
 
   Also, you will learn how to build your app, explore the build folder and examine the DLL file.
 
-  How to replace the business logic inside your [Console App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) with using the DLL of the Class Library, and make sure it is working as expected.
+  How to replace the business logic inside your [Console App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) with using the DLL of the Class Library, and make sure it is working as expected.
 
 
  ### Demo 10: Amend the API App to use the Class Library. 
  
   In this demo, you will learn and understand how to use the Class Library to separate the logic from the app and understand how DLLs can make your code flexible and efficient.
 
-  Also, you will learn how to add the DLL file to your created [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), and a reference to it, and replace the business logic code inside by the added Class Library, build and run your app and make sure it is working as expected.
+  Also, you will learn how to add the DLL file to your created [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), and a reference to it, and replace the business logic code inside by the added Class Library, build and run your app and make sure it is working as expected.
     
 
  ### Demo 11: Amend the Console App to use the API. 
  
-  In this demo, you will learn and understand how to replace the Class Library inside your created Console App by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), using them, build and run your app to make sure it is working as expected.
+  In this demo, you will learn and understand how to replace the Class Library inside your created Console App by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), using them, build and run your app to make sure it is working as expected.
     
 
  ### Demo 12: Amend the Desktop App to use the API. 
  
-  In this demo, you will learn and understand how to replace the business logic inside  your created [Desktop App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-7-create-a-desktop-app-for-calc-average-largest-smallest) by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/devops-course-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest) and using them, build and run your app to make sure it is working as expected
+  In this demo, you will learn and understand how to replace the business logic inside  your created [Desktop App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-7-create-a-desktop-app-for-calc-average-largest-smallest) by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest) and using them, build and run your app to make sure it is working as expected
 
  ### Demo 13: Create another API that consumes the 1st API. 
  
