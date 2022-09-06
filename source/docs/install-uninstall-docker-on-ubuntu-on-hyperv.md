@@ -1,222 +1,158 @@
 # Install/uninstall Docker on Ubuntu on Hyper-V:
 
-1.1 Navigate to Hyber-V manager -> open ubuntu VM-> login
+1: Navigate to start menu and open Hyper-v Manager.
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=1676317518143056997)
+![](images/install-uninstall-docker/01-Hyper-v.png)
 
+2.1 Select your Linux virtual machine. </br>
+2.2 Click start.
+
+![](images/install-uninstall-docker/02-Ubu-VM-Start.PNG)
   
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=7084547680363861256)  
-  
+3: Open terminal
+ 
 
+![](images/install-uninstall-docker/03-Open-Terminal.PNG)
   
-
-1.2 Open terminal
-
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=8431770446365625158)  
-  
-1.3 Update package management :
-
-  
+4: Run the following command to update package management:
 
 > sudo apt update
 
-  
+![](images/install-uninstall-docker/04-apt-update.PNG)
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=372238960124364454)
+5: Run the following command to Install docker :
 
-1.4 Install docker :
+> sudo apt install docker.io
 
-  
+![](images/install-uninstall-docker/05-Install-docker.PNG)
 
-> sudo apt install [docker.io](http://docker.io/)
+6: You can also remove docker by running the following command:
 
-  
+> sudo apt remove docker.io
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=16055785453372219807)
+![](images/install-uninstall-docker/06-Remove-docker.PNG)
 
-1.5 To uninstall docker :
+7: Let's download docker again.
 
-  
+> sudo apt install docker.io
 
-> sudo apt remove [docker.io](http://docker.io/)
+![](images/install-uninstall-docker/07-Install-docker.PNG)
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=2611577060581306314)
+8: Examine Docker Hub:
 
-  
+8.1.1 Navigate to [Docker Hub](http://hub.docker.com/)</br>
+8.1.2 Examine the available images:
 
-1.6 Install docker again :
+![](images/install-uninstall-docker/08-Navigate-explore.PNG)
 
-> sudo apt install [docker.io](http://docker.io/)
 
-  
+8.2 We will examine 2 examples which are: </br>
+8.2.1: Ubuntu . </br>
+8.2.2: Alpine. </br>
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=17445331285326286513)
+![](images/install-uninstall-docker/09-Ubuntu-Apline.PNG)
 
-2. Examine Docker Hub:
+8.3 Navigate to ubuntu you can see the pull command highlighted:
+</br></br>
+![](images/install-uninstall-docker/010-Ubuntu.PNG)
+- Let's Pull some images:
+</br></br>
 
-2.1 Navigate to [Docker Hub](http://hub.docker.com/)
-
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=16457071663192833827)
-
-  
-
-2.2 Examine the available images:
-
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=16499530170422652613)
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=12539748858641408587)
-
-3. Pull some images:
-
-3.1 Open terminal window:
-
-3.2
+9: Open terminal window.</br>
+9.1 Run the following command to pull ubuntu and by using the standalone command it will always pull the latest image for any image you're trying to pull:</br>
+9.2 Run the following command to check the images we have inside.
 
 > sudo docker pull ubuntu
 
-  
-
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=241825733576312125)
-
-3.3
-
 > sudo docker images
 
-  
+![](images/install-uninstall-docker/011-pull-ubuntu.PNG)
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=12736233665374948410)
+10: Navigate back to alpine page you can see the alpine command.
 
-  
+![](images/install-uninstall-docker/012-alpine.PNG)
 
-3.4
+11.1 Run the following command to pull alpine latest image: </br>
+11.2 Run the following command to check the docker images, you can notice we have 2 images (ubuntu that we have pulled earlier and alpine).
 
 > sudo docker pull alpine
 
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=4928597868810940426)
-
-  
-
-3.5
-
 > sudo docker images
 
-  
+![](images/install-uninstall-docker/013-pull-alpine.PNG)
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=9350968220880789199)
 
-  
-
-3.6: Pull an image with a specific version
+12.1 But we can pull an image with a specific version it's the same command followed by :then the version you want to pull like the following command for alpine. </br>
+12.2 Run docker images to check all the images, you can notice 3 images 2 with the latest tag and one with the specific tag 3.12.
 
 > sudo docker pull image alpine:3.12
 
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=3860966525346312314)
-
-  
-
-3.7
-
 > sudo docker images
 
-  
+![](images/install-uninstall-docker/014-alpine-tag.PNG)
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=5219988617531109675)
-
-3.8: Making a new ubuntu container
+13: Let's Make our first container by running the following command.
 
 > sudo docker run -it --name con-1 ubuntu /bin/bash
 
-  
+![](images/install-uninstall-docker/015-run-cont.PNG)
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=7150152645777898814)
 
-  
+14: Let's Open a new Terminal. </br>
+14.1 Right-click on the highlighted terminal icon. </br>
+14.2 Click new window. </br>
 
-3.9 : Open another terminal window
-
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=10033183888239211828)
+![](images/install-uninstall-docker/016-new-terminal.PNG)
 
   
-
-3.10 Checking running containers:
+15: Run the following command to check the running containers.
 
 > sudo docker ps
 
-  
+![](images/install-uninstall-docker/017-docker-ps.PNG)
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=11844653406067881569)
-
-  
-
-3.11 Navigate to the first terminal window to exit the container:
+16: Navigate to the first terminal window to exit the container:
 
 > exit
 
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=4445139425493838704)
+![](images/install-uninstall-docker/018-exit-con.PNG)
 
   
 
-3.12 Navigate to the second terminal to check running containers again:
+17: Navigate to the second terminal to check running containers again:
 
 > sudo docker ps
 
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=8949753795034155859)
+![](images/install-uninstall-docker/019-docker-ps.PNG)
 
   
 
-3.13 Navigate to the first terminal to create the second container:
+18: Navigate to the first terminal to create the second container:
 
 > sudo docker run -it --name con-2 ubuntu /bin/bash
 
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=10240168802039473495)
+![](images/install-uninstall-docker/020-docker-con2.PNG)
 
   
 
-3.14 Navigate to the second terminal to list all containers -a (running and not running)
+19: Navigate to the second terminal to list all containers -a (running and not running) also you can notice that it also detect that container with name con-1 exited about a minute ago.
 
 > sudo docker ps -a
 
+
+![](images/install-uninstall-docker/021-dockeps-all.PNG)
+
   
 
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=1330730573290104002)
-
-  
-
-3.15 Navigate to the first terminal.
+20: Navigate to the first terminal and exit the 2nd container.
 
 > exit
 
-  
+![](images/install-uninstall-docker/022-exit.PNG)
 
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=16723102997873528731)
-
-3.16 Navigate to the second terminal to check running containers:
+21: Navigate to the second terminal to check running containers.
 
 > sudo docker ps
 
-  
-
-![](http://devopsvisionsqa.mohamedradwan.com/?qa=blob&qa_blobid=3141439925248690541)
+![](images/install-uninstall-docker/023-dockerps.PNG)
