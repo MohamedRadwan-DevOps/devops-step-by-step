@@ -3,7 +3,7 @@
 
 - One more thing We should keep in mind that to achieve the best we should try to keep our pictures symmetrical to each other that means keep all of them in the same ratio in terms of width and height and that gives the reader a feeling of the quality that you are trying to achieve, even if you miss small minor things if the big picture looks good it will leave a first good impression and that last.
 
-- You can find the PowerPoint Template here in this Link. 
+- You can find the PowerPoint Template here in this [Link](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/contribution/assets/templates/qa-template.pptx). 
 
 **Note: Please Don't use Dark mode with Windows/VS/Browser, by anyhow since we are using red squares to highlight and it won't make it visible.**
 
@@ -25,8 +25,8 @@ This all in one step it's better to structure them along with the picture rather
 
 IMG
 
-2.Web App -> resource group: create one ->
-IMG . 
+2.Web App -> resource group: create one -> </br>
+IMG . </br>
 and so on.
 
 ![](assets/images/Guidlines-to-write-Q-A-demos/02-VideoSession.PNG)
@@ -225,7 +225,7 @@ Note: The Max Width you can use on Q&A Plat is 800.
 
 39.This is what our pic should look like after upload.
 
-![](/assets/images/Guidlines-to-write-Q-A-demos/039-PicUploaded.PNG)
+![](assets/images/Guidlines-to-write-Q-A-demos/039-PicUploaded.PNG)
 
 In-depth guide about numeration.
 As mentioned earlier in Step 2, If you're using Kareem assignment thread as a reference you should consider making your own numeration sequence, therefore, I will show 2 examples of references and how I made my own numeration.
@@ -258,6 +258,6 @@ When I took kareem as a ref I took the 6 steps and created 10 steps out of them.
 
 How to avoid having so many grammar and punctuation mistakes?
 
-By using a tool called Grammarly  you can download as an extension to your browser and you will be pleased with the result.
+By using a tool called [Grammarly](https://www.grammarly.com/) you can download as an extension to your browser and you will be pleased with the result.
 
-And as M.Radwan always says the learning is incremental, You don't have to start over from the beginning, you must start where the other end, So it's highly prefer to read all reviewer points for the Q/A closed issues in the [DevOps EE Project](https://github.com/users/MohamedRadwan-DevOps/projects/2) .
+And as M.Radwan always says the learning is incremental, You don't have to start over from the beginning, you must start where the others end, So it's highly prefer to read all reviewer points for the Q/A closed issues in the [DevOps EE Project](https://github.com/users/MohamedRadwan-DevOps/projects/2).
