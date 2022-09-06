@@ -170,7 +170,7 @@
  
   In this demo, you will learn and understand how to create a new Desktop Application project, configure your new project, and how create a button, and a textbox and configure them.
 
-  How to add a new class to write your app business logic and write the code for the Average, largest, and Smallest methods (same as the business logic of the console app of [demo 6](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) ).
+  How to add a new class to write your app business logic and write the code for the Average, largest, and Smallest methods (same as the business logic of the console app of [demo 6](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) ).
 
   Also, you will learn how to use your created class and create an object from it, call its three methods, run your app and make sure it is working as expected, and finally how to distribute and publish your app, explore your published folder, setup and install your published app and make sure it is working as expected.
     
@@ -188,24 +188,24 @@
 
   Also, you will learn how to build your app, explore the build folder and examine the DLL file.
 
-  How to replace the business logic inside your [Console App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) with using the DLL of the Class Library, and make sure it is working as expected.
+  How to replace the business logic inside your [Console App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md#demo-6-create-a-console-app-for-calc-average-largest-smallest) with using the DLL of the Class Library, and make sure it is working as expected.
 
 
  ### Demo 10: Amend the API App to use the Class Library. 
  
   In this demo, you will learn and understand how to use the Class Library to separate the logic from the app and understand how DLLs can make your code flexible and efficient.
 
-  Also, you will learn how to add the DLL file to your created [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), and a reference to it, and replace the business logic code inside by the added Class Library, build and run your app and make sure it is working as expected.
+  Also, you will learn how to add the DLL file to your created [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), and a reference to it, and replace the business logic code inside by the added Class Library, build and run your app and make sure it is working as expected.
     
 
  ### Demo 11: Amend the Console App to use the API. 
  
-  In this demo, you will learn and understand how to replace the Class Library inside your created Console App by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), using them, build and run your app to make sure it is working as expected.
+  In this demo, you will learn and understand how to replace the Class Library inside your created Console App by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest), using them, build and run your app to make sure it is working as expected.
     
 
  ### Demo 12: Amend the Desktop App to use the API. 
  
-  In this demo, you will learn and understand how to replace the business logic inside  your created [Desktop App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-7-create-a-desktop-app-for-calc-average-largest-smallest) by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest) and using them, build and run your app to make sure it is working as expected
+  In this demo, you will learn and understand how to replace the business logic inside  your created [Desktop App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md#demo-7-create-a-desktop-app-for-calc-average-largest-smallest) by calling the APIs of the [API App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest) and using them, build and run your app to make sure it is working as expected
 
  ### Demo 13: Create another API that consumes the 1st API. 
  
@@ -231,7 +231,6 @@
  ### Demo 16: Intro to NuGet package management. 
  
   In this demo, you will learn more about the public package management NuGet, which is the package manager for .NET. The NuGet client tools provide the ability to produce and consume packages. The NuGet Gallery is the central package repository used by all package authors and consumers.
-
   Explore Nuget packages list, how to search for any package by its name or author, its download numbers, its author's profile, explore its commands to install it, reference to it, etc.
 
   Also, you will learn how to open package management inside Visual Studio (client for NuGet package), browse packages, and install/uninstall any package you want.
@@ -240,7 +239,6 @@
  ### Demo 17: Package the class library and publish it to nuget package. 
  
   In this demo, you will learn and understand a mechanism through which developers can create, share, and consume useful code.
-  
   How the code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
 
   Also, you will learn how to create an account on the Nuget, sign in, generate an API key to use to push the Class Library to NuGet, and finally push it.
@@ -249,7 +247,6 @@
  ### Demo 18: Replace the class library in the API with the nuget package library. 
  
   In this demo, you will learn and understand the difference between Modern Software Architecture and Classic Software Architecture, and how to remove the class library that contained the logic in the API app and replace it with the package that was published to NuGet package management.
-
   How to search for your published package from VS, install it, build and run your app and make sure everything works as expected.
   
   Also, you will learn how is important to restore the packages before building your app if they were deleted as the app is using the deleted DLL and there is a dependency on it.
