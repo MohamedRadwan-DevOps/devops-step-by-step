@@ -287,44 +287,46 @@
 
  ### Demo 1: Create an Azure Subscription Free account. 
  
-  In this demo you will learn and understand the steps to setting up a free Azure account.
-  
-  Also, you will learn the different cloud deployments available within major cloud providers like (IaaS,PaaS,SaaS,FaaS),and the different cloud offerings like (storage & compute).
+  In this demo, you will learn and understand and learn how to create an Azure Subscription free account.
 
 
  ### Demo 2: Create Ubuntu on Azure and connect to it using SSH and remote desktop. 
- 
-  In this demo you will learn and understand how to create and use secure shell (SSH) keys to connect to Linux virtual machine (VM) in Azure.
   
-  Also, you will learn how to generate and store SSH keys in the Azure portal to use when creating VMs in the portal as well as configuring a desktop environment and remote desktop for your Linux VM running Ubuntu.
+  In this demo, you will learn and understand how to create a resource group, how to create an Ubuntu virtual machine on the created resource group on Azure, how to configure your VM (size, name, username, password, etc), and how to explore all settings of the created VM.
+
+  Also, you will learn how to connect from your local machine to the created Ubuntu VM on the cloud using Git Bash, how to update apt (Ubuntu package management), install Xfce and RDP so that you can apply a remote connection for your VM machine (RDP), how to add RDP protocol to your VM networking settings, connect to VM through Remote Desktop Connection, and finally how to stop your machine, and delete the created resource group.
 
 
  ### Demo 3: Exploring cloud flexibility and scalability by adding/removing resources to VM . 
- 
-  In this demo you will learn the different sizes available for virtual machines (VMs) and how quick it is to deploy a VM and understand how to change the required computation power based on your needs (scale-up vs scale-out).
   
-  Also, you will learn how enterprises used to managed their on-premise infrastructure vs cloud managed infrastructure. 
+  In this demo, you will learn and understand one of the most advantages of using Cloud which is the **Flexibility** that Cloud provides.
+
+  How to create Windows 10 VM on Azure, configure its settings, explore the provided sizes for the VM and their cost, and how select your desired size.
+
+  Also, you will learn how to change the created VM size from one to another (flexibility) depending on your needs.
 
 
  ### Demo 4: Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expose port 80 and deploy the API app. 
  
-  In this demo you will learn and understand how create a Windows 10 VM using Readily available image repository, how to enable IIS (windows webserver) from windows features, and how to install a .NET core runtime from the web.
-  
-  Also, you will learn how to port forward and expose port 80 to allow traffic to reach your API app, which you will deploy on IIS. 
+  In this demo, you will learn and understand how deploy your application on Infrastructure as Service (IaaS) on Azure, how to create a resource group, create Windows 10 VM, configure its settings, and how to connect to your created VM through Remote Desktop Connection.
+
+  How to enable Internet Information Service (IIS), download and install .NET core runtime to your VM, how to deploy the API package to the IIS web server on the VM, and finally how to call all API methods (Average, Smallest, and Largest) to make sure everything is working as expected.
+
+  Also, you will learn how to add the inbound rule to port 80 to your VM networking settings, so that you can call the APIs from your local or any other machine as it is actually deployed/hosted on IaaS on the Azure cloud.
 
 
  ### Demo 5: Create a Web App on Azure and deploy the API using FTP. 
  
-  In this demo you will learn and understand how to deploy a Web App resource on Azure and add it to a resource group.
+  In this demo, you will learn and understand how to deploy the application on Platform as a Services (PaaS) on Azure, how to create web App resources on Azure, and how to select its run-time stack.
   
-  Also, you will learn how to deploy the API to the Web App service using FTP (File Transfer Protocol). 
+  Also, you will learn how to download and install the FTP client (FileZilla) so that you can transfer the API package files from your local machine to the created web App, how to add a new site on the FileZilla site manager, configure your new site with the provided settings from your created web app deployment centre, upload your API package to the web app, and finally call the APIs to ensure everything working as expected.
 
 
  ### Demo 6: Examine SaaS products like office-365. 
  
-  In this demo you will learn and understand how SaaS products (like office-365) differ from other type of cloud offerings.
-  
-  Also, you will learn how SaaS is considered a consumerism service compared to PaaS and IaaS, where you don't manage anything but your own data.
+  In this demo, you will learn and understand how SaaS products (like office-365) differ from other types of cloud offerings, and how SaaS is considered a consumerism service compared to PaaS and IaaS, where you don't manage anything but your own data.
+
+  Also, you will explore Office-365 different apps (Outlook, Powerpoint, Word, etc), and how to navigate to the admin center and explore all options (Users, Teams & groups, Roles, ...etc).
 
 
 
