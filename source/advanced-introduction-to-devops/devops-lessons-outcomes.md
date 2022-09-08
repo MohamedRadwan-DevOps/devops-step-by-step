@@ -106,6 +106,8 @@ Also, apply and implement the following demos/exercises.
 - Explain and examine code coverage, and code metrics.
 - Examine a UI test and run it.
 
+**Note You can find more details about each module demos on demos/labs page**
+
 ## Module 3: Introduction to Cloud
 
 ### Lesson 1: Overview of Cloud Computing Models
@@ -128,6 +130,8 @@ Also, apply and implement the following demos/exercises.
 - Create a Web App on Azure and deploy the API using FTP.
 - Examine SasS like office-365.
 
+**Note You can find more details about this module demos on demos/labs page**
+
 ## Module 4: Tooling for DevOps
 
 ### Lesson 1: DevOps Toolchain Options
@@ -149,18 +153,9 @@ Also, apply and implement the following demos/exercises.
 
 ### Lesson 3: GitHub Features and Capabilities 
 
-Understanding and exploring Azure DevOps features and Capabilities, what are the different sub-platforms of Azure DevOps (Boards, Repos, Pipeline, etc)?
-
-Also, understand what is Azure Boards, Repos, Pipeline, Test Plans, and Artifacts, how to create an Azure organization and examine all its services, how to use the Azure DevOps API to create items, and how to generate projects using the Demo generator and explore them very well.
-
-Also, apply and implement the following demos/exercises.
-- Examine Azure DevOps docs, create org and examine all the services.
-- Using Azure DevOps API to create items through Postman and Azure DevOps CLI.
-- Use a Demo generator to generate several projects and examine them.
-
-### Lesson 2: Azure DevOps Features and Capabilities
-
 Understanding and learning what is GitHub, what are the different options to import repo in GitHub, and what are GitHub Apps, and GitHub Actions.
+
+**Note You can find more details about this module demos on demos/labs page**
 
 ## Module 5: Evolution of Computing Options
 
@@ -179,11 +174,13 @@ Also, understand what is the value Proposition for VM VS. Containers, why we use
 
 Also, apply and implement the following demos/exercises.
 - Install/uninstall Docker on Ubuntu on HV and create some containers.
-- Run the .NET core app container from [GitHub](https://github.com/MohamedRadwan-DevOps/dotnet-docker) on Ubuntu.
+- Run the .NET core app container on Ubuntu.
 
 ### Lesson 3: Implementing Container Strategy 
 
 Understanding and learning an overview of Containers, what is Docker, and some Azure Container-related services.
+
+**Note You can find more details about this module demos on demos/labs page**
 
 ## Module 6: Managing Version Control
 
@@ -226,6 +223,8 @@ Also, apply and implement the following demos/exercises.
 - Work with git using IDE (Visual Studio) to interact with Azure Repo and GitHub.
 - Work with git using IDE (VS Code) to interact with Azure Repo.
 
+**Note You can find more details about this module demos on demos/labs page**
+
 ## Module 7: Defining and Implementing Continuous Integration (CI)
 
 ### Lesson 1: Understanding Continuous Integration (CI)
@@ -240,8 +239,8 @@ Understanding and learning what are Continous Integration's main areas, what are
 Also, understand and practice how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc, how to set code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo, how to create package management to be ready to be pushed to public or private feeds.
 
 Also, apply and implement the following demos/exercises.
-- Create CI for [Class Library](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md#demo-9-create-a-class-library-for-calc-average-largest-smallest--amend-the-console-app-to-use-it).
-- Create CI for [API](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md#demo-8-create-an-api-app-for-calc-average-largest-smallest).
+- Create CI for Class Library.
+- Create CI for API.
 
 ### Lesson 3: Azure Pipeline Agent Configuration
 
@@ -253,6 +252,8 @@ What are Classic (UI) and YAML (Code) build, the difference between them, and ho
 Also, apply and implement the following demos/exercises.
 - Hosted agent vs. self-hosted agent.
 - Implement CI Build using YAML.
-- Create CI for the [.NET core app](https://github.com/MohamedRadwan-DevOps/dotnet-docker) on docker image.
-- Create CI for the [PartsUnlimited App](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/tree/main/source/source-code/PartsUnlimite-E2E/web).
+- Create CI for the .NET core app on docker image.
+- Create CI for the PartsUnlimited App.
+
+**Note You can find more details about this module demos on demos/labs page**
 
