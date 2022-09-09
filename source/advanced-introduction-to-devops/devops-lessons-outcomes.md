@@ -1,4 +1,5 @@
 # DevOps Course lessons outcomes:
+- [DevOps Course lessons outcomes:](#devops-course-lessons-outcomes)
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
     - [Lesson 1: Waterfall vs. Agile](#lesson-1-waterfall-vs-agile)
     - [Lesson 2: What is required to be a DevOps Engineer?](#lesson-2-what-is-required-to-be-a-devops-engineer)
@@ -12,24 +13,29 @@
   - [Module 3: Introduction to Cloud](#module-3-introduction-to-cloud)
     - [Lesson 1: Overview of Cloud Computing Models](#lesson-1-overview-of-cloud-computing-models)
     - [Lesson 2: Examine Cloud Computing Models in Action](#lesson-2-examine-cloud-computing-models-in-action)
- - [Module 4: Tooling for DevOps](#module-4-tooling-for-devops)
-   - [Lesson 1: DevOps Toolchain Options](#lesson-1-devops-toolchain-options)
-   - [Lesson 2: Azure DevOps Features and Capabilities](#lesson-2-azure-devops-features-and-capabilities)
-   - [Lesson 3: GitHub Features and Capabilities](#lesson-3-github-features-and-capabilities)
- - [Module 5: Evolution of Computing Options](#module-5-evolution-of-computing-options)
-   - [Lesson 1: Understanding Types of Computing](#lesson-1-understanding-types-of-computing)
-   - [Lesson 2: Virtual Machine (VM) VS. Container](#lesson-2-virtual-machine-vm-vs-container)
-   - [Lesson 3: Implementing Container Strategy](#lesson-3-implementing-container-strategy)
-- [Module 6: Managing Version Control](#module-6-managing-version-control)
-  - [Lesson 1: Introduction to Source Control](#lesson-1-introduction-to-source-control)
-  - [Lesson 2: Working with Git](#lesson-2-working-with-git)
-  - [Lesson 3: Overview of Azure Repos](#lesson-3-overview-of-azure-repos)
-  - [Lesson 4: Overview of GitHub](#lesson-4-overview-of-github)
-- [Module 7: Defining and Implementing Continuous Integration (CI)](#module-7-defining-and-implementing-continuous-integration-ci)
-  - [Lesson 1: Understanding Continuous Integration (CI)](#lesson-1-understanding-continuous-integration-ci)
-  - [Lesson 2: Continuous Integration with Azure DevOps](#lesson-2-continuous-integration-with-azure-devops)
-  - [Lesson 3: Azure Pipeline Agent Configuration](#lesson-3-azure-pipeline-agent-configuration)
-
+  - [Module 4: Tooling for DevOps](#module-4-tooling-for-devops)
+    - [Lesson 1: DevOps Toolchain Options](#lesson-1-devops-toolchain-options)
+    - [Lesson 2: Azure DevOps Features and Capabilities](#lesson-2-azure-devops-features-and-capabilities)
+    - [Lesson 3: GitHub Features and Capabilities](#lesson-3-github-features-and-capabilities)
+  - [Module 5: Evolution of Computing Options](#module-5-evolution-of-computing-options)
+    - [Lesson 1: Understanding Types of Computing](#lesson-1-understanding-types-of-computing)
+    - [Lesson 2: Virtual Machine (VM) VS. Container](#lesson-2-virtual-machine-vm-vs-container)
+    - [Lesson 3: Implementing Container Strategy](#lesson-3-implementing-container-strategy)
+  - [Module 6: Managing Version Control](#module-6-managing-version-control)
+    - [Lesson 1: Introduction to Source Control](#lesson-1-introduction-to-source-control)
+    - [Lesson 2: Working with Git](#lesson-2-working-with-git)
+    - [Lesson 3: Overview of Azure Repos](#lesson-3-overview-of-azure-repos)
+    - [Lesson 4: Overview of GitHub](#lesson-4-overview-of-github)
+  - [Module 7: Defining and Implementing Continuous Integration (CI)](#module-7-defining-and-implementing-continuous-integration-ci)
+    - [Lesson 1: Understanding Continuous Integration (CI)](#lesson-1-understanding-continuous-integration-ci)
+    - [Lesson 2: Continuous Integration with Azure DevOps](#lesson-2-continuous-integration-with-azure-devops)
+    - [Lesson 3: Azure Pipeline Agent Configuration](#lesson-3-azure-pipeline-agent-configuration)
+  - [Module 8: Designing a Dependency Management Strategy](#module-8-designing-a-dependency-management-strategy)
+    - [Lesson 1: Introduction to Package Management](#lesson-1-introduction-to-package-management)
+    - [Lesson 2: Overview of Dependency Management](#lesson-2-overview-of-dependency-management)
+    - [Lesson 3: Integrating Packages in Build Pipeline](#lesson-3-integrating-packages-in-build-pipeline)
+    - [Lesson 4: Managing Security and Access for Package Management](#lesson-4-managing-security-and-access-for-package-management)
+  
 ## Module 1: Introduction to Agile and DevOps
 
 ### Lesson 1: Waterfall vs. Agile
@@ -255,5 +261,82 @@ Also, apply and implement the following demos/exercises.
 - Create CI for the .NET core app on docker image.
 - Create CI for the PartsUnlimited App.
 
-**Note You can find more details about this module demos on demos/labs page**
+**Note You can find more details about this module demos on demos/labs page.**
 
+## Module 8: Designing a Dependency Management Strategy
+
+### Lesson 1: Introduction to Package Management
+
+Understanding the concepts of Package Management Practice and what are the Apps/Libraries (Stores/Marketplace), and how this concept eases the use and share of packages between developers and consumers.
+
+Also, learn the difference between Public vs Private Stores, and what are the use case of each.
+
+You will be introduced to some of the popular Store/marketplace like:
+- Ubuntu (Apt).
+- Fedora (Yum).
+- Docker (DockerHub).
+- .NET (NuGet).
+- Python (pypi).
+- NodeJS (Npm).
+
+Also, understand the difference between Architecture Teams vs Feature Teams and how the Package Management Practice has evolved over the years.
+
+### Lesson 2: Overview of Dependency Management
+Understanding the concept of Dependency and how we can break down the software into smaller reusable components. 
+
+Also, learn the concept of Source and Package componentization where as:
+- Source componentization refers to splitting up the source code in the codebase.
+- Package componentization refers to distributing of software components performed by means of packages. 
+
+Package feeds which is a centralized place where the package is stored for distribution and consumption by other applications and they come in two forms:
+- Private feeds.
+- Public feeds.
+
+Package sources will be introduced, which are package types that have a standard source that is commonly used for public use like the following examples:
+| Package Name | Public | Private |  
+| :--- | :--- | :--- |  
+| NuGet | NuGet Gallery | NuGet server | 
+| NPM | NPMjs | NPM Sinopia |  
+| Maven | Maven | Nexus |  
+| Docker | DockerHub | Portus |
+
+Also, understanding the concept of upstream sources where you can specify multiple package sources; and these sources can be public sources or private sources.
+
+Also, Apply the following demos:
+- Create and examine feed on azure artifact with different options
+- Use feeds view to share package
+
+### Lesson 3: Integrating Packages in Build Pipeline
+
+Understanding the reason for integrating packages in build pipeline which are:
+- Quality checks.
+- Automated to avoid errors.
+- Implement a version strategy.
+
+Understand the steps that are used for packaging in build pipelines which are either:
+- Push
+- Restore
+
+Understand versioning and how it helps in maintaining a codebase, and present a clear identification by its name and version, and that each published package is considered to be **immutable**. 
+
+*Semantic Version* is also explained as a method for versioning.
+
+Also, apply the following demos:
+- Package and publish the class library to NuGet.
+- Package and publish class library to Azure Artifact feeds and use it from Visual Studio.
+- Package and publish the API app to Azure Pipeline Artifact.
+- Package and publish PartsUnlimited app to Azure Pipeline Artifacts.
+- Package and publish a .NET docker image to DockerHub. 
+
+
+### Lesson 4: Managing Security and Access for Package Management
+
+Understanding package security and how package feeds are a trusted source of packages, and also how to secure access to package feeds by:
+- Restricting access for consumption.
+- Restricting access for publishing.
+
+Also , understand Azure Artifacts Feeds permissions and how they can customize the experience for the users. 
+
+Lastly, with all dependencies being managed it is also possible to stay in control of the dependencies that are consumed enabling governance and security scanning for use of packages with known vulnerabilities for exploits.
+
+**Note You can find more details about this module demos on demos/labs page.**
