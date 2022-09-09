@@ -331,23 +331,27 @@
 
  ### Demo 1: Examine Azure DevOps docs, create org and examine all services. 
  
-  In this demo you will learn and understand how to create an Azure DevOps account, how to create your first organization, and a look at Azure DevOps available docs.
-  
-  Also, you will learn about the available services and features that Azure DevOps provide over other CI/CD platforms.
+  In this demo, you will learn and understand how to examine Azure DevOps documentation, the documentation for all Azure DevOps sub-platforms (Boards, Repos, Pipelines, etc), how to create an Azure DevOps account, and create your first organization and project.
+
+  Also, you will learn and explore your created project's sub-platforms (Boards, Repos, Pipelines, etc) and the available services and features that Azure DevOps provide over other CI/CD platforms.
+
+  Also, you will learn an overview of the Board subsystem, how to create a new Backlog, Product Backlog Item (PBI), tasks, how to assign tasks, and create and run queries, an overview of the Repos subsystem, create a new repo, and explore commits, pushes, branches, and pull requests, an overview of the Pipelines subsystem, and create a new Pipeline, Releases, an overview of the Test Plans subsystem, reports, and runs, an overview of the Artifact subsystem, create a new feed, and connect to feeds.
 
 
  ### Demo 2: Using Azure DevOps API to create items through Postman and Azure DevOps CLI. 
  
-  In this demo you will learn and understand how install Postman and create items through it, how to install Azure DevOps CLI and create items through it.
+  In this demo, you will learn and understand how to download Postman and use it to send a Post request to create an Azure DevOps project, and feature, how to create and set a personal access token for the request (PAT), set the request body, send it, check the request response and the created project and feature.
   
-  Also, you will learn how creating items through Postman and Azure DevOps CLI differ from one another. 
+  Also, you will learn how to download Microsoft Azure CLI and its extension to use it to interact with Azure DevOps, set your default configurations, and make a call of its commands to create a new feature.
 
 
  ### Demo 3: Use Demo generator to generate several projects and examine them. 
  
-  In this demo you will learn and understand how generate Demo projects in Azure DevOps, that contain items in different stages.
-  
-  Also, you will learn how to process certain items in different stages and how monitoring Azure DevOps makes it easier to manage your pipelines.
+  In this demo, you will learn and understand how to use Azure DevOps Demo Generator to generate several projects on your Azure DevOps organization, how to enable Third-party application access via OAuth from your organization settings, how to install the selected projects required extensions, and finally after creating projects start to explore them very well.
+
+  Explore project Summary, Dashboard, Work Items, Boards, Backlogs, Sprints, Quires, and Delivery Plans.
+  Explore Repos, Commits, Pushes, Branches, and Pull Requests.
+  Explore Pipelines, Releases, Test Plans, and Artifacts.
 
 
 
@@ -355,19 +359,18 @@
 
  ### Demo 1: Install-uninstall Docker on Ubuntu on HV and create some containers. 
  
-  In this demo you will learn and understand the steps to install Docker container on an Ubuntu OS on HyperV and create some containers.
-  
-  Also, you will learn how to uninstall the installed container.
+  In this demo, you will learn and understand how to connect to your Ubuntu VM, start it, open your machine terminal, update Ubuntu package management (apt), install docker (the software for centralization) using apt, and uninstall docker from your machine.
+
+  Also, you will learn what is docker hub, how to explore its repositories, explore its repositories images, pull commands, and tags.
+  Download a particular image, list all downloaded images on your machine, list all running containers, list all containers (running, stopped), run a container, and stop the running container.
 
 
  ### Demo 2: Run a .NET core app container from GitHub on Ubuntu. 
  
-  In this demo you will learn and understand how to run a .NET core app container on Ubuntu OS from GitHub.
-  
-  Also, you will learn how to gather information about the running app.
+  In this demo, you will learn and understand how to deploy a sample .NET core app on an Ubuntu machine to a docker image, run a container from this image, run the deployed app and explore it.
 
 
- 
+
 ##  Module 6: Managing Version Control 
 
  ### Demo 1: Examine a History of repo on GitHub. 
