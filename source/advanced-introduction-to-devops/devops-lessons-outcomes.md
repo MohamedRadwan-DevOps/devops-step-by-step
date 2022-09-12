@@ -1,5 +1,4 @@
 # DevOps Course lessons outcomes:
-- [DevOps Course lessons outcomes:](#devops-course-lessons-outcomes)
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
     - [Lesson 1: Waterfall vs. Agile](#lesson-1-waterfall-vs-agile)
     - [Lesson 2: What is required to be a DevOps Engineer?](#lesson-2-what-is-required-to-be-a-devops-engineer)
@@ -269,22 +268,25 @@ Also, apply and implement the following demos/exercises.
 
 Understanding the concepts of Package Management Practice and what are the Apps/Libraries (Stores/Marketplace), and how this concept eases the use and share of packages between developers and consumers.
 
-Also, learn the difference between Public vs Private Stores, and what are the use case of each.
+Also, learn what is the Package Management lifecycle, how it is introduced to the CI/CD lifecycle (Modern Engineering), and how it is allowed to build once and deploy multiple.
 
-You will be introduced to some of the popular Store/marketplace like:
+Also, learn the difference between Public vs Private Stores, and what is the use case of each.
+
+You will be introduced to some of the popular Stores/marketplaces like:
 - Ubuntu (Apt).
 - Fedora (Yum).
 - Docker (DockerHub).
 - .NET (NuGet).
-- Python (pypi).
+- Python (PyPI).
 - NodeJS (Npm).
 
 Also, understand the difference between Architecture Teams vs Feature Teams and how the Package Management Practice has evolved over the years.
 
 ### Lesson 2: Overview of Dependency Management
+
 Understanding the concept of Dependency and how we can break down the software into smaller reusable components. 
 
-Also, learn the concept of Source and Package componentization where as:
+Also, learn the concept of Source and Package componentization whereas:
 - Source componentization refers to splitting up the source code in the codebase.
 - Package componentization refers to distributing of software components performed by means of packages. 
 
@@ -300,11 +302,10 @@ Package sources will be introduced, which are package types that have a standard
 | Maven | Maven | Nexus |  
 | Docker | DockerHub | Portus |
 
-Also, understanding the concept of upstream sources where you can specify multiple package sources; and these sources can be public sources or private sources.
+Also, understanding the concept of upstream sources where you can specify multiple package sources, and these sources can be public sources or private sources.
 
-Also, Apply the following demos:
-- Create and examine feed on azure artifact with different options
-- Use feeds view to share package
+Also, apply and implement the following demos/exercises.
+- Create and examine feed on Azure artifact with different options.
 
 ### Lesson 3: Integrating Packages in Build Pipeline
 
@@ -321,8 +322,9 @@ Understand versioning and how it helps in maintaining a codebase, and present a 
 
 *Semantic Version* is also explained as a method for versioning.
 
-Also, apply the following demos:
+Also, apply and implement the following demos/exercises.
 - Package and publish the class library to NuGet.
+- Use feed views to share packages.
 - Package and publish class library to Azure Artifact feeds and use it from Visual Studio.
 - Package and publish the API app to Azure Pipeline Artifact.
 - Package and publish PartsUnlimited app to Azure Pipeline Artifacts.
@@ -335,8 +337,8 @@ Understanding package security and how package feeds are a trusted source of pac
 - Restricting access for consumption.
 - Restricting access for publishing.
 
-Also , understand Azure Artifacts Feeds permissions and how they can customize the experience for the users. 
+Also, understand what are the different roles in Azure Artifact, Azure Artifacts Feeds permissions for each role and how they can customize the experience for the users. 
 
 Lastly, with all dependencies being managed it is also possible to stay in control of the dependencies that are consumed enabling governance and security scanning for use of packages with known vulnerabilities for exploits.
 
-**Note You can find more details about this module demos on demos/labs page.**
+**Note: You can find more details about this module demos on demos/labs page.**
