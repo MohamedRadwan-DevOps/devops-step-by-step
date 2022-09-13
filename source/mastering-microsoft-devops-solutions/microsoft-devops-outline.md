@@ -1,5 +1,5 @@
 
-# Mastering Microsoft DevOps Solutions and Get Certified
+# Mastering Microsoft DevOps Solutions (Get Certified)
 
 ## Course Outline
 
@@ -21,7 +21,7 @@
 
 **Course outline**
 
-## Module 1: Get started on a DevOps transformation journey**
+## Module 1: Get started on a DevOps transformation journey
 
 **Lessons**
 
@@ -34,7 +34,7 @@
 - Describe types of source control systems
 - Work with Azure Repos and GitHub
 
-**Lab : Agile planning and portfolio management with Azure Boards**
+**Lab : Agile planning and portfolio management with Azure Boards
 
 **Lab : Version controlling with Git in Azure Repos**
 
@@ -51,7 +51,7 @@ After completing this module, students will be able to:
 - Understand agile practices and principles of agile development
 - Create a team and agile organizational structure
 
-## Module 2: Development for enterprise DevOps**
+## Module 2: Development for enterprise DevOps
 
 **Lessons**
 
@@ -78,7 +78,7 @@ After completing this module, students will be able to:
 - Leverage pull requests for collaboration and code reviews
 - Give feedback using pull requests
 
-## Module 3: Implement CI with Azure Pipelines and GitHub Actions**
+## Module 3: Implement CI with Azure Pipelines and GitHub Actions
 
 **Lessons**
 
@@ -114,7 +114,7 @@ After completing this module, students will be able to:
 - Make the agents and pools secure
 - Use and estimate parallel jobs
 
-## Module 4: Design and implement a release strategy**
+## Module 4: Design and implement a release strategy
 
 **Lessons**
 
@@ -141,7 +141,7 @@ After completing this module, students will be able to:
 - Implement release gates
 - Differentiate between a release and a deployment
 
-## Module 5: Implement a secure continuous deployment using Azure Pipelines**
+## Module 5: Implement a secure continuous deployment using Azure Pipelines
 
 **Lessons**
 
@@ -170,7 +170,7 @@ After completing this module, students will be able to:
 - Setup test infrastructure
 - Use and manage task and variable groups
 
-## Module 6: Manage infrastructure as code using Azure and DSC**
+## Module 6: Manage infrastructure as code using Azure and DSC
 
 **Lessons**
 
@@ -195,7 +195,7 @@ After completing this module, students will be able to:
 - Organize and modularize templates
 - Create Azure resources using Azure CLI
 
-## Module 7: Implement security and validate code bases for compliance**
+## Module 7: Implement security and validate code bases for compliance
 
 **Lessons**
 
@@ -223,7 +223,7 @@ After completing this module, students will be able to:
 - Work with Static and Dynamic Analyzers
 - Configure Microsoft Defender for Cloud
 
-## Module 8: Design and implement a dependency management strategy**
+## Module 8: Design and implement a dependency management strategy
 
 **Lessons**
 
@@ -248,7 +248,7 @@ After completing this module, students will be able to:
 - Identify artifact repositories
 - Migrate and integrate artifact repositories
 
-## Module 9: Implement continuous feedback**
+## Module 9: Implement continuous feedback
 
 **Lessons**
 
