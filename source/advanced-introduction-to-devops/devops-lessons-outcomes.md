@@ -56,6 +56,7 @@ Understanding the difference between Lead time and  Cycle time, what it means fo
 Also, understanding how DevOps covers The End-to-End Engineering, and one of its goals is enhancing lead time and increasing the frequency of deployment.
 
 
+**[⬆ back to top](#devops-course-lessons-outcomes)**
 
 ## Module 2: Application Development Lifecycle in Action
 
@@ -111,7 +112,9 @@ Also, apply and implement the following demos/exercises.
 - Explain and examine code coverage, and code metrics.
 - Examine a UI test and run it.
 
-**Note You can find more details about each module demos on demos/labs page**
+**Note:  You can find more details about each module demos on demos/labs page**
+
+**[⬆ back to top](#devops-course-lessons-outcomes)**
 
 ## Module 3: Introduction to Cloud
 
@@ -135,7 +138,9 @@ Also, apply and implement the following demos/exercises.
 - Create a Web App on Azure and deploy the API using FTP.
 - Examine SasS like office-365.
 
-**Note You can find more details about this module demos on demos/labs page**
+**Note:  You can find more details about this module demos on demos/labs page**
+
+**[⬆ back to top](#devops-course-lessons-outcomes)**
 
 ## Module 4: Tooling for DevOps
 
@@ -160,7 +165,9 @@ Also, apply and implement the following demos/exercises.
 
 Understanding and learning what is GitHub, what are the different options to import repo in GitHub, and what are GitHub Apps, and GitHub Actions.
 
-**Note You can find more details about this module demos on demos/labs page**
+**Note:  You can find more details about this module demos on demos/labs page**
+
+**[⬆ back to top](#devops-course-lessons-outcomes)**
 
 ## Module 5: Evolution of Computing Options
 
@@ -185,9 +192,12 @@ Also, apply and implement the following demos/exercises.
 
 Understanding and learning an overview of Containers, what is Docker, and some Azure Container-related services.
 
-**Note You can find more details about this module demos on demos/labs page**
+**Note:  You can find more details about this module demos on demos/labs page**
+
+**[⬆ back to top](#devops-course-lessons-outcomes)**
 
 ## Module 6: Managing Version Control
+
 
 ### Lesson 1: Introduction to Source Control
 
@@ -228,7 +238,9 @@ Also, apply and implement the following demos/exercises.
 - Work with git using IDE (Visual Studio) to interact with Azure Repo and GitHub.
 - Work with git using IDE (VS Code) to interact with Azure Repo.
 
-**Note You can find more details about this module demos on demos/labs page**
+**Note:  You can find more details about this module demos on demos/labs page**
+
+**[⬆ back to top](#devops-course-lessons-outcomes)**
 
 ## Module 7: Defining and Implementing Continuous Integration (CI)
 
@@ -260,7 +272,9 @@ Also, apply and implement the following demos/exercises.
 - Create CI for the .NET core app on docker image.
 - Create CI for the PartsUnlimited App.
 
-**Note You can find more details about this module demos on demos/labs page.**
+**Note:  You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#devops-course-lessons-outcomes)**
 
 ## Module 8: Designing a Dependency Management Strategy
 
@@ -342,3 +356,5 @@ Also, understand what are the different roles in Azure Artifact, Azure Artifacts
 Lastly, with all dependencies being managed it is also possible to stay in control of the dependencies that are consumed enabling governance and security scanning for use of packages with known vulnerabilities for exploits.
 
 **Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#devops-course-lessons-outcomes)**
