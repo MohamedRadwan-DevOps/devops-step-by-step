@@ -251,7 +251,7 @@ Understanding and learning what is Continous Integration (CI), what are the diff
 
 ### Lesson 2: Continuous Integration with Azure DevOps
 
-Understanding and learning what are Continous Integration's main areas, what are the advantages of Continuous Integration, what is the Build agent job, the different options to trigger your build, what is build retention policy, and how to set it.
+Understanding and learning what are Continuous Integration's main areas, what are the advantages of Continuous Integration, what is the Build agent job, the different options to trigger your build, what is build retention policy, and how to set it.
 
 Also, understand and practice how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc, how to set code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo, how to create package management to be ready to be pushed to public or private feeds.
 

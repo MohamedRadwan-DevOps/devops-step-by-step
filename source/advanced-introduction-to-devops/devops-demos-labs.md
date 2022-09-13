@@ -2,6 +2,7 @@
 # Advanced Introduction to DevOps
 
 ## Course Demos/Labs (83 Demos/Labs)
+
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
     - [No Demos](#no-demos)
   - [Module 2: Application Development Lifecycle in Action](#module-2-application-development-lifecycle-in-action)
@@ -20,7 +21,7 @@
     - [Demo 13: Create another API that consumes the 1st API.](#demo-13-create-another-api-that-consumes-the-1st-api)
     - [Demo 14: Examine Several API requests and well form the JSON return.](#demo-14-examine-several-api-requests-and-well-form-the-json-return)
     - [Demo 15: Package API and Deploy it to local IIS and expose to public.](#demo-15-package-api-and-deploy-it-to-local-iis-and-expose-to-public)
-    - [Demo 16: Intro to nuget package management.](#demo-16-intro-to-nuget-package-management)
+    - [Demo 16: Intro to NuGet package management.](#demo-16-intro-to-nuget-package-management)
     - [Demo 17: Package the class library and publish it to nuget package.](#demo-17-package-the-class-library-and-publish-it-to-nuget-package)
     - [Demo 18: Replace the class library in the API with the nuget package library.](#demo-18-replace-the-class-library-in-the-api-with-the-nuget-package-library)
     - [Demo 19: Create Unit test for the class library.](#demo-19-create-unit-test-for-the-class-library)
@@ -48,7 +49,7 @@
     - [Demo 4: Use git as a local repo (config, init, commit, etc).](#demo-4-use-git-as-a-local-repo-config-init-commit-etc)
     - [Demo 5: Use git as a remote repo from the local one (clone, pull, push, etc) Azure Repo.](#demo-5-use-git-as-a-remote-repo-from-the-local-one-clone-pull-push-etc-azure-repo)
     - [Demo 6: Use git remote repo with GitHub.](#demo-6-use-git-remote-repo-with-github)
-    - [Demo 7: Work with git using IDE (Visual Studio) to interact with Azure Repo and GitH.](#demo-7-work-with-git-using-ide-visual-studio-to-interact-with-azure-repo-and-gith)
+    - [Demo 7: Work with git using IDE (Visual Studio) to interact with Azure Repo.](#demo-7-work-with-git-using-ide-visual-studio-to-interact-with-azure-repo)
     - [Demo 8: Work with git using IDE (VS Code) to interact with Azure Repo.](#demo-8-work-with-git-using-ide-vs-code-to-interact-with-azure-repo)
   - [Module 7: Defining and Implementing Continuous Integration (CI)](#module-7-defining-and-implementing-continuous-integration-ci)
     - [Demo 1: Create and configure Continuous Integration (CI) pipeline for a .NET class library.](#demo-1-create-and-configure-continuous-integration-ci-pipeline-for-a-net-class-library)
@@ -87,13 +88,14 @@
     - [Demo 6: Plan work using Azure Boards.](#demo-6-plan-work-using-azure-boards)
     - [Demo 7: Manage Agile software delivery plans across teams.](#demo-7-manage-agile-software-delivery-plans-across-teams)
   - [Module 12: Examples Of Different Practices Improvement in Several Areas](#module-12-examples-of-different-practices-improvement-in-several-areas)
-  - [**Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
-    - [Demo 1: Create a monitoring dashboards of Log Analytics data.](#demo-1-create-a-monitoring-dashboards-of-log-analytics-data)
-    - [Demo 2:  Create and use Log Analytics workspace.](#demo-2--create-and-use-log-analytics-workspace)
-    - [Demo 3: Create, view, and manage metric alerts.](#demo-3-create-view-and-manage-metric-alerts)
+  - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
+    - [Demo 1: Create and use Log Analytics workspace.](#demo-1-create-and-use-log-analytics-workspace)
+    - [Demo 2:  Create view and manage log analytics alert.](#demo-2--create-view-and-manage-log-analytics-alert)
+    - [Demo 3: Create view and manage activity-log alert.](#demo-3-create-view-and-manage-activity-log-alert)
+    - [Demo 4: Create, view, and manage metric alerts.](#demo-4-create-view-and-manage-metric-alerts)
   - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
-  - [**Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
-  - [**Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
+  - [Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
+  - [Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
     - [Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline.](#demo-1-run-static-application-security-testing-sast-using-azure-pipeline)
   - [Module 17: Version Control in More Details](#module-17-version-control-in-more-details)
     - [Demo 1: Use git branch and merge.](#demo-1-use-git-branch-and-merge)
@@ -278,7 +280,7 @@
   
   Also, you will learn how to control the sleep threading for each UI test and use the NuGet package management to update any package required to run a UI test like Selenium.Webdriver.ChromeDriver in our example.
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 3: Introduction to Cloud 
 
@@ -325,7 +327,7 @@
 
   Also, you will explore Office-365 different apps (Outlook, Powerpoint, Word, etc), and how to navigate to the admin center and explore all options (Users, Teams & groups, Roles, ...etc).
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 4: Tooling for DevOps 
 
@@ -353,7 +355,7 @@
   Explore Repos, Commits, Pushes, Branches, and Pull Requests.
   Explore Pipelines, Releases, Test Plans, and Artifacts.
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 5: Evolution of Computing Options 
 
@@ -369,7 +371,7 @@
  
   In this demo, you will learn and understand how to deploy a sample .NET core app on an Ubuntu machine to a docker image, run a container from this image, run the deployed app and explore it.
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 6: Managing Version Control 
 
@@ -427,6 +429,7 @@
 
   Also, you will learn how to install VS Code to your machine, create a remote repo on Azure DevOps, connect to it from VS Code, clone the repo, how to set Git configuration from VS Code using Git Graph extension globally or locally to a specific repo, explore changes, add a .gitignore file, how to add the untracked files to the staging state, how to commit the staged files to the committed state, and push the local changes to the cloned repo.
 
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 7: Defining and Implementing Continuous Integration (CI) 
 
@@ -469,7 +472,7 @@
   
   Also, you will learn the difference between continuos integration, where each change will initiate a pipeline and how you can add approvals to the workflow. 
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
  
 ##  Module 8: Designing a Dependency Management Strategy 
 
@@ -519,7 +522,7 @@
   
   Also, you will learn how this process improves collaboration on package management and ensures a consistent process for delivering a packaged app.
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 9: Defining and Implementing a Continuous Delivery & Release Strategy 
 
@@ -558,7 +561,7 @@
   
   Also, you will learn how to disable some features in the CD or CI and leave the rest enabled.
 
- 
+ **[⬆ back to top](#advanced-introduction-to-devops)**
  
 ##  Module 10: Managing Configuration Management for Infrastructure and Database 
 
@@ -597,7 +600,7 @@
 
   In this demo you will learn and understand how to create an Azure repo and how to push the code to the remote repo, create and configure a Continuous Integration (CI) pipeline that will build/test the application and the infrastructure as code as well. Also, you will learn and understand how to create two packages, the application package which includes all the app code like CSS, HTML, java-scripts, etc, and the infra package which includes all the terraform code of the environment on Azure. After that you will learn how to push and store the two packages to Azure artifacts, then create and configure a Continuous Deployment (CD) pipeline that picks the packages from the artifacts, after that it will provision App service on Azure, Azure SQL Server and Database using the infra package, and in the end, deploy the app package to the provisioned environment.
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 11: Team Collaboration and Work Tracking 
 
@@ -639,7 +642,7 @@
   In this demo you will learn and understand how delivery plans enable multiple teams to plan, schedule, and coordinate their work.
   Also, you will learn and understand how to create a delivery plan and adjust a team's sprint workload to optimize delivery efficiency, and how to review dependencies between work items shown in a delivery plan.
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 12: Examples Of Different Practices Improvement in Several Areas 
 
@@ -649,21 +652,26 @@
 
 ## Module 13: Overview of SRE and Monitoring Practices 
 
-  ### Demo 1: Create a monitoring dashboards of Log Analytics data. 
- 
-  In this demo you will learn and understand how to Log Analytics dashboards can visualize all of your saved log queries, giving you the ability to find, correlate, and share IT operational data in the organization.
-
-
- ### Demo 2:  Create and use Log Analytics workspace. 
+  ### Demo 1: Create and use Log Analytics workspace. 
  
   In this demo you will learn and understand how to create a Log Analytics workspace, Also, you will learn and how to collect logs and data.
+
+
+ ### Demo 2:  Create view and manage log analytics alert. 
+ 
+  In this demo you will learn and understand 
     
 
- ### Demo 3: Create, view, and manage metric alerts. 
+ ### Demo 3: Create view and manage activity-log alert. 
+ 
+  In this demo you will learn and understand 
+
+
+ ### Demo 4: Create, view, and manage metric alerts. 
  
   In this demo you will learn and understand how to create, view, and manage metric alert rules through Azure portal and Azure CLI.
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 14: Digital Transformation and DevOps 
 
@@ -681,7 +689,7 @@
  
   In this demo you will learn and understand how to Integrate static application security testing into DevOps pipeline when you develop applications for the cloud.
  
- 
+ **[⬆ back to top](#advanced-introduction-to-devops)**
  
 ##  Module 17: Version Control in More Details  
 
@@ -700,7 +708,7 @@
  
   In this demo you will learn and understand about how to fork a repo with GitHub and how to use use pull requests( PRs).
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 18: Docker in More Details  
 
@@ -718,7 +726,7 @@
  
   In this demo you will learn and understand more about docker compose, and also how to create docker compose file and run multiple container on same time.
 
-
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ##  Module 19: Mentoring, CV and Interpersonal Skills  
 
