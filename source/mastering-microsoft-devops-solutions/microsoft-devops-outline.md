@@ -4,15 +4,15 @@
 ## Course Outline
 
   - [Module 0: Course Overview](#module-0-course-overview)
-  - [Module 1: Get started on a DevOps transformation journey**](#module-1-get-started-on-a-devops-transformation-journey)
+  - [Module 1: Get started on a DevOps transformation journey](#module-1-get-started-on-a-devops-transformation-journey)
   - [Module 2: Development for enterprise DevOps**](#module-2-development-for-enterprise-devops)
-  - [Module 3: Implement CI with Azure Pipelines and GitHub Actions**](#module-3-implement-ci-with-azure-pipelines-and-github-actions)
+  - [Module 3: Implement CI with Azure Pipelines and GitHub Actions](#module-3-implement-ci-with-azure-pipelines-and-github-actions)
   - [Module 4: Design and implement a release strategy**](#module-4-design-and-implement-a-release-strategy)
-  - [Module 5: Implement a secure continuous deployment using Azure Pipelines**](#module-5-implement-a-secure-continuous-deployment-using-azure-pipelines)
-  - [Module 6: Manage infrastructure as code using Azure and DSC**](#module-6-manage-infrastructure-as-code-using-azure-and-dsc)
-  - [Module 7: Implement security and validate code bases for compliance**](#module-7-implement-security-and-validate-code-bases-for-compliance)
-  - [Module 8: Design and implement a dependency management strategy**](#module-8-design-and-implement-a-dependency-management-strategy)
-  - [Module 9: Implement continuous feedback**](#module-9-implement-continuous-feedback)
+  - [Module 5: Implement a secure continuous deployment using Azure Pipelines](#module-5-implement-a-secure-continuous-deployment-using-azure-pipelines)
+  - [Module 6: Manage infrastructure as code using Azure and DSC](#module-6-manage-infrastructure-as-code-using-azure-and-dsc)
+  - [Module 7: Implement security and validate code bases for compliance](#module-7-implement-security-and-validate-code-bases-for-compliance)
+  - [Module 8: Design and implement a dependency management strategy](#module-8-design-and-implement-a-dependency-management-strategy)
+  - [Module 9: Implement continuous feedback](#module-9-implement-continuous-feedback)
 ## Module 0: Course Overview
  - Welcome 
  - Important Notes
