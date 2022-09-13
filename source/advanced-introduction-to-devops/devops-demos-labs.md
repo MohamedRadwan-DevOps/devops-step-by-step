@@ -375,59 +375,57 @@
 
  ### Demo 1: Examine a History of repo on GitHub. 
  
-  In this demo you will learn and understand how to get the history of all the actions made on a git repo.
-  
-  Also, you will learn how to go to a certain commit from the history and make it the current head.
+  In this demo, you will learn and understand how to examine the history and all commits on a GitHub repo, and how to examine specific commit details, its changed files, addition and deletions.
 
 
  ### Demo 2: Install Git on Windows and Ubuntu. 
  
-  In this demo you will learn and understand how to install git on a Windows machine.
-  
-  Also, you will learn how to install git on Ubuntu machine.
+  In this demo, you will learn and understand how to install git on an Ubuntu machine using the package manager for Ubuntu (apt).
+
+  Also, you will learn how to install git on a Windows machine using UI, and install it using the package manager for Windows (chocolatey).
 
 
  ### Demo 3: Hand-typed text files Vs. Generated text files. 
  
-  In this demo you will learn and understand how to auto generate text files using command line interface or GUI.
-  
-  Also, you will learn the difference between hand-typed text files and the generated text files.
+  In this demo, you will learn and understand the difference between hand-typed and generated text files, the advantages of generated (minified) files like allowing a client to download fewer bytes, enabling the page to load faster, and so on, which one of them will be kept in the Version Control.
+
+  Also, you will learn how to implement your codebase as separate, readable modules and then use a bundling tool to generate a single bundle, that often contains not only your minified code but also most of the dependencies in a single bundle file.
 
 
  ### Demo 4: Use git as a local repo (config, init, commit, etc). 
  
-  In this demo you will learn and understand how to deal with your local repo and use git commands to configure your repo and initialize git on it.
-  
-  Also, you will learn how to commit your changes to keep track of your work locally or publish them to the remote repo.
+  In this demo, you will learn and understand how to deal with your local repo and use git commands to configure your repo, how to set the git configurations (name, email), how to initialize a Git local repo, how to add the untracked files to the staging state, and how to commit the staged files to the committed state to keep track of your work locally or push them to a remote repo.
+
+  Also, you will learn how and how to display the commit logs, and how to gain the same experience of using the command line using Git GUI clients.
 
 
  ### Demo 5: Use git as a remote repo from the local one (clone, pull, push, etc) Azure Repo. 
  
-  In this demo you will learn how to use version control to sync your local repo with the remote repo, and understand how git technology works.
+  In this demo, you will learn how to use version control to sync your local repo with the remote repo and understand how git technology works.
   
-  Also, you will learn how to use the git commands (clone, pull, push, etc) and keep your work updated with your teammates work.
+  Also, you will learn how to initialize a Git local repo, how to add the untracked files to the staging state, how to commit the staged files to the committed state to keep track of your work, and how to create a new remote repo on Azure DevOps, connect the local one with remote, set upstream, and push your existing repo to the remote one.
+
+  Also, you will learn how to clone a remote repo, do your work and push to the cloned repo, how to pull the remote changes to your local, and examine Azure repo history, commits, pushes and pull requests.
 
 
  ### Demo 6: Use git remote repo with GitHub. 
  
-  In this demo you will learn and understand how to use Github to create a remote repo.
+  In this demo, you will learn and understand how to use remote repo with GitHub, how to create a GitHub account, create a new GitHub repo, add gitignore file, clone the created repo, how add the untracked files to the staging state, how to commit the staged files to the committed state to keep track of your work and push your changes to the cloned repo.
   
-  Also, you will learn how your local and remote repos can be connected together through git version control.
+  
 
-
- ### Demo 7: Work with git using IDE (Visual Studio) to interact with Azure Repo and GitH. 
+ ### Demo 7: Work with git using IDE (Visual Studio) to interact with Azure Repo. 
  
-  In this demo you will learn and understand how to use Visual Studio Code -an example of a popular IDE- to interact with your remote repo on Github and Azure Repo.
-    
-  Also, you will learn and see how you can keep your local repo synced with the remote one.
+  In this demo, you will learn and understand how to use Visual Studio as an example of a popular IDE to interact with your remote repo on Azure.
+
+  Also, you will learn how to create a remote repo on Azure DevOps, connect to it from VS, clone the repo, how to set Git configuration from VS globally or locally to a specific repo, explore changes, add a .gitignore file, how to add the untracked files to the staging state, how to commit the staged files to the committed state, push the local changes to the cloned repo, how to view changes, commits, and how to pull the remote changes from VS.
 
 
  ### Demo 8: Work with git using IDE (VS Code) to interact with Azure Repo. 
  
-  In this demo you will learn and understand how actions can be made on Azure Repo from your machine through VS Code terminal.
-  
-  Also, you will learn how to create a new branch, pull from remote repo and push your changes to it. 
+  In this demo, you will learn and understand how to use Visual Studio Code to interact with your remote repo on Azure.
 
+  Also, you will learn how to install VS Code to your machine, create a remote repo on Azure DevOps, connect to it from VS Code, clone the repo, how to set Git configuration from VS Code using Git Graph extension globally or locally to a specific repo, explore changes, add a .gitignore file, how to add the untracked files to the staging state, how to commit the staged files to the committed state, and push the local changes to the cloned repo.
 
 
 ##  Module 7: Defining and Implementing Continuous Integration (CI) 
