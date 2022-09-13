@@ -15,15 +15,11 @@
     
   - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ Course FAQ</a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/dataops-real-enterprise-project" title="Advanced Introduction to DevOps" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⬇️ DataOps Real Enterprise Project in Action </a>
-
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/dataops-real-enterprise-project/dataops-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
-
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions" title="Advanced Introduction to DevOps" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⬇️ Mastering Microsoft DevOps Solutions and Get Certified </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions" title="Advanced Introduction to DevOps" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⬇️ Mastering Microsoft DevOps Solutions (Get Certified) </a>
 
   - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions/microsoft-devops-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-terraform" title="Advanced Introduction to DevOps" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⬇️ Mastering Terraform and Get Certified </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-terraform" title="Advanced Introduction to DevOps" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⬇️ Mastering Terraform (Get Certified) </a>
 
   - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-terraform/terraform-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
