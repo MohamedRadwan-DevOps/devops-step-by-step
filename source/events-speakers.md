@@ -29,22 +29,6 @@ In the last couple of years, he helped multiple international businesses to open
 
 <br></br>
 
-![April Edwards](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/April-Edwards.png)
-
-April Edwards
-=============
-
-Bio
----
-
-April is a Cloud Developer Advocate at Microsoft. April started her career in Ops and moved into Dev, embracing DevOps after many painful projects and seeing the light. She works with people to help them automate all the things and is a Hashicorp Ambassador.
-
-Outside of work, April spends her time competing in triathlons, backcountry skiing, or wreck diving in the depths of the sea.
-
-You can find April at a variety of conferences, as well as a frequent guest on podcasts, The DevOps Lab and other event that focus on IaC and DevOps topics.
-
-<br></br>
-
 ![Chafik Belhaoues](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Chafik-Belhaoues.png)
 
 Chafik Belhaoues
@@ -54,20 +38,6 @@ Bio
 ---
 
 Chafik is the founder of Brainboard, he is an engineer with more than 15 years of experience building and managing cloud infrastructures (on-prem and in the cloud). He worked on different positions DevOps, SRE and cloud architecture and before starting his own company he was the CTO of Scaleway (French cloud provider).
-
-<br></br>
-
-![Miles Cattini](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Miles-Cattini.png)
-
-Miles Cattini
-=============
-
-Bio
----
-
-Miles is a Core Cloud Solution Architect for Microsoft. Based in Australia with a focus on Government and regulated industry, his professional focus is guiding risk-averse buisness embrace a technological landscape of uncertainty and constant change.
-
-Now based in country Australia, Miles spent years working across a variety of industries in the UK.
 
 <br></br>
 
