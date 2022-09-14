@@ -1,4 +1,6 @@
-# DevOps Course lessons outcomes:
+# Advanced Introduction to DevOps
+
+## DevOps Course lessons outcomes
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
     - [Lesson 1: Waterfall vs. Agile](#lesson-1-waterfall-vs-agile)
     - [Lesson 2: What is required to be a DevOps Engineer?](#lesson-2-what-is-required-to-be-a-devops-engineer)
@@ -56,7 +58,7 @@ Understanding the difference between Lead time and  Cycle time, what it means fo
 Also, understanding how DevOps covers The End-to-End Engineering, and one of its goals is enhancing lead time and increasing the frequency of deployment.
 
 
-**[⬆ back to top](#devops-course-lessons-outcomes)**
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 2: Application Development Lifecycle in Action
 
@@ -114,7 +116,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note:  You can find more details about each module demos on demos/labs page**
 
-**[⬆ back to top](#devops-course-lessons-outcomes)**
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 3: Introduction to Cloud
 
@@ -140,7 +142,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
-**[⬆ back to top](#devops-course-lessons-outcomes)**
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 4: Tooling for DevOps
 
@@ -167,7 +169,7 @@ Understanding and learning what is GitHub, what are the different options to imp
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
-**[⬆ back to top](#devops-course-lessons-outcomes)**
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 5: Evolution of Computing Options
 
@@ -194,7 +196,7 @@ Understanding and learning an overview of Containers, what is Docker, and some A
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
-**[⬆ back to top](#devops-course-lessons-outcomes)**
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 6: Managing Version Control
 
@@ -240,13 +242,13 @@ Also, apply and implement the following demos/exercises.
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
-**[⬆ back to top](#devops-course-lessons-outcomes)**
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 7: Defining and Implementing Continuous Integration (CI)
 
 ### Lesson 1: Understanding Continuous Integration (CI)
 
-Understanding and learning what is Continous Integration (CI), what are the different problems faced software industry before CI, what is the difference between build with Continous Integration and without it, what is Continous Integration and Continous Delivery (CI/CD) lifecycle in legacy and modern Engineering, and what are the different Continuous Integration tasks.
+Understanding and learning what is Continuous Integration (CI), what are the different problems faced software industry before CI, what is the difference between build with Continuous Integration and without it, what is Continuous Integration and Continuous Delivery (CI/CD) lifecycle in legacy and modern Engineering, and what are the different Continuous Integration tasks.
 
 
 ### Lesson 2: Continuous Integration with Azure DevOps
@@ -274,7 +276,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note:  You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#devops-course-lessons-outcomes)**
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 8: Designing a Dependency Management Strategy
 
@@ -357,4 +359,4 @@ Lastly, with all dependencies being managed it is also possible to stay in contr
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#devops-course-lessons-outcomes)**
+**[⬆ back to top](#advanced-introduction-to-devops)**

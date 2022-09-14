@@ -1,4 +1,6 @@
-# DevOps Course lessons preparation points:
+# Advanced Introduction to DevOps
+
+## DevOps Course lessons preparation points
 
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
   - [Module 2: Application Development Lifecycle in Action](#module-2-application-development-lifecycle-in-action)
@@ -75,6 +77,8 @@
 
     [Lead Time and Cycle time Video](https://www.youtube.com/watch?v=7rlfaolUsgo)
 
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 <hr>
 
 ## Module 2: Application Development Lifecycle in Action 
@@ -203,6 +207,8 @@
 
     [Code coverage Webpage](https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-coverage/#:~:text=Code)
 
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 <hr>
 
 
@@ -271,6 +277,8 @@
 - Virtual Machine software, Hyper-V, VMware, VirtualBox
 
     [Virtual Machine software, Hyper-V, VMware, VirtualBox Webpage](https://www.makeuseof.com/tag/virtualbox-vs-vmware-vs-hyper-v/)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 <hr>
 
@@ -360,6 +368,8 @@
 
     [Gitlab Video](https://www.youtube.com/watch?v=gbJUasioKiI)
 
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 <hr>
 
 ## Module 5: Evolution of Computing Options 
@@ -388,6 +398,8 @@
 
     [Docker Video](https://www.youtube.com/watch?v=_dfLOzuIg2o)
 
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 <hr>
 
 ## Module 6: Managing Version Control 
@@ -409,6 +421,8 @@
     [Git commands Webpage](https://www.youtube.com/watch?v=PSJ63LULKHA)
 
     [Git commands Video](https://www.youtube.com/watch?v=PSJ63LULKHA)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 <hr>
 
@@ -459,6 +473,8 @@
     [Azure Pipeline classic vs YAML Webpage](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/pipelines-get-started?view=azure-devops)
 
     [Azure Pipeline classic vs YAML Video](https://www.youtube.com/watch?v=3cGtA__dKUc)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 <hr>
 
@@ -527,6 +543,8 @@
     [Semantic Versioning (SemVer) Webpage](https://nodesource.com/blog/semver-a-primer/)
 
     [Semantic Versioning (SemVer) Video](https://www.youtube.com/watch?v=MdzJuQdjKOE)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 <hr>
 
@@ -606,6 +624,8 @@
 
     [Progressive exposure deployment Video](https://www.youtube.com/watch?v=nGMbR0pRg30)
 
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 <hr>
 
 ## Module 10: Managing Configuration Management for Infrastructure and Database 
@@ -639,6 +659,8 @@
     [Snowflake DaaS Webpage](https://www.snowflake.com/trending/data-service)
 
     [Snowflake DaaS Video](https://www.youtube.com/watch?v=xojAXXRo_S0)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 <hr>
 
@@ -680,6 +702,8 @@
 
     [Burndown chart Video](https://www.youtube.com/watch?v=rCY0XrSef1A)
 
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 <hr>
 
 ## Module 12: Examples Of Different Practices Improvement in Several Areas 
@@ -707,6 +731,8 @@
     [Kubernetes Webpage](https://www.vmware.com/topics/glossary/content/kubernetes.html)
 
     [Kubernetes Video](https://www.youtube.com/watch?v=cC46cg5FFAM)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 <hr>
 
@@ -754,6 +780,8 @@
 
     [Azure Log Analytics Video](https://www.youtube.com/watch?v=XuAg8ofrC5c)
 
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 <hr>
 
 ## Module 14: Digital Transformation and DevOps 
@@ -774,6 +802,8 @@
 
     [DORA (DevOps Research and Assessment) Video](https://www.youtube.com/watch?v=YOvEIFLWz3I)
 
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 <hr>
 
 ## Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation 
@@ -789,6 +819,8 @@
     [Scrum vs Kanban vs Lean Development Webpage](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
 
     [Scrum vs Kanban vs Lean Development Video](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 <hr>
 
@@ -896,6 +928,9 @@
 
     [CWE, CVE, and CVSS Video](https://www.youtube.com/watch?v=ohxpqw1IhtY)
 
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 <hr>
 
 ## Module 17: Version Control in More Details 
@@ -959,6 +994,8 @@
     [Version Control Video (2)](https://youtu.be/ci8c0GIqTDo)
 
     [Version Control Video (3)](https://youtu.be/4ypupcCGrgo)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 <hr>
 
