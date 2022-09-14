@@ -1,5 +1,6 @@
+# Advanced Introduction to DevOps
 
-# Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
+## Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
   - [I am confused, is the course free or paid?](#i-am-confused-is-the-course-free-or-paid)
   - [What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?](#what-is-the-difference-between-the-course-ce-community-edition-and-the-course-ee-enterprise-edition)
   - [Will I be qualified to work as a DevOps Engineer after finishing the course?](#will-i-be-qualified-to-work-as-a-devops-engineer-after-finishing-the-course)
