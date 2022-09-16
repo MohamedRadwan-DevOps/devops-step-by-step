@@ -36,6 +36,14 @@
     - [Lesson 2: Overview of Dependency Management](#lesson-2-overview-of-dependency-management)
     - [Lesson 3: Integrating Packages in Build Pipeline](#lesson-3-integrating-packages-in-build-pipeline)
     - [Lesson 4: Managing Security and Access for Package Management](#lesson-4-managing-security-and-access-for-package-management)
+  - [Module 9: Defining and Implementing a Continuous Delivery & Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
+    - [Lesson 1: Understanding Continuous Delivery (CD)](#lesson-1-understanding-continuous-delivery-cd)
+    - [Lesson 2: Overview of Deployment Stages and Approval Process](#lesson-2-overview-of-deployment-stages-and-approval-process)
+    - [Lesson 3: Separating Functional Release from Technical Release](#lesson-3-separating-functional-release-from-technical-release)
+    - [Lesson 4: Understanding Several Deployment Patterns](#lesson-4-understanding-several-deployment-patterns)
+  - [Module 10: Managing Configuration Management for Infrastructure and Database](#module-10-managing-configuration-management-for-infrastructure-and-database)
+    - [Lesson 1: Introduction to Configuration as Code (CaC)](#lesson-1-introduction-to-configuration-as-code-cac)
+    - [Lesson 2: Managing DB using Database Configuration Management (DCM)](#lesson-2-managing-db-using-database-configuration-management-dcm)
   
 ## Module 1: Introduction to Agile and DevOps
 
@@ -89,7 +97,6 @@ Also, apply and implement the following demos/exercises (**Note:** it is very im
 - Amend the Desktop App to use the API.
 - Create another API App that will use the 1st API.
   
-
 ### Lesson 4: Understanding Types of Applications and Their Workflow
 
 Understanding what are the different types of applications, what are the types of architecture models and workflow for these different applications.
@@ -177,7 +184,6 @@ Understanding and learning what is GitHub, what are the different options to imp
 
 Understanding and learning the evolution of Computing, how it evolved from Traditional Computing to Cloud Computing, and the difference between Physical Machines, Virtual Machines, containers, and Serverless.
 
-
 ### Lesson 2: Virtual Machine (VM) VS. Container
 
 Understanding and learning what is the virtual machine (VM), what it includes, and when it is an ideal choice.
@@ -200,14 +206,12 @@ Understanding and learning an overview of Containers, what is Docker, and some A
 
 ## Module 6: Managing Version Control
 
-
 ### Lesson 1: Introduction to Source Control
 
 Understanding and learning what is Source/Version Control, why we use it, and why we should keep everything under Version Control.
 
 Also, apply and implement the following demo/exercise.
 - Examine History on GitHub.
-
 
 ### Lesson 2: Working with Git
 
@@ -249,7 +253,6 @@ Also, apply and implement the following demos/exercises.
 ### Lesson 1: Understanding Continuous Integration (CI)
 
 Understanding and learning what is Continuous Integration (CI), what are the different problems faced software industry before CI, what is the difference between build with Continuous Integration and without it, what is Continuous Integration and Continuous Delivery (CI/CD) lifecycle in legacy and modern Engineering, and what are the different Continuous Integration tasks.
-
 
 ### Lesson 2: Continuous Integration with Azure DevOps
 
@@ -346,7 +349,6 @@ Also, apply and implement the following demos/exercises.
 - Package and publish PartsUnlimited app to Azure Pipeline Artifacts.
 - Package and publish a .NET docker image to DockerHub. 
 
-
 ### Lesson 4: Managing Security and Access for Package Management
 
 Understanding package security and how package feeds are a trusted source of packages, and also how to secure access to package feeds by:
@@ -356,6 +358,59 @@ Understanding package security and how package feeds are a trusted source of pac
 Also, understand what are the different roles in Azure Artifact, Azure Artifacts Feeds permissions for each role and how they can customize the experience for the users. 
 
 Lastly, with all dependencies being managed it is also possible to stay in control of the dependencies that are consumed enabling governance and security scanning for use of packages with known vulnerabilities for exploits.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 9: Defining and Implementing a Continuous Delivery & Release Strategy
+
+### Lesson 1: Understanding Continuous Delivery (CD)
+
+Understanding and learning ...
+
+### Lesson 2: Overview of Deployment Stages and Approval Process
+
+Understanding and learning ...
+
+### Lesson 3: Separating Functional Release from Technical Release
+
+Understanding and learning ...
+
+### Lesson 4: Understanding Several Deployment Patterns
+
+Understanding and learning ...
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 10: Managing Configuration Management for Infrastructure and Database
+
+### Lesson 1: Introduction to Configuration as Code (CaC)
+
+Understanding and learning what is Infrastructure as Code (IaC), what are the different challenges with Traditional Infrastructure and manual process, what is Pets vs. Cattle DevOps concept, what is the difference between Declarative and Imperative Infrastructure as Code, and what is the Infrastructure as Code (IaC) workflow.
+
+Also, understand what is ARM Template, the benefits of it, and how to provision infrastructure using ARM and Azure Pipeline. What is Terraform, the advantages of IaC using Terraform, the advantages of Terraform, and how to provision infrastructure using Terraform and Azure Pipeline.
+
+Also, apply and implement the following demos/exercises.
+- Provision infrastructure (Web App and Azure SQL on Azure) using ARM and Azure Pipeline.
+- Provision infrastructure (Web App on Azure) using Terraform and Azure Pipeline.
+
+### Lesson 2: Managing DB using Database Configuration Management (DCM)
+
+Understanding and learning the different challenges With Traditional DB Development, what is DB Configuration Management (DCM) approach, and how it overcomes the Traditional DB Development challenges.
+
+Also, understand DB Configuration Management workflow, the difference between Imperative and Declarative DB Configuration, and more examples for DCM tools. What is Liquibase, how to install and configure it on Azure pipeline self-hosted agent, the best practices using DCM (Liquibase) & CI/CD to deploy changes, what is the changelog file, and how to deal with it.
+
+Also, understand Some of Liquibase commands (update, diff, status, etc), and how to use Liquibase for DB configuration management with H2 DB.
+What is Snowflake, how to deploy DB changes to Snowflake using Liquibase and Azure Pipeline, and how to deploy Infrastructure and Web applications as an End-to-End project.
+
+Also, apply and implement the following demos/exercises.
+- Install and Configure Liquibase on Azure pipeline self-hosted agent.
+- Using Liquibase for DB configuration management with H2 DB.
+- Deploy DB changes to Snowflake using Liquibase and Azure Pipeline.
+- End-to-End CI/CD to Deploy Infrastructure and Web applications.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
