@@ -1,35 +1,38 @@
+# Advanced Introduction to DevOps
+
 ## Course Info and Prerequisites.
 
-**Course Name:** 
+
+### Course Name: 
 
 Advanced Introduction to DevOps.
 
-**Duration of the course:** 
+### Duration of the course: 
 
 30 hours divided into 10 sessions, one session per week, the duration of the session is 3 hours, the day and date of the session will be agreed upon later after confirmation of the subscription. It is expected, but not certain, that it will be on Tuesday for Arabic class and Wednesday for English class at 6:00 PM UK Time.
   
-**Price excluded the recorded sessions:** 
+### Price excluded the recorded sessions:
 
 $500.
  
-**Price included the recorded sessions:** 
+### Price included the recorded sessions: 
 
 $750.
 
   
-**Payment methods:** 
+### Payment methods:
 
 Bank transfer, PayPal and Vodafone cash.
 
   
-**Course date:** 
+### Course date:
 
 The exact date will be announced two weeks before the start date.
 
 [Check for schedule update on this page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
 
 
-**For Registration:**
+### For Registration:
 
 The course has two classes to join, English and Arabic. 
 
@@ -45,7 +48,7 @@ Moreover, the timing shall be updated on the following timetable page:
 
 
   
-**Course prerequisites :** 
+### Course prerequisites : 
 
 - Computer and programming fundamentals ,general knowledge of the software industry life cycle,and the logical and critical thinking skills are very important
 
@@ -60,7 +63,7 @@ Moreover, the timing shall be updated on the following timetable page:
   
 The course also requires that you have a credit card (you must have a credit card, not a debit card) to activate your Azure Free account.
 
-**Course level:** 
+### Course level:
 
 Beginner to advanced.
 
