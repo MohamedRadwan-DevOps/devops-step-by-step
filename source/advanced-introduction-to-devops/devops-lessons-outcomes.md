@@ -367,19 +367,50 @@ Lastly, with all dependencies being managed it is also possible to stay in contr
 
 ### Lesson 1: Understanding Continuous Delivery (CD)
 
-Understanding and learning ...
+Understanding the reason and the motive for moving to Continuous Delivery (CD), to decrease the delivery cycles and increase the deployment frequency.
+
+Also understanding what are the artifact sources, and why are they important to enable effective CD.
+
+Finally, apply and implement the following demo/exercise:
+
+- Create CD for API app.
 
 ### Lesson 2: Overview of Deployment Stages and Approval Process
 
-Understanding and learning ...
+Understanding the multiple deployment stages available in the modern software development delivery, as well as the introduction to the concept of Rings.
+
+Also, understanding the elements to consider when setting up deployment stages, and the steps to consider when promoting package through environments.
+
+Also, understanding the Sign-in and Sign-off processes that can occur and how we can automate them.
+
+Understanding the concept of release gates, release notes and release documentation.
+
+Also, understanding the concept of release tasks, and how they can be automated, to enable faster delivery cycles.
+
+Finally, apply and implement the following demos/exercises:
+
+- Create CD for Parts-Unlimited.
+- Configure Azure Pipeline as a process for self-hosted and run UI tests.
+- Deploy docker image to Azure Container App Service.
 
 ### Lesson 3: Separating Functional Release from Technical Release
 
-Understanding and learning ...
+Understanding the concept of decoupling release and deployment, and the principle of silent release/silent deployment.
+
+Also understanding the concept of having a released feature but not deployed, since the moment a new feature is deployed, it is also released to the end users.
 
 ### Lesson 4: Understanding Several Deployment Patterns
 
-Understanding and learning ...
+Understanding the different Deployment patterns like:
+
+- Blue-Green Deployment.
+- Canary Release.
+- Dark Launching.
+- Progressive exposure deployment.
+
+Finally, apply and implement the following demo/exercise:
+
+- Enable Continuous Integration and Continuous Deployment.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
