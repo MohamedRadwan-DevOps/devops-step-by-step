@@ -44,6 +44,10 @@
   - [Module 10: Managing Configuration Management for Infrastructure and Database](#module-10-managing-configuration-management-for-infrastructure-and-database)
     - [Lesson 1: Introduction to Configuration as Code (CaC)](#lesson-1-introduction-to-configuration-as-code-cac)
     - [Lesson 2: Managing DB using Database Configuration Management (DCM)](#lesson-2-managing-db-using-database-configuration-management-dcm)
+  - [Module 11: Team Collaboration and Work Tracking](#module-11-team-collaboration-and-work-tracking)
+    - [Lesson 1: Structuring Portfolio Management Elements](#lesson-1-structuring-portfolio-management-elements)
+    - [Lesson 2: Agile Portfolio Management](#lesson-2-agile-portfolio-management)
+    - [Lesson 3: Building Dashboard for All Project Levels](#lesson-3-building-dashboard-for-all-project-levels)
   
 ## Module 1: Introduction to Agile and DevOps
 
@@ -51,19 +55,19 @@
 
 Understanding and learning that Agile and waterfall are two distinctive methodologies of processes to complete projects, the difference between them, how Agile is an iterative/incremental methodology that incorporates a cyclic and collaborative process, and Waterfall is a sequential methodology.
 
-Also, understanding the different challenges that will be faced during applying the waterfall approach, and how Agile/DevOps overcomes these challenges.
+Also, understand the different challenges that will be faced during applying the waterfall approach, and how Agile/DevOps overcomes these challenges.
 
 ### Lesson 2: What is required to be a DevOps Engineer?
 
 Understanding and learning what are the different jobs/roles across the SDLC and DevOps Disciplines, the different practices/principles across these disciplines, and how Being T-Shaped skills as DevOps span across disciplines and technologies.
 
-Also, understanding the difference between being T-Shaped and I-Shaped and how Knowledge and Skills levels change for each form.
+Also, understand the difference between being T-Shaped and I-Shaped and how Knowledge and Skills levels change for each form.
 
 ### Lesson 3: Understanding Lead Time and Frequency of Deployment 
 
 Understanding the difference between Lead time and  Cycle time, what it means for frequency of deployment, how they are important to measure the progress of the project, and how improving them is very important for achieving high performance and continuous delivery.
 
-Also, understanding how DevOps covers The End-to-End Engineering, and one of its goals is enhancing lead time and increasing the frequency of deployment.
+Also, understand how DevOps covers The End-to-End Engineering, and one of its goals is enhancing lead time and increasing the frequency of deployment.
 
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
@@ -321,7 +325,7 @@ Package sources will be introduced, which are package types that have a standard
 | Maven | Maven | Nexus |  
 | Docker | DockerHub | Portus |
 
-Also, understanding the concept of upstream sources where you can specify multiple package sources, and these sources can be public sources or private sources.
+Also, understand the concept of upstream sources where you can specify multiple package sources, and these sources can be public sources or private sources.
 
 Also, apply and implement the following demos/exercises.
 - Create and examine feed on Azure artifact with different options.
@@ -448,3 +452,40 @@ Also, apply and implement the following demos/exercises.
 **Note: You can find more details about this module demos on demos/labs page.**
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 11: Team Collaboration and Work Tracking
+
+### Lesson 1: Structuring Portfolio Management Elements
+
+Understanding and learning what are the portfolio management elements, how to structure People Dimension in Portfolio Management, how to create multiple teams in Azure projects, and assign members to the created teams, how to structure Time Dimension in Portfolio Management, and what is Sprint, Release, Season, Scenario, and how to set the time limit for each one of them.
+
+Also, understand how to structure the Business/Requirements Dimension in Portfolio Management, how to define a Taxonomy in your organization to cover the hierarchy of your business, and what is Goal, Initiative, Theme, Epic, Feature, User Story, Task, and the duration for each one.
+
+Also, apply and implement the following demos/exercises.
+- Structure Time Dimension in Portfolio Management.
+- Structure Business Dimension in Portfolio Management.
+
+### Lesson 2: Agile Portfolio Management
+
+Understanding and learning how to define Line of Autonomy in your organization, how to plan For each level of The Taxonomy, how to assign who do what and when in Portfolio Management, the business and time governance and visibility for Backlog.
+
+Also, understand how to structure your project Backlog, how to create a project on Azure DevOps and create its teams, assign members to it, set iterations, how to create Epic, Feature, and User Story, and how to make Product and sprint planning, how to resolve Sprint over capacity/ allocation, and how to manage Agile software delivery plans across teams.
+
+Also, apply and implement the following demos/exercises.
+- Agile Planning and Portfolio Management with Azure Boards.
+- Product and sprint planning.
+- Manage Agile software delivery plans across teams.
+- Manage Agile software delivery plans across teams.
+
+
+### Lesson 3: Building Dashboard for All Project Levels
+
+Understanding and learning how to build a very effective and efficient dashboard to help you gain visibility into your team's progress, and flexibility to share information, monitor progress and trends and improve your workflow processes. Each team can tailor their dashboards to share information and monitor their progress.
+
+Also, apply and implement the following demos/exercises.
+- Build an Effective Dashboard.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
