@@ -462,6 +462,7 @@ Understanding and learning what are the portfolio management elements, how to st
 Also, understand how to structure the Business/Requirements Dimension in Portfolio Management, how to define a Taxonomy in your organization to cover the hierarchy of your business, and what is Goal, Initiative, Theme, Epic, Feature, User Story, Task, and the duration for each one.
 
 Also, apply and implement the following demos/exercises.
+- Structure People Dimension in Portfolio Management.
 - Structure Time Dimension in Portfolio Management.
 - Structure Business Dimension in Portfolio Management.
 
@@ -472,9 +473,9 @@ Understanding and learning how to define Line of Autonomy in your organization, 
 Also, understand how to structure your project Backlog, how to create a project on Azure DevOps and create its teams, assign members to it, set iterations, how to create Epic, Feature, and User Story, and how to make Product and sprint planning, how to resolve Sprint over capacity/ allocation, and how to manage Agile software delivery plans across teams.
 
 Also, apply and implement the following demos/exercises.
+- Assigning Who Do what and when in Portfolio Management.
 - Agile Planning and Portfolio Management with Azure Boards.
 - Product and sprint planning.
-- Manage Agile software delivery plans across teams.
 - Manage Agile software delivery plans across teams.
 
 
