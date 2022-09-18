@@ -367,11 +367,11 @@ Lastly, with all dependencies being managed it is also possible to stay in contr
 
 ### Lesson 1: Understanding Continuous Delivery (CD)
 
-Understanding the reason and the motive for moving to Continuous Delivery (CD), to decrease the delivery cycles and increase the deployment frequency.
+Understanding and learning what is Continuous Delivery (CD), why Continuous Delivery (CD) and the reasons, the motive for moving to Continuous Delivery (CD), to decrease the delivery cycles and increase the deployment frequency.
 
-Also understanding what are the artifact sources, and why are they important to enable effective CD.
+Also, understand the release strategy, what are the artifact sources, the considerations that should be taken into account while choosing artifact source, what are the important deployment tasks, and what is the release agent job.
 
-Finally, apply and implement the following demo/exercise:
+Also, apply and implement the following demos/exercises.
 
 - Create CD for API app.
 
@@ -379,15 +379,15 @@ Finally, apply and implement the following demo/exercise:
 
 Understanding the multiple deployment stages available in the modern software development delivery, as well as the introduction to the concept of Rings.
 
-Also, understanding the elements to consider when setting up deployment stages, and the steps to consider when promoting package through environments.
+Also, understand the elements to consider when setting up deployment stages, and the steps to consider when promoting packages through environments.
 
-Also, understanding the Sign-in and Sign-off processes that can occur and how we can automate them.
+Also, understand the Sign-in and Sign-off processes that can occur and how we can automate them.
 
-Understanding the concept of release gates, release notes and release documentation.
+Also, understand different deployment trigger types, and the concept of release gates, release notes and release documentation.
 
-Also, understanding the concept of release tasks, and how they can be automated, to enable faster delivery cycles.
+Also, understand the concept of release tasks, and how they can be automated, to enable faster delivery cycles, the considerations that should be taken into account for release approval, and what are the different release tasks.
 
-Finally, apply and implement the following demos/exercises:
+Also, apply and implement the following demos/exercises.
 
 - Create CD for Parts-Unlimited.
 - Configure Azure Pipeline as a process for self-hosted and run UI tests.
@@ -395,20 +395,22 @@ Finally, apply and implement the following demos/exercises:
 
 ### Lesson 3: Separating Functional Release from Technical Release
 
-Understanding the concept of decoupling release and deployment, and the principle of silent release/silent deployment.
+Understanding and learning the concept of decoupling release and deployment, and the principle of silent release/silent deployment.
 
-Also understanding the concept of having a released feature but not deployed, since the moment a new feature is deployed, it is also released to the end users.
+Also, understand the concept of having a released feature but not deployed, since the moment a new feature is deployed, it is also released to the end users.
 
 ### Lesson 4: Understanding Several Deployment Patterns
 
-Understanding the different Deployment patterns like:
+Understanding and learning the different Deployment patterns like:
 
 - Blue-Green Deployment.
 - Canary Release.
 - Dark Launching.
 - Progressive exposure deployment.
 
-Finally, apply and implement the following demo/exercise:
+Also, understand how to Choose the right deployment pattern, how to enable Continuous Integration and Continuous Deployment, and some examples for different release management tools.
+
+Also, apply and implement the following demos/exercises.
 
 - Enable Continuous Integration and Continuous Deployment.
 
