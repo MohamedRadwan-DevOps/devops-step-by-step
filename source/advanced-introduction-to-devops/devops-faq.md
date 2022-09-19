@@ -5,7 +5,6 @@
   - [What is the difference between the Course CE (Community Edition) and the Course EE (Enterprise Edition)?](#what-is-the-difference-between-the-course-ce-community-edition-and-the-course-ee-enterprise-edition)
   - [Will I be qualified to work as a DevOps Engineer after finishing the course?](#will-i-be-qualified-to-work-as-a-devops-engineer-after-finishing-the-course)
   - [It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?](#it-is-unclear-what-tools-we-shall-use-whether-they-are-azure-devops-or-jenkins-will-we-work-with-configuration-management-tools-such-as-ansible-or-terraform-will-we-get-into-subjects-like-kubernetes-and-docker)
-  - [When shall the course start? How shall I pay? Is there a deadline for payment?](#when-shall-the-course-start-how-shall-i-pay-is-there-a-deadline-for-payment)
   - [How to join the CE (Community Edition) of the DevOps Course?](#how-to-join-the-ce-community-edition-of-the-devops-course)
   - [Will the course be useful in Mobile applications? I have taken the Programming Fundamentals Course before with Eng. Moshrif, will it benefit me? How will DevOps benefit me afterwards?](#will-the-course-be-useful-in-mobile-applications-i-have-taken-the-programming-fundamentals-course-before-with-eng-moshrif-will-it-benefit-me-how-will-devops-benefit-me-afterwards)
   - [I’ve taken an overview of DevOps in a Data Warehousing class in college but in fact, the field itself is a bit unclear. If you could just give us a hint on what it is and the available opportunities for it and will it be a complement to a career in Full stack development?](#ive-taken-an-overview-of-devops-in-a-data-warehousing-class-in-college-but-in-fact-the-field-itself-is-a-bit-unclear-if-you-could-just-give-us-a-hint-on-what-it-is-and-the-available-opportunities-for-it-and-will-it-be-a-complement-to-a-career-in-full-stack-development)
@@ -18,26 +17,20 @@
   - [How important is it to have a credit card in the course? And will the money be withdrawn from it? And what if I don’t have a credit card, what shall I do?](#how-important-is-it-to-have-a-credit-card-in-the-course-and-will-the-money-be-withdrawn-from-it-and-what-if-i-dont-have-a-credit-card-what-shall-i-do)
   - [Will we get into AWS? Is it more desirable in the market?](#will-we-get-into-aws-is-it-more-desirable-in-the-market)
   - [What if I don’t have the course requirements/prerequisites?](#what-if-i-dont-have-the-course-requirementsprerequisites)
-  - [Will the course and lectures be recorded in case I couldn’t attend live sessions?](#will-the-course-and-lectures-be-recorded-in-case-i-couldnt-attend-live-sessions)
-  - [Are there any more advantages to the course?](#are-there-any-more-advantages-to-the-course)
-  - [How much does the technical support or mentorship program cost?](#how-much-does-the-technical-support-or-mentorship-program-cost)
-  - [Are there any more advantages to the technical support or mentorship program?](#are-there-any-more-advantages-to-the-technical-support-or-mentorship-program)
   - [Will I be able to work in this field as a fresh graduate with no experience?](#will-i-be-able-to-work-in-this-field-as-a-fresh-graduate-with-no-experience)
   - [Unfortunately, I haven’t successfully found a job yet. What do you suggest I do to make good use of my time till the course starts?](#unfortunately-i-havent-successfully-found-a-job-yet-what-do-you-suggest-i-do-to-make-good-use-of-my-time-till-the-course-starts)
   - [What are the minimum system requirements for the course?](#what-are-the-minimum-system-requirements-for-the-course)
   - [Is there anything else I need to know about the course?](#is-there-anything-else-i-need-to-know-about-the-course)
-  - [How do I attend the lectures?](#how-do-i-attend-the-lectures)
-  - [What is the deadline for course registration?](#what-is-the-deadline-for-course-registration)
-  - [Can I purchase the lecture recordings without registering for the course?](#can-i-purchase-the-lecture-recordings-without-registering-for-the-course)
   - [Where can I ask questions for the free course (CE)?](#where-can-i-ask-questions-for-the-free-course-ce)
   - [Where or how can I register?](#where-or-how-can-i-register)
   - [I registered for the free course (CE) but I didn't get an invitation.](#i-registered-for-the-free-course-ce-but-i-didnt-get-an-invitation)
   - [I am new. What I should do to join the free course (CE)?](#i-am-new-what-i-should-do-to-join-the-free-course-ce)
-  - [Do I need to register for every session?](#do-i-need-to-register-for-every-session)
-  - [Where can I find past and future sessions?](#where-can-i-find-past-and-future-sessions)
+  - [Do I need to register for every session (CE)?](#do-i-need-to-register-for-every-session-ce)
+  - [Where can I find the past and future sessions (CE)?](#where-can-i-find-the-past-and-future-sessions-ce)
   - [I don't want to receive any invitations or emails anymore?](#i-dont-want-to-receive-any-invitations-or-emails-anymore)
-  - [If I can't join the live session, can I still watch it?](#if-i-cant-join-the-live-session-can-i-still-watch-it)
-  - [If I can't join the live session on MS Teams, is there any video record for the session?](#if-i-cant-join-the-live-session-on-ms-teams-is-there-any-video-record-for-the-session)
+  - [If I can't join the live session, can I still watch it (CE)?](#if-i-cant-join-the-live-session-can-i-still-watch-it-ce)
+  - [If I can't join the live session on MS Teams, is there any video record for the session (CE)?](#if-i-cant-join-the-live-session-on-ms-teams-is-there-any-video-record-for-the-session-ce)
+  
 ## I am confused, is the course free or paid?
 
 All our courses here has two editions, Community Edition (CE) and Enterprise Edition (EE), the CE is free and the EE is paid.
@@ -72,25 +65,6 @@ As for Docker, we shall definitely get into it, but Kubernetes will be just theo
 Also, there is another extremely important thing: the course objective is not to learn tools or technologies, but rather the practices and the principles regardless of tools or technology.
 
 However, to learn the practices, we must apply them using any tools or technology. You can literally apply what you will learn using any other tools or technology not just the ones you’ve learned in class, and this is an additional advantage to the course: Because you have understood the foundation, tools and technology become much easier to understand and use any of them.
-
-## When shall the course start? How shall I pay? Is there a deadline for payment?
-
-Both course editions have two classes to join, English and Arabic and for the Enterprise Edition. 
-
-If you are interested in joining the **English** class, please contact our Financial Manager in the UK, Ms Rania via WhatsApp and send a text msg to the following no. (**004407403919116**)
-
-But, if you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms Nadia via WhatsApp and send a text msg to the following no. (**00201224073193**)
-
-Also, we will announce the course start date for each round on Linked In and Facebook. So, if you couldn’t enrol at this time, you could try with the next round or the one after.
-
-Moreover, the timing shall be updated on the following timetable page:
-
-[Timetable](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
-
-And it is best you take a look at the reviews left by those who have finished the course. Each and every one of them explains how they benefited from the course and shares their experience that might be very close to your case and thereby answering all your questions.
-
-[Course Reviews](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/reviews.md)
-
 
 ## How to join the CE (Community Edition) of the DevOps Course?
 
@@ -201,36 +175,11 @@ However, to learn the practices, we must apply them using any tools or technolog
 In the end, AWS and Azure have market demands almost equally.
 
 
-
 ## What if I don’t have the course requirements/prerequisites?
 
 In that case, try developing a simple software program like a timetable or phone book using ASP.NET MVC and C#, reading up a lot on SDLC, get a quick overview about bash and Power shell and some basic fundamentals about DB and you should be ready, don't spend too long.
 
 We are going to code and develop simple software in the course. So, I don’t want your first time seeing or writing code to be in the course; you have to come prepared so you can keep up.
-
-## Will the course and lectures be recorded in case I couldn’t attend live sessions?
-
-Yes, the lectures shall be recorded and available for free for 4 days you shall be chosen in advance. However, if you want a permanent recording of the lecture, the price of a single lecture will be an additional $25. That is why I am stressing the importance of attendance and not skipping.
-
-## Are there any more advantages to the course?
-
-The course shall have technical support and a free subscription to the mentorship program for the first 3 months.
-
-Your mentor shall be able to solve any problems you might face or answer any questions you might have. And I shall personally supervise the program to make sure it lives up to the desired standard.
-
-[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md)
-
-## How much does the technical support or mentorship program cost?
-
-First of all, the technical support or mentorship program is an optional choice and not mandatory. The subscription fee is $7/month and it's paid annually which means $84/year.
-
-Also, the mentorship and the technical support are free for the top contributors who contribute to our internal/external community.
-
-[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md)
-
-## Are there any more advantages to the technical support or mentorship program?
-
-The top 20 to 50 people in the mentorship or technical support, those who are the best and the most diligent students in the course, who provide the most follow-up and the best solutions to technical support problems, shall be nominated to work for companies in the UK or EU.
 
 ## Will I be able to work in this field as a fresh graduate with no experience?
 
@@ -266,27 +215,6 @@ Also, you must know that there is significant preparation that you must do befor
 
 [Demos/Labs](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md)
 
-
-
-## How do I attend the lectures?
-
-A meeting invitation shall be sent a week before every lecture via Microsoft Teams to the email used in registration. 
-
-Also, a demo invitation shall be sent before the course starts and there is a discord channel to join so if you have any questions or issues, you can ask there.
-
-## What is the deadline for course registration?
-
-The registration deadline for any course is two weeks prior to the course start date.
-
-## Can I purchase the lecture recordings without registering for the course?
-
-Yes, that is possible, and in that case, the price of the recorded course shall be $750.
-
-For more details regarding prices, please check the price page:
-
-[Service Price List](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md)
-
-
 ## Where can I ask questions for the free course (CE)?
 You just need to raise/open an issue with your question/problem on issues at the following link, please make sure to search for old issues first before raising a new one.
 
@@ -314,7 +242,7 @@ Notes:
 
 **For the Course Enterprise Edition (EE) (Paid)**
 
-Kindly check this [question](#when-shall-the-course-start-how-shall-i-pay-is-there-a-deadline-for-payment)
+Kindly check this [question](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md##when-shall-the-courses-start-how-shall-i-pay-is-there-a-deadline-for-payment)
 
 
 ## I registered for the free course (CE) but I didn't get an invitation.
@@ -332,11 +260,11 @@ You just need to do the following:
 3. Click Star on this repo.
 4. Watch the old sessions and attend the new sessions.
 
-## Do I need to register for every session?
+## Do I need to register for every session (CE)?
 No, you don't need to register for every session, once you registered for one session, you will get a notification by email for the future session in your turn.
 
 
-## Where can I find past and future sessions?
+## Where can I find the past and future sessions (CE)?
 The past sessions will be on YouTube at the following link:
 
 [YouTube Arabic Channel](https://www.youtube.com/c/MohamedRadwanArabic)
@@ -346,20 +274,22 @@ The past sessions will be on YouTube at the following link:
 For future sessions, an invitation will be sent to the registered users in their emails.
 
 
-## I don't want to receive any invitations or emails anymore?
+## I don't want to receive any invitations or emails anymore (CE)?
 Please reply to any old invitation or send a new email to [support](devopsvisions.help@outlook.com) to let me know, and I will remove you from the milling list.
 
 
-## If I can't join the live session, can I still watch it?
+## If I can't join the live session, can I still watch it (CE)?
 Yes, all sessions will be recorded and uploaded to the YouTube channel, so you can still watch them, but questions will not be monitored during the session.
 
 
-## If I can't join the live session on MS Teams, is there any video record for the session?
+## If I can't join the live session on MS Teams, is there any video record for the session (CE)?
 Yes, all sessions will be recorded here:
 
 [YouTube Arabic Channel](https://www.youtube.com/c/MohamedRadwanArabic)
 
 [YouTube English Channel](https://www.youtube.com/user/MRadwanMSF)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 
 
