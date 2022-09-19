@@ -25,11 +25,11 @@
   - [Where or how can I register?](#where-or-how-can-i-register)
   - [I registered for the free course (CE) but I didn't get an invitation.](#i-registered-for-the-free-course-ce-but-i-didnt-get-an-invitation)
   - [I am new. What I should do to join the free course (CE)?](#i-am-new-what-i-should-do-to-join-the-free-course-ce)
-  - [Do I need to register for every session?](#do-i-need-to-register-for-every-session)
-  - [Where can I find past and future sessions?](#where-can-i-find-past-and-future-sessions)
+  - [Do I need to register for every session (CE)?](#do-i-need-to-register-for-every-session-ce)
+  - [Where can I find the past and future sessions (CE)?](#where-can-i-find-the-past-and-future-sessions-ce)
   - [I don't want to receive any invitations or emails anymore?](#i-dont-want-to-receive-any-invitations-or-emails-anymore)
-  - [If I can't join the live session, can I still watch it?](#if-i-cant-join-the-live-session-can-i-still-watch-it)
-  - [If I can't join the live session on MS Teams, is there any video record for the session?](#if-i-cant-join-the-live-session-on-ms-teams-is-there-any-video-record-for-the-session)
+  - [If I can't join the live session, can I still watch it (CE)?](#if-i-cant-join-the-live-session-can-i-still-watch-it-ce)
+  - [If I can't join the live session on MS Teams, is there any video record for the session (CE)?](#if-i-cant-join-the-live-session-on-ms-teams-is-there-any-video-record-for-the-session-ce)
   
 ## I am confused, is the course free or paid?
 
@@ -288,6 +288,8 @@ Yes, all sessions will be recorded here:
 [YouTube Arabic Channel](https://www.youtube.com/c/MohamedRadwanArabic)
 
 [YouTube English Channel](https://www.youtube.com/user/MRadwanMSF)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
 
 
 

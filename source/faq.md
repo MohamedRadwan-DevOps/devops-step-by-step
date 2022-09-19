@@ -1,3 +1,5 @@
+# General FAQ
+
 # Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
   - [Are there any rules for writing our questions/issues?](#are-there-any-rules-for-writing-our-questionsissues)
   - [I have an issue in the chat area during the session and I can't send messages?](#i-have-an-issue-in-the-chat-area-during-the-session-and-i-cant-send-messages)
@@ -133,6 +135,8 @@ You need to learn the culture of the community, some of that as the following:
 
 No, you are only allowed to ask related questions to the discussed topics.
 Most of the questions will be at the end of the session, but you can ask a few questions during the session.
+
+**[⬆ back to top](#general-faq)**
 
 
 
