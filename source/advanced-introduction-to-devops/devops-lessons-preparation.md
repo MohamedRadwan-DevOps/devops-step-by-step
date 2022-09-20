@@ -1060,3 +1060,5 @@
     [Working with Docker container on Windows](https://youtu.be/yOGZtoukLdc)
 
     [Doing several actions using Docker commands](https://youtu.be/IlD70yahtWY)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**

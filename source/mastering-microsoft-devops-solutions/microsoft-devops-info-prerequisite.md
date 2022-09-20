@@ -78,3 +78,5 @@ For any inquiries? Look at the following Q&A page:
 The starting date will be updated on the following course Date & Time page:
 
 [Date & Time Schedule ](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
+
+**[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
