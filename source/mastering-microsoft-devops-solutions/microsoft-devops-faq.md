@@ -1,10 +1,8 @@
 # Mastering Microsoft DevOps Solutions (Get Certified)
 
 ## Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
-
-
   - [If I attend the course and pass AZ-400 exam, doest it mean I will get the Microsoft Certified: DevOps Engineer Expert?](#if-i-attend-the-course-and-pass-az-400-exam-doest-it-mean-i-will-get-the-microsoft-certified-devops-engineer-expert)
-  - [Do I have to take Microsoft Certified: Azure Administrator Associate or  [Microsoft Certified: Azure Developer Associate certification](https://learn.microsoft.com/en-us/certifications/azure-developer/) before take AZ-400 exam?](#do-i-have-to-take-microsoft-certified-azure-administrator-associate-or--microsoft-certified-azure-developer-associate-certification-before-take-az-400-exam)
+  - [Do I have to take Microsoft Certified Azure Administrator Associate or  Microsoft Certified Azure Developer Associate exam before take AZ 400 exam?](#do-i-have-to-take-microsoft-certified-azure-administrator-associate-or--microsoft-certified-azure-developer-associate-exam-before-take-az-400-exam)
   - [What are the prerequisites of the course?](#what-are-the-prerequisites-of-the-course)
 
 ## If I attend the course and pass AZ-400 exam, doest it mean I will get the Microsoft Certified: DevOps Engineer Expert?
@@ -15,7 +13,7 @@ To become a Microsoft Certified: DevOps Engineer Expert, you must pass additiona
 
 ![Certification](../images/mics/mastering-devops-certification.png)
 
-## Do I have to take [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/) or  [Microsoft Certified: Azure Developer Associate certification](https://learn.microsoft.com/en-us/certifications/azure-developer/) before take AZ-400 exam?
+## Do I have to take Microsoft Certified Azure Administrator Associate or  Microsoft Certified Azure Developer Associate exam before take AZ 400 exam?
 
 No, you can take AZ-400 exam first then take the other exam later. 
 
