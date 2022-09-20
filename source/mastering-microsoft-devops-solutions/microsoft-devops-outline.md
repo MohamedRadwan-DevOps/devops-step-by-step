@@ -276,3 +276,5 @@ After completing this module, students will be able to:
 - Create a bug tracker
 - Configure Azure Dashboards
 - Work with View Designer in Azure Monitor
+
+**[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
