@@ -6,6 +6,7 @@
     - [GitHub Projects and Project boards.](#github-projects-and-project-boards)
     - [Using GitHub workflow automation](#using-github-workflow-automation)
     - [Plan upcoming work using iteration in GitHub project](#plan-upcoming-work-using-iteration-in-github-project)
+    - [Collaborate using GitHub team discussions](#collaborate-using-github-team-discussions)
     - [Link GitHub to Azure Boards.](#link-github-to-azure-boards)
   - [Module 2: Implement CI with Azure Pipelines and GitHub Actions](#module-2-implement-ci-with-azure-pipelines-and-github-actions)
     - [Configuring agent pools and understanding pipeline styles.](#configuring-agent-pools-and-understanding-pipeline-styles)
@@ -49,6 +50,10 @@ In this demo, you will learn and understand ....
 
 ### Plan upcoming work using iteration in GitHub project
  
+In this demo, you will learn and understand ....
+
+### Collaborate using GitHub team discussions
+
 In this demo, you will learn and understand ....
 
 ### Link GitHub to Azure Boards. 
