@@ -1,8 +1,6 @@
 # Mastering Microsoft DevOps Solutions (Get Certified)
 
 ## Course Demos/Labs
-- [Mastering Microsoft DevOps Solutions (Get Certified)](#mastering-microsoft-devops-solutions-get-certified)
-  - [Course Demos/Labs](#course-demoslabs)
   - [DevOps transformation for enterprise DevOps](#devops-transformation-for-enterprise-devops)
     - [Azure Board project customization.](#azure-board-project-customization)
     - [GitHub Projects and Project boards.](#github-projects-and-project-boards)
