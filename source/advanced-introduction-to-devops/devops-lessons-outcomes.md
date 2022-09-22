@@ -48,6 +48,15 @@
     - [Lesson 1: Structuring Portfolio Management Elements](#lesson-1-structuring-portfolio-management-elements)
     - [Lesson 2: Agile Portfolio Management](#lesson-2-agile-portfolio-management)
     - [Lesson 3: Building Dashboard for All Project Levels](#lesson-3-building-dashboard-for-all-project-levels)
+  - [Module 12: Examples Of Different Practices Improvement in Several Areas](#module-12-examples-of-different-practices-improvement-in-several-areas)
+    - [Lesson 1: Improving Application Architecture](#lesson-1-improving-application-architecture)
+    - [Lesson 2: Improving Hosting Environment](#lesson-2-improving-hosting-environment)
+    - [Lesson 3: Improving Backlog Structure and Size](#lesson-3-improving-backlog-structure-and-size)
+    - [Lesson 4: Improving Backlog Realization By Providing Storyboard](#lesson-4-improving-backlog-realization-by-providing-storyboard)
+    - [Lesson 5: Improving Release using Feature Flag & Deployment Rings](#lesson-5-improving-release-using-feature-flag--deployment-rings)
+  - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
+    - [Lesson 1: Introduction to Site Reliability Engineering (SRE)](#lesson-1-introduction-to-site-reliability-engineering-sre)
+    - [Lesson 2: Understanding Monitoring Practice](#lesson-2-understanding-monitoring-practice)
   
 ## Module 1: Introduction to Agile and DevOps
 
@@ -478,13 +487,61 @@ Also, apply and implement the following demos/exercises.
 - Product and sprint planning.
 - Manage Agile software delivery plans across teams.
 
-
 ### Lesson 3: Building Dashboard for All Project Levels
 
 Understanding and learning how to build a very effective and efficient dashboard to help you gain visibility into your team's progress, and flexibility to share information, monitor progress and trends and improve your workflow processes. Each team can tailor their dashboards to share information and monitor their progress.
 
 Also, apply and implement the following demos/exercises.
 - Build an Effective Dashboard.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 12: Examples Of Different Practices Improvement in Several Areas
+
+### Lesson 1: Improving Application Architecture
+
+Understanding and learning more information about Waterfall and Agile/DevOps methodologies, the difference between them and the obstacles and challenges of applying Waterfall methodology. What does it mean of Monolithic Applications, and Microservices, and the difference between each one of them.
+
+Also, understand the difference between the Traditional Approach and Microservices, the difference between the Horizontal team and Vertical team, and the advantages and disadvantages of each one.
+
+### Lesson 2: Improving Hosting Environment
+
+Understanding and learning how applying Microservices to improve Application Architecture may end up with a huge bunch of Microservices, how can we manage and host all these Microservices? Host these Microservices on VMS? and the challenges of hosting a huge bunch of Microservices on VMs.
+
+Also, understand how the challenges of hosting Microservices on VMS may be overcome by hosting on Containers. What are Containers and Orchestration and their advantages.
+
+### Lesson 3: Improving Backlog Structure and Size
+
+Understanding and learning when backlogs grow too big and become overly long and detailed make them difficult to update, prioritise, and refine. how to build the right Product Backlog Structure, and how to reduce the Product Backlog Size to simplify such a backlog so you can manage it more easily.
+
+### Lesson 4: Improving Backlog Realization By Providing Storyboard
+
+Understanding and learning what is the Storyboard, Why we need it, and how to create it. How the Storyboard is the best way to share your vision, save your time,  how it helps your business, and how providing it improves Backlog Realization.
+
+### Lesson 5: Improving Release using Feature Flag & Deployment Rings
+
+Understanding and learning what is Feature Flag, and how to track Deployments to Production using Rings. What is Hypothesis-Driven Development, and how to implement it? How using Feature Flag and Deployment Rings may improve Release.
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 13: Overview of SRE and Monitoring Practices
+
+### Lesson 1: Introduction to Site Reliability Engineering (SRE)
+
+Understanding and learning what availability means in Human words, what we hear from OPS, What we hear from DEV, what is Site Reliability Engineering (SRE), and what is the difference between DevOps and SRE. 
+
+Also, understand what SLA, SLO, and SLI are, how to define them, what is the difference between them, What an SRE do, what toil is, and why should it be reduced.
+
+### Lesson 2: Understanding Monitoring Practice 
+
+Understanding and learning why is a Monitoring important, what are kinds of Monitoring Outputs, what is Mean time to detect (MTTD) and Mean time to repair (MTTR), the difference between them and why we measure them.
+
+Also, understand what types of problems should be detected, the Basics of the Telemetry Pattern, what are the major benefits of Application Monitoring, some monitoring tools, what is Log Analytics workspace, and how it works.
+
+Also, apply and implement the following demos/exercises.
+- Log Analytics Workspace.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
