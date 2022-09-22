@@ -242,7 +242,7 @@ Notes:
 
 **For the Course Enterprise Edition (EE) (Paid)**
 
-Kindly check this [question](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md##when-shall-the-courses-start-how-shall-i-pay-is-there-a-deadline-for-payment)
+Kindly check this [question](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md#when-shall-the-courses-start-how-shall-i-pay-is-there-a-deadline-for-payment)
 
 
 ## I registered for the free course (CE) but I didn't get an invitation.
