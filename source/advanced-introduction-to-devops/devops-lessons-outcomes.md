@@ -57,6 +57,13 @@
   - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
     - [Lesson 1: Introduction to Site Reliability Engineering (SRE)](#lesson-1-introduction-to-site-reliability-engineering-sre)
     - [Lesson 2: Understanding Monitoring Practice](#lesson-2-understanding-monitoring-practice)
+  - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
+    - [Lesson 1: Why Digital Transformation?](#lesson-1-why-digital-transformation)
+    - [Lesson 2: Realizing The Real Meaning of DevOps](#lesson-2-realizing-the-real-meaning-of-devops)
+  - [Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
+    - [Lesson 1: Analyzing the Flow to Enhance The DevOps Maturity](#lesson-1-analyzing-the-flow-to-enhance-the-devops-maturity)
+    - [Lesson 2: Implementing DevOps Transformation](#lesson-2-implementing-devops-transformation)
+    - [Lesson 3: Agile and DevOps mindset](#lesson-3-agile-and-devops-mindset)
   
 ## Module 1: Introduction to Agile and DevOps
 
@@ -524,6 +531,8 @@ Understanding and learning what is the Storyboard, Why we need it, and how to cr
 
 Understanding and learning what is Feature Flag, and how to track Deployments to Production using Rings. What is Hypothesis-Driven Development, and how to implement it? How using Feature Flag and Deployment Rings may improve Release.
 
+**Note: You can find more details about this module demos on demos/labs page.**
+
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 13: Overview of SRE and Monitoring Practices
@@ -542,6 +551,57 @@ Also, understand what types of problems should be detected, the Basics of the Te
 
 Also, apply and implement the following demos/exercises.
 - Log Analytics Workspace.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 14: Digital Transformation and DevOps
+
+### Lesson 1: Why Digital Transformation?
+
+Understanding and learning how disruption affects every industry and no company is safe, some examples of the companies that are replaced by the organizations that deliver value faster, better, and cheaper, and how Technology plays a central role in the disruptors‘ ability to execute and out-innovate their competition.
+
+Also, understand what are Software delivery challenges that customers report, how moving from being a reactive organization to a proactive organization may help to overcome these challenges, and how Digital Transformation is very important and an opportunity to make new top companies as leaders.
+
+### Lesson 2: Realizing The Real Meaning of DevOps 
+
+Understanding and learning what is DevOps, more details and deep dive into DevOps and Software Development Life Cycle and its activities.DevOps and Dependencies. What are DevOps habits and practices?
+
+Also, understand what is Shift Left and Shift Right, Shift Left and Continuous Practices. Why I need DevOps, how DevOps can help companies to grow and why is DevOps so important for success? What are things that high-performance DevOps companies can achieve? Some real examples before and after DevOps.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation
+
+### Lesson 1: Analyzing the Flow to Enhance The DevOps Maturity
+
+Understanding and learning how to study the current flow of software from development to production. How The time taken by software through different processes till it reaches production is a very important measurement. How use the collected data to analyze and discover bottlenecks and find out ways to speed up the process and iteratively remove any impediments?
+How to define the practices you implement because based on the main practices you implement, we can know where you are.
+
+### Lesson 2: Implementing DevOps Transformation 
+
+Understanding and learning how Visualization is very important for visibility about where we are, how we are doing and where we are going as the best option to understand the impact of the DevOps is to look at before and after to see the changes. How do measure DevOps, what are Status Report and Trend Report, and the difference between them? What are the different Agility performance indicators, and Reliability performance indicators?
+
+What are the following terms and how we can use them as indicators for measuring DevOps?
+- Frequency of deployment
+- Speed of deployment
+- Speed of build verification (QA)
+- Frequency of build verification (QA) 
+- Deployment success rate 
+- Incident/defect volumes 
+- MTTD (Mean Time To Detect) 
+- MTTR (Mean Time To Resolve)
+
+Also, understand why Kanban is the Best for DevOps, what is the difference between Scrum and Kanban, what is John Allspaw's delivery cycles chart and using Lean can minimize the change to the minimum.
+
+### Lesson 3: Agile and DevOps mindset 
+
+Understanding and learning what is Agile and DevOps mindsets, how to treat DevOps Transformation as a Project, and how to execute the DevOps Transformation. How to define the areas that should be improved? Which activities or improvements should be implemented? 
+
+Also, understand how improving one or few areas only is not enough, and sometimes the high improvement will not give value as it required another improvement in another area. How to define the starting point of improvement, and how the improvement process is an endless path.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
