@@ -1,4 +1,4 @@
-# How can I contribute? 🤔
+# What are types of Contribution, and How can I contribute? 
 
 - [Types of Contribution](#types-of-contribution)
   - [GitHub](#github)
