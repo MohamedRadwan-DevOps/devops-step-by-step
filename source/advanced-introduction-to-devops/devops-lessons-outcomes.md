@@ -64,7 +64,18 @@
     - [Lesson 1: Analyzing the Flow to Enhance The DevOps Maturity](#lesson-1-analyzing-the-flow-to-enhance-the-devops-maturity)
     - [Lesson 2: Implementing DevOps Transformation](#lesson-2-implementing-devops-transformation)
     - [Lesson 3: Agile and DevOps mindset](#lesson-3-agile-and-devops-mindset)
-  
+  - [Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
+    - [Lesson 1: Managing Code Quality and Security Policies](#lesson-1-managing-code-quality-and-security-policies)
+    - [Lesson 2: Managing Security and Compliance](#lesson-2-managing-security-and-compliance)
+  - [Module 17: Advanced Version Control](#module-17-advanced-version-control)
+    - [Lesson 1: Understanding Git Basics](#lesson-1-understanding-git-basics)
+    - [Lesson 2: Git Branches](#lesson-2-git-branches)
+    - [Lesson 3: Understanding Git Merge](#lesson-3-understanding-git-merge)
+    - [Lesson 4: Understanding and Working with Pull Request (PR)](#lesson-4-understanding-and-working-with-pull-request-pr)
+    - [Lesson 5: How to Deal with Merge Conflict](#lesson-5-how-to-deal-with-merge-conflict)
+    - [Lesson 6: Understanding and Working with Fork](#lesson-6-understanding-and-working-with-fork)
+    - [Lesson 7: Overview Of Branch Policies and Protection](#lesson-7-overview-of-branch-policies-and-protection)
+    
 ## Module 1: Introduction to Agile and DevOps
 
 ### Lesson 1: Waterfall vs. Agile
@@ -602,6 +613,81 @@ Also, understand why Kanban is the Best for DevOps, what is the difference betwe
 Understanding and learning what is Agile and DevOps mindsets, how to treat DevOps Transformation as a Project, and how to execute the DevOps Transformation. How to define the areas that should be improved? Which activities or improvements should be implemented? 
 
 Also, understand how improving one or few areas only is not enough, and sometimes the high improvement will not give value as it required another improvement in another area. How to define the starting point of improvement, and how the improvement process is an endless path.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 16: Applying Quality and Security for DevOps
+
+### Lesson 1: Managing Code Quality and Security Policies
+
+Understanding and learning Security Development Lifecycle (SDL), an example of Measuring Technical Debt, what is Technical Debt, and some of Technical Debt Definitions.
+- Bugs
+- Vulnerabilities
+- Code Smells
+- Coverage
+- Duplications
+- Size
+
+Also, understand what Code quality aspects are, and how to use automated tests to assess technical debt. What is SonarCloud, and how to configure it in the build pipeline? What are the different Open Source license challenges? What is OWASP, some of code quality tools, and what are CWE, CVE, and CVSS?
+
+### Lesson 2: Managing Security and Compliance
+
+Understanding and learning what is Open source software (OSS), what are Licenses types, how to interpret alerts from assessment, and how to check vulnerabilities during Continuous Integration (CI).
+
+Also, apply and implement the following demos/exercises.
+- Checking vulnerabilities during Continuous Integration (CI).
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 17: Advanced Version Control
+
+### Lesson 1: Understanding Git Basics
+
+Understanding and learning when you choose to do your work with IDE or the Command Line, what is commit, push, pull and clone.
+
+### Lesson 2: Git Branches
+
+Understanding and learning what is Branch, what are the popular branch strategies, and when you create a feature branch. and when you merge a feature branch.
+
+What is the difference between Fetch and Pull? The difference between Detach HEAD and Reset (head). The difference between a head(lowercase) and HEAD (uppercase).
+
+### Lesson 3: Understanding Git Merge
+
+Understanding and learning what is Merge, what is Merge direction, what is Merge (Fast-Forward) and Rebase, and the difference between them.
+
+Also, understand what are the different types of merger, and what is the difference between Fast-Forward Merge, Merge (No FF), Squash, and Rebase.
+
+Also, apply and implement the following demos/exercises.
+- Use git branch and merge.
+
+### Lesson 4: Understanding and Working with Pull Request (PR)
+
+Understanding and learning what is Pull Request (PR), what is Pull Request (PR) info, and what are the benefits of the PR.
+
+Also, apply and implement the following demos/exercises.
+- Use git PR with Azure Repo.
+
+### Lesson 5: How to Deal with Merge Conflict
+
+Understanding and learning what are merge conflicts, when conflicts happen, how to avoid merge conflicts, and how to manage and resolve git conflicts.
+
+Also, apply and implement the following demos/exercises.
+- Managing Git conflicts.
+
+### Lesson 6: Understanding and Working with Fork
+
+Understanding and learning what is Git Fork, When you merge a fork, and how to create a fork with GitHub.
+
+Also, apply and implement the following demos/exercises.
+- Create a fork with GitHub and use PR.
+
+### Lesson 7: Overview Of Branch Policies and Protection
+
+Understanding and learning how to protect the important branches, and why you need to employ branch protection rules.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
