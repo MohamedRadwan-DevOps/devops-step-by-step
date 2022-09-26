@@ -75,6 +75,12 @@
     - [Lesson 5: How to Deal with Merge Conflict](#lesson-5-how-to-deal-with-merge-conflict)
     - [Lesson 6: Understanding and Working with Fork](#lesson-6-understanding-and-working-with-fork)
     - [Lesson 7: Overview Of Branch Policies and Protection](#lesson-7-overview-of-branch-policies-and-protection)
+  - [Module 18: Docker in More Details](#module-18-docker-in-more-details)
+    - [Lesson 1: Getting Started with Docker](#lesson-1-getting-started-with-docker)
+    - [Lesson 2: Understanding and Working with Docker Containers](#lesson-2-understanding-and-working-with-docker-containers)
+    - [Lesson 3: Building Container Images from Docker Files](#lesson-3-building-container-images-from-docker-files)
+  - [Module 19: Mentoring, CV and Interpersonal Skills](#module-19-mentoring-cv-and-interpersonal-skills)
+    - [Lesson 1: Mentoring, CV and Interpersonal Skills](#lesson-1-mentoring-cv-and-interpersonal-skills)
     
 ## Module 1: Introduction to Agile and DevOps
 
@@ -692,4 +698,96 @@ Understanding and learning how to protect the important branches, and why you ne
 **Note: You can find more details about this module demos on demos/labs page.**
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 18: Docker in More Details
+
+### Lesson 1: Getting Started with Docker
+
+Understanding and learning what is Docker and more info about it, Docker history, Docker editions, Docker running platforms, and different Docker features.
+
+Some Docker vocabularies and meanings of each one:
+- Docker Image
+- Docker Container
+- Docker Engine
+- Registry Service (Docker Hub(Public) or Docker Trusted Registry(Private)
+
+What is the difference between Images and Containers, how are containers launched, and Image and Container workflow. What is a Container Registry, what types of Container Registry and some examples for each one of them?
+
+Also, understand what is Docker Hub, Container Repository, Docker Manifest, and Docker architecture?
+What are Docker CLI (Docker client), Docker Server (Daemon), and the Image tag?
+
+### Lesson 2: Understanding and Working with Docker Containers
+
+Understanding and learning what is Container Deployment Workflow, the three stages of Dockerized application, and what are the three Docker stages workflow.
+
+Also, understand what is Docker Container lifecycle, and the workflow of Developing the containerized applications.
+
+Common Docker CLI Commands and meanings of each one:
+- docker version 
+- docker info 
+- docker images 
+- docker pull
+- docker run
+- docker run --name
+- docker ps
+- docker ps -a
+- docker start
+- docker stop
+- docker rm
+- docker execute
+- docker build
+- docker commit
+- docker push
+- docker attach
+- docker top 
+
+Also, understand how to list all available local images and their workflow. How to Pull an image from a registry and its workflow. How to attach and detach from the current interactive container.
+
+How to run a Container and its workflow, how to delete (remove) a container, and its workflow.
+How to list all running containers.
+How to List all running and stopped containers.
+How to stop all running containers.
+
+Also, apply and implement the following demos/exercises.
+- Working with Docker in more detail on Linux.
+- Working with Docker on Windows.
+
+### Lesson 3: Building Container Images from Docker Files
+
+Understanding and learning what is Dockerfile, the workflow for building images with Dockerfile, and how to build a docker image from Dockerfilee.
+
+Common Dockerfile instructions:
+- FROM
+- LABEL
+- RUN
+- WORKDIR
+- ADD
+- COPY
+- ENTRYPOINT
+- EXPOSE
+
+Also, understand what is Multi-stage build and the advantages of it. What is Docker compose, and how to use it.
+
+Also, apply and implement the following demos/exercises.
+- More about Docker and how to use Docker compose.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 19: Mentoring, CV and Interpersonal Skills
+
+### Lesson 1: Mentoring, CV and Interpersonal Skills
+
+Understanding and learning more about the Mentorship program, how to write a good CV, and examining more than 10 real professional CVs that passed the screening and they have been accepted.
+
+Also, understand what are the Interpersonal Skills that may help you to get a job, and deal with a professional life.
+
+Also, apply and implement the following demos/exercises.
+- Examine more than 10 real professional CVs that passed the screening and they have been accepted.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 
