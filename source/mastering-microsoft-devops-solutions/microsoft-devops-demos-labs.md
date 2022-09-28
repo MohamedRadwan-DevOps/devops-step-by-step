@@ -1,7 +1,6 @@
 # Mastering Microsoft DevOps Solutions (Get Certified)
 
 ## Course Demos/Labs
-
   - [Module 1: DevOps transformation for enterprise DevOps](#module-1-devops-transformation-for-enterprise-devops)
     - [Azure Board project customization](#azure-board-project-customization)
     - [GitHub Projects and Project boards](#github-projects-and-project-boards)
@@ -17,6 +16,7 @@
     - [Use Cherry Pick](#use-cherry-pick)
     - [Fork with Azure DevOps](#fork-with-azure-devops)
     - [Work with Git LFS (Git Large File Storage)](#work-with-git-lfs-git-large-file-storage)
+    - [Generate changelog automatically](#generate-changelog-automatically)
   - [Module 2: Implement CI with Azure Pipelines and GitHub Actions](#module-2-implement-ci-with-azure-pipelines-and-github-actions)
     - [Configuring agent pools and understanding pipeline styles](#configuring-agent-pools-and-understanding-pipeline-styles)
     - [Enabling continuous integration with Azure Pipelines](#enabling-continuous-integration-with-azure-pipelines)
@@ -93,6 +93,9 @@ In this demo, you will learn and understand ....
 In this demo, you will learn and understand ....
 
 ### Work with Git LFS (Git Large File Storage)
+In this demo, you will learn and understand ....
+
+### Generate changelog automatically
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
