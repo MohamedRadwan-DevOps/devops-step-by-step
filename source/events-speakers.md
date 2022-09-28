@@ -1,6 +1,6 @@
 # About Our Guest Speakers
 
-![Luke Killick](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Luke-Killick.png)
+![Luke Killick](/source/images/speakers/Luke-Killick.png)
 
 Luke Killick
 =============
@@ -12,7 +12,7 @@ Luke is a Senior Recruiter in the UK, he falls into recruitment after university
 
 <br></br>
 
-![Mohamed Moshrif](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Mohamed-Moshrif.png)
+![Mohamed Moshrif](/source/images/speakers/Mohamed-Moshrif.png)
 
 Mohamed Moshrif
 =============
@@ -29,7 +29,7 @@ In the last couple of years, he helped multiple international businesses to open
 
 <br></br>
 
-![Chafik Belhaoues](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Chafik-Belhaoues.png)
+![Chafik Belhaoues](/source/images/speakers/Chafik-Belhaoues.png)
 
 Chafik Belhaoues
 =============
@@ -41,7 +41,23 @@ Chafik is the founder of Brainboard, he is an engineer with more than 15 years o
 
 <br></br>
 
-![Guy Morley](https://raw.githubusercontent.com/MohamedRadwan-DevOps/devops-step-by-step/main//source/images/speakers/Guy-Morley.png)
+![Mohamed Radwan](/source/images/speakers/Mohamed-Radwan.png)
+
+Mohamed Radwan
+=============
+
+Bio
+---
+
+Mohamed is Azure DevOps/GitHub MVP specializing in DevOps Practices, Technologies, Agile and Azure Platform. Over the course of 20 years, Mohamed has helped over 60 enterprise companies based around the globe some of them from the Fortune 500, including the UK, Denmark, USA, France, among others. 
+
+He has a huge passion for automation with professional experience spanning the different stages and phases of Software Development Lifecycle. he has authored many technical guides, papers, and automation frameworks published on GitHub, Azure DevOps Marketplace, and other technical communities. He also provided other contributions to technical communities like MSDN, Stack Overflow, and many others. He has frequently spoken at many technology conferences and events such as Microsoft Tech Days UK, Microsoft Ignite the Tour in London, Campus Days in Denmark, and Microsoft Open Days in Egypt, among others.
+
+Mohamed has a YouTube channel and blog where they have hundreds of videos and articles with thousands of subscribers and millions of views from all over the globe.
+
+<br></br>
+
+![Guy Morley](/source/images/speakers/Guy-Morley.png)
 
 Guy Morley
 =============
