@@ -1,16 +1,22 @@
 # Mastering Microsoft DevOps Solutions (Get Certified)
 
 ## Course Demos/Labs
-  - [DevOps transformation for enterprise DevOps](#devops-transformation-for-enterprise-devops)
+
+  - [Module 1: DevOps transformation for enterprise DevOps](#module-1-devops-transformation-for-enterprise-devops)
     - [Azure Board project customization](#azure-board-project-customization)
     - [GitHub Projects and Project boards](#github-projects-and-project-boards)
     - [Using GitHub workflow automation](#using-github-workflow-automation)
     - [Plan upcoming work using iteration in GitHub project](#plan-upcoming-work-using-iteration-in-github-project)
     - [Collaborate using GitHub team discussions](#collaborate-using-github-team-discussions)
-    - [Link GitHub to Azure Boards](#link-github-to-azure-boards)
-    - [Migrate from TFVC to Git](#migrate-from-tfvc-to-git)
     - [Communicate using Markdown](#communicate-using-markdown)
     - [Using GitHub Pages with Jekyll](#using-github-pages-with-jekyll)
+    - [Link GitHub to Azure Boards](#link-github-to-azure-boards)
+    - [Migrate from TFVC to Git](#migrate-from-tfvc-to-git)
+    - [Configure Branch policies](#configure-branch-policies)
+    - [Work with GitHub Desktop](#work-with-github-desktop)
+    - [Use Cherry Pick](#use-cherry-pick)
+    - [Fork with Azure DevOps](#fork-with-azure-devops)
+    - [Work with Git LFS (Git Large File Storage)](#work-with-git-lfs-git-large-file-storage)
   - [Module 2: Implement CI with Azure Pipelines and GitHub Actions](#module-2-implement-ci-with-azure-pipelines-and-github-actions)
     - [Configuring agent pools and understanding pipeline styles](#configuring-agent-pools-and-understanding-pipeline-styles)
     - [Enabling continuous integration with Azure Pipelines](#enabling-continuous-integration-with-azure-pipelines)
@@ -37,7 +43,7 @@
     - [Sharing Team Knowledge using Azure Project Wikis](#sharing-team-knowledge-using-azure-project-wikis)
 
 
-## DevOps transformation for enterprise DevOps
+## Module 1: DevOps transformation for enterprise DevOps
 
 ### Azure Board project customization
  
@@ -59,6 +65,13 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
+### Communicate using Markdown
+ 
+In this demo, you will learn and understand ....
+
+### Using GitHub Pages with Jekyll
+ 
+In this demo, you will learn and understand ....
 ### Link GitHub to Azure Boards
  
 In this demo, you will learn and understand ....
@@ -67,12 +80,19 @@ In this demo, you will learn and understand ....
  
 In this demo, you will learn and understand ....
 
-### Communicate using Markdown
- 
+### Configure Branch policies
 In this demo, you will learn and understand ....
 
-### Using GitHub Pages with Jekyll
- 
+### Work with GitHub Desktop
+In this demo, you will learn and understand ....
+
+### Use Cherry Pick
+In this demo, you will learn and understand ....
+
+### Fork with Azure DevOps
+In this demo, you will learn and understand ....
+
+### Work with Git LFS (Git Large File Storage)
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
