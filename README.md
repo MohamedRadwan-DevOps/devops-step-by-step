@@ -90,3 +90,8 @@
 <a href = "https://github.com/MohamedRadwan-DevOps/devops-step-by-step/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=MohamedRadwan-DevOps/devops-step-by-step"/>
 </a>
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MohamedRadwan-DevOps/devops-step-by-step&type=Timeline)](https://star-history.com/#MohamedRadwan-DevOps/devops-step-by-step&Timeline)

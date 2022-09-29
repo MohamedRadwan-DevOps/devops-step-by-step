@@ -57,7 +57,31 @@
   - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
     - [Lesson 1: Introduction to Site Reliability Engineering (SRE)](#lesson-1-introduction-to-site-reliability-engineering-sre)
     - [Lesson 2: Understanding Monitoring Practice](#lesson-2-understanding-monitoring-practice)
-  
+  - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
+    - [Lesson 1: Why Digital Transformation?](#lesson-1-why-digital-transformation)
+    - [Lesson 2: Realizing The Real Meaning of DevOps](#lesson-2-realizing-the-real-meaning-of-devops)
+  - [Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
+    - [Lesson 1: Analyzing the Flow to Enhance The DevOps Maturity](#lesson-1-analyzing-the-flow-to-enhance-the-devops-maturity)
+    - [Lesson 2: Implementing DevOps Transformation](#lesson-2-implementing-devops-transformation)
+    - [Lesson 3: Agile and DevOps mindset](#lesson-3-agile-and-devops-mindset)
+  - [Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
+    - [Lesson 1: Managing Code Quality and Security Policies](#lesson-1-managing-code-quality-and-security-policies)
+    - [Lesson 2: Managing Security and Compliance](#lesson-2-managing-security-and-compliance)
+  - [Module 17: Advanced Version Control](#module-17-advanced-version-control)
+    - [Lesson 1: Understanding Git Basics](#lesson-1-understanding-git-basics)
+    - [Lesson 2: Git Branches](#lesson-2-git-branches)
+    - [Lesson 3: Understanding Git Merge](#lesson-3-understanding-git-merge)
+    - [Lesson 4: Understanding and Working with Pull Request (PR)](#lesson-4-understanding-and-working-with-pull-request-pr)
+    - [Lesson 5: How to Deal with Merge Conflict](#lesson-5-how-to-deal-with-merge-conflict)
+    - [Lesson 6: Understanding and Working with Fork](#lesson-6-understanding-and-working-with-fork)
+    - [Lesson 7: Overview Of Branch Policies and Protection](#lesson-7-overview-of-branch-policies-and-protection)
+  - [Module 18: Docker in More Details](#module-18-docker-in-more-details)
+    - [Lesson 1: Getting Started with Docker](#lesson-1-getting-started-with-docker)
+    - [Lesson 2: Understanding and Working with Docker Containers](#lesson-2-understanding-and-working-with-docker-containers)
+    - [Lesson 3: Building Container Images from Docker Files](#lesson-3-building-container-images-from-docker-files)
+  - [Module 19: Mentoring, CV and Interpersonal Skills](#module-19-mentoring-cv-and-interpersonal-skills)
+    - [Lesson 1: Mentoring, CV and Interpersonal Skills](#lesson-1-mentoring-cv-and-interpersonal-skills)
+    
 ## Module 1: Introduction to Agile and DevOps
 
 ### Lesson 1: Waterfall vs. Agile
@@ -524,6 +548,8 @@ Understanding and learning what is the Storyboard, Why we need it, and how to cr
 
 Understanding and learning what is Feature Flag, and how to track Deployments to Production using Rings. What is Hypothesis-Driven Development, and how to implement it? How using Feature Flag and Deployment Rings may improve Release.
 
+**Note: You can find more details about this module demos on demos/labs page.**
+
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
 ## Module 13: Overview of SRE and Monitoring Practices
@@ -546,4 +572,222 @@ Also, apply and implement the following demos/exercises.
 **Note: You can find more details about this module demos on demos/labs page.**
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 14: Digital Transformation and DevOps
+
+### Lesson 1: Why Digital Transformation?
+
+Understanding and learning how disruption affects every industry and no company is safe, some examples of the companies that are replaced by the organizations that deliver value faster, better, and cheaper, and how Technology plays a central role in the disruptors‘ ability to execute and out-innovate their competition.
+
+Also, understand what are Software delivery challenges that customers report, how moving from being a reactive organization to a proactive organization may help to overcome these challenges, and how Digital Transformation is very important and an opportunity to make new top companies as leaders.
+
+### Lesson 2: Realizing The Real Meaning of DevOps 
+
+Understanding and learning what is DevOps, more details and deep dive into DevOps and Software Development Life Cycle and its activities.DevOps and Dependencies. What are DevOps habits and practices?
+
+Also, understand what is Shift Left and Shift Right, Shift Left and Continuous Practices. Why I need DevOps, how DevOps can help companies to grow and why is DevOps so important for success? What are things that high-performance DevOps companies can achieve? Some real examples before and after DevOps.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation
+
+### Lesson 1: Analyzing the Flow to Enhance The DevOps Maturity
+
+Understanding and learning how to study the current flow of software from development to production. How The time taken by software through different processes till it reaches production is a very important measurement. How use the collected data to analyze and discover bottlenecks and find out ways to speed up the process and iteratively remove any impediments?
+How to define the practices you implement because based on the main practices you implement, we can know where you are.
+
+### Lesson 2: Implementing DevOps Transformation 
+
+Understanding and learning how Visualization is very important for visibility about where we are, how we are doing and where we are going as the best option to understand the impact of the DevOps is to look at before and after to see the changes. How do measure DevOps, what are Status Report and Trend Report, and the difference between them? What are the different Agility performance indicators, and Reliability performance indicators?
+
+What are the following terms and how we can use them as indicators for measuring DevOps?
+- Frequency of deployment
+- Speed of deployment
+- Speed of build verification (QA)
+- Frequency of build verification (QA) 
+- Deployment success rate 
+- Incident/defect volumes 
+- MTTD (Mean Time To Detect) 
+- MTTR (Mean Time To Resolve)
+
+Also, understand why Kanban is the Best for DevOps, what is the difference between Scrum and Kanban, what is John Allspaw's delivery cycles chart and using Lean can minimize the change to the minimum.
+
+### Lesson 3: Agile and DevOps mindset 
+
+Understanding and learning what is Agile and DevOps mindsets, how to treat DevOps Transformation as a Project, and how to execute the DevOps Transformation. How to define the areas that should be improved? Which activities or improvements should be implemented? 
+
+Also, understand how improving one or few areas only is not enough, and sometimes the high improvement will not give value as it required another improvement in another area. How to define the starting point of improvement, and how the improvement process is an endless path.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 16: Applying Quality and Security for DevOps
+
+### Lesson 1: Managing Code Quality and Security Policies
+
+Understanding and learning Security Development Lifecycle (SDL), an example of Measuring Technical Debt, what is Technical Debt, and some of Technical Debt Definitions.
+- Bugs
+- Vulnerabilities
+- Code Smells
+- Coverage
+- Duplications
+- Size
+
+Also, understand what Code quality aspects are, and how to use automated tests to assess technical debt. What is SonarCloud, and how to configure it in the build pipeline? What are the different Open Source license challenges? What is OWASP, some of code quality tools, and what are CWE, CVE, and CVSS?
+
+### Lesson 2: Managing Security and Compliance
+
+Understanding and learning what is Open source software (OSS), what are Licenses types, how to interpret alerts from assessment, and how to check vulnerabilities during Continuous Integration (CI).
+
+Also, apply and implement the following demos/exercises.
+- Checking vulnerabilities during Continuous Integration (CI).
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 17: Advanced Version Control
+
+### Lesson 1: Understanding Git Basics
+
+Understanding and learning when you choose to do your work with IDE or the Command Line, what is commit, push, pull and clone.
+
+### Lesson 2: Git Branches
+
+Understanding and learning what is Branch, what are the popular branch strategies, and when you create a feature branch. and when you merge a feature branch.
+
+What is the difference between Fetch and Pull? The difference between Detach HEAD and Reset (head). The difference between a head(lowercase) and HEAD (uppercase).
+
+### Lesson 3: Understanding Git Merge
+
+Understanding and learning what is Merge, what is Merge direction, what is Merge (Fast-Forward) and Rebase, and the difference between them.
+
+Also, understand what are the different types of merger, and what is the difference between Fast-Forward Merge, Merge (No FF), Squash, and Rebase.
+
+Also, apply and implement the following demos/exercises.
+- Use git branch and merge.
+
+### Lesson 4: Understanding and Working with Pull Request (PR)
+
+Understanding and learning what is Pull Request (PR), what is Pull Request (PR) info, and what are the benefits of the PR.
+
+Also, apply and implement the following demos/exercises.
+- Use git PR with Azure Repo.
+
+### Lesson 5: How to Deal with Merge Conflict
+
+Understanding and learning what are merge conflicts, when conflicts happen, how to avoid merge conflicts, and how to manage and resolve git conflicts.
+
+Also, apply and implement the following demos/exercises.
+- Managing Git conflicts.
+
+### Lesson 6: Understanding and Working with Fork
+
+Understanding and learning what is Git Fork, When you merge a fork, and how to create a fork with GitHub.
+
+Also, apply and implement the following demos/exercises.
+- Create a fork with GitHub and use PR.
+
+### Lesson 7: Overview Of Branch Policies and Protection
+
+Understanding and learning how to protect the important branches, and why you need to employ branch protection rules.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 18: Docker in More Details
+
+### Lesson 1: Getting Started with Docker
+
+Understanding and learning what is Docker and more info about it, Docker history, Docker editions, Docker running platforms, and different Docker features.
+
+Some Docker vocabularies and meanings of each one:
+- Docker Image
+- Docker Container
+- Docker Engine
+- Registry Service (Docker Hub(Public) or Docker Trusted Registry(Private)
+
+What is the difference between Images and Containers, how are containers launched, and Image and Container workflow. What is a Container Registry, what types of Container Registry and some examples for each one of them?
+
+Also, understand what is Docker Hub, Container Repository, Docker Manifest, and Docker architecture?
+What are Docker CLI (Docker client), Docker Server (Daemon), and the Image tag?
+
+### Lesson 2: Understanding and Working with Docker Containers
+
+Understanding and learning what is Container Deployment Workflow, the three stages of Dockerized application, and what are the three Docker stages workflow.
+
+Also, understand what is Docker Container lifecycle, and the workflow of Developing the containerized applications.
+
+Common Docker CLI Commands and meanings of each one:
+- docker version 
+- docker info 
+- docker images 
+- docker pull
+- docker run
+- docker run --name
+- docker ps
+- docker ps -a
+- docker start
+- docker stop
+- docker rm
+- docker execute
+- docker build
+- docker commit
+- docker push
+- docker attach
+- docker top 
+
+Also, understand how to list all available local images and their workflow. How to Pull an image from a registry and its workflow. How to attach and detach from the current interactive container.
+
+How to run a Container and its workflow, how to delete (remove) a container, and its workflow.
+How to list all running containers.
+How to List all running and stopped containers.
+How to stop all running containers.
+
+Also, apply and implement the following demos/exercises.
+- Working with Docker in more detail on Linux.
+- Working with Docker on Windows.
+
+### Lesson 3: Building Container Images from Docker Files
+
+Understanding and learning what is Dockerfile, the workflow for building images with Dockerfile, and how to build a docker image from Dockerfilee.
+
+Common Dockerfile instructions:
+- FROM
+- LABEL
+- RUN
+- WORKDIR
+- ADD
+- COPY
+- ENTRYPOINT
+- EXPOSE
+
+Also, understand what is Multi-stage build and the advantages of it. What is Docker compose, and how to use it.
+
+Also, apply and implement the following demos/exercises.
+- More about Docker and how to use Docker compose.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 19: Mentoring, CV and Interpersonal Skills
+
+### Lesson 1: Mentoring, CV and Interpersonal Skills
+
+Understanding and learning more about the Mentorship program, how to write a good CV, and examining more than 10 real professional CVs that passed the screening and they have been accepted.
+
+Also, understand what are the Interpersonal Skills that may help you to get a job, and deal with a professional life.
+
+Also, apply and implement the following demos/exercises.
+- Examine more than 10 real professional CVs that passed the screening and they have been accepted.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
 
