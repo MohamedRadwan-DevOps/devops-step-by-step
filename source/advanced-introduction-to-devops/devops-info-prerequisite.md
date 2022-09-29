@@ -29,7 +29,7 @@ Bank transfer, PayPal and Vodafone cash.
 
 The exact date will be announced two weeks before the start date.
 
-[Check for schedule update on this page](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
+[Check for schedule update on this page](../course-schedule.md)
 
 
 ### For Registration:
@@ -44,7 +44,7 @@ Also, we will announce the course start date for each round on Linked In and Fac
 
 Moreover, the timing shall be updated on the following timetable page:
 
-[Timetable](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
+[Timetable](../course-schedule.md)
 
 
   
@@ -67,12 +67,12 @@ The course also requires that you have a credit card (you must have a credit car
 
 Beginner to advanced.
 
-For any inquiries? Look at the following Q&A page:
+For any inquiries? Look at the following FAQ page:
 
-[Q&A](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-faq.md)
+[FAQ](devops-faq.md)
 
 The starting date will be updated on the following course Date & Time page:
 
-[Date & Time Schedule ](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
+[Date & Time Schedule ](../course-schedule.md)
 
 **[⬆ back to top](#advanced-introduction-to-devops)**

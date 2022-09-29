@@ -1,66 +1,65 @@
 # DevOps Step-By-Step
 ![devops-step-by-step](https://socialify.git.ci/MohamedRadwan-DevOps/devops-step-by-step/image?font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops" title="Advanced Introduction to DevOps" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⬇️ Advanced Introduction to DevOps </a>
+- [⬇️ Advanced Introduction to DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ Course Info and Prerequisites</a>
+  - [⚠️ Course Info and Prerequisites](/source/advanced-introduction-to-devops/devops-info-prerequisite.md "Course Info and Prerequisites")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
+  - [📃 Course Outlines](/source/advanced-introduction-to-devops/devops-outline.md "Course Outlines")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-lessons-outcomes.md" title="Course Lessons Outcomes" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🔖 Course Lessons Outcomes </a>
+  - [🔖 Course Lessons Outcomes](/source/advanced-introduction-to-devops/devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
+  - [🧪 Course Demos/Labs](/source/advanced-introduction-to-devops/devops-demos-labs.md "Course Demos/Labs")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-lessons-preparation.md" title="Course Preparation Points" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Course Preparation Points </a>
-    
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ Course FAQ</a>
+  - [📝 Course Preparation Points](/source/advanced-introduction-to-devops/devops-lessons-preparation.md "Course Preparation Points")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions" title="Advanced Introduction to DevOps" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⬇️ Mastering Microsoft DevOps Solutions (Get Certified) </a>
+  - [❓ Course FAQ](/source/advanced-introduction-to-devops/devops-faq.md "Course FAQ")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions/microsoft-devops-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ Course Info and Prerequisites</a>
+- [⬇️ Mastering Microsoft DevOps Solutions (Get Certified)](/source/mastering-microsoft-devops-solutions/ "Mastering Microsoft DevOps Solutions (Get Certified)")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions/microsoft-devops-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
+  - [⚠️ Course Info and Prerequisites](/source/mastering-microsoft-devops-solutions/microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions/microsoft-devops-lessons-outcomes.md" title="Course Lessons Outcomes" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🔖 Course Lessons Outcomes </a>
+  - [📃 Course Outlines](/source/mastering-microsoft-devops-solutions/microsoft-devops-outline.md "Course Outlines")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions/microsoft-devops-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
+  - [🔖 Course Lessons Outcomes](/source/mastering-microsoft-devops-solutions/microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions/microsoft-devops-lessons-preparation.md" title="Course Preparation Points" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Course Preparation Points </a>
-    
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions/microsoft-devops-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ Course FAQ</a>
+  - [🧪 Course Demos/Labs](/source/mastering-microsoft-devops-solutions/microsoft-devops-demos-labs.md "Course Demos/Labs")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-terraform" title="Advanced Introduction to DevOps" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⬇️ Mastering Terraform (Get Certified) </a>
+  - [📝 Course Preparation Points](/source/mastering-microsoft-devops-solutions/microsoft-devops-lessons-preparation.md "Course Preparation Points")
 
-  - <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-terraform/terraform-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
+  - [❓ Course FAQ](/source/mastering-microsoft-devops-solutions/microsoft-devops-faq.md "Course FAQ")
 
+- [⬇️ Mastering Terraform (Get Certified)](source/mastering-terraform/ "Mastering Terraform (Get Certified)")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/source-code" title="Source Code/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📑 Source Code </a>
+  - [📃 Course Outlines](/source/mastering-terraform/terraform-outline.md "Course Outlines")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/docs" title="Guides" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🎯 Guides </a>
+- [📑 Source Code](/source/source-code/ "Source Code/Labs")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ General FAQ</a>
+- [🎯 Guides](/source/docs/ "Guides")
 
-- <a href="http://devopsvisionsqa.mohamedradwan.com/" title="Q/A" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">🙋‍♀️ Q/A</a>
+- [❓ General FAQ](/source/faq.md "FAQ")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/reviews.md" title="Click here to See Members Reviews" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⭐ Reviews</a>
+- [🙋‍♀️ Q/A](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Course Schedule</a>
+- [⭐ Reviews](/source/reviews.md "Click here to See Members Reviews")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md" title="Service Prices" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💰 Prices</a>
+- [📅 Course Schedule](/source/course-schedule.md "Course Schedule")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/terms-conditions.md" title="Terms & Conditions" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Terms & Conditions</a>
+- [💰 Prices](/source/service-prices.md "Service Prices")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/cancel-return-policy.md" title="Return Policy" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📜 Return Policy</a>
+- [📝 Terms & Conditions](/source/terms-conditions.md "Terms & Conditions")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md" title="Mentoring Service" style="background-color:#FFFFFF;color:#000000;text-decoration:none">💪 Mentoring Service</a>
+- [📜 Return Policy](/source/cancel-return-policy.md "Return Policy")
+ 
+- [💪 Mentoring Service](/source/mentoring-service.md "Mentoring Service")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/events-schedule.md" title="Course Schedule" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📅 Events Schedule</a>
+- [📅 Events Schedule](/source/events-schedule.md "Events Schedule")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/tree/main/source/contribution" title="Contribution" style="background-color:#FFFFFF;color:#000000;text-decoration:none">❤️ Contribution</a>
+- [❤️ Contribution](/source/contribution/ "Contribution")
 
-- <a href="https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel (English)</a>
+- [▶ Subscribe to our channel (English)](https://www.youtube.com/user/MRadwanMSF "Subscribe to Mohamed's YouTube Channel")
 
-- <a href="https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel (Arabic) </a>
+- [▶ Subscribe to our channel (Arabic)](https://www.youtube.com/c/MohamedRadwanArabic "Subscribe to Mohamed's YouTube Channel")
 
 ## Connect with me
   <a href="https://twitter.com/mradwan06">
