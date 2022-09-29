@@ -37,7 +37,7 @@
 
 - [🎯 Guides](/source/docs/ "Guides")
 
-- [❓ General FAQ](/source//faq.md "FAQ")
+- [❓ General FAQ](/source/faq.md "FAQ")
 
 - [🙋‍♀️ Q/A](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
 
@@ -47,7 +47,7 @@
 
 - [💰 Prices](/source/service-prices.md "Service Prices")
 
-- [📝 Terms & Conditions](/source//terms-conditions.md "Terms & Conditions")
+- [📝 Terms & Conditions](/source/terms-conditions.md "Terms & Conditions")
 
 - [📜 Return Policy](/source/cancel-return-policy.md "Return Policy")
  
