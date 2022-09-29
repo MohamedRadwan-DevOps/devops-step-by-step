@@ -37,7 +37,7 @@ In order to enjoy all the benefits that we offer to the participants in the cour
 
 Please check:
 
-[Cancellation and Return Policy](https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/source/cancel-return-policy.md) .
+[Cancellation and Return Policy](cancel-return-policy.md) .
 
 12- It should be noted that all the information on GitHub is part of the course conditions, and you must review it well and follow continuous updates.
 

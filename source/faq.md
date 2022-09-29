@@ -48,7 +48,7 @@ The courses shall have technical support and a free subscription to the mentorsh
 
 Your mentor shall be able to solve any problems you might face or answer any questions you might have. And I shall personally supervise the program to make sure it lives up to the desired standard.
 
-[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md)
+[This link is for more information on the mentorship program](mentoring-service.md)
 
 ## How much does the technical support or mentorship program cost?
 
@@ -56,7 +56,7 @@ First of all, the technical support or mentorship program is an optional choice 
 
 Also, the mentorship and the technical support are free for the top contributors who contribute to our internal/external community.
 
-[This link is for more information on the mentorship program](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service.md)
+[This link is for more information on the mentorship program](mentoring-service.md)
 
 ## Are there any more advantages to the technical support or mentorship program?
 
@@ -79,7 +79,7 @@ Yes, that is possible, and in that case, the price of the recorded course shall 
 
 For more details regarding prices, please check the price page:
 
-[Service Price List](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md)
+[Service Price List](service-prices.md)
 
 ## When shall the courses start? How shall I pay? Is there a deadline for payment?
 
@@ -93,11 +93,11 @@ Also, we will announce the course start date for each round on Linked In and Fac
 
 Moreover, the timing shall be updated on the following timetable page:
 
-[Timetable](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/course-schedule.md)
+[Timetable](course-schedule.md)
 
 And it is best you take a look at the reviews left by those who have finished the course. Each and every one of them explains how they benefited from the course and shares their experience that might be very close to your case and thereby answering all your questions.
 
-[Course Reviews](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/reviews.md)
+[Course Reviews](reviews.md)
 
 ## I want to contribute but I don't know what should I do?
 You need to learn what it means to be a contributor and I am trying to help everyone here.

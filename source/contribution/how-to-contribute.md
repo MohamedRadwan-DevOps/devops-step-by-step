@@ -52,7 +52,7 @@ Reacting to issues is considered a huge contribution because it lets the collabo
 
 Fixing typos in the repo ensures that it is professional and well maintained which also reflects the quality of content being offered.
 
-If any typo is found, simply fork the repo, fix the typo, and then do a PR, keeping in mind our [Contribution Culture](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/contribution/contribution-culture.md)
+If any typo is found, simply fork the repo, fix the typo, and then do a PR, keeping in mind our [Contribution Culture](contribution-culture.md)
 
 ## Q&A Platform
 
@@ -68,7 +68,7 @@ However, there are some things to know before jumping in and starting to ask/ans
 
 #### What to do before Answering?
 
-Before answering any questions you need to read the [FAQ](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/faq.md) and watch this [Youtube Video](https://www.youtube.com/watch?v=C3sPXx4Hzmw)
+Before answering any questions you need to read the [FAQ](../faq.md) and watch this [Youtube Video](https://www.youtube.com/watch?v=C3sPXx4Hzmw)
 
 Also consider reading this question [here](http://devopsvisionsqa.mohamedradwan.com/?qa=65/what-i-need-to-do-before-using-our-q%26a-platform&show=66#a66).
 
@@ -102,7 +102,7 @@ GitHub is built on being Open source and so is this Repo, if you want to find Pr
 
 The next step is to reach Rehab on Discord and inform her about your interest to work on a specific topic (Issue Number).
 
-Make sure to read our [Contribution Culture](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/contribution/contribution-culture.md) before committing any work.
+Make sure to read our [Contribution Culture](contribution-culture.md) before committing any work.
 
 ### When to open an Issue and when to open a pull request?
 
@@ -133,5 +133,5 @@ After finding a question you want to answer mention that in the issue's comments
 
 ### What are the guidelines to follow when answering Q&A
 
-We have strict Guidelines to follow when working with Q&A to maintain high quality, you can find them [here](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/contribution/Guidlines-to-write-Q-A-demos.md).
+We have strict Guidelines to follow when working with Q&A to maintain high quality, you can find them [here](Guidlines-to-write-Q-A-demos.md).
 

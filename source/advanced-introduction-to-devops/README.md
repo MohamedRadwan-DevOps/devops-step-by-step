@@ -1,13 +1,13 @@
 # Advanced Introduction to DevOps
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-info-prerequisite.md" title="Click here to see Prerequisite related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">⚠️ Course Info and Prerequisites</a>
+- [⚠️ Course Info and Prerequisites](devops-info-prerequisite.md "Course Info and Prerequisites")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
+- [📃 Course Outlines](devops-outline.md "Course Outlines")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-lessons-outcomes.md" title="Course Lessons Outcomes" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🔖 Course Lessons Outcomes </a>
+- [🔖 Course Lessons Outcomes](devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
+- [🧪 Course Demos/Labs](devops-demos-labs.md "Course Demos/Labs")
 
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-lessons-preparation.md" title="Course Preparation Points" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📝 Course Preparation Points </a>
-    
-- <a href="https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/advanced-introduction-to-devops/devops-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ Course FAQ</a>
+- [📝 Course Preparation Points](devops-lessons-preparation.md "Course Preparation Points")
+
+- [❓ Course FAQ](devops-faq.md "Course FAQ")
