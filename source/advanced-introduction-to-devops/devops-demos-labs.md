@@ -687,7 +687,8 @@
 
   ### Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline. 
  
-  In this demo you will learn and understand how to Integrate static application security testing into DevOps pipeline when you develop applications for the cloud.
+  In this demo you will learn and understand how to check vulnerabilities during continuous integration (CI). Also, you will understand the importance of learning the principles and sequence, not the tools.In that manner, we will build a java app and see the same concept applied here as we did with other .NET apps we built. you will learn how to use Mend tool to check vulnerabilities during continuous integration (CI), Mend will provide us with the security vulnerabilities what causes them and how to solve them.
+  Also, you will learn and understand the effects of outdated librarries on your app, What is the severity level, and suggested fixes to solve the issue by the NVD (National Vulnerability Database), Mend will also check License risks that we have within our application.
  
  **[⬆ back to top](#advanced-introduction-to-devops)**
  
