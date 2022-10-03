@@ -66,9 +66,9 @@
   &ensp;
   [![LinkedIn](/source/images/mics/linkedin-icon.png "LinkedIn")](https://www.linkedin.com/in/mohamedahmedradwan/)
   &ensp;
-  [![YouTube](/source/images/mics/youtube-icon.png "English YouTube Channel")](https://www.youtube.com/user/MRadwanMSF/)
+  [![YouTube](/source/images/mics/youtube-icon.png "English YouTube Channel")](https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1)
   &ensp;
-  [![YouTube](/source/images/mics/youtube-icon.png "Arabic YouTube Channel")](https://www.youtube.com/c/MohamedRadwanArabic/)
+  [![YouTube](/source/images/mics/youtube-icon.png "Arabic YouTube Channel")](https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1)
   &ensp;
   [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](#)
   &ensp;
