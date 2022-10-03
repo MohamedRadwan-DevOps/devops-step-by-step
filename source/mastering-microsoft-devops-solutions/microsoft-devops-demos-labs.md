@@ -17,6 +17,11 @@
     - [Fork with Azure DevOps](#fork-with-azure-devops)
     - [Work with Git LFS (Git Large File Storage)](#work-with-git-lfs-git-large-file-storage)
     - [Generate changelog automatically](#generate-changelog-automatically)
+    - [Git Hooks](#git-hooks)
+    - [VFS for Git](#vfs-for-git)
+    - [Purge repository data](#purge-repository-data)
+    - [Manage releases with GitHub Repos](#manage-releases-with-github-repos)
+    - [Automate release notes with GitHub](#automate-release-notes-with-github)
   - [Module 2: Implement CI with Azure Pipelines and GitHub Actions](#module-2-implement-ci-with-azure-pipelines-and-github-actions)
     - [Configuring agent pools and understanding pipeline styles](#configuring-agent-pools-and-understanding-pipeline-styles)
     - [Enabling continuous integration with Azure Pipelines](#enabling-continuous-integration-with-azure-pipelines)
@@ -96,6 +101,21 @@ In this demo, you will learn and understand ....
 In this demo, you will learn and understand ....
 
 ### Generate changelog automatically
+In this demo, you will learn and understand ....
+
+### Git Hooks
+In this demo, you will learn and understand ....
+
+### VFS for Git
+In this demo, you will learn and understand ....
+
+### Purge repository data
+In this demo, you will learn and understand ....
+
+### Manage releases with GitHub Repos
+In this demo, you will learn and understand ....
+
+### Automate release notes with GitHub
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
