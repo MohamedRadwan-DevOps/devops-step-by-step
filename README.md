@@ -1,5 +1,19 @@
 # DevOps Step-By-Step
-![devops-step-by-step](https://socialify.git.ci/MohamedRadwan-DevOps/devops-step-by-step/image?font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+<p align="center">
+  <img src="./source/images/mics/devops-visions-logo.png"/>
+</p>
+
+![Views](https://Views-badge.glitch.me/badge?page_id=devops-visions.Views-badge)
+![Stars](https://img.shields.io/github/stars/MohamedRadwan-DevOps/devops-step-by-step.svg?color=green)
+![Watchers](https://img.shields.io/github/watchers/MohamedRadwan-DevOps/devops-step-by-step.svg?color=ff69b4)
+![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/MohamedRadwan-DevOps/devops-step-by-step?color=brightgreen)
+![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/MohamedRadwan-DevOps/devops-step-by-step?color=lightgrey)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/MohamedRadwan-DevOps/devops-step-by-step)
+![Open Issues](https://img.shields.io/github/issues-raw/MohamedRadwan-DevOps/devops-step-by-step.svg?color=critical)
+![Closed Issues](https://img.shields.io/github/issues-closed-raw/MohamedRadwan-DevOps/devops-step-by-step.svg?color=yellowgreen)
+![Forks](https://img.shields.io/github/forks/MohamedRadwan-DevOps/devops-step-by-step.svg?color=blueviolet)
+![Contributors](https://img.shields.io/github/contributors/MohamedRadwan-DevOps/devops-step-by-step.svg?color=orange)
+![YouTube Subscriber](https://img.shields.io/youtube/channel/subscribers/UC-G5jjBDFow_FRXql0t1JMQ?label=youtube%20subscribers&style=flat&color=bf1d1d)
 
 - [⬇️ Advanced Introduction to DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
 
