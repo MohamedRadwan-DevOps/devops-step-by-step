@@ -17,8 +17,8 @@
     - [Fork with Azure DevOps](#fork-with-azure-devops)
     - [Work with Git LFS (Git Large File Storage)](#work-with-git-lfs-git-large-file-storage)
     - [Generate changelog automatically](#generate-changelog-automatically)
-    - [Git Hooks](#git-hooks)
-    - [VFS for Git](#vfs-for-git)
+    - [Explore and implement Git hooks](#explore-and-implement-git-hooks)
+    - [Using VFS (Virtual File System) for Git](#using-vfs-virtual-file-system-for-git)
     - [Purge repository data](#purge-repository-data)
     - [Manage releases with GitHub Repos](#manage-releases-with-github-repos)
     - [Automate release notes with GitHub](#automate-release-notes-with-github)
@@ -103,10 +103,10 @@ In this demo, you will learn and understand ....
 ### Generate changelog automatically
 In this demo, you will learn and understand ....
 
-### Git Hooks
+### Explore and implement Git hooks
 In this demo, you will learn and understand ....
 
-### VFS for Git
+### Using VFS (Virtual File System) for Git
 In this demo, you will learn and understand ....
 
 ### Purge repository data
