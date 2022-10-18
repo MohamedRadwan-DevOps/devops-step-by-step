@@ -38,7 +38,6 @@
     - [Deploy an Azure Kubernetes Service (AKS) cluster](#deploy-an-azure-kubernetes-service-aks-cluster)
     - [Push Docker image to Azure container Registry (ACR)](#push-docker-image-to-azure-container-registry-acr)
     - [Deploy to Azure Container Apps](#deploy-to-azure-container-apps)
-    - [Deploy Docker Containers to Azure App Service web apps](#deploy-docker-containers-to-azure-app-service-web-apps)
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
     - [Creating a release dashboard](#creating-a-release-dashboard)
     - [Controlling deployments using Release Gates](#controlling-deployments-using-release-gates)
@@ -204,10 +203,6 @@ In this demo, you will learn and understand ....
 
 ### Deploy to Azure Container Apps
 
-In this demo, you will learn and understand ....
-
-### Deploy Docker Containers to Azure App Service web apps
- 
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
