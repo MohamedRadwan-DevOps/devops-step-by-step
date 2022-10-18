@@ -715,8 +715,7 @@
 
  ### Demo 1: Working with Docker in more details on Linux. 
  
-  In this demo you will learn and understand more about docker, container, image, also understand different between docker and virtual machine, 
-  and how to install docker on linux.
+  In this demo you will learn and understand more about docker, container, image, you will also understand the container structure how to run it normally and how to run it as interactive mode to change and edit files inside the container, how to attach and detach from containers and why, After learning how to manipulate files in the container you will learn how to commit and create your own image, Also you will learn how to examine images and understand what is the image layers, At the end, you will learn what is the docker multi-stage builds and why you should use it while building your own app images.
 
 
  ### Demo 2: Working with Docker on Windows. 
@@ -725,7 +724,7 @@
 
  ### Demo 3: More about Docker and how to use Docker compose. 
  
-  In this demo you will learn and understand more about docker compose, and also how to create docker compose file and run multiple container on same time.
+  In this demo, you will learn and understand more about docker-compose, and you will also learn about the usage of docker-compose files and how it is written, and why it's needed in small environments to run, start, stop, delete multiple containers, Also you will examine how the docker-compose can pull all the images needed create containers and run them using only 1 file for reusability.
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
