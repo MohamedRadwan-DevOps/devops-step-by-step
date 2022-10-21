@@ -41,6 +41,16 @@
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
     - [Creating a release dashboard](#creating-a-release-dashboard)
     - [Controlling deployments using Release Gates](#controlling-deployments-using-release-gates)
+    - [Set Up Service Connection](#set-up-service-connection)
+    - [Monitor availability with URL ping tests](#monitor-availability-with-url-ping-tests)
+    - [Create and run a load test with Azure Load Testing Preview](#create-and-run-a-load-test-with-azure-load-testing-preview)
+    - [Identify performance regressions by automating load tests with CI/CD](#identify-performance-regressions-by-automating-load-tests-with-cicd)
+    - [Create and manage task groups](#create-and-manage-task-groups)
+    - [Create and manage variable groups](#create-and-manage-variable-groups)
+    - [Set up service hooks to monitor the pipeline](#set-up-service-hooks-to-monitor-the-pipeline)
+    - [Configure and manage Azure DevOps and GitHub Notifications](#configure-and-manage-azure-devops-and-github-notifications)
+    - [Integrate Build Failure Notification with Slack](#integrate-build-failure-notification-with-slack)
+    - [Integrate Build Failure Notification with MicrosoftTeams](#integrate-build-failure-notification-with-microsoftteams)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
     - [Configuring pipelines as code with YAML](#configuring-pipelines-as-code-with-yaml)
     - [Setting up and running functional tests](#setting-up-and-running-functional-tests)
@@ -215,6 +225,46 @@ In this demo, you will learn and understand ....
 In this demo, you will learn and understand ....
 
 ### Controlling deployments using Release Gates
+
+In this demo, you will learn and understand ....
+
+### Set Up Service Connection
+ 
+In this demo, you will learn and understand ....
+
+### Monitor availability with URL ping tests
+
+In this demo, you will learn and understand ....
+
+### Create and run a load test with Azure Load Testing Preview
+ 
+In this demo, you will learn and understand ....
+
+### Identify performance regressions by automating load tests with CI/CD
+
+In this demo, you will learn and understand ....
+
+### Create and manage task groups
+ 
+In this demo, you will learn and understand ....
+
+### Create and manage variable groups
+
+In this demo, you will learn and understand ....
+
+### Set up service hooks to monitor the pipeline
+
+In this demo, you will learn and understand ....
+
+### Configure and manage Azure DevOps and GitHub Notifications
+ 
+In this demo, you will learn and understand ....
+
+### Integrate Build Failure Notification with Slack
+
+In this demo, you will learn and understand ....
+
+### Integrate Build Failure Notification with MicrosoftTeams
 
 In this demo, you will learn and understand ....
 
