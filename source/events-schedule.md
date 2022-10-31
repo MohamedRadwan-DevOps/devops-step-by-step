@@ -12,5 +12,5 @@
 | 08 August 2022| 16:00 - 17:00  | The easy way to make your job application stand out from the rest | [Luke Killick](events-speakers.md) |![Luke-Killick](images/speakers/Luke-Killick.png)|
 | 07 September 2022| 19:00 - 20:30  | Mock and simulation of Software Engineers interviews| [Mohamed Moshrif](events-speakers.md) | ![Mohamed Moshrif](images/speakers/Mohamed-Moshrif.png)|
 | 03 October 2022|  19:00 - 20:30  | Modern way to build and manage Infrastructure-as-Code: visually | [Chafik Belhaoues](events-speakers.md) | ![Chafik Belhaoues](images/speakers/Chafik-Belhaoues.png)|
-| 02 November 2022| 18:00 - 19:30  | Ask Me Anything | [Mohamed Radwan](events-speakers.md) | ![Mohamed Radwan](images/speakers/Mohamed-Radwan.png)|
+| 02 November 2022| 19:00 - 20:30  | Ask Me Anything | [Mohamed Radwan](events-speakers.md) | ![Mohamed Radwan](images/speakers/Mohamed-Radwan.png)|
 | 16 November 2022| 20:00 - 21:30  | Preparing your CV and get prepared for a DevOps recruitment interview | [Guy Morley](events-speakers.md) | ![Guy Morley](images/speakers/Guy-Morley.png)|
