@@ -52,8 +52,9 @@
     - [Integrate Build Failure Notification with Slack](#integrate-build-failure-notification-with-slack)
     - [Integrate Build Failure Notification with MicrosoftTeams](#integrate-build-failure-notification-with-microsoftteams)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
-    - [Configuring pipelines as code with YAML](#configuring-pipelines-as-code-with-yaml)
     - [Setting up and running functional tests](#setting-up-and-running-functional-tests)
+    - [Setting up blue-green deployment](#setting-up-blue-green-deployment)
+    - [Setting up Ring-based deployment](#setting-up-ring-based-deployment)
     - [Integrating Azure Key Vault with Azure DevOps](#integrating-azure-key-vault-with-azure-devops)
   - [Module 5: Manage infrastructure as code using Azure and DSC](#module-5-manage-infrastructure-as-code-using-azure-and-dsc)
     - [Azure deployments using Azure Resource Manager templates](#azure-deployments-using-azure-resource-manager-templates)
@@ -273,12 +274,16 @@ In this demo, you will learn and understand ....
 
 ## Module 4: Implement a secure continuous deployment using Azure Pipelines
 
-### Configuring pipelines as code with YAML
+### Setting up and running functional tests
+
+In this demo, you will learn and understand ....
+
+### Setting up blue-green deployment
  
 In this demo, you will learn and understand ....
 
-### Setting up and running functional tests
-
+### Setting up Ring-based deployment
+ 
 In this demo, you will learn and understand ....
  
 ### Integrating Azure Key Vault with Azure DevOps
