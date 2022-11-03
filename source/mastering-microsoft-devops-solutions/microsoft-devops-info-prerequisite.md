@@ -52,19 +52,8 @@ Moreover, the timing shall be updated on the following timetable page:
 
 - Cloud computing concepts, including an understanding of PaaS, SaaS, and IaaS implementations.
 
-- Both Azure administration and Azure development with proven expertise in at least one of these areas.
-
 - Version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
 
-
-- If you are new to Azure and cloud computing, consider one of the following resources: Free online: Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) 
-
-
-
-- If you are new to Azure Administration, consider taking: Free online: Prerequisites for Azure Administrators (https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
-
-
-- If you are new to Azure Developer, consider taking: Free online: Create serverless applications (https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
 
 
 ### Course level:
