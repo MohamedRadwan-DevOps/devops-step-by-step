@@ -57,7 +57,7 @@ Mohamed has a YouTube channel and blog where they have hundreds of videos and ar
 
 <br></br>
 
-![Guy Morley](images/speakers/Guy-Morley.png)
+<!-- ![Guy Morley](images/speakers/Guy-Morley.png)
 
 Guy Morley
 =============
@@ -67,4 +67,4 @@ Bio
 
 Guy is a Managing Director With the help of his team he is responsible for strategy, staff management & direction, sales & marketing, financial control & management, training & development and recruitment. He is also personally responsible for managing and supporting their strategically important clients and business development. 
 
-<br></br>
+<br></br> -->
