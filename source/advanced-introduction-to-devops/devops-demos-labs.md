@@ -435,42 +435,51 @@
 
  ### Demo 1: Create and configure Continuous Integration (CI) pipeline for a .NET class library. 
  
-  In this demo you will learn and understand how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc. You will also learn how to sit code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo. Also, you will learn how to create package management of the class library and to be ready to be pushed to public or private feeds.
+  In this demo you will learn and understand how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc. You will also learn how to set code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo. 
+
+  Also, you will learn how to create package management of the class library and to be ready to be pushed to public or private feeds.
     
     
  ### Demo 2: Create and configure Continuous Integration (CI) pipeline for API. 
  
-  In this demo you will learn and understand how to perform Continuous Integration (CI), the case behind developing CI pipelines, and how it improves the overall software development lifecycle.
-  
-  Also, you will learn how to use Azure DevOps to deploy a CI pipeline and how to implement a CI Strategy. 
+  In this demo you will learn and understand how to create Continuous Integration (CI) pipeline that checks for all code quality criteria like automated testing, code coverage, etc. You will also learn how to set code coverage threshold to make sure your code has the minimum quality to be accepted in the remote repo. 
+
+  Also, you will learn how to create package management of the API app to be ready to be pushed to public or private feeds.
 
 
  ### Demo 3: Build hosted agent vs self-hosted agent and run self-hosted to examine build folder. 
  
-  In this demo you will learn the difference between hosted agents vs a self hosted agent and understand how run a self hosted agent to perform CI.
+  In this demo, you will learn and understand the difference between hosted agents (cloud) and self-hosted agents (private).
+
+  Also, you will learn What is the agent pool, how to create a new agent, install the agent software that fits your operating system, unpack the agent into the directory of your choice, configure the agent by setting the organization URL and set the required permission.
+
+  And How to run the self-hosted agent as a service, and use it to run the build pipeline for the Class library app. How to examine the build folder and the downloaded code inside it.
   
-  Also, you will learn the benefits of each approach and the use case for each of them.
+  Also, you will learn the benefits of each approach and the use cases for each of them.
 
 
  ### Demo 4: Use YAML over classic Continuous Integration (CI). 
  
   In this demo you will learn and understand how to use YAML over classic GUI CI pipeline, and how YAML can improve the flexibility you have over your pipelines.
   
-  Also, you will learn how to write a .yml file and attach it to the repo. 
+  Also, you will learn how to write a .yml file, attach it to the code repo, and deal with the YAML editor that provides tools like task assistant to provide guidance while editting the pipeline. 
 
 
  ### Demo 5: Create and configure Continuous Integration (CI) for .NET core app on docker image. 
  
-  In this demo you will learn and understand how to create and configure a CI pipeline for a .NET core app hosted on docker image repository.
-  
-  Also, you will learn the workflow needed to pull the docker image and perform the build pipeline.
+  In this demo, you will learn and understand how to create and configure a CI pipeline for a .NET core app hosted on a docker image.
+  How to add the docker file, create a new GitHub repo, and push your files including the created docker file to the created repo.
+
+  Also, you will learn how to create a classic pipeline and select GitHub as the source for your code, add a Bash Script task to list all images on the run machine before the build, add Docker build task and configure it, and add another Bash script task to list all images on the machine after build to see that your docker image has been created successfully.
 
 
  ### Demo 6: Create and configure Continuous Integration (CI) for PartsUnlimited App. 
  
-  In this demo you will learn and understand how to create and configure a CI pipeline for one of the available demos in Azure DevOps demo generator (PartsUnlimited App).
+  In this demo, you will learn and understand how to create and configure a CI pipeline for one of the available demos in the Azure DevOps demo generator (PartsUnlimited App).
   
-  Also, you will learn the difference between continuos integration, where each change will initiate a pipeline and how you can add approvals to the workflow. 
+  In that manner, you will run the application locally, investigate it and make sure everything is working fine, create a new repo on the Azure DevOps project, and push the application code to the created repo.
+
+  Also, you will create a new classic pipeline, add an ASP.NET core task template, run the build, and explore the build logs to make sure the build run and the package is created successfully.
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
  
@@ -682,12 +691,12 @@
   - **No Demos**
 
 
-
 ## Module 16: Applying Quality and Security for DevOps 
 
   ### Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline. 
  
   In this demo you will learn and understand how to check vulnerabilities during continuous integration (CI). Also, you will understand the importance of learning the principles and sequence, not the tools.In that manner, we will build a java app and see the same concept applied here as we did with other .NET apps we built. you will learn how to use Mend tool to check vulnerabilities during continuous integration (CI), Mend will provide us with the security vulnerabilities what causes them and how to solve them.
+
   Also, you will learn and understand the effects of outdated librarries on your app, What is the severity level, and suggested fixes to solve the issue by the NVD (National Vulnerability Database), Mend will also check License risks that we have within our application.
  
  **[⬆ back to top](#advanced-introduction-to-devops)**
@@ -715,7 +724,9 @@
 
  ### Demo 1: Working with Docker in more details on Linux. 
  
-  In this demo you will learn and understand more about docker, container, image, you will also understand the container structure how to run it normally and how to run it as interactive mode to change and edit files inside the container, how to attach and detach from containers and why, After learning how to manipulate files in the container you will learn how to commit and create your own image, Also you will learn how to examine images and understand what is the image layers, At the end, you will learn what is the docker multi-stage builds and why you should use it while building your own app images.
+  In this demo you will learn and understand more about docker, container, image, you will also understand the container structure how to run it normally and how to run it as interactive mode to change and edit files inside the container, how to attach and detach from containers and why, After learning how to manipulate files in the container you will learn how to commit and create your own image.
+
+  Also you will learn how to examine images and understand what is the image layers, At the end, you will learn what is the docker multi-stage builds and why you should use it while building your own app images.
 
 
  ### Demo 2: Working with Docker on Windows. 
@@ -724,7 +735,9 @@
 
  ### Demo 3: More about Docker and how to use Docker compose. 
  
-  In this demo, you will learn and understand more about docker-compose, and you will also learn about the usage of docker-compose files and how it is written, and why it's needed in small environments to run, start, stop, delete multiple containers, Also you will examine how the docker-compose can pull all the images needed create containers and run them using only 1 file for reusability.
+  In this demo, you will learn and understand more about docker-compose, and you will also learn about the usage of docker-compose files and how it is written, and why it's needed in small environments to run, start, stop, delete multiple containers.
+
+  Also you will examine how the docker-compose can pull all the images needed create containers and run them using only 1 file for reusability.
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
