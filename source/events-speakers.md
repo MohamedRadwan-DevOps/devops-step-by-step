@@ -56,15 +56,3 @@ He has a huge passion for automation with professional experience spanning the d
 Mohamed has a YouTube channel and blog where they have hundreds of videos and articles with thousands of subscribers and millions of views from all over the globe.
 
 <br></br>
-
-<!-- ![Guy Morley](images/speakers/Guy-Morley.png)
-
-Guy Morley
-=============
-
-Bio
----
-
-Guy is a Managing Director With the help of his team he is responsible for strategy, staff management & direction, sales & marketing, financial control & management, training & development and recruitment. He is also personally responsible for managing and supporting their strategically important clients and business development. 
-
-<br></br> -->
