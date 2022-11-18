@@ -62,12 +62,15 @@
     - [Using Azure Automation and PowerShell DSC](#using-azure-automation-and-powershell-dsc)
     - [Deploy Azure resources using Bicep and Azure Pipelines](#deploy-azure-resources-using-bicep-and-azure-pipelines)
     - [Deploy Azure resources using Bicep and GitHub Actions](#deploy-azure-resources-using-bicep-and-github-actions)
-  - [Module 6: Implement security and validate code bases for compliance](#module-6-implement-security-and-validate-code-bases-for-compliance)
+ - [Module 6: Design and implement a dependency management strategy](#module-6-design-and-implement-a-dependency-management-strategy)
+    - [Package management with GitHub Packages](#package-management-with-github-packages)
+ - [Module 7: Implement continuous feedback](#module-7-implement-continuous-feedback)
+    - [Monitoring application performance with Application Insights.](#monitoring-application-performance-with-application-insights)
+    - [Integration between Azure DevOps and Microsoft Teams](#integration-between-azure-devops-and-microsoft-teams)
+    - [Sharing Team Knowledge using Azure Project Wikis](#sharing-team-knowledge-using-azure-project-wikis)
+ - [Module 8: Implement security and validate code bases for compliance](#module-8-implement-security-and-validate-code-bases-for-compliance)
     - [Implement security and compliance in Azure Pipelines](#implement-security-and-compliance-in-azure-pipelines)
     - [Managing technical debt with SonarQube and Azure DevOps](#managing-technical-debt-with-sonarqube-and-azure-devops)
-  - [Module 7: Design and implement a dependency management strategy](#module-7-design-and-implement-a-dependency-management-strategy)
-    - [Package management with Azure Artifacts](#package-management-with-azure-artifacts)
-  - [Module 8: Implement continuous feedback](#module-8-implement-continuous-feedback)
 
 
 ## Module 1: DevOps transformation for enterprise DevOps
