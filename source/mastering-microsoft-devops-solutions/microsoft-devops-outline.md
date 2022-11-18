@@ -9,9 +9,9 @@
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
   - [Module 5: Manage infrastructure as code using Azure and DSC](#module-5-manage-infrastructure-as-code-using-azure-and-dsc)
-  - [Module 6: Implement security and validate code bases for compliance](#module-6-implement-security-and-validate-code-bases-for-compliance)
-  - [Module 7: Design and implement a dependency management strategy](#module-7-design-and-implement-a-dependency-management-strategy)
-  - [Module 8: Implement continuous feedback](#module-8-implement-continuous-feedback)
+  - [Module 6: Design and implement a dependency management strategy](#module-6-design-and-implement-a-dependency-management-strategy)
+  - [Module 7: Implement continuous feedback](#module-7-implement-continuous-feedback)
+  - [Module 8: Implement security and validate code bases for compliance](#module-8-implement-security-and-validate-code-bases-for-compliance)
   
 ## Module 0: Course Overview
  - Welcome 
@@ -71,16 +71,7 @@
 - Lesson 5: Implement Desired State Configuration (DSC)
 - Lesson 6: Implement Bicep
 
-## Module 6: Implement security and validate code bases for compliance
-
-- Lesson 1: Introduction to Secure DevOps
-- Lesson 2: Implement open-source software
-- Lesson 3: Software Composition Analysis
-- Lesson 4: Static analyzers
-- Lesson 5: OWASP and Dynamic Analyzers
-- Lesson 6: Security Monitoring and Governance
-
-## Module 7: Design and implement a dependency management strategy
+## Module 6: Design and implement a dependency management strategy
 
 - Lesson 1: Explore package dependencies
 - Lesson 2: Understand package management
@@ -88,12 +79,21 @@
 - Lesson 4: Implement a versioning strategy
 - Lesson 5: Introduction to GitHub Packages
 
-## Module 8: Implement continuous feedback
+## Module 7: Implement continuous feedback
 
 - Lesson 1: Implement tools to track usage and flow
 - Lesson 2: Develop monitor and status dashboards
 - Lesson 3: Share knowledge within teams
 - Lesson 4: Design processes to automate application analytics
 - Lesson 5: Manage alerts, Blameless retrospectives and a just culture
+
+## Module 8: Implement security and validate code bases for compliance
+
+- Lesson 1: Introduction to Secure DevOps
+- Lesson 2: Implement open-source software
+- Lesson 3: Software Composition Analysis
+- Lesson 4: Static analyzers
+- Lesson 5: OWASP and Dynamic Analyzers
+- Lesson 6: Security Monitoring and Governance
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**

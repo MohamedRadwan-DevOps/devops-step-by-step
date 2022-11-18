@@ -68,9 +68,6 @@
   - [Module 7: Design and implement a dependency management strategy](#module-7-design-and-implement-a-dependency-management-strategy)
     - [Package management with Azure Artifacts](#package-management-with-azure-artifacts)
   - [Module 8: Implement continuous feedback](#module-8-implement-continuous-feedback)
-    - [Monitoring application performance with Application Insights.](#monitoring-application-performance-with-application-insights)
-    - [Integration between Azure DevOps and Microsoft Teams](#integration-between-azure-devops-and-microsoft-teams)
-    - [Sharing Team Knowledge using Azure Project Wikis](#sharing-team-knowledge-using-azure-project-wikis)
 
 
 ## Module 1: DevOps transformation for enterprise DevOps
@@ -322,29 +319,16 @@ In this demo, you will learn and understand ....
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
 
-## Module 6: Implement security and validate code bases for compliance
+## Module 6: Design and implement a dependency management strategy
 
-### Implement security and compliance in Azure Pipelines
- 
-In this demo, you will learn and understand ....
-
-### Managing technical debt with SonarQube and Azure DevOps
+### Package management with GitHub Packages
  
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
 
-## Module 7: Design and implement a dependency management strategy
-
-### Package management with Azure Artifacts
- 
-In this demo, you will learn and understand ....
-
-**[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
-
-
-## Module 8: Implement continuous feedback
+## Module 7: Implement continuous feedback
 
 ### Monitoring application performance with Application Insights. 
  
@@ -355,6 +339,19 @@ In this demo, you will learn and understand ....
 In this demo, you will learn and understand ....
 
 ### Sharing Team Knowledge using Azure Project Wikis
+ 
+In this demo, you will learn and understand ....
+
+**[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
+
+
+## Module 8: Implement security and validate code bases for compliance
+
+### Implement security and compliance in Azure Pipelines
+ 
+In this demo, you will learn and understand ....
+
+### Managing technical debt with SonarQube and Azure DevOps
  
 In this demo, you will learn and understand ....
 
