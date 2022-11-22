@@ -486,50 +486,53 @@
 ##  Module 8: Designing a Dependency Management Strategy 
 
   ### Demo 1: Create and examine feed on Azure artifact with different options. 
- 
-  In this demo you will learn what are feeds and understand how to use them to share packages, while also controlling permissions to those packages.
-  
-  Also, you will learn how Azure artifact provide different options to create and use feeds.
+
+  In this demo, you will learn and understand what are feeds, how to create a new feed, set feed visibility, how to set the feed scope to be project-scoped or organization-scoped, create a new feed that is configured to include packages from a public source, and another one that doesn't include that to see the difference between both.
+
+  Also, you will learn how to add and delete upstream, how to connect to the feed from visual studio and search for the package and install it from the private feed, and how to publish npm and NuGet packages to the private feed on Azure Artifact. 
 
 
  ### Demo 2: Package and publish the class library to NuGet. 
  
-  In this demo you will learn and understand how to package your class library and also how to publish it through CLI or NuGet dashboard.
-  
-  Also, you will learn how to install the new package from NuGet Package Management. 
+  In this demo, you will learn and understand how to publish the class library to NuGet as a part of continuous integration (CI).
+
+  In this manner, you will learn how to add a Nuget push task to your CI tasks and add a new service connection to connect to an external feed which is the NuGet server, in this case, run CI and ensure that the package has successfully pushed to NuGet. 
     
 
  ### Demo 3: Use feed views to share packages. 
- 
-  In this demo you will learn and understand how to use feed views , and how feeds can steamline the process of sharing your packages.
-    
-     
+
+  In this demo, you will learn and understand how feed views are a way to share package versions that have been tested and validated but hold back on packages that are still under development or didn't meet certain qualities.
+
+  Also, you will learn and examine the three feed views: @Local, @Prerelease, and @Release, how to promote packages from one view to another, and how to unpublish, unlist or delete packages.
+
+
  ### Demo 4: Package and publish class library to Azure Artifact feed and use it from Visual Studio. 
  
-  In this demo you will learn how to package and publish a class library to Azure Artifact feed, and understand how this process streamlime package management.
+  In this demo, you will learn and understand how to package and publish a class library to a private feed Azure Artifact, and understand how this process streamlines package management.
   
-  Also, you will learn how to use that package from Visual Studio and how to manage the package. 
-    
+  Also, you will learn how to connect to that private feed from Visual Studio and use the pushed package.
+  
 
  ### Demo 5: Package and publish the API App to Azure Pipeline Artifact. 
  
-  In this demo you will learn and understand how to package and publish the API App by generating the artifact from Azure Pipeline.
+  In this demo, you will learn and understand how to package and store the API App to Azure build artifact.
   
   Also, you will learn the ease of use that Azure DevOps provides to manage your packages.
 
 
  ### Demo 6: Package and publish PartsUnlimited App to Azure Pipeline Artifact. 
  
-  In this demo you will learn and understand how to package and publish the PartsUnlimited App by generating the artifact from Azure Pipeline.
+  In this demo, you will learn and understand how to package and publish the PartsUnlimited App by generating the artifact from Azure Pipeline.
   
   Also, you will learn the ease of use that Azure DevOps provides to manage your packages. 
     
 
  ### Demo 7: Package and publish a .NET Docker image to Docker Hub. 
  
-  In this demo you will learn and understand how package and publish a .NET docker image to Docker Hub, which is a docker repo for to store your packages.
+  In this demo, you will learn and understand how to package and publish a .NET docker image to Docker Hub, which is a docker repo for storing your packages, and how this process improves collaboration on package management and ensures a consistent process for delivering a packaged app.
   
-  Also, you will learn how this process improves collaboration on package management and ensures a consistent process for delivering a packaged app.
+  Also, you will learn how to create a new service connection to connect to Docker Hub, how to create a new Docker Hub account, a new repository to push the docker image, how to pull the image after pushing it and run it to make sure everything is working as expected.  
+  
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
