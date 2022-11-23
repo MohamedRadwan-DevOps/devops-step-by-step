@@ -3,7 +3,7 @@
   <img src="./source/images/mics/devops-visions-logo.png"/>
 </p>
 
-![Views](https://Views-badge.glitch.me/badge?page_id=devops-visions.Views-badge)
+![Views](https://visitor-badge.glitch.me/badge?page_id=devops-visions.visitor-badge)
 ![Stars](https://img.shields.io/github/stars/MohamedRadwan-DevOps/devops-step-by-step.svg?color=green)
 ![Watchers](https://img.shields.io/github/watchers/MohamedRadwan-DevOps/devops-step-by-step.svg?color=ff69b4)
 ![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/MohamedRadwan-DevOps/devops-step-by-step?color=brightgreen)
