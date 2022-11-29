@@ -85,8 +85,8 @@
     - [Demo 3: Structure Business Dimension in Portfolio Management.](#demo-3-structure-business-dimension-in-portfolio-management)
     - [Demo 4: Assigning Who Do what and when in Portfolio Management.](#demo-4-assigning-who-do-what-and-when-in-portfolio-management)
     - [Demo 5: Agile Planning and Portfolio Management with Azure Boards.](#demo-5-agile-planning-and-portfolio-management-with-azure-boards)
-    - [Demo 6: Plan work using Azure Boards.](#demo-6-plan-work-using-azure-boards)
-    - [Demo 7: Manage Agile software delivery plans across teams.](#demo-7-manage-agile-software-delivery-plans-across-teams)
+    - [Demo 6: Manage Agile software delivery plans across teams.](#demo-6-manage-agile-software-delivery-plans-across-teams)
+    - [Demo 7: About Dashboards.](#demo-7-about-dashboards)
   - [Module 12: Examples Of Different Practices Improvement in Several Areas](#module-12-examples-of-different-practices-improvement-in-several-areas)
   - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
     - [Demo 1: Create and use Log Analytics workspace.](#demo-1-create-and-use-log-analytics-workspace)
@@ -618,41 +618,47 @@
 
  ### Demo 1: Structure People Dimension in Portfolio Management. 
  
-  In this demo you will learn and understand how to create a new project in an Azure DveOps organization, and create multiple teams in the created project.
-  Also, you will learn and understand how to structure people in the created teams.
-
+  In this demo, you will learn and understand how to structure and manage people dimension (who) through teams in Portfolio Management, and set teams hierarchy according to your project needs, for this purpose you will create a new project in Azure DevOps, create multiple teams for top management, portfolios, programs, and projects and add members to each team.
 
  ### Demo 2: Structure Time Dimension in Portfolio Management. 
- 
-  In this demo you will learn and understand how to structure time dimension in Portfolio Management.
-  Also, you will learn and understand how to structure Scenarios, Seasons, Releases and Sprints.
+
+  In this demo, you will learn and understand how to structure and manage time dimension (when) through iterations in Portfolio Management, for this purpose you will create a new project in Azure DevOps, define project iterations, add sprints (1-4 weeks),
+  releases (2-6 sprints), seasons (2-6 releases), and scenarios (2-6 seasons).
+
+  - Scenarios
+    - Seasons
+      - Releases
+        - Sprints
 
  ### Demo 3: Structure Business Dimension in Portfolio Management. 
  
-  In this demo you will learn and understand how to structure business dimension, and know the difference between Theme, Epic, Feature, User Story, and how to create them.
-  Also, you will learn and understand how to add description, Acceptance criteria (Functional Criteria - Usability Criteria - Data Criteria) to your Product Backlog Item.
+  In this demo, you will learn and understand how to structure business (requirements) dimension (when) through product backlog in Portfolio Management, for this purpose you will create User Stories (completed in days), Features (completed in weeks), Epics (completed in months), and how to map each child items to its parent.
+
+  Also, you will learn and understand the differences between Theme, Epic, Feature, User Story, and how to create them, and how to add description, Acceptance criteria (Functional Criteria - Usability Criteria - Data Criteria) to the created User Stories.
 
 
  ### Demo 4: Assigning Who Do what and when in Portfolio Management. 
  
-  In this demo you will learn and understand how to specify the time that the work item should be on, and how to assign it to a speciific iteration (sprint).
-  Also, you will learn and understand for whom you should assign the work item.
+  In this demo, you will learn and understand what will be delivered when and by whom, how to define what will be delivered when specifying the time that the work item should be on, and how to assign it to a specific iteration (sprint), and for whom the work item should be assigned.
 
  ### Demo 5: Agile Planning and Portfolio Management with Azure Boards. 
  
-  In this demo you will learn and understand how to work with teams, areas and iterations, work items, and how to create different work items types like Epics, Features, PBIS and tasks.
-  Also, you will learn and understand how to Manage the project sprints and capacity, and also learn how to customize Kanban boards.
+  In this demo, you will learn and undersatnd about the agile planning and portfolio management tools and processes provided by Azure Boards and how they can help you quickly plan, manage, and track work across your entire team. You will explore the product backlog, sprint backlog, and task boards which can be used to track the flow of work during the course of an iteration.
 
+  Also, you will learn and understand how to manage the project sprints and capacity, and how to customize Kanban boards.  
 
- ### Demo 6: Plan work using Azure Boards. 
+ ### Demo 6: Manage Agile software delivery plans across teams. 
  
-  In this demo you will learn and understand how to create an Azure DevOps project, create teams, and how to add team members.
-  Also, you will learn and understand how to create boards, define sprints, and how to assign tasks and set the iteration.
+  In this demo, you will learn and understand waht is delivery plans, and how it helps organizations plan and review work schedules across multiple teams.
 
- ### Demo 7: Manage Agile software delivery plans across teams. 
+  Also, you will learn and understand how to create a delivery plan and adjust a team's sprint workload to optimize delivery efficiency, how to ddd schedule milestone markershow, optimize the work schedule, rearrange work items to fit the overall schedule, track dependencies using Delivery Plans, review dependencies between work items shown in a delivery plan and resolve dependencies that have issues.
+
+ ### Demo 7: About Dashboards. 
  
-  In this demo you will learn and understand how delivery plans enable multiple teams to plan, schedule, and coordinate their work.
-  Also, you will learn and understand how to create a delivery plan and adjust a team's sprint workload to optimize delivery efficiency, and how to review dependencies between work items shown in a delivery plan.
+  In this demo, you will learn and understand how to gain visibility into your team's progress by adding one or more widgets or charts to your dashboard, and how dashboards provide you and your teams with the flexibility to share information, monitor progress and trends, and improve your workflow processes.
+
+  Also, you will learn how to create a new dashboard, how to configure an array of charts and widgets, the sequence for adding and customizing a dashboard, the sequence for adding query-based charts to a dashboard, more about widgets (Assigned to me, Burndown chart, Lead time, cycle time, and so on), and more about Marketplace widgets and extensibility.
+
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
