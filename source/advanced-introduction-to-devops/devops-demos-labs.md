@@ -541,37 +541,36 @@
 
  ### Demo 1: Create a CD for API. 
  
-  In this demo you will learn and understand how to setup a continuos delivery pipeline for an API app.
-  
-  Also, you will see how to create a CD for an API which has been created from scratch in previous lessons.
+  In this demo you will learn and understand How to pick the artifact package that was previously created in the ci, then create a webapp on Azure portal that will be used in getting the package from the ci, and deploy it as a part of the continuous deployment, then how to create new releases pipeline how to configure the tasks needed for the deployment.
+
+  Also you will learn how to create a new service connection and how is service connection authorization work in the background.
     
 
  ### Demo 2: Create a CD for Parts-Unlimited. 
  
-  In this demo you will learn and understand how to create a CD for a Web App.
-  
-  Also, you will learn and apply what you have learned on a Web App we already created in previous lesson(Parts-Unlimited).
+  In this demo you will learn and understand What are the different stages of deployment[DEV-QA-Production] and how to create a separate environment for each of them that contain [WebApp & Database] and how to configure each webapp with connection string to be connected to its database and how to create firewall rules to open access for connection between the azure services.
+
+  Also you will learn how to make a release Pipeline with different stages that run in sequence and also how to make conditional approval for the Production environment.
     
 
  ### Demo 3: Configure Azure Pipeline as a process for self-hosted and run UI tests. 
  
-  In this demo you will learn and understand how to configure Azure pipeline as a self-hosed agents. 
-  
-  Also, you will learn the process to run UI tests for your self-hosted agent.
+  In this demo You will learn and understand how to configure the self-hosted agent as a process step by step.
+
+  Also you will learn how to configure the pipeline to be able to run the automated UI test.
     
 
  ### Demo 4: Deploy docker image to Azure Container App Service. 
+  In this demo you will learn and understand how to create a webapp resource from the Azure portal and configure the publish as a docker container. 
 
-  In this demo you will learn how to create a container image for your application, and understand how to push the image to a container registry.
-  
-  Also, you will learn how to deploy the image to Azure App Service, and understand how to deploy the image to Azure Container Instances (ACI).
+  Also you will learn how to configure the deployment pipeline to retrieve artifacts from DockerHub then configure the Azure app service container task to deploy the image to the webapp.
     
 
  ### Demo 5: Enable Continuous Integration and Continuous Deployment. 
  
-  In this demo you will learn how to enable continuos integration and continuous delivery in your pipeline.
+  In this demo you will learn and understand how to enable continuous integration and continuous delivery in your pipeline for a selected branch.
   
-  Also, you will learn how to disable some features in the CD or CI and leave the rest enabled.
+  Also, you will learn how is the CI/CD workflow work in action when a new commit gets pushed into the selected branch.
 
  **[⬆ back to top](#advanced-introduction-to-devops)**
  
