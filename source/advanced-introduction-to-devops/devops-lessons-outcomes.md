@@ -48,15 +48,12 @@
     - [Lesson 1: Structuring Portfolio Management Elements](#lesson-1-structuring-portfolio-management-elements)
     - [Lesson 2: Agile Portfolio Management](#lesson-2-agile-portfolio-management)
     - [Lesson 3: Building Dashboard for All Project Levels](#lesson-3-building-dashboard-for-all-project-levels)
-  - [Module 12: Examples Of Different Practices Improvement in Several Areas](#module-12-examples-of-different-practices-improvement-in-several-areas)
-    - [Lesson 1: Improving Application Architecture](#lesson-1-improving-application-architecture)
-    - [Lesson 2: Improving Hosting Environment](#lesson-2-improving-hosting-environment)
-    - [Lesson 3: Improving Backlog Structure and Size](#lesson-3-improving-backlog-structure-and-size)
-    - [Lesson 4: Improving Backlog Realization By Providing Storyboard](#lesson-4-improving-backlog-realization-by-providing-storyboard)
-    - [Lesson 5: Improving Release using Feature Flag & Deployment Rings](#lesson-5-improving-release-using-feature-flag--deployment-rings)
-  - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
+  - [Module 12: Overview of SRE and Monitoring Practices](#module-12-overview-of-sre-and-monitoring-practices)
     - [Lesson 1: Introduction to Site Reliability Engineering (SRE)](#lesson-1-introduction-to-site-reliability-engineering-sre)
     - [Lesson 2: Understanding Monitoring Practice](#lesson-2-understanding-monitoring-practice)
+  - [Module 13: Applying Quality and Security for DevOps](#module-13-applying-quality-and-security-for-devops)
+    - [Lesson 1: Managing Code Quality and Security Policies](#lesson-1-managing-code-quality-and-security-policies)
+    - [Lesson 2: Managing Security and Compliance](#lesson-2-managing-security-and-compliance)
   - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
     - [Lesson 1: Why Digital Transformation?](#lesson-1-why-digital-transformation)
     - [Lesson 2: Realizing The Real Meaning of DevOps](#lesson-2-realizing-the-real-meaning-of-devops)
@@ -64,9 +61,12 @@
     - [Lesson 1: Analyzing the Flow to Enhance The DevOps Maturity](#lesson-1-analyzing-the-flow-to-enhance-the-devops-maturity)
     - [Lesson 2: Implementing DevOps Transformation](#lesson-2-implementing-devops-transformation)
     - [Lesson 3: Agile and DevOps mindset](#lesson-3-agile-and-devops-mindset)
-  - [Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
-    - [Lesson 1: Managing Code Quality and Security Policies](#lesson-1-managing-code-quality-and-security-policies)
-    - [Lesson 2: Managing Security and Compliance](#lesson-2-managing-security-and-compliance)
+  - [Module 16: Examples Of Different Practices Improvement in Several Areas](#module-16-examples-of-different-practices-improvement-in-several-areas)
+    - [Lesson 1: Improving Application Architecture](#lesson-1-improving-application-architecture)
+    - [Lesson 2: Improving Hosting Environment](#lesson-2-improving-hosting-environment)
+    - [Lesson 3: Improving Backlog Structure and Size](#lesson-3-improving-backlog-structure-and-size)
+    - [Lesson 4: Improving Backlog Realization By Providing Storyboard](#lesson-4-improving-backlog-realization-by-providing-storyboard)
+    - [Lesson 5: Improving Release using Feature Flag & Deployment Rings](#lesson-5-improving-release-using-feature-flag--deployment-rings)
   - [Module 17: Advanced Version Control](#module-17-advanced-version-control)
     - [Lesson 1: Understanding Git Basics](#lesson-1-understanding-git-basics)
     - [Lesson 2: Git Branches](#lesson-2-git-branches)
@@ -522,37 +522,7 @@ Also, apply and implement the following demos/exercises.
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
-## Module 12: Examples Of Different Practices Improvement in Several Areas
-
-### Lesson 1: Improving Application Architecture
-
-Understanding and learning more information about Waterfall and Agile/DevOps methodologies, the difference between them and the obstacles and challenges of applying Waterfall methodology. What does it mean of Monolithic Applications, and Microservices, and the difference between each one of them.
-
-Also, understand the difference between the Traditional Approach and Microservices, the difference between the Horizontal team and Vertical team, and the advantages and disadvantages of each one.
-
-### Lesson 2: Improving Hosting Environment
-
-Understanding and learning how applying Microservices to improve Application Architecture may end up with a huge bunch of Microservices, how can we manage and host all these Microservices? Host these Microservices on VMS? and the challenges of hosting a huge bunch of Microservices on VMs.
-
-Also, understand how the challenges of hosting Microservices on VMS may be overcome by hosting on Containers. What are Containers and Orchestration and their advantages.
-
-### Lesson 3: Improving Backlog Structure and Size
-
-Understanding and learning when backlogs grow too big and become overly long and detailed make them difficult to update, prioritise, and refine. how to build the right Product Backlog Structure, and how to reduce the Product Backlog Size to simplify such a backlog so you can manage it more easily.
-
-### Lesson 4: Improving Backlog Realization By Providing Storyboard
-
-Understanding and learning what is the Storyboard, Why we need it, and how to create it. How the Storyboard is the best way to share your vision, save your time,  how it helps your business, and how providing it improves Backlog Realization.
-
-### Lesson 5: Improving Release using Feature Flag & Deployment Rings
-
-Understanding and learning what is Feature Flag, and how to track Deployments to Production using Rings. What is Hypothesis-Driven Development, and how to implement it? How using Feature Flag and Deployment Rings may improve Release.
-
-**Note: You can find more details about this module demos on demos/labs page.**
-
-**[⬆ back to top](#advanced-introduction-to-devops)**
-
-## Module 13: Overview of SRE and Monitoring Practices
+## Module 12: Overview of SRE and Monitoring Practices
 
 ### Lesson 1: Introduction to Site Reliability Engineering (SRE)
 
@@ -568,6 +538,31 @@ Also, understand what types of problems should be detected, the Basics of the Te
 
 Also, apply and implement the following demos/exercises.
 - Log Analytics Workspace.
+
+**Note: You can find more details about this module demos on demos/labs page.**
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 13: Applying Quality and Security for DevOps
+
+### Lesson 1: Managing Code Quality and Security Policies
+
+Understanding and learning Security Development Lifecycle (SDL), an example of Measuring Technical Debt, what is Technical Debt, and some of Technical Debt Definitions.
+- Bugs
+- Vulnerabilities
+- Code Smells
+- Coverage
+- Duplications
+- Size
+
+Also, understand what Code quality aspects are, and how to use automated tests to assess technical debt. What is SonarCloud, and how to configure it in the build pipeline? What are the different Open Source license challenges? What is OWASP, some of code quality tools, and what are CWE, CVE, and CVSS?
+
+### Lesson 2: Managing Security and Compliance
+
+Understanding and learning what is Open source software (OSS), what are Licenses types, how to interpret alerts from assessment, and how to check vulnerabilities during Continuous Integration (CI).
+
+Also, apply and implement the following demos/exercises.
+- Checking vulnerabilities during Continuous Integration (CI).
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
@@ -624,26 +619,31 @@ Also, understand how improving one or few areas only is not enough, and sometime
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
-## Module 16: Applying Quality and Security for DevOps
+## Module 16: Examples Of Different Practices Improvement in Several Areas
 
-### Lesson 1: Managing Code Quality and Security Policies
+### Lesson 1: Improving Application Architecture
 
-Understanding and learning Security Development Lifecycle (SDL), an example of Measuring Technical Debt, what is Technical Debt, and some of Technical Debt Definitions.
-- Bugs
-- Vulnerabilities
-- Code Smells
-- Coverage
-- Duplications
-- Size
+Understanding and learning more information about Waterfall and Agile/DevOps methodologies, the difference between them and the obstacles and challenges of applying Waterfall methodology. What does it mean of Monolithic Applications, and Microservices, and the difference between each one of them.
 
-Also, understand what Code quality aspects are, and how to use automated tests to assess technical debt. What is SonarCloud, and how to configure it in the build pipeline? What are the different Open Source license challenges? What is OWASP, some of code quality tools, and what are CWE, CVE, and CVSS?
+Also, understand the difference between the Traditional Approach and Microservices, the difference between the Horizontal team and Vertical team, and the advantages and disadvantages of each one.
 
-### Lesson 2: Managing Security and Compliance
+### Lesson 2: Improving Hosting Environment
 
-Understanding and learning what is Open source software (OSS), what are Licenses types, how to interpret alerts from assessment, and how to check vulnerabilities during Continuous Integration (CI).
+Understanding and learning how applying Microservices to improve Application Architecture may end up with a huge bunch of Microservices, how can we manage and host all these Microservices? Host these Microservices on VMS? and the challenges of hosting a huge bunch of Microservices on VMs.
 
-Also, apply and implement the following demos/exercises.
-- Checking vulnerabilities during Continuous Integration (CI).
+Also, understand how the challenges of hosting Microservices on VMS may be overcome by hosting on Containers. What are Containers and Orchestration and their advantages.
+
+### Lesson 3: Improving Backlog Structure and Size
+
+Understanding and learning when backlogs grow too big and become overly long and detailed make them difficult to update, prioritise, and refine. how to build the right Product Backlog Structure, and how to reduce the Product Backlog Size to simplify such a backlog so you can manage it more easily.
+
+### Lesson 4: Improving Backlog Realization By Providing Storyboard
+
+Understanding and learning what is the Storyboard, Why we need it, and how to create it. How the Storyboard is the best way to share your vision, save your time,  how it helps your business, and how providing it improves Backlog Realization.
+
+### Lesson 5: Improving Release using Feature Flag & Deployment Rings
+
+Understanding and learning what is Feature Flag, and how to track Deployments to Production using Rings. What is Hypothesis-Driven Development, and how to implement it? How using Feature Flag and Deployment Rings may improve Release.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 

@@ -87,16 +87,13 @@
  - Lesson 2: Agile Portfolio Management
  - Lesson 3: Building Dashboard for All Project Levels
  
-## Module 12: Examples Of Different Practices Improvement in Several Areas
- - Lesson 1: Improving Application Architecture
- - Lesson 2: Improving Hosting Environment
- - Lesson 3: Improving Backlog Structure and Size
- - Lesson 4: Improving Backlog Realization By Providing Storyboard
- - Lesson 5: Improving Release using Feature Flag & Deployment Rings
- 
-## Module 13: Overview of SRE and Monitoring Practices
+## Module 12: Overview of SRE and Monitoring Practices
  - Lesson 1: Introduction to Site Reliability Engineering (SRE)
  - Lesson 2: Understanding Monitoring Practice 
+
+## Module 13: Applying Quality and Security for DevOps
+ - Lesson 1: Managing Code Quality and Security Policies
+ - Lesson 2: Managing Security and Compliance
  
 ## Module 14: Digital Transformation and DevOps
  - Lesson 1: Why Digital Transformation?
@@ -107,10 +104,13 @@
  - Lesson 2: Implementing DevOps Transformation
  - Lesson 3: Agile and DevOps mindset
 
-## Module 16: Applying Quality and Security for DevOps
- - Lesson 1: Managing Code Quality and Security Policies
- - Lesson 2: Managing Security and Compliance
-
+## Module 16: Examples Of Different Practices Improvement in Several Areas
+ - Lesson 1: Improving Application Architecture
+ - Lesson 2: Improving Hosting Environment
+ - Lesson 3: Improving Backlog Structure and Size
+ - Lesson 4: Improving Backlog Realization By Providing Storyboard
+ - Lesson 5: Improving Release using Feature Flag & Deployment Rings
+ 
 ## Module 17: Version Control in More Details 
  - Lesson 1: Understanding Git Basics
  - Lesson 2: Git Branches

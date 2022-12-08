@@ -13,11 +13,11 @@
   - [Module 9: Defining and Implementing a Continuous Delivery & Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
   - [Module 10: Managing Configuration Management for Infrastructure and Database](#module-10-managing-configuration-management-for-infrastructure-and-database)
   - [Module 11: Team Collaboration and Work Tracking](#module-11-team-collaboration-and-work-tracking)
-  - [Module 12: Examples Of Different Practices Improvement in Several Areas](#module-12-examples-of-different-practices-improvement-in-several-areas)
-  - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
+  - [Module 12: Overview of SRE and Monitoring Practices](#module-12-overview-of-sre-and-monitoring-practices)
+  - [Module 13: Applying Quality and Security for DevOps](#module-13-applying-quality-and-security-for-devops)
   - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
   - [Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
-  - [Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
+  - [Module 16: Examples Of Different Practices Improvement in Several Areas](#module-16-examples-of-different-practices-improvement-in-several-areas)
   - [Module 17: Version Control in More Details](#module-17-version-control-in-more-details)
   - [Module 18: Docker in More Details](#module-18-docker-in-more-details)
 
@@ -684,35 +684,7 @@
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
-## Module 12: Examples Of Different Practices Improvement in Several Areas 
-
-- Portfolio Management using Azure DevOps
-
-  - [Portfolio Management using Azure DevOps Webpage](https://docs.microsoft.com/en-us/azure/devops/boards/plans/portfolio-management?view=azure-devops)
-
-  - [Portfolio Management using Azure DevOps Video](https://www.youtube.com/watch?v=pqcpGleJfKo)
-
-- Monolithic Approach VS. Microservices
-
-  - [Monolithic Approach VS. Microservices Webpage](https://www.n-ix.com/microservices-vs-monolith-which-architecture-best-choice-your-business/)
-
-  - [Monolithic Approach VS. Microservices Video](https://www.youtube.com/watch?v=8gGQExv-nJM)
-
-- Container Orchestrator and Clustering
-
-  - [Container Orchestrator and Clustering Webpage](https://newrelic.com/blog/best-practices/container-orchestration-explained)
-
-  - [Container Orchestrator and Clustering Video](https://www.youtube.com/watch?v=kBF6Bvth0zw)
-
-- Kubernetes
-
-  - [Kubernetes Webpage](https://www.vmware.com/topics/glossary/content/kubernetes.html)
-
-  - [Kubernetes Video](https://www.youtube.com/watch?v=cC46cg5FFAM)
-
-**[⬆ back to top](#advanced-introduction-to-devops)**
-
-## Module 13: Overview of SRE and Monitoring Practices 
+## Module 12: Overview of SRE and Monitoring Practices 
 
 - DevOps vs. SRE
 
@@ -758,43 +730,7 @@
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
-## Module 14: Digital Transformation and DevOps 
-
-- Shift Left vs Shift Right in Software
-
-  - [Shift Left vs Shift Right in Software Webpage](https://www.dynatrace.com/news/blog/what-is-shift-left-and-what-is-shift-right/)
-
-  - [Shift Left vs Shift Right in Software Video](https://www.youtube.com/watch?v=gz9rNmRcAjc)
-
-- SLA/SLO/SLI
-
-  - [SLA/SLO/SLI Webpage](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
-
-- DORA (DevOps Research and Assessment)
-
-  - [DORA (DevOps Research and Assessment) Webpage](https://devon.nl/en/dora-assessment/)
-
-  - [DORA (DevOps Research and Assessment) Video](https://www.youtube.com/watch?v=YOvEIFLWz3I)
-
-**[⬆ back to top](#advanced-introduction-to-devops)**
-
-## Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation 
-
-- Status report vs progress report
-
-  - [Status report vs progress report Webpage](https://piktochart.com/blog/progress-report/)
-
-  - [Status report vs progress report Video](https://www.youtube.com/watch?v=wZIiHznFF70)
-
-- Scrum vs Kanban vs Lean Development
-
-  - [Scrum vs Kanban vs Lean Development Webpage](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
-
-  - [Scrum vs Kanban vs Lean Development Video](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
-
-**[⬆ back to top](#advanced-introduction-to-devops)**
-
-## Module 16: Applying Quality and Security for DevOps 
+## Module 13: Applying Quality and Security for DevOps 
 
 - Compliance
 
@@ -897,6 +833,70 @@
   - [CWE, CVE, and CVSS Webpage](https://www.acunetix.com/blog/articles/better-scan-results-cvss-cve-cwe/)
 
   - [CWE, CVE, and CVSS Video](https://www.youtube.com/watch?v=ohxpqw1IhtY)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 14: Digital Transformation and DevOps 
+
+- Shift Left vs Shift Right in Software
+
+  - [Shift Left vs Shift Right in Software Webpage](https://www.dynatrace.com/news/blog/what-is-shift-left-and-what-is-shift-right/)
+
+  - [Shift Left vs Shift Right in Software Video](https://www.youtube.com/watch?v=gz9rNmRcAjc)
+
+- SLA/SLO/SLI
+
+  - [SLA/SLO/SLI Webpage](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
+
+- DORA (DevOps Research and Assessment)
+
+  - [DORA (DevOps Research and Assessment) Webpage](https://devon.nl/en/dora-assessment/)
+
+  - [DORA (DevOps Research and Assessment) Video](https://www.youtube.com/watch?v=YOvEIFLWz3I)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation 
+
+- Status report vs progress report
+
+  - [Status report vs progress report Webpage](https://piktochart.com/blog/progress-report/)
+
+  - [Status report vs progress report Video](https://www.youtube.com/watch?v=wZIiHznFF70)
+
+- Scrum vs Kanban vs Lean Development
+
+  - [Scrum vs Kanban vs Lean Development Webpage](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
+
+  - [Scrum vs Kanban vs Lean Development Video](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
+
+**[⬆ back to top](#advanced-introduction-to-devops)**
+
+## Module 16: Examples Of Different Practices Improvement in Several Areas 
+
+- Portfolio Management using Azure DevOps
+
+  - [Portfolio Management using Azure DevOps Webpage](https://docs.microsoft.com/en-us/azure/devops/boards/plans/portfolio-management?view=azure-devops)
+
+  - [Portfolio Management using Azure DevOps Video](https://www.youtube.com/watch?v=pqcpGleJfKo)
+
+- Monolithic Approach VS. Microservices
+
+  - [Monolithic Approach VS. Microservices Webpage](https://www.n-ix.com/microservices-vs-monolith-which-architecture-best-choice-your-business/)
+
+  - [Monolithic Approach VS. Microservices Video](https://www.youtube.com/watch?v=8gGQExv-nJM)
+
+- Container Orchestrator and Clustering
+
+  - [Container Orchestrator and Clustering Webpage](https://newrelic.com/blog/best-practices/container-orchestration-explained)
+
+  - [Container Orchestrator and Clustering Video](https://www.youtube.com/watch?v=kBF6Bvth0zw)
+
+- Kubernetes
+
+  - [Kubernetes Webpage](https://www.vmware.com/topics/glossary/content/kubernetes.html)
+
+  - [Kubernetes Video](https://www.youtube.com/watch?v=cC46cg5FFAM)
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
