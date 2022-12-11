@@ -100,7 +100,8 @@
   - [Module 17: Version Control in More Details](#module-17-version-control-in-more-details)
     - [Demo 1: Use git branch and merge.](#demo-1-use-git-branch-and-merge)
     - [Demo 2: Use git PR with Azure Repo and GitHub.](#demo-2-use-git-pr-with-azure-repo-and-github)
-    - [Demo 3: Create fork with GitHub and use PR.](#demo-3-create-fork-with-github-and-use-pr)
+    - [Demo 3: Managing git conflicts.](#Demo-3-Managing-git-conflicts)
+    - [Demo 4: Create fork with GitHub and use PR.](#demo-4-create-fork-with-github-and-use-pr)
   - [Module 18: Docker in More Details](#module-18-docker-in-more-details)
     - [Demo 1: Working with Docker in more details on Linux.](#demo-1-working-with-docker-in-more-details-on-linux)
     - [Demo 2: Working with Docker on Windows.](#demo-2-working-with-docker-on-windows)
@@ -705,7 +706,7 @@
  
   In this demo you will learn and understand how to check vulnerabilities during continuous integration (CI). Also, you will understand the importance of learning the principles and sequence, not the tools.In that manner, we will build a java app and see the same concept applied here as we did with other .NET apps we built. you will learn how to use Mend tool to check vulnerabilities during continuous integration (CI), Mend will provide us with the security vulnerabilities what causes them and how to solve them.
 
-  Also, you will learn and understand the effects of outdated librarries on your app, What is the severity level, and suggested fixes to solve the issue by the NVD (National Vulnerability Database), Mend will also check License risks that we have within our application.
+  Also, you will learn and understand the effects of outdated libraries on your app, What is the severity level, and suggested fixes to solve the issue by the NVD (National Vulnerability Database), Mend will also check License risks that we have within our application.
  
  **[⬆ back to top](#advanced-introduction-to-devops)**
  
@@ -713,18 +714,27 @@
 
  ### Demo 1: Use git branch and merge. 
  
-  In this demo you will learn and understand about Git branching and how to merge these branches to a local or remote repository.
+  In this demo you will learn and understand how to create different branches and how git mechanism work by creating different commits inside each branch and how to switch between branches and what is the effect of each commit for each branch you will also learn the difference between the main HEAD and other branches head.
+
+  Also you will learn how to merge branches and what is the effect of each merge to other branches.
 
  ### Demo 2: Use git PR with Azure Repo and GitHub. 
  
-  In this demo you will learn and understand how to create pull requests (PRs) to change, review, and merge code in a Git repository.
+  In this demo you will learn and understand what are the steps you should consider when you make a pull request you will also learn how to create pull requests (PRs) to change, review, and merge code in a Git repository.
   
   Also, you will learn review pull requests in Azure Repo and GitHub.
 
+ ### Demo 3: Managing git conflicts.
 
- ### Demo 3: Create fork with GitHub and use PR. 
+  In this demo you will learn and understand what are the best practices to resolve conflicts you will also learn how to manage conflicts in Azure repos by downloading Merge Conflict extension to your organization and how to take decisions using this extension.
+  
+  Also, you will learn how to manage conflicts on GitHub following the same practices using the integrated conflict resolver tool.
+
+ ### Demo 4: Create fork with GitHub and use PR. 
  
-  In this demo you will learn and understand about how to fork a repo with GitHub and how to use use pull requests( PRs).
+  In this demo you will learn and understand how to contribute to any open source project by creating a fork how to manage the fork if there is any updates on the repo you forked.
+
+  Also, you will learn how make a pull request from your fork and how is the project repo maintainers handle pull request by checking changes and merge pull requests to the main repo.
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
