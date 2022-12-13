@@ -15,11 +15,11 @@
   - [Module 9: Defining and Implementing a Continuous Delivery & Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
   - [Module 10: Managing Configuration Management for Infrastructure and Database](#module-10-managing-configuration-management-for-infrastructure-and-database)
   - [Module 11: Team Collaboration and Work Tracking](#module-11-team-collaboration-and-work-tracking)
-  - [Module 12: Examples Of Different Practices Improvement in Several Areas](#module-12-examples-of-different-practices-improvement-in-several-areas)
-  - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
+  - [Module 12: Overview of SRE and Monitoring Practices](#module-12-overview-of-sre-and-monitoring-practices)
+  - [Module 13: Applying Quality and Security for DevOps](#module-13-applying-quality-and-security-for-devops)
   - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
   - [Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
-  - [Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
+  - [Module 16: Examples Of Different Practices Improvement in Several Areas](#module-16-examples-of-different-practices-improvement-in-several-areas)
   - [Module 17: Version Control in More Details](#module-17-version-control-in-more-details)
   - [Module 18: Docker in More Details](#module-18-docker-in-more-details)
   - [Module 19: Mentoring, CV and Interpersonal Skills](#module-19-mentoring-cv-and-interpersonal-skills)
@@ -87,16 +87,13 @@
  - Lesson 2: Agile Portfolio Management
  - Lesson 3: Building Dashboard for All Project Levels
  
-## Module 12: Examples Of Different Practices Improvement in Several Areas
- - Lesson 1: Improving Application Architecture
- - Lesson 2: Improving Hosting Environment
- - Lesson 3: Improving Backlog Structure and Size
- - Lesson 4: Improving Backlog Realization By Providing Storyboard
- - Lesson 5: Improving Release using Feature Flag & Deployment Rings
- 
-## Module 13: Overview of SRE and Monitoring Practices
+## Module 12: Overview of SRE and Monitoring Practices
  - Lesson 1: Introduction to Site Reliability Engineering (SRE)
  - Lesson 2: Understanding Monitoring Practice 
+
+## Module 13: Applying Quality and Security for DevOps
+ - Lesson 1: Managing Code Quality and Security Policies
+ - Lesson 2: Managing Security and Compliance
  
 ## Module 14: Digital Transformation and DevOps
  - Lesson 1: Why Digital Transformation?
@@ -107,10 +104,13 @@
  - Lesson 2: Implementing DevOps Transformation
  - Lesson 3: Agile and DevOps mindset
 
-## Module 16: Applying Quality and Security for DevOps
- - Lesson 1: Managing Code Quality and Security Policies
- - Lesson 2: Managing Security and Compliance
-
+## Module 16: Examples Of Different Practices Improvement in Several Areas
+ - Lesson 1: Improving Application Architecture
+ - Lesson 2: Improving Hosting Environment
+ - Lesson 3: Improving Backlog Structure and Size
+ - Lesson 4: Improving Backlog Realization By Providing Storyboard
+ - Lesson 5: Improving Release using Feature Flag & Deployment Rings
+ 
 ## Module 17: Version Control in More Details 
  - Lesson 1: Understanding Git Basics
  - Lesson 2: Git Branches

@@ -87,16 +87,16 @@
     - [Demo 5: Agile Planning and Portfolio Management with Azure Boards.](#demo-5-agile-planning-and-portfolio-management-with-azure-boards)
     - [Demo 6: Manage Agile software delivery plans across teams.](#demo-6-manage-agile-software-delivery-plans-across-teams)
     - [Demo 7: About Dashboards.](#demo-7-about-dashboards)
-  - [Module 12: Examples Of Different Practices Improvement in Several Areas](#module-12-examples-of-different-practices-improvement-in-several-areas)
-  - [Module 13: Overview of SRE and Monitoring Practices](#module-13-overview-of-sre-and-monitoring-practices)
+  - [Module 12: Overview of SRE and Monitoring Practices](#module-12-overview-of-sre-and-monitoring-practices)
     - [Demo 1: Create and use Log Analytics workspace.](#demo-1-create-and-use-log-analytics-workspace)
     - [Demo 2:  Create view and manage log analytics alert.](#demo-2--create-view-and-manage-log-analytics-alert)
     - [Demo 3: Create view and manage activity-log alert.](#demo-3-create-view-and-manage-activity-log-alert)
     - [Demo 4: Create, view, and manage metric alerts.](#demo-4-create-view-and-manage-metric-alerts)
+  - [Module 13: Applying Quality and Security for DevOps](#module-13-applying-quality-and-security-for-devops)
+    - [Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline.](#demo-1-run-static-application-security-testing-sast-using-azure-pipeline)
   - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
   - [Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
-  - [Module 16: Applying Quality and Security for DevOps](#module-16-applying-quality-and-security-for-devops)
-    - [Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline.](#demo-1-run-static-application-security-testing-sast-using-azure-pipeline)
+ - [Module 16: Examples Of Different Practices Improvement in Several Areas](#module-16-examples-of-different-practices-improvement-in-several-areas)
   - [Module 17: Version Control in More Details](#module-17-version-control-in-more-details)
     - [Demo 1: Use git branch and merge.](#demo-1-use-git-branch-and-merge)
     - [Demo 2: Use git PR with Azure Repo and GitHub.](#demo-2-use-git-pr-with-azure-repo-and-github)
@@ -661,13 +661,8 @@
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
-##  Module 12: Examples Of Different Practices Improvement in Several Areas 
 
-  - **No Demos**
-
-
-
-## Module 13: Overview of SRE and Monitoring Practices 
+## Module 12: Overview of SRE and Monitoring Practices 
 
   ### Demo 1: Create and use Log Analytics workspace. 
  
@@ -690,6 +685,16 @@
 
 **[⬆ back to top](#advanced-introduction-to-devops)**
 
+## Module 13: Applying Quality and Security for DevOps 
+
+  ### Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline. 
+ 
+  In this demo you will learn and understand how to check vulnerabilities during continuous integration (CI). Also, you will understand the importance of learning the principles and sequence, not the tools.In that manner, we will build a java app and see the same concept applied here as we did with other .NET apps we built. you will learn how to use Mend tool to check vulnerabilities during continuous integration (CI), Mend will provide us with the security vulnerabilities what causes them and how to solve them.
+
+  Also, you will learn and understand the effects of outdated librarries on your app, What is the severity level, and suggested fixes to solve the issue by the NVD (National Vulnerability Database), Mend will also check License risks that we have within our application.
+ 
+ **[⬆ back to top](#advanced-introduction-to-devops)**
+
 ##  Module 14: Digital Transformation and DevOps 
 
    - **No Demos**
@@ -698,15 +703,10 @@
 
   - **No Demos**
 
+##  Module 16: Examples Of Different Practices Improvement in Several Areas 
 
-## Module 16: Applying Quality and Security for DevOps 
+  - **No Demos**
 
-  ### Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline. 
- 
-  In this demo you will learn and understand how to check vulnerabilities during continuous integration (CI). Also, you will understand the importance of learning the principles and sequence, not the tools.In that manner, we will build a java app and see the same concept applied here as we did with other .NET apps we built. you will learn how to use Mend tool to check vulnerabilities during continuous integration (CI), Mend will provide us with the security vulnerabilities what causes them and how to solve them.
-
-  Also, you will learn and understand the effects of outdated librarries on your app, What is the severity level, and suggested fixes to solve the issue by the NVD (National Vulnerability Database), Mend will also check License risks that we have within our application.
- 
  **[⬆ back to top](#advanced-introduction-to-devops)**
  
 ##  Module 17: Version Control in More Details  
