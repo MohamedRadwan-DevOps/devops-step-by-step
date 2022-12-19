@@ -579,33 +579,37 @@
 
   ### Demo 1: Provision infrastructure (Web App and Azure SQL on Azure) using ARM and Azure Pipeline. 
  
-  In this demo you will learn and understand how to provision azure resources (Web App and Azure SQL) using Azure Resource Manager (ARM) Template, and adding an initiation step in Azure Pipelines.
-  
-  Also, you will learn how IaC can improve your infrastructure provisioning process and deliver the flexibility that the cloud provides.
+  In this demo, you will learn how to create Azure Resource Manager (ARM) template using visual studio Also, you will examine different templates for various services on GitHub also how to check the visualization for the templates Then you will learn how to implement (Web App and Azure SQL) for deployment as an ARM template from scratch Also, you will learn how to configure your deployment Pipeline using the ARM template.
+
+  Also, you will learn that environments are immutable and how to use IaC to update your environment.
 
 
  ### Demo 2: Provision infrastructure (Web App on Azure) using Terraform and Azure Pipeline. 
  
-  In this demo you will learn and understand how  provision azure resource (Web App) using Terraform by HashiCorp, and adding an initiation step in Azure Pipelines.
+  In this demo you will learn and understand what is the difference between ARM Templates and Terraform and why is terraform
+  dominating the IaC market.
   
-  Also, you will learn how IaC can improve your infrastructure provisioning process by procuring the required resources when they are only needed.
-    
+  Also You will learn how to create Azure resource (Web App) using terraform by HashiCorp, and how to configure Terraform into your release pipeline.
+
 
  ### Demo 3: Install and Configure Liquibase on Azure pipeline self-hosted agent. 
  
-  In this demo you will learn and understand how download and configure Liquibase and it's extensions and the jdbc driver on your self-hosted machine.
+  In this demo you will learn and understand what is the Database change management (DCM) tools and how to download install and configure Liquibase and it's extensions and the jdbc driver on your self-hosted machine.
   
-  Also, you will learn and how to define it as global variable to all users to be able to communicate for pipeline agent run as service.
+  Also, you will learn and how to define it as global variable to all users to be able to communicate for pipeline agent that run as self-hosted.
     
 
 ### Demo 4: Using Liquibase for DB configuration management with H2 DB. 
  
-  In this demo you will learn and understand how to used the installed Liquibase on Azure pipeline for DB configuration management with H2 DB.
-    
+  In this demo you will learn and understand how to use Liquibase to make a change set with alter changes in the change log also, you will learn how to define values in the Liquibase configuration file and what is the difference between target and source database.
+  
+  Also, you will learn how to use CLI to check the difference between the source and target DB.    
 
  ### Demo 5: Deploy DB changes to Snowflake using Liquibase and Azure Pipeline. 
  
-  In this demo you will learn and understand how we can utilize Liquibase, a Database Change Management Tool, to deploy database changes in Snowflake using Liquibase and Azure Pipeline.
+  In this demo you will learn and understand how to create a snow-flake account and examine the sample-generated schemas then how to create a new DB on snowflake then you will also learn how to implement the snowflake connection string within the configuration file.
+  
+  Also, you will learn how to check build agent capabilities for Liquibase then you will learn how to configure Azure DevOps release pipeline using a self-hosted agent to alt changes between target DB and source DB using the pipelines 
 
 
  ### Demo 6: End-to-End CI-CD to Deploy Infrastructure and Web application.  (Free session)
