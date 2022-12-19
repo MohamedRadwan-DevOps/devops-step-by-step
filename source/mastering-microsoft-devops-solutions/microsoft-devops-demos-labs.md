@@ -27,17 +27,12 @@
     - [Integrate your Pipeline with Azure Boards](#integrate-your-pipeline-with-azure-boards)
     - [Create a multi-platform Pipeline](#create-a-multi-platform-pipeline)
     - [Integrate GitHub with Azure Pipeline](#integrate-github-with-azure-pipeline)
-    - [Integrating external source control with Azure Pipelines](#integrating-external-source-control-with-azure-pipelines)
-    - [Explore GitHub Actions](#explore-github-actions)
     - [Implement CI/CD using GitHub Actions](#implement-cicd-using-github-actions)
     - [Implement GitHub Actions by using DevOps Starter](#implement-github-actions-by-using-devops-starter)
-    - [Implement Triggers](#implement-triggers)
     - [Use GitHub self-hosted runner](#use-github-self-hosted-runner)
     - [Create GitHub encrypted secrets (repo, environment, organization)](#create-github-encrypted-secrets-repo-environment-organization)
     - [Create and deploy container image to Azure Container Instances (ACI)](#create-and-deploy-container-image-to-azure-container-instances-aci)
-    - [Deploy an Azure Kubernetes Service (AKS) cluster](#deploy-an-azure-kubernetes-service-aks-cluster)
     - [Push Docker image to Azure container Registry (ACR)](#push-docker-image-to-azure-container-registry-acr)
-    - [Deploy to Azure Container Apps](#deploy-to-azure-container-apps)
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
     - [Creating a release dashboard](#creating-a-release-dashboard)
     - [Controlling deployments using Release Gates](#controlling-deployments-using-release-gates)
@@ -176,24 +171,12 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Integrating external source control with Azure Pipelines
- 
-In this demo, you will learn and understand ....
-
-### Explore GitHub Actions
-
-In this demo, you will learn and understand ....
-
 ### Implement CI/CD using GitHub Actions
 
 In this demo, you will learn and understand ....
 
 ### Implement GitHub Actions by using DevOps Starter
  
-In this demo, you will learn and understand ....
-
-### Implement Triggers
-
 In this demo, you will learn and understand ....
 
 ### Use GitHub self-hosted runner
@@ -208,17 +191,10 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Deploy an Azure Kubernetes Service (AKS) cluster
-
-In this demo, you will learn and understand ....
-
 ### Push Docker image to Azure container Registry (ACR)
 
 In this demo, you will learn and understand ....
 
-### Deploy to Azure Container Apps
-
-In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
