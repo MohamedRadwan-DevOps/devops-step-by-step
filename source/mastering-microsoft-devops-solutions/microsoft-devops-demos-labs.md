@@ -4,21 +4,15 @@
   - [Module 1: DevOps transformation for enterprise DevOps](#module-1-devops-transformation-for-enterprise-devops)
     - [Azure Board project customization](#azure-board-project-customization)
     - [GitHub Projects and Project boards](#github-projects-and-project-boards)
-    - [Using GitHub workflow automation](#using-github-workflow-automation)
     - [Plan upcoming work using iteration in GitHub project](#plan-upcoming-work-using-iteration-in-github-project)
     - [Collaborate using GitHub team discussions](#collaborate-using-github-team-discussions)
-    - [Communicate using Markdown](#communicate-using-markdown)
     - [Using GitHub Pages with Jekyll](#using-github-pages-with-jekyll)
     - [Link GitHub to Azure Boards](#link-github-to-azure-boards)
     - [Migrate from TFVC to Git](#migrate-from-tfvc-to-git)
-    - [Configure Branch policies](#configure-branch-policies)
-    - [Work with GitHub Desktop](#work-with-github-desktop)
     - [Use Cherry Pick](#use-cherry-pick)
-    - [Fork with Azure DevOps](#fork-with-azure-devops)
-    - [Work with Git LFS (Git Large File Storage)](#work-with-git-lfs-git-large-file-storage)
     - [Generate changelog automatically](#generate-changelog-automatically)
     - [Explore and implement Git hooks](#explore-and-implement-git-hooks)
-    - [Using VFS (Virtual File System) for Git](#using-vfs-virtual-file-system-for-git)
+    - [Work with large repositories](#work-with-large-repositories)
     - [Purge repository data](#purge-repository-data)
     - [Manage releases with GitHub Repos](#manage-releases-with-github-repos)
     - [Automate release notes with GitHub](#automate-release-notes-with-github)
@@ -83,20 +77,12 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Using GitHub workflow automation
-
-In this demo, you will learn and understand ....
-
 ### Plan upcoming work using iteration in GitHub project
  
 In this demo, you will learn and understand ....
 
 ### Collaborate using GitHub team discussions
 
-In this demo, you will learn and understand ....
-
-### Communicate using Markdown
- 
 In this demo, you will learn and understand ....
 
 ### Using GitHub Pages with Jekyll
@@ -111,23 +97,7 @@ In this demo, you will learn and understand ....
  
 In this demo, you will learn and understand ....
 
-### Configure Branch policies
-
-In this demo, you will learn and understand ....
-
-### Work with GitHub Desktop
-
-In this demo, you will learn and understand ....
-
 ### Use Cherry Pick
-
-In this demo, you will learn and understand ....
-
-### Fork with Azure DevOps
-
-In this demo, you will learn and understand ....
-
-### Work with Git LFS (Git Large File Storage)
 
 In this demo, you will learn and understand ....
 
@@ -139,7 +109,7 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Using VFS (Virtual File System) for Git
+### Work with large repositories
 
 In this demo, you will learn and understand ....
 
