@@ -28,20 +28,19 @@
     - [Create and deploy container image to Azure Container Instances (ACI)](#create-and-deploy-container-image-to-azure-container-instances-aci)
     - [Push Docker image to Azure container Registry (ACR)](#push-docker-image-to-azure-container-registry-acr)
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
-    - [Creating a release dashboard](#creating-a-release-dashboard)
     - [Controlling deployments using Release Gates](#controlling-deployments-using-release-gates)
     - [Set Up Service Connection](#set-up-service-connection)
     - [Monitor availability with URL ping tests](#monitor-availability-with-url-ping-tests)
     - [Create and run a load test with Azure Load Testing Preview](#create-and-run-a-load-test-with-azure-load-testing-preview)
     - [Identify performance regressions by automating load tests with CI/CD](#identify-performance-regressions-by-automating-load-tests-with-cicd)
+    - [Set up and run functional tests](#set-up-and-run-functional-tests)
     - [Create and manage task groups](#create-and-manage-task-groups)
     - [Create and manage variable groups](#create-and-manage-variable-groups)
     - [Set up service hooks to monitor the pipeline](#set-up-service-hooks-to-monitor-the-pipeline)
     - [Configure and manage Azure DevOps and GitHub Notifications](#configure-and-manage-azure-devops-and-github-notifications)
     - [Integrate Build Failure Notification with Slack](#integrate-build-failure-notification-with-slack)
-    - [Integrate Build Failure Notification with MicrosoftTeams](#integrate-build-failure-notification-with-microsoftteams)
+    - [Creating a release dashboard](#creating-a-release-dashboard)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
-    - [Setting up and running functional tests](#setting-up-and-running-functional-tests)
     - [Setting up blue-green deployment](#setting-up-blue-green-deployment)
     - [Setting up Ring-based deployment](#setting-up-ring-based-deployment)
     - [Integrating Azure Key Vault with Azure DevOps](#integrating-azure-key-vault-with-azure-devops)
@@ -171,10 +170,6 @@ In this demo, you will learn and understand ....
 
 ## Module 3: Design and implement a release strategy
 
-### Creating a release dashboard
- 
-In this demo, you will learn and understand ....
-
 ### Controlling deployments using Release Gates
 
 In this demo, you will learn and understand ....
@@ -192,6 +187,10 @@ In this demo, you will learn and understand ....
 In this demo, you will learn and understand ....
 
 ### Identify performance regressions by automating load tests with CI/CD
+
+In this demo, you will learn and understand ....
+
+### Set up and run functional tests
 
 In this demo, you will learn and understand ....
 
@@ -215,18 +214,14 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Integrate Build Failure Notification with MicrosoftTeams
-
+### Creating a release dashboard
+ 
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
 
 ## Module 4: Implement a secure continuous deployment using Azure Pipelines
-
-### Setting up and running functional tests
-
-In this demo, you will learn and understand ....
 
 ### Setting up blue-green deployment
  
