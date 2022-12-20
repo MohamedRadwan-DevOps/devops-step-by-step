@@ -45,11 +45,10 @@
     - [Setting up Ring-based deployment](#setting-up-ring-based-deployment)
     - [Integrating Azure Key Vault with Azure DevOps](#integrating-azure-key-vault-with-azure-devops)
   - [Module 5: Manage infrastructure as code using Azure and DSC](#module-5-manage-infrastructure-as-code-using-azure-and-dsc)
-    - [Deploy an Azure Resource Manager (ARM) Template from a GitHub Action workflow](#deploy-an-azure-resource-manager-arm-template-from-a-github-action-workflow)
+    - [Work with Azure CLI](#work-with-azure-cli)
     - [Create a PowerShell Workflow Runbook in Automation](#create-a-powershell-workflow-runbook-in-automation)
     - [Using Azure Automation and PowerShell DSC](#using-azure-automation-and-powershell-dsc)
-    - [Deploy Azure resources using Bicep and Azure Pipelines](#deploy-azure-resources-using-bicep-and-azure-pipelines)
-    - [Deploy Azure resources using Bicep and GitHub Actions](#deploy-azure-resources-using-bicep-and-github-actions)
+    - [Deploy Azure resources using Bicep and Azure Pipelines, GitHub Actions](#deploy-azure-resources-using-bicep-and-azure-pipelines-github-actions)
   - [Module 6: Design and implement a dependency management strategy](#module-6-design-and-implement-a-dependency-management-strategy)
     - [Package management with GitHub Packages](#package-management-with-github-packages)
   - [Module 7: Implement continuous feedback](#module-7-implement-continuous-feedback)
@@ -240,7 +239,7 @@ In this demo, you will learn and understand ....
 
 ## Module 5: Manage infrastructure as code using Azure and DSC
 
-### Deploy an Azure Resource Manager (ARM) Template from a GitHub Action workflow
+### Work with Azure CLI
 
 In this demo, you will learn and understand ....
 
@@ -252,11 +251,7 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Deploy Azure resources using Bicep and Azure Pipelines
-
-In this demo, you will learn and understand ....
-
-### Deploy Azure resources using Bicep and GitHub Actions
+### Deploy Azure resources using Bicep and Azure Pipelines, GitHub Actions
 
 In this demo, you will learn and understand ....
 
