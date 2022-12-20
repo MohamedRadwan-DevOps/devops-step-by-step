@@ -57,8 +57,11 @@
     - [Integration between Azure DevOps and Microsoft Teams](#integration-between-azure-devops-and-microsoft-teams)
     - [Sharing Team Knowledge using Azure Project Wikis](#sharing-team-knowledge-using-azure-project-wikis)
   - [Module 8: Implement security and validate code bases for compliance](#module-8-implement-security-and-validate-code-bases-for-compliance)
-    - [Implement security and compliance in Azure Pipelines](#implement-security-and-compliance-in-azure-pipelines)
+    - [Implement GitHub Dependabot alerts and security updates](#implement-github-dependabot-alerts-and-security-updates)
     - [Managing technical debt with SonarQube and Azure DevOps](#managing-technical-debt-with-sonarqube-and-azure-devops)
+    - [Configure OWASP Zap in a Release Pipeline](#configure-owasp-zap-in-a-release-pipeline)
+    - [Create and manage policies to enforce compliance](#create-and-manage-policies-to-enforce-compliance)
+    - [Create and manage Azure Blueprints](#create-and-manage-azure-blueprints)
 
 
 ## Module 1: DevOps transformation for enterprise DevOps
@@ -291,12 +294,24 @@ In this demo, you will learn and understand ....
 
 ## Module 8: Implement security and validate code bases for compliance
 
-### Implement security and compliance in Azure Pipelines
- 
+### Implement GitHub Dependabot alerts and security updates
+
 In this demo, you will learn and understand ....
 
 ### Managing technical debt with SonarQube and Azure DevOps
  
+In this demo, you will learn and understand ....
+
+### Configure OWASP Zap in a Release Pipeline
+
+In this demo, you will learn and understand ....
+
+### Create and manage policies to enforce compliance
+
+In this demo, you will learn and understand ....
+
+### Create and manage Azure Blueprints
+
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
