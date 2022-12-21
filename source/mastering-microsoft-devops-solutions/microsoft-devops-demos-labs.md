@@ -9,31 +9,28 @@
     - [Using GitHub Pages with Jekyll](#using-github-pages-with-jekyll)
     - [Link GitHub to Azure Boards](#link-github-to-azure-boards)
     - [Migrate from TFVC to Git](#migrate-from-tfvc-to-git)
-    - [Use Cherry Pick](#use-cherry-pick)
+    - [Using different types of Git merge](#using-different-types-of-git-merge)
+    - [Using Git Flow branching strategy](#using-git-flow-branching-strategy)
     - [Generate changelog automatically](#generate-changelog-automatically)
     - [Explore and implement Git hooks](#explore-and-implement-git-hooks)
     - [Work with large repositories](#work-with-large-repositories)
     - [Purge repository data](#purge-repository-data)
     - [Manage releases with GitHub Repos](#manage-releases-with-github-repos)
     - [Automate release notes with GitHub](#automate-release-notes-with-github)
-    - [Using Git Flow branching strategy](#using-git-flow-branching-strategy)
   - [Module 2: Implement CI with Azure Pipelines and GitHub Actions](#module-2-implement-ci-with-azure-pipelines-and-github-actions)
-    - [Integrate your Pipeline with Azure Boards](#integrate-your-pipeline-with-azure-boards)
     - [Create a multi-platform Pipeline](#create-a-multi-platform-pipeline)
     - [Integrate GitHub with Azure Pipeline](#integrate-github-with-azure-pipeline)
     - [Implement CI/CD using GitHub Actions](#implement-cicd-using-github-actions)
     - [Implement GitHub Actions by using DevOps Starter](#implement-github-actions-by-using-devops-starter)
     - [Use GitHub self-hosted runner](#use-github-self-hosted-runner)
     - [Create GitHub encrypted secrets (repo, environment, organization)](#create-github-encrypted-secrets-repo-environment-organization)
-    - [Create and deploy container image to Azure Container Instances (ACI)](#create-and-deploy-container-image-to-azure-container-instances-aci)
-    - [Push Docker image to Azure container Registry (ACR)](#push-docker-image-to-azure-container-registry-acr)
+    - [Create and deploy container image with Azure Kubernetes Services (AKS) and Azure container Registry (ACR)](#create-and-deploy-container-image-with-azure-kubernetes-services-aks-and-azure-container-registry-acr)
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
     - [Controlling deployments using Release Gates](#controlling-deployments-using-release-gates)
     - [Set Up Service Connection](#set-up-service-connection)
     - [Monitor availability with URL ping tests](#monitor-availability-with-url-ping-tests)
     - [Create and run a load test with Azure Load Testing Preview](#create-and-run-a-load-test-with-azure-load-testing-preview)
     - [Identify performance regressions by automating load tests with CI/CD](#identify-performance-regressions-by-automating-load-tests-with-cicd)
-    - [Set up and run functional tests](#set-up-and-run-functional-tests)
     - [Create and manage task groups](#create-and-manage-task-groups)
     - [Create and manage variable groups](#create-and-manage-variable-groups)
     - [Set up service hooks to monitor the pipeline](#set-up-service-hooks-to-monitor-the-pipeline)
@@ -94,7 +91,11 @@ In this demo, you will learn and understand ....
  
 In this demo, you will learn and understand ....
 
-### Use Cherry Pick
+### Using different types of Git merge
+
+In this demo, you will learn and understand ....
+
+### Using Git Flow branching strategy
 
 In this demo, you will learn and understand ....
 
@@ -122,18 +123,11 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Using Git Flow branching strategy
-
-In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
 
 ## Module 2: Implement CI with Azure Pipelines and GitHub Actions
-
-### Integrate your Pipeline with Azure Boards
-
-In this demo, you will learn and understand ....
 
 ### Create a multi-platform Pipeline
 
@@ -159,11 +153,7 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Create and deploy container image to Azure Container Instances (ACI)
-
-In this demo, you will learn and understand ....
-
-### Push Docker image to Azure container Registry (ACR)
+### Create and deploy container image with Azure Kubernetes Services (AKS) and Azure container Registry (ACR)
 
 In this demo, you will learn and understand ....
 
@@ -190,10 +180,6 @@ In this demo, you will learn and understand ....
 In this demo, you will learn and understand ....
 
 ### Identify performance regressions by automating load tests with CI/CD
-
-In this demo, you will learn and understand ....
-
-### Set up and run functional tests
 
 In this demo, you will learn and understand ....
 
