@@ -42,6 +42,7 @@
     - [Creating a release dashboard](#creating-a-release-dashboard)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
     - [Setting up blue-green deployment](#setting-up-blue-green-deployment)
+    - [Manage feature flags](#manage-feature-flags)
     - [Setting up Ring-based deployment](#setting-up-ring-based-deployment)
     - [Integrating Azure Key Vault with Azure DevOps](#integrating-azure-key-vault-with-azure-devops)
   - [Module 5: Manage infrastructure as code using Azure and DSC](#module-5-manage-infrastructure-as-code-using-azure-and-dsc)
@@ -227,6 +228,10 @@ In this demo, you will learn and understand ....
 
 ### Setting up blue-green deployment
  
+In this demo, you will learn and understand ....
+
+### Manage feature flags
+
 In this demo, you will learn and understand ....
 
 ### Setting up Ring-based deployment
