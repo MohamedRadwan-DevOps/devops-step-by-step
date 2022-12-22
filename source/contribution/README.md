@@ -6,6 +6,4 @@
 
 - [🎯 Guidelines to write Q/A Demos](Guidlines-to-write-Q-A-demos.md "Guidelines to write Q/A Demos")
 
-- [🔎 Contribution Culture](contribution-culture.md "Contribution Culture")
-
 - [📑 Q/A Template](assets/templates/ "Q/A Template")
