@@ -71,9 +71,9 @@
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 
-- [▶ Subscribe to our channel (English)](https://www.youtube.com/user/MRadwanMSF "Subscribe to Mohamed's YouTube Channel")
+- [▶ Subscribe to our channel (English)](https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1 "Subscribe to Mohamed's YouTube Channel")
 
-- [▶ Subscribe to our channel (Arabic)](https://www.youtube.com/c/MohamedRadwanArabic "Subscribe to Mohamed's YouTube Channel")
+- [▶ Subscribe to our channel (Arabic)](https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1 "Subscribe to Mohamed's YouTube Channel")
 
 ## Connect with me
   [![Twitter](/source/images/mics/twitter-icon.png "Twitter")](https://twitter.com/mradwan06)

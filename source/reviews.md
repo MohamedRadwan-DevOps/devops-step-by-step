@@ -472,7 +472,7 @@ Lastly, Mohamed Radwan gave us a lot of advices, and taught us how to properly i
 
 <br></br>
 
-![Ali Gamal](/images/reviewers/aligamal.png)
+![Ali Gamal](images/reviewers/aligamal.png)
 
 ## Ali Gamal
 ## Embedded Systems and IoT Engineer/Egypt
