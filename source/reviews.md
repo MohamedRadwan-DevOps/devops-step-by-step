@@ -560,3 +560,15 @@ The Mentor Program provided by the course is outstanding mentor speakers that wi
 </a>
 
 <br></br>
+
+![Mona Mohamed](images/reviewers/MonaMohamed.png)
+
+## Mona Mohamed
+## Test Automation Engineer / The Netherlands
+
+I attended the third batch and this was absolutely outstanding.My story started when I decided to make a career shift to DevOps and i was looking to understand the whole SDLC workflow, Devops principles and how to apply them but it was ending up with just leanring techologies and that i didn't want it at all. Your approach of understanding the architecture, how the thing was built, why the thing was built, and what problems was the thing created to solve really makes a difference. it's the best approach to learn things and better understanding.
+There aren't many people who follow this approach in teaching so please, if you can do more content please do.
+I enjoyed the whole course and i didn't feel bored or hard to focus at all. You made it easy and smooth to focus and learn.
+
+I can't thank you enough for your efforts and I hope you keep doing great content.
+<br></br>
