@@ -671,8 +671,11 @@
 
   ### Demo 1: Create and use Log Analytics workspace. 
  
-  In this demo you will learn and understand how to create a Log Analytics workspace, Also, you will learn and how to collect logs and data.
-
+In this demo you will learn and understand 
+- How to check the different logs and monitor them locally using the event viewer. 
+- How to check performance monitoring for the Hardware resources such as CPU,RAM, etc...
+- How to create log analytics workspace on Azure cloud and how to collect different logs, 
+- How to make a dash board out of our generated data.
 
  ### Demo 2:  Create view and manage log analytics alert. 
  
