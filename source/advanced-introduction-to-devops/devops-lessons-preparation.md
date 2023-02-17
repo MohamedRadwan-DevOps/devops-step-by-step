@@ -96,7 +96,7 @@
 
 - Enable IIS on your windows machine (windows feature)
 
-  - [Enable IIS on your windows machine (windows feature) Webpage](https://enterprise.arcgis.com/en/web-adaptor/latest/install/iis/enable-iis-10-components-server.htm)
+  - [Enable IIS on your windows machine (windows feature) Webpage](https://gis.wsu.edu/portal/portalhelp/en/web-adaptor/latest/install/iis/enable-iis-10-components-server.htm)
 
   - [Enable IIS on your windows machine (windows feature) Video](https://www.youtube.com/watch?v=fTMPq3Ti1OU)
 
