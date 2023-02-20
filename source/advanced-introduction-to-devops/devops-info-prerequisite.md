@@ -1,11 +1,11 @@
-# Advanced Introduction to DevOps
+# Fundamentals of Modern Software Engineering and DevOps
 
 ## Course Info and Prerequisites.
 
 
 ### Course Name: 
 
-Advanced Introduction to DevOps.
+Fundamentals of Modern Software Engineering and DevOps.
 
 ### Duration of the course: 
 
@@ -75,4 +75,4 @@ The starting date will be updated on the following course Date & Time page:
 
 [Date & Time Schedule ](../course-schedule.md)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**

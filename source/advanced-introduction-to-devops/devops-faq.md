@@ -1,4 +1,4 @@
-# Advanced Introduction to DevOps
+# Fundamentals of Modern Software Engineering and DevOps
 
 ## Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
   - [I am confused, is the course free or paid?](#i-am-confused-is-the-course-free-or-paid)
@@ -289,7 +289,7 @@ Yes, all sessions will be recorded here:
 
 [YouTube English Channel](https://www.youtube.com/user/MRadwanMSF)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 
 

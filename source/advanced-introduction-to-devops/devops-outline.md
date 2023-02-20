@@ -1,18 +1,20 @@
 
-# Advanced Introduction to DevOps
+# Fundamentals of Modern Software Engineering and DevOps
 
 ## Course Outline
 
+- [Fundamentals of Modern Software Engineering and DevOps](#fundamentals-of-modern-software-engineering-and-devops)
+  - [Course Outline](#course-outline)
   - [Module 0: Course Overview](#module-0-course-overview)
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
-  - [Module 2: Application Development Lifecyle in Action](#module-2-application-development-lifecyle-in-action)
+  - [Module 2: Application Development Lifecycle in Action](#module-2-application-development-lifecycle-in-action)
   - [Module 3: Introduction to Cloud](#module-3-introduction-to-cloud)
   - [Module 4: Tooling for DevOps](#module-4-tooling-for-devops)
   - [Module 5: Evolution of Computing Options](#module-5-evolution-of-computing-options)
   - [Module 6: Managing Version Control](#module-6-managing-version-control)
   - [Module 7: Defining and Implementing Continuous Integration (CI)](#module-7-defining-and-implementing-continuous-integration-ci)
   - [Module 8: Designing a Dependency Management Strategy](#module-8-designing-a-dependency-management-strategy)
-  - [Module 9: Defining and Implementing a Continuous Delivery & Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
+  - [Module 9: Defining and Implementing a Continuous Delivery \& Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
   - [Module 10: Managing Configuration Management for Infrastructure and Database](#module-10-managing-configuration-management-for-infrastructure-and-database)
   - [Module 11: Team Collaboration and Work Tracking](#module-11-team-collaboration-and-work-tracking)
   - [Module 12: Overview of SRE and Monitoring Practices](#module-12-overview-of-sre-and-monitoring-practices)
@@ -130,4 +132,4 @@
  - Lesson 2: How to build a professional CV to pass in big organization
  - Lesson 3: Interpersonal and soft skills you need to work in big organization
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**

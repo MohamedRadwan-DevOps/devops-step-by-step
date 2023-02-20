@@ -23,7 +23,7 @@
 
   - [❓ Course FAQ](/source/introduction-to-information-technology/it-faq.md "Course FAQ")
 
-- [⬇️ Advanced Introduction to DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
+- [⬇️ Fundamentals of Modern Software Engineering and DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
 
   - [⚠️ Course Info and Prerequisites](/source/advanced-introduction-to-devops/devops-info-prerequisite.md "Course Info and Prerequisites")
 

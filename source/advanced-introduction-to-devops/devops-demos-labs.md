@@ -1,8 +1,10 @@
 
-# Advanced Introduction to DevOps
+# Fundamentals of Modern Software Engineering and DevOps
 
 ## Course Demos/Labs (83 Demos/Labs)
 
+- [Fundamentals of Modern Software Engineering and DevOps](#fundamentals-of-modern-software-engineering-and-devops)
+  - [Course Demos/Labs (83 Demos/Labs)](#course-demoslabs-83-demoslabs)
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
     - [No Demos](#no-demos)
   - [Module 2: Application Development Lifecycle in Action](#module-2-application-development-lifecycle-in-action)
@@ -66,7 +68,7 @@
     - [Demo 5: Package and publish the API App to Azure Pipeline Artifact.](#demo-5-package-and-publish-the-api-app-to-azure-pipeline-artifact)
     - [Demo 6: Package and publish PartsUnlimited App to Azure Pipeline Artifact.](#demo-6-package-and-publish-partsunlimited-app-to-azure-pipeline-artifact)
     - [Demo 7: Package and publish a .NET Docker image to Docker Hub.](#demo-7-package-and-publish-a-net-docker-image-to-docker-hub)
-  - [Module 9: Defining and Implementing a Continuous Delivery & Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
+  - [Module 9: Defining and Implementing a Continuous Delivery \& Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
     - [Demo 1: Create a CD for API.](#demo-1-create-a-cd-for-api)
     - [Demo 2: Create a CD for Parts-Unlimited.](#demo-2-create-a-cd-for-parts-unlimited)
     - [Demo 3: Configure Azure Pipeline as a process for self-hosted and run UI tests.](#demo-3-configure-azure-pipeline-as-a-process-for-self-hosted-and-run-ui-tests)
@@ -96,11 +98,11 @@
     - [Demo 1: Run Static Application Security Testing (SAST) using Azure Pipeline.](#demo-1-run-static-application-security-testing-sast-using-azure-pipeline)
   - [Module 14: Digital Transformation and DevOps](#module-14-digital-transformation-and-devops)
   - [Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation](#module-15-analyzing-the-current-maturity-of-devops-and-applying-the-transformation)
- - [Module 16: Examples Of Different Practices Improvement in Several Areas](#module-16-examples-of-different-practices-improvement-in-several-areas)
+  - [Module 16: Examples Of Different Practices Improvement in Several Areas](#module-16-examples-of-different-practices-improvement-in-several-areas)
   - [Module 17: Version Control in More Details](#module-17-version-control-in-more-details)
     - [Demo 1: Use git branch and merge.](#demo-1-use-git-branch-and-merge)
     - [Demo 2: Use git PR with Azure Repo and GitHub.](#demo-2-use-git-pr-with-azure-repo-and-github)
-    - [Demo 3: Managing git conflicts.](#Demo-3-Managing-git-conflicts)
+    - [Demo 3: Managing git conflicts.](#demo-3-managing-git-conflicts)
     - [Demo 4: Create fork with GitHub and use PR.](#demo-4-create-fork-with-github-and-use-pr)
   - [Module 18: Docker in More Details](#module-18-docker-in-more-details)
     - [Demo 1: Working with Docker in more details on Linux.](#demo-1-working-with-docker-in-more-details-on-linux)
@@ -281,7 +283,7 @@
   
   Also, you will learn how to control the sleep threading for each UI test and use the NuGet package management to update any package required to run a UI test like Selenium.Webdriver.ChromeDriver in our example.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 3: Introduction to Cloud 
 
@@ -328,7 +330,7 @@
 
   Also, you will explore Office-365 different apps (Outlook, Powerpoint, Word, etc), and how to navigate to the admin center and explore all options (Users, Teams & groups, Roles, ...etc).
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 4: Tooling for DevOps 
 
@@ -356,7 +358,7 @@
   Explore Repos, Commits, Pushes, Branches, and Pull Requests.
   Explore Pipelines, Releases, Test Plans, and Artifacts.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 5: Evolution of Computing Options 
 
@@ -372,7 +374,7 @@
  
   In this demo, you will learn and understand how to deploy a sample .NET core app on an Ubuntu machine to a docker image, run a container from this image, run the deployed app and explore it.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 6: Managing Version Control 
 
@@ -430,7 +432,7 @@
 
   Also, you will learn how to install VS Code to your machine, create a remote repo on Azure DevOps, connect to it from VS Code, clone the repo, how to set Git configuration from VS Code using Git Graph extension globally or locally to a specific repo, explore changes, add a .gitignore file, how to add the untracked files to the staging state, how to commit the staged files to the committed state, and push the local changes to the cloned repo.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 7: Defining and Implementing Continuous Integration (CI) 
 
@@ -482,7 +484,7 @@
 
   Also, you will create a new classic pipeline, add an ASP.NET core task template, run the build, and explore the build logs to make sure the build run and the package is created successfully.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
  
 ##  Module 8: Designing a Dependency Management Strategy 
 
@@ -535,7 +537,7 @@
   Also, you will learn how to create a new service connection to connect to Docker Hub, how to create a new Docker Hub account, a new repository to push the docker image, how to pull the image after pushing it and run it to make sure everything is working as expected.  
   
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 9: Defining and Implementing a Continuous Delivery & Release Strategy 
 
@@ -573,7 +575,7 @@
   
   Also, you will learn how is the CI/CD workflow work in action when a new commit gets pushed into the selected branch.
 
- **[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
  
 ##  Module 10: Managing Configuration Management for Infrastructure and Database 
 
@@ -616,7 +618,7 @@
 
   In this demo you will learn and understand how to create an Azure repo and how to push the code to the remote repo, create and configure a Continuous Integration (CI) pipeline that will build/test the application and the infrastructure as code as well. Also, you will learn and understand how to create two packages, the application package which includes all the app code like CSS, HTML, java-scripts, etc, and the infra package which includes all the terraform code of the environment on Azure. After that you will learn how to push and store the two packages to Azure artifacts, then create and configure a Continuous Deployment (CD) pipeline that picks the packages from the artifacts, after that it will provision App service on Azure, Azure SQL Server and Database using the infra package, and in the end, deploy the app package to the provisioned environment.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 11: Team Collaboration and Work Tracking 
 
@@ -664,7 +666,7 @@
   Also, you will learn how to create a new dashboard, how to configure an array of charts and widgets, the sequence for adding and customizing a dashboard, the sequence for adding query-based charts to a dashboard, more about widgets (Assigned to me, Burndown chart, Lead time, cycle time, and so on), and more about Marketplace widgets and extensibility.
 
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 
 ## Module 12: Overview of SRE and Monitoring Practices 
@@ -691,7 +693,7 @@ In this demo you will learn and understand
  
   In this demo you will learn and understand how to create, view, and manage metric alert rules through Azure portal and Azure CLI.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 13: Applying Quality and Security for DevOps 
 
@@ -701,7 +703,7 @@ In this demo you will learn and understand
 
   Also, you will learn and understand the effects of outdated libraries on your app, What is the severity level, and suggested fixes to solve the issue by the NVD (National Vulnerability Database), Mend will also check License risks that we have within our application.
  
- **[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 14: Digital Transformation and DevOps 
 
@@ -715,7 +717,7 @@ In this demo you will learn and understand
 
   - **No Demos**
 
- **[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
  
 ##  Module 17: Version Control in More Details  
 
@@ -743,7 +745,7 @@ In this demo you will learn and understand
 
   Also, you will learn how make a pull request from your fork and how is the project repo maintainers handle pull request by checking changes and merge pull requests to the main repo.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 18: Docker in More Details  
 
@@ -764,7 +766,7 @@ In this demo you will learn and understand
 
   Also you will examine how the docker-compose can pull all the images needed create containers and run them using only 1 file for reusability.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ##  Module 19: Mentoring, CV and Interpersonal Skills  
 
@@ -772,4 +774,4 @@ In this demo you will learn and understand
 
   In this demo you will learn and understand how to write your CV based on some real CVs with no names either for the person or the company, but they passed the screening phase and the interview for more than one big company.
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**

@@ -1,6 +1,8 @@
-# Advanced Introduction to DevOps
+# Fundamentals of Modern Software Engineering and DevOps
 
-## DevOps Course lessons outcomes
+## Modern Software Engineering and DevOps Course lessons outcomes
+- [Fundamentals of Modern Software Engineering and DevOps](#fundamentals-of-modern-software-engineering-and-devops)
+  - [Modern Software Engineering and DevOps Course lessons outcomes](#modern-software-engineering-and-devops-course-lessons-outcomes)
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
     - [Lesson 1: Waterfall vs. Agile](#lesson-1-waterfall-vs-agile)
     - [Lesson 2: What is required to be a DevOps Engineer?](#lesson-2-what-is-required-to-be-a-devops-engineer)
@@ -36,7 +38,7 @@
     - [Lesson 2: Overview of Dependency Management](#lesson-2-overview-of-dependency-management)
     - [Lesson 3: Integrating Packages in Build Pipeline](#lesson-3-integrating-packages-in-build-pipeline)
     - [Lesson 4: Managing Security and Access for Package Management](#lesson-4-managing-security-and-access-for-package-management)
-  - [Module 9: Defining and Implementing a Continuous Delivery & Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
+  - [Module 9: Defining and Implementing a Continuous Delivery \& Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
     - [Lesson 1: Understanding Continuous Delivery (CD)](#lesson-1-understanding-continuous-delivery-cd)
     - [Lesson 2: Overview of Deployment Stages and Approval Process](#lesson-2-overview-of-deployment-stages-and-approval-process)
     - [Lesson 3: Separating Functional Release from Technical Release](#lesson-3-separating-functional-release-from-technical-release)
@@ -66,7 +68,7 @@
     - [Lesson 2: Improving Hosting Environment](#lesson-2-improving-hosting-environment)
     - [Lesson 3: Improving Backlog Structure and Size](#lesson-3-improving-backlog-structure-and-size)
     - [Lesson 4: Improving Backlog Realization By Providing Storyboard](#lesson-4-improving-backlog-realization-by-providing-storyboard)
-    - [Lesson 5: Improving Release using Feature Flag & Deployment Rings](#lesson-5-improving-release-using-feature-flag--deployment-rings)
+    - [Lesson 5: Improving Release using Feature Flag \& Deployment Rings](#lesson-5-improving-release-using-feature-flag--deployment-rings)
   - [Module 17: Advanced Version Control](#module-17-advanced-version-control)
     - [Lesson 1: Understanding Git Basics](#lesson-1-understanding-git-basics)
     - [Lesson 2: Git Branches](#lesson-2-git-branches)
@@ -103,7 +105,7 @@ Understanding the difference between Lead time and  Cycle time, what it means fo
 Also, understand how DevOps covers The End-to-End Engineering, and one of its goals is enhancing lead time and increasing the frequency of deployment.
 
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 2: Application Development Lifecycle in Action
 
@@ -160,7 +162,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note:  You can find more details about each module demos on demos/labs page**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 3: Introduction to Cloud
 
@@ -186,7 +188,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 4: Tooling for DevOps
 
@@ -213,7 +215,7 @@ Understanding and learning what is GitHub, what are the different options to imp
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 5: Evolution of Computing Options
 
@@ -239,7 +241,7 @@ Understanding and learning an overview of Containers, what is Docker, and some A
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 6: Managing Version Control
 
@@ -283,7 +285,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 7: Defining and Implementing Continuous Integration (CI)
 
@@ -316,7 +318,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note:  You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 8: Designing a Dependency Management Strategy
 
@@ -398,7 +400,7 @@ Lastly, with all dependencies being managed it is also possible to stay in contr
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 9: Defining and Implementing a Continuous Delivery & Release Strategy
 
@@ -453,7 +455,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 10: Managing Configuration Management for Infrastructure and Database
 
@@ -484,7 +486,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 11: Team Collaboration and Work Tracking
 
@@ -520,7 +522,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 12: Overview of SRE and Monitoring Practices
 
@@ -541,7 +543,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 13: Applying Quality and Security for DevOps
 
@@ -566,7 +568,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 14: Digital Transformation and DevOps
 
@@ -584,7 +586,7 @@ Also, understand what is Shift Left and Shift Right, Shift Left and Continuous P
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation
 
@@ -617,7 +619,7 @@ Also, understand how improving one or few areas only is not enough, and sometime
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 16: Examples Of Different Practices Improvement in Several Areas
 
@@ -647,7 +649,7 @@ Understanding and learning what is Feature Flag, and how to track Deployments to
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 17: Advanced Version Control
 
@@ -697,7 +699,7 @@ Understanding and learning how to protect the important branches, and why you ne
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 18: Docker in More Details
 
@@ -773,7 +775,7 @@ Also, apply and implement the following demos/exercises.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 19: Mentoring, CV and Interpersonal Skills
 
@@ -788,6 +790,6 @@ Also, apply and implement the following demos/exercises.
 
 **Note: You can find more details about this module demos on demos/labs page.**
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 

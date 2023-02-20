@@ -1,4 +1,4 @@
-# Advanced Introduction to DevOps
+# Fundamentals of Modern Software Engineering and DevOps
 
 - [⚠️ Course Info and Prerequisites](devops-info-prerequisite.md "Course Info and Prerequisites")
 

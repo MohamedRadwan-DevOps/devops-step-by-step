@@ -1,7 +1,9 @@
-# Advanced Introduction to DevOps
+# Fundamentals of Modern Software Engineering and DevOps
 
-## DevOps Course lessons preparation points
+## Modern Software Engineering and DevOps Course lessons preparation points
 
+- [Fundamentals of Modern Software Engineering and DevOps](#fundamentals-of-modern-software-engineering-and-devops)
+  - [Modern Software Engineering and DevOps Course lessons preparation points](#modern-software-engineering-and-devops-course-lessons-preparation-points)
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
   - [Module 2: Application Development Lifecycle in Action](#module-2-application-development-lifecycle-in-action)
   - [Module 3: Introduction to Cloud](#module-3-introduction-to-cloud)
@@ -10,7 +12,7 @@
   - [Module 6: Managing Version Control](#module-6-managing-version-control)
   - [Module 7: Defining and Implementing Continuous Integration (CI)](#module-7-defining-and-implementing-continuous-integration-ci)
   - [Module 8: Designing a Dependency Management Strategy](#module-8-designing-a-dependency-management-strategy)
-  - [Module 9: Defining and Implementing a Continuous Delivery & Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
+  - [Module 9: Defining and Implementing a Continuous Delivery \& Release Strategy](#module-9-defining-and-implementing-a-continuous-delivery--release-strategy)
   - [Module 10: Managing Configuration Management for Infrastructure and Database](#module-10-managing-configuration-management-for-infrastructure-and-database)
   - [Module 11: Team Collaboration and Work Tracking](#module-11-team-collaboration-and-work-tracking)
   - [Module 12: Overview of SRE and Monitoring Practices](#module-12-overview-of-sre-and-monitoring-practices)
@@ -78,7 +80,7 @@
   - [Lead Time and Cycle time Video](https://www.youtube.com/watch?v=7rlfaolUsgo)
 
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 2: Application Development Lifecycle in Action 
 
@@ -206,7 +208,7 @@
 
     [Code coverage Webpage](https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-coverage/#:~:text=Code)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 3: Introduction to Cloud 
 
@@ -274,7 +276,7 @@
 
   - [Virtual Machine software, Hyper-V, VMware, VirtualBox Webpage](https://www.makeuseof.com/tag/virtualbox-vs-vmware-vs-hyper-v/)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 4: Tooling for DevOps 
 
@@ -362,7 +364,7 @@
 
   - [Gitlab Video](https://www.youtube.com/watch?v=gbJUasioKiI)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 5: Evolution of Computing Options 
 
@@ -390,7 +392,7 @@
 
   - [Docker Video](https://www.youtube.com/watch?v=_dfLOzuIg2o)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 6: Managing Version Control 
 
@@ -412,7 +414,7 @@
 
   - [Git commands Video](https://www.youtube.com/watch?v=PSJ63LULKHA)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 7: Defining and Implementing Continuous Integration (CI) 
 
@@ -462,7 +464,7 @@
 
   - [Azure Pipeline classic vs YAML Video](https://www.youtube.com/watch?v=3cGtA__dKUc)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 8: Designing a Dependency Management Strategy 
 
@@ -530,7 +532,7 @@
 
   - [Semantic Versioning (SemVer) Video](https://www.youtube.com/watch?v=MdzJuQdjKOE)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 9: Defining and Implementing a Continuous Delivery & Release Strategy 
 
@@ -608,7 +610,7 @@
 
   - [Progressive exposure deployment Video](https://www.youtube.com/watch?v=nGMbR0pRg30)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 10: Managing Configuration Management for Infrastructure and Database 
 
@@ -642,7 +644,7 @@
 
   - [Snowflake DaaS Video](https://www.youtube.com/watch?v=xojAXXRo_S0)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 11: Team Collaboration and Work Tracking 
 
@@ -682,7 +684,7 @@
 
   - [Burndown chart Video](https://www.youtube.com/watch?v=rCY0XrSef1A)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 12: Overview of SRE and Monitoring Practices 
 
@@ -728,7 +730,7 @@
 
   - [Azure Log Analytics Video](https://www.youtube.com/watch?v=XuAg8ofrC5c)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 13: Applying Quality and Security for DevOps 
 
@@ -834,7 +836,7 @@
 
   - [CWE, CVE, and CVSS Video](https://www.youtube.com/watch?v=ohxpqw1IhtY)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 14: Digital Transformation and DevOps 
 
@@ -854,7 +856,7 @@
 
   - [DORA (DevOps Research and Assessment) Video](https://www.youtube.com/watch?v=YOvEIFLWz3I)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 15: Analyzing The Current Maturity of DevOps and Applying the Transformation 
 
@@ -870,7 +872,7 @@
 
   - [Scrum vs Kanban vs Lean Development Video](https://www.youtube.com/watch?v=rIaz-l1Kf8w)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 16: Examples Of Different Practices Improvement in Several Areas 
 
@@ -898,7 +900,7 @@
 
   - [Kubernetes Video](https://www.youtube.com/watch?v=cC46cg5FFAM)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 17: Version Control in More Details 
 
@@ -962,7 +964,7 @@
 
   - [Version Control Video (3)](https://youtu.be/4ypupcCGrgo)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
 ## Module 18: Docker in More Details 
 
@@ -1026,4 +1028,4 @@
 
   - [Doing several actions using Docker commands](https://youtu.be/IlD70yahtWY)
 
-**[⬆ back to top](#advanced-introduction-to-devops)**
+**[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**

@@ -1,6 +1,6 @@
 ## Service Price
 
-**Advanced Introduction to DevOps Course fees**
+**Fundamentals of Modern Software Engineering and DevOps Course fees**
 
  - The first package: $500.
 

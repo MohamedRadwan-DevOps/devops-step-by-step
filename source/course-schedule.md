@@ -9,6 +9,6 @@
 
 ### Introduction to DevOps Round (3) starts on Tuesday 13th September 2022 at 18:00 (Arabic Class)
 
-### Introduction to DevOps Round (4) starts on Tuesday 21st February 2023 at 18:00 (Arabic Class)
+### Fundamentals of Modern Software Engineering and DevOps (4) starts on Tuesday 21st February 2023 at 18:00 (Arabic Class)
 
 ### Mastering Microsoft DevOps Round (1) starts on Monday 20th March 2023 at 18:00 (Arabic Class)
