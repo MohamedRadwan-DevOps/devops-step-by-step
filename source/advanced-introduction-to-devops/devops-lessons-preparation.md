@@ -2,8 +2,6 @@
 
 ## Modern Software Engineering and DevOps Course lessons preparation points
 
-- [Fundamentals of Modern Software Engineering and DevOps](#fundamentals-of-modern-software-engineering-and-devops)
-  - [Modern Software Engineering and DevOps Course lessons preparation points](#modern-software-engineering-and-devops-course-lessons-preparation-points)
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
   - [Module 2: Application Development Lifecycle in Action](#module-2-application-development-lifecycle-in-action)
   - [Module 3: Introduction to Cloud](#module-3-introduction-to-cloud)
