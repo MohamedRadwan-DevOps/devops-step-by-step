@@ -25,7 +25,7 @@ https://yourorganization.visualstudio.com or https://dev.azure.com/yourorganizat
 
 6- It will take 2-3 business days to respond to your free tier requests.
 
-7- You will recieve an email that your request was completed
+7- You will receive an email that your request was completed
 
 ![](images/azure-devops-parallelism-request/parallelism-request-reply.png)
 
