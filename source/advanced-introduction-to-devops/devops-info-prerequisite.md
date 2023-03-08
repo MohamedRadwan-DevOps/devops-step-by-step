@@ -22,7 +22,8 @@ $750.
   
 ### Payment methods:
 
-Bank transfer, PayPal and Vodafone cash.
+Bank transfer, PayPal 
+and Vodafone cash number 01224073193 but please contact first through whatsApp MRS.Nadia the financial director from 9 AM to 9 PM .
 
   
 ### Course date:
