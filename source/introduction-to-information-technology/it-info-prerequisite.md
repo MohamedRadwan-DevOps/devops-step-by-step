@@ -36,9 +36,9 @@ The exact date will be announced two weeks before the start date.
 The course has only one class for now which is Arabic class. 
 
 
-If you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms Nadia via WhatsApp and send a text msg to the following no. (**00201224073193**)
+If you are interested in joining the **Arabic** class, please contact our Financial Manager in Egypt, Ms Nadia via WhatsApp and send a text msg to the following No. (**00201224073193**)
 
-Also, we will announce the course start date for each round on Linked In and Facebook. So, if you couldn’t enrol at this time, you could try with the next round or the one after.
+Also, we will announce the course start date for each round on Linked In and Facebook. So, if you couldn’t enroll at this time, you could try the next round or the one after.
 
 Moreover, the timing shall be updated on the following timetable page:
 
@@ -49,9 +49,10 @@ Moreover, the timing shall be updated on the following timetable page:
 ### Course prerequisites : 
 
 
-- This course is for very beginners and only require that you have the basic Windows or Linux operating system as a normal user.
-
-
+- This course is for all beginners and it requires that you have the basics of:
+   - using Windows or Linux operating system as a normal user
+   - programing, networking, DB
+   - PowerShell and Bash script as well.
 
 ### Course level:
 
