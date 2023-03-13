@@ -145,7 +145,7 @@ What are the components/elements of the App development, what is the difference 
 Also, understand the concept of packaging and its process, why it is important, why we do it, what is the concept of package management, and what is the NuGet package management and explore it well.
 
 Also, apply and implement the following demos/exercises.
-- Package and deploy API app to IIS.
+- Package and deploy API app to IIS (Internet Information Service).
 - Package the class library and publish it to the NuGet package
 - Replace the class library in the API with the NuGet package library.
   
@@ -182,7 +182,7 @@ Also, apply and implement the following demos/exercises.
 - Create an Azure Subscription Free account.
 - Create Ubuntu on Azure and connect to it using SSH.
 - Exploring flexible scalability by adding-removing resources to VM.
-- Create Windows 10 VM on Azure and enable IIS, install .NET core runtime, expose port 80 and deploy the API.
+- Create Windows 10 VM on Azure and enable IIS (Internet Information Service), install .NET core runtime, expose port 80 and deploy the API.
 - Create a Web App on Azure and deploy the API using FTP.
 - Examine SasS like office-365.
 
