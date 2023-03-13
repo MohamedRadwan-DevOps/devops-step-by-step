@@ -140,7 +140,7 @@ Also, apply and implement the following demos/exercises (**Note:** it is very im
 
 Understanding what are the different types of applications, what are the types of architecture models and workflow for these different applications.
 
-What are the components/elements of the App development, what is the difference between Library and API, and and when we need the dependency libraries (DLLs).
+What are the components/elements of the App development, what is the difference between Library and API, and when we need the dependency libraries (DLLs).
 
 Also, understand the concept of packaging and its process, why it is important, why we do it, what is the concept of package management, and what is the NuGet package management and explore it well.
 
