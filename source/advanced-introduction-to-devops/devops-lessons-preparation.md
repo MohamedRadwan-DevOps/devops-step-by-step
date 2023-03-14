@@ -168,7 +168,7 @@
 
 - Dynamic analysis for code
 
-  - [Dynamic analysis for code Webpage](https://www.overops.com/blog/static-vs-dynamic-code-analysis-how-to-choose-between-them/#:~:text=Dynamic)
+  - [Dynamic analysis for code Webpage](https://www.harness.io/blog/static-vs-dynamic-code-analysis)
 
   - [Dynamic analysis for code Video](https://www.youtube.com/watch?v=seuW81p4gv4)
 
