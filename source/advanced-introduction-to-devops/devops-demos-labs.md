@@ -21,7 +21,7 @@
     - [Demo 11: Amend the Console App to use the API.](#demo-11-amend-the-console-app-to-use-the-api)
     - [Demo 12: Amend the Desktop App to use the API.](#demo-12-amend-the-desktop-app-to-use-the-api)
     - [Demo 13: Create another API that consumes the 1st API.](#demo-13-create-another-api-that-consumes-the-1st-api)
-    - [Demo 14: Examine Several API requests and well form the JSON return.](#demo-14-examine-several-api-requests-and-well-form-the-json-return)
+    - [Demo 14: Examine Several API requests and format the json response well.](#demo-14-examine-several-api-requests-and-well-form-the-json-return)
     - [Demo 15: Package API and Deploy it to local IIS and expose to public.](#demo-15-package-api-and-deploy-it-to-local-iis-and-expose-to-public)
     - [Demo 16: Intro to NuGet package management.](#demo-16-intro-to-nuget-package-management)
     - [Demo 17: Package the class library and publish it to nuget package.](#demo-17-package-the-class-library-and-publish-it-to-nuget-package)
@@ -184,7 +184,7 @@
  
   In this demo, you will learn and understand how to create a new API App project, configure it, create a new controller, and write the business logic of the calc app (Average, Smallest, Largest) inside it.
 
-  Also, you will learn how to build your app, configure your launch settings, run your app on IIS Express (built-in web server on VS), call all APIs with different numbers to make sure all working as expected, and finally publish your created API App and explore the published folder.
+  Also, you will learn how to build your app, configure your launch settings, run your app on IIS Express (built-in web server on VS), call all API endpoints with different numbers to make sure all are working as expected and finally publish your created API App and explore the published folder.
     
 
  ### Demo 9: Create a Class Library for Calc (Average, Largest, Smallest)- amend the console app to use it. 
@@ -193,49 +193,49 @@
 
   Also, you will learn how to build your app, explore the build folder and examine the DLL file.
 
-  How to replace the business logic inside your Console App with using the DLL of the Class Library, and make sure it is working as expected.
+  How to replace the business logic inside your Console App using the DLL of the Class Library and make sure it is working as expected.
 
 
  ### Demo 10: Amend the API App to use the Class Library. 
  
-  In this demo, you will learn and understand how to use the Class Library to separate the logic from the app and understand how DLLs can make your code flexible and efficient.
+  In this demo, you will learn and understand how to make use of the Class Library (DLL) to keep the business logic isolated and understand how DLLs can make your code flexible, resuable and memory efficient.
 
-  Also, you will learn how to add the DLL file to your created API App, and a reference to it, and replace the business logic code inside by the added Class Library, build and run your app and make sure it is working as expected.
+  Also, you will learn how to add the DLL library to your API App and replace the written business logic code with the added Class Library, build and run your app and make sure it is working as expected.
     
 
  ### Demo 11: Amend the Console App to use the API. 
  
-  In this demo, you will learn and understand how to replace the Class Library inside your created Console App by calling the APIs of the API App, using them, build and run your app to make sure it is working as expected.
+  In this demo, you will learn and understand how to replace the Class Library inside your Console App by making HTTP requests to the API App, build and run your app to make sure it is working as expected.
     
 
  ### Demo 12: Amend the Desktop App to use the API. 
  
-  In this demo, you will learn and understand how to replace the business logic inside  your created Desktop App by calling the APIs of the API App and using them, build and run your app to make sure it is working as expected
+  In this demo, you will learn and understand how to replace the business logic inside your Desktop App by making HTTP requests to the API App, build and run your app to make sure it is working as expected
 
  ### Demo 13: Create another API that consumes the 1st API. 
  
   In this demo, you will learn how to Create a 2nd API app and understand how to call the 1st API from the 2nd API. 
 
-  Also, you will learn how Modern Software Architecture can make improve your code by introducing modularization versus old monolithic applications. 
+  Also, you will learn how Modern Software Architecture can improve your code by introducing modularization versus old monolithic applications. 
     
 
- ### Demo 14: Examine Several API requests and well form the JSON return. 
+ ### Demo 14: Examine Several API requests and format the json response well. 
  
-  In this demo, you will learn and understand how to make and examine several public APIs, and format the APIs results to JSON format.
+  In this demo, you will examine several public APIs, Send HTTP Get Requests and format the APIs json response.
   
-  Also, you will learn how to make a Get API request to retrieve all projects in your Azure DevOps organization, and also a Post API request to create a project, item, etc.
+  Also, you will learn how to make an API HTTP Get request to retrieve all projects in your Azure DevOps organization and also an API HTTP POST request to create a project, item, etc.
     
 
  ### Demo 15: Package API and Deploy it to local IIS and expose to public. 
  
-  In this demo, you will learn and understand how to package the API app, turn on the Windows feature Internet Information Service (IIS), and how download ASP.NET core runtime and Windows Server Hosting (Windows Hosting Bundle) to make the IIS web server understand the API App, and how to deploy your API package to the local IIS web server, and finally call all API methods (Average, Smallest, and Largest) and make sure it's working as expected.
+  In this demo, you will learn and understand how to package the API app, turn on the Windows feature Internet Information Service (IIS) and how to download ASP.NET core runtime and Windows Server Hosting Bundle to make the IIS web server understand the API App, and how to deploy your API package to the local IIS web server and finally call all API endpoints (Average, Smallest and Largest) and make sure it's working as expected.
   
-  Also, you will learn how to expose port 800 (port forward), so that your local machine becomes a web server and is accessible to the public.
+  Also, you will learn how to expose port 80 (port forwarding) so that your local machine becomes a web server and become accessible to the public.
 
 
  ### Demo 16: Intro to NuGet package management. 
  
-  In this demo, you will learn more about the public package management NuGet, which is the package manager for .NET. The NuGet client tools provide the ability to produce and consume packages. The NuGet Gallery is the central package repository used by all package authors and consumers.
+  In this demo, you will learn more about the public package management NuGet which is the package manager for .NET. The NuGet client tools provide the ability to produce and consume packages. The NuGet Gallery is the central package repository used by all package authors and consumers.
   Explore Nuget packages list, how to search for any package by its name or author, its download numbers, its author's profile, explore its commands to install it, reference to it, etc.
 
   Also, you will learn how to open package management inside Visual Studio (client for NuGet package), browse packages, and install/uninstall any package you want.
@@ -243,18 +243,18 @@
 
  ### Demo 17: Package the class library and publish it to nuget package. 
  
-  In this demo, you will learn and understand a mechanism through which developers can create, share, and consume useful code.
+  In this demo, you will learn and understand a mechanism through which developers can create, share and consume useful code.
   How the code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
 
-  Also, you will learn how to create an account on the Nuget, sign in, generate an API key to use to push the Class Library to NuGet, and finally push it.
+  Also, you will learn how to create an account on the Nuget website, sign in, generate an API key to use to push the Class Library to NuGet and finally push it.
 
 
  ### Demo 18: Replace the class library in the API with the nuget package library. 
  
   In this demo, you will learn and understand the difference between Modern Software Architecture and Classic Software Architecture, and how to remove the class library that contained the logic in the API app and replace it with the package that was published to NuGet package management.
-  How to search for your published package from VS, install it, build and run your app and make sure everything works as expected.
+  How to search for your published package from VS, install it, build it, run your app and make sure everything is working as expected.
   
-  Also, you will learn how is important to restore the packages before building your app if they were deleted as the app is using the deleted DLL and there is a dependency on it.
+  Also, you will learn how important it is to restore the packages before building your app if they were deleted as the app won't run because the app is depending on the deleted DLL.
 
 
  ### Demo 19: Create Unit test for the class library. 
