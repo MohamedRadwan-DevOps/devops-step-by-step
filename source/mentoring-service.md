@@ -20,11 +20,11 @@
 
 **Conditions:**
 
-- Mentorship program is exclusive only to the members who have previously enrolled in the course in any batch.
-- Cost of the annual subscription is $84 annually, which is $7/month.
+- a Mentorship program is exclusive only to the members who have previously enrolled in the course in any batch.
+- The Cost of the annual subscription is $84 annually, which is $7/month.
 - Annual subscription is paid once a year at the beginning of the subscription.
 - Joining fees of the program is $320, to be paid once.
 - Course members are exempted from joining fees if they join immediately after the course (the grace period is only one week after the course).
 the annual membership will exempt the members from any price increase in the future.
-- Cost of one technical support ticket is $15, and 10 tickets can be purchased for $120 which is $12 per ticket, It has to be used in the same year of membership subscription
-- Cost of the private session (one-to-one) is $25 per session.
+- The Cost of one technical support ticket is $15, and 10 tickets can be purchased for $120 which is $12 per ticket, It has to be used in the same year of membership subscription
+- The Cost of the private session (one-to-one) is $25 per session.
