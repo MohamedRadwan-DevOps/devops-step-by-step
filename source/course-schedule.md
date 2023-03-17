@@ -11,4 +11,4 @@
 
 ### Fundamentals of Modern Software Engineering and DevOps (4) starts on Tuesday 21st February 2023 at 18:00 (Arabic Class)
 
-### Mastering Microsoft DevOps Round (1) starts on Monday 20th March 2023 at 18:00 (Arabic Class)
+### Mastering Microsoft DevOps Round (1) starts on Monday 19th June 2023 at 18:00 (Arabic Class)
