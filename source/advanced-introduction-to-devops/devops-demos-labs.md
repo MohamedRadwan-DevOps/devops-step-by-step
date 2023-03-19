@@ -198,7 +198,7 @@
 
  ### Demo 10: Amend the API App to use the Class Library. 
  
-  In this demo, you will learn and understand how to make use of the Class Library (DLL) to keep the business logic isolated and understand how DLLs can make your code flexible, resuable and memory efficient.
+  In this demo, you will learn and understand how to make use of the Class Library (DLL) to keep the business logic isolated and understand how DLLs can make your code flexible, reusable and memory efficient.
 
   Also, you will learn how to add the DLL library to your API App and replace the written business logic code with the added Class Library, build and run your app and make sure it is working as expected.
     
