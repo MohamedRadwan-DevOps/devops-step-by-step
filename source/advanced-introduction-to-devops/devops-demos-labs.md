@@ -132,7 +132,7 @@
  
   In this demo, you will learn and understand how to enable virtualization to your processor, and enable windows to feature Hyper-V to configure your machine to work with virtual machines (VMs).
 
-  Also, you will learn how to create Windows 11 VM from gallery on the cloud using Windows 11 image, and how to connect, start, sign in to to the created VM, and start exploring it.
+  Also, you will learn how to create Windows 11 VM from gallery on the cloud using Windows 11 image, and how to connect, start, sign in to the created VM, and start exploring it.
 
   Also, you will explore the VM settings, and learn how to configure them (Memory, Hard Disk, CPU, etc). After that, you will learn how to create multiple checkpoints, and learn how every checkpoint includes only the diff/ delta between the current and the previous version of the hard disk, how to apply one of the created checkpoints and revert the previous version, also how to delete, export the checkpoint, and how to create a virtual switch so that you can communicate over the internet. 
 
