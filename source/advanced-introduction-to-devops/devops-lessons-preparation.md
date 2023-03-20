@@ -410,7 +410,7 @@
 
 - Git commands
 
-  - [Git commands Webpage](https://www.youtube.com/watch?v=PSJ63LULKHA)
+  - [Git commands Webpage](https://www.hostinger.com/tutorials/basic-git-commands)
 
   - [Git commands Video](https://www.youtube.com/watch?v=PSJ63LULKHA)
 
