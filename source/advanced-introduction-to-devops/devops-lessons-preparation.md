@@ -388,7 +388,7 @@
 
 - Docker
 
-  - [Docker Webpage](https://www.ibm.com/in-en/cloud/learn/docker)
+  - [Docker Webpage](https://www.ibm.com/topics/docker)
 
   - [Docker Video](https://www.youtube.com/watch?v=_dfLOzuIg2o)
 
