@@ -388,7 +388,7 @@
 
 - Docker
 
-  - [Docker Webpage](https://www.ibm.com/in-en/cloud/learn/docker)
+  - [Docker Webpage](https://www.ibm.com/topics/docker)
 
   - [Docker Video](https://www.youtube.com/watch?v=_dfLOzuIg2o)
 
@@ -410,7 +410,7 @@
 
 - Git commands
 
-  - [Git commands Webpage](https://www.youtube.com/watch?v=PSJ63LULKHA)
+  - [Git commands Webpage](https://www.hostinger.com/tutorials/basic-git-commands)
 
   - [Git commands Video](https://www.youtube.com/watch?v=PSJ63LULKHA)
 
