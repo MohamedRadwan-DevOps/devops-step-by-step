@@ -247,14 +247,14 @@ Understanding and learning an overview of Containers, what is Docker, and some A
 
 ### Lesson 1: Introduction to Source Control
 
-Understanding and learning what is Source/Version Control, why we use it, and why we should keep everything under Version Control.
+Understanding and learning what is Source/Version Control, why we use it and why we should keep everything under Version Control.
 
 Also, apply and implement the following demo/exercise.
-- Examine History on GitHub.
+- Examine History on GitHub and Blame feature.
 
 ### Lesson 2: Working with Git
 
-Understanding and learning how to install Git on Windows and Ubuntu, what are the different types of files for Version Control, what are the types of changes under Version Control, what is Conflict, and when does it happen.
+Understanding and learning how to install Git on Windows and Ubuntu, what are the different types of files for Version Control, what are the types of changes under Version Control, what is a Conflict and when does it happen.
 
 Also, understand the difference between Hand-typed text files and Generated text files.
 
@@ -274,14 +274,14 @@ Also, apply and implement the following demos/exercises.
 
 ### Lesson 4: Overview of GitHub
 
-Understanding and learning what is GitHub, what are the different types of GitHub accounts, and how to use Git remote repo with GitHub.
+Understanding and learning what is GitHub, what are the different types of GitHub accounts, and how to host you git repo on GitHub.
 
-Also, understand how to interact with Azure Repo, and GitHub using different IDEs like Visual Studio and Visual Studio Code.
+Also, understand how to interact with Azure Repos and GitHub using different IDEs like Visual Studio and Visual Studio Code(VS code).
 
 Also, apply and implement the following demos/exercises.
 - Use git remote repo with GitHub.
-- Work with git using IDE (Visual Studio) to interact with Azure Repo and GitHub.
-- Work with git using IDE (VS Code) to interact with Azure Repo.
+- Work with git using IDE (Visual Studio) to interact with Azure Repo and GitHub using (Team Explorer).
+- Work with git using IDE (VS Code) to interact with Azure Repo and GitHub using and visualize git repo using git graph extention.
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
@@ -291,7 +291,7 @@ Also, apply and implement the following demos/exercises.
 
 ### Lesson 1: Understanding Continuous Integration (CI)
 
-Understanding and learning what is Continuous Integration (CI), what are the different problems faced software industry before CI, what is the difference between build with Continuous Integration and without it, what is Continuous Integration and Continuous Delivery (CI/CD) lifecycle in legacy and modern Engineering, and what are the different Continuous Integration tasks.
+Understanding and learning what is Continuous Integration (CI), what are the different problems software industry faced before CI, what is the difference between build with Continuous Integration and without it, what is Continuous Integration and Continuous Delivery (CI/CD) lifecycle in legacy and modern Engineering, and what are the different Continuous Integration tasks.
 
 ### Lesson 2: Continuous Integration with Azure DevOps
 
