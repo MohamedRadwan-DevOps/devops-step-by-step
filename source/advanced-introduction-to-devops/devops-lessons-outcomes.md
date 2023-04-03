@@ -168,23 +168,17 @@ Also, apply and implement the following demos/exercises.
 
 ### Lesson 1: Overview of Cloud Computing Models
 
-Understanding and learning what is Cloud Computing, what are cloud computing models, what is the difference between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), what are the Cloud Computing Deployment Models, what is the difference between On-Premise (Private), Public, and Hybrid Cloud, and what is the Cloud Provider.
-
-Also, understand what is Multi-cloud, why choose Multi-cloud, and some examples for the Cloud Service Models.
-
-### Lesson 2: Examine Cloud Computing Models in Action
-
-Understanding and learning how to create an Azure subscription (free account), how to create an Azure resource group, how to create Ubuntu VM on Azure, and how to connect to it from your local machine.
+Understanding and learning how to create an Azure subscription (free trial account), how to create an Azure resource group, how to create Ubuntu VM on Azure, and how to connect to it from your local machine.
 
 Also, understand and explore flexible scalability by adding/removing resources to VM, how to create and explore the website in the Infrastructure as a Service (IaaS) model, create and explore the website in the Platform as a Service (PaaS) model, explore the Software as Services(SaaS), what is Azure and what is inside it.
 
 Also, apply and implement the following demos/exercises.
-- Create an Azure Subscription Free account.
-- Create Ubuntu on Azure and connect to it using SSH.
-- Exploring flexible scalability by adding-removing resources to VM.
-- Create Windows 10 VM on Azure and enable IIS (Internet Information Service), install .NET core runtime, expose port 80 and deploy the API.
-- Create a Web App on Azure and deploy the API using FTP.
-- Examine SasS like office-365.
+- Create an Azure Subscription Free Trial account.
+- Create Ubuntu vm on Azure and connect to it using SSH & RDP.
+- Exploring flexible scalability by adding-removing resources(Memory & CPU) to VM.
+- Create Windows 10 VM on Azure and enable IIS (Internet Information Service), install .NET core 3.1 runtime, expose port 80 and deploy the API app.
+- Create a Web App (Paas) on Azure and deploy the API app using FTP.
+- Examine SasS model like office-365.
 
 **Note:  You can find more details about this module demos on demos/labs page**
 
