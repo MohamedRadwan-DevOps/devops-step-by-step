@@ -671,13 +671,14 @@
 
 ## Module 12: Overview of SRE and Monitoring Practices 
 
-  ### Demo 1: Create and use Log Analytics workspace. 
- 
-In this demo you will learn and understand 
-- How to check the different logs and monitor them locally using the event viewer. 
-- How to check performance monitoring for the Hardware resources such as CPU,RAM, etc...
-- How to create log analytics workspace on Azure cloud and how to collect different logs, 
-- How to make a dash board out of our generated data.
+ ### Demo 1: Create and use Log Analytics workspace. 
+
+  In this demo, you will learn and understand how to check the different logs and monitor them locally using the event viewer, and how to check performance monitoring for the Hardware resources such as CPU, RAM, etc.
+
+  Also, you will learn and the features and capabilities of Azure Log Analytics, a powerful tool for collecting, analyzing, and visualizing data from your Azure resources and applications. With Azure Log Analytics, you can gain insights into your Azure environment, troubleshoot issues, and optimize your operations.
+
+  Also, we will walk you through the process of creating and using a Log Analytics workspace, including how to connect data sources, create queries, visualize data, and how create dashboards that visualize all of your saved log queries to give you the ability to find, correlate, and share data in your organization.
+
 
  ### Demo 2:  Create view and manage log analytics alert. 
  
@@ -691,7 +692,7 @@ In this demo you will learn and understand
 
  ### Demo 4: Create, view, and manage metric alerts. 
  
-  In this demo you will learn and understand how to create, view, and manage metric alert rules through Azure portal and Azure CLI.
+  In this demo you will learn and understand
 
 **[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
