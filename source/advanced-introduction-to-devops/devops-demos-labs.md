@@ -772,6 +772,8 @@ In this demo you will learn and understand
 
  ### Demo 1: Examine more than 10 real professional CVs that passed the screening and they have been accepted. 
 
-  In this demo you will learn and understand how to write your CV based on some real CVs with no names either for the person or the company, but they passed the screening phase and the interview for more than one big company.
+  In this demo you will learn and understand how to communicate effectively, build strong relationships. We will also provide tips on how to network and make a positive impression in your professional and personal life.
+  
+  Also, you will learn the essential elements of a compelling CV, including how to tailor your CV to job opportunities and how to highlight your skills, experience, and accomplishments. We will also provide some real CVs (with no names either for the person or the company) that passed the screening phase and the interview for more than one big company.
 
 **[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
