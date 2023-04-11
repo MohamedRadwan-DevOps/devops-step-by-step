@@ -18,7 +18,7 @@
  - Important Notes
  - Course Overview
 
-## Module 1: DevOps transformation for enterprise DevOps
+## Module 1: DevOps Transformation for Enterprise DevOps
 
 - Lesson 1: Plan Agile with GitHub Projects and Azure Boards
 - Lesson 2: Introduction to source control
@@ -28,7 +28,7 @@
 - Lesson 6: Manage Git branches and workflows
 - Lesson 7: Collaborate with pull requests in Azure Repos
 - Lesson 8: Explore Git hooks
-- Lesson 9: Plan foster inner source
+- Lesson 9: Plan to foster inner source
 - Lesson 10: Manage Git repositories
 - Lesson 11: Identify technical debt
 
@@ -85,7 +85,7 @@
 - Lesson 2: Develop monitor and status dashboards
 - Lesson 3: Share knowledge within teams
 - Lesson 4: Design processes to automate application analytics
-- Lesson 5: Manage alerts, Blameless retrospectives and a just culture
+- Lesson 5: Manage alerts, Blameless retrospectives, and just culture
 
 ## Module 8: Implement security and validate code bases for compliance
 
