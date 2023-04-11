@@ -751,20 +751,25 @@ In this demo you will learn and understand
 
  ### Demo 1: Working with Docker in more details on Linux. 
  
-  In this demo you will learn and understand more about docker, container, image, you will also understand the container structure how to run it normally and how to run it as interactive mode to change and edit files inside the container, how to attach and detach from containers and why, After learning how to manipulate files in the container you will learn how to commit and create your own image.
+  In this demo, you will learn and understand more about docker, container, and image, you will also understand the container structure how to run it normally and how to run it as an interactive mode to change and edit files inside the container, how to attach and detach from containers and why, After learning how to manipulate files in the container you will learn how to commit and create your own image.
 
-  Also you will learn how to examine images and understand what is the image layers, At the end, you will learn what is the docker multi-stage builds and why you should use it while building your own app images.
+  Also, you will learn how to examine images and understand what is the image layers, At the end, you will learn what is the docker multi-stage build and why you should use it while building your own app images.
 
+  Also, you will learn and practise different docker commands like (docker –version, docker pull, docker run, docker ps, docker ps -a, docker stop, docker commit, etc).
 
  ### Demo 2: Working with Docker on Windows. 
  
- In this demo you will learn more about how to use docker on window. 
+ In this demo you will learn and understand the basics of Docker on Windows, including how to install, set up and configure Docker Desktop for Windows with WSL 2 which provides a development environment for building, shipping, and running dockerized apps. 
+ 
+ Also, you will understand the container structure, how to run it normally and how to run it as an interactive mode to change and edit files inside the container, how to attach and detach from containers and why, After learning how to manipulate files in the container you will learn how to commit and create your own image.
+
+ Also, you will learn and practise different docker commands like (docker –version, docker pull, docker run, docker ps, docker ps -a, docker stop, docker commit, etc). 
 
  ### Demo 3: More about Docker and how to use Docker compose. 
  
-  In this demo, you will learn and understand more about docker-compose, and you will also learn about the usage of docker-compose files and how it is written, and why it's needed in small environments to run, start, stop, delete multiple containers.
-
-  Also you will examine how the docker-compose can pull all the images needed create containers and run them using only 1 file for reusability.
+  In this demo, you will learn and understand more about docker-compose which is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
+  
+  Also, and you will learn how to install docker-compose, the usage of docker-compose file, how it is written, and how to Build and run your app with Compose.
 
 **[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
 
