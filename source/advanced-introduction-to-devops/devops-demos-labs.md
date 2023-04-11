@@ -1,10 +1,10 @@
 
 # Fundamentals of Modern Software Engineering and DevOps
 
-## Course Demos/Labs (83 Demos/Labs)
+## Course Demos/Labs (85 Demos/Labs)
 
 - [Fundamentals of Modern Software Engineering and DevOps](#fundamentals-of-modern-software-engineering-and-devops)
-  - [Course Demos/Labs (83 Demos/Labs)](#course-demoslabs-83-demoslabs)
+  - [Course Demos/Labs (85 Demos/Labs)](#course-demoslabs-85-demoslabs)
   - [Module 1: Introduction to Agile and DevOps](#module-1-introduction-to-agile-and-devops)
     - [No Demos](#no-demos)
   - [Module 2: Application Development Lifecycle in Action](#module-2-application-development-lifecycle-in-action)
