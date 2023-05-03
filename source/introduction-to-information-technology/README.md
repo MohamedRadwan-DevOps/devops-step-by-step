@@ -1,7 +1,7 @@
 # Introduction to Information Technology
 
-- [⚠️ Course Info and Prerequisites](it-info-prerequisite.md "Course Info and Prerequisites")
+- [⚠️ Course Info and Prerequisites](./source/it-info-prerequisite.md "Course Info and Prerequisites")
 
-- [📃 Course Outlines](it-outline.md "Course Outlines")
+- [📃 Course Outlines](./source/it-outline.md "Course Outlines")
 
-- [❓ Course FAQ](it-faq.md "Course FAQ")
+- [❓ Course FAQ](./source/it-faq.md "Course FAQ")

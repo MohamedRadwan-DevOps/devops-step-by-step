@@ -1,13 +1,13 @@
 # Mastering Microsoft DevOps Solutions (Get Certified)
 
-- [⚠️ Course Info and Prerequisites](microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
+- [⚠️ Course Info and Prerequisites](./source/microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
 
-- [📃 Course Outlines](microsoft-devops-outline.md "Course Outlines")
+- [📃 Course Outlines](./source/microsoft-devops-outline.md "Course Outlines")
 
-- [🔖 Course Lessons Outcomes](microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
+- [🔖 Course Lessons Outcomes](./source/microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-- [🧪 Course Demos/Labs](microsoft-devops-demos-labs.md "Course Demos/Labs")
+- [🧪 Course Demos/Labs](./source/microsoft-devops-demos-labs.md "Course Demos/Labs")
 
-- [📝 Course Preparation Points](microsoft-devops-lessons-preparation.md "Course Preparation Points")
+- [📝 Course Preparation Points](./source/microsoft-devops-lessons-preparation.md "Course Preparation Points")
 
-- [❓ Course FAQ](microsoft-devops-faq.md "Course FAQ")
+- [❓ Course FAQ](./source/microsoft-devops-faq.md "Course FAQ")
