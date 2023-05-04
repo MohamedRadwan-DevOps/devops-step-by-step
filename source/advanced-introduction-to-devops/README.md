@@ -1,13 +1,13 @@
 # Fundamentals of Modern Software Engineering and DevOps
 
-- [⚠️ Course Info and Prerequisites](devops-info-prerequisite.md "Course Info and Prerequisites")
+- [⚠️ Course Info and Prerequisites](./source/devops-info-prerequisite.md "Course Info and Prerequisites")
 
-- [📃 Course Outlines](devops-outline.md "Course Outlines")
+- [📃 Course Outlines](./source/devops-outline.md "Course Outlines")
 
-- [🔖 Course Lessons Outcomes](devops-lessons-outcomes.md "Course Lessons Outcomes")
+- [🔖 Course Lessons Outcomes](./source/devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-- [🧪 Course Demos/Labs](devops-demos-labs.md "Course Demos/Labs")
+- [🧪 Course Demos/Labs](./source/devops-demos-labs.md "Course Demos/Labs")
 
-- [📝 Course Preparation Points](devops-lessons-preparation.md "Course Preparation Points")
+- [📝 Course Preparation Points](./source/devops-lessons-preparation.md "Course Preparation Points")
 
-- [❓ Course FAQ](devops-faq.md "Course FAQ")
+- [❓ Course FAQ](./source/devops-faq.md "Course FAQ")
