@@ -17,11 +17,11 @@
 
 - [⬇️ Introduction to Information Technology](/source/introduction-to-information-technology/ "Introduction to Information Technology")
 
-  - [⚠️ Course Info and Prerequisites](/source/introduction-to-information-technology/it-info-prerequisite.md "Course Info and Prerequisites")
+  - [⚠️ Course Info and Prerequisites](/source/introduction-to-information-technology/source/it-info-prerequisite.md "Course Info and Prerequisites")
 
-  - [📃 Course Outlines](/source/introduction-to-information-technology/it-outline.md "Course Outlines")
+  - [📃 Course Outlines](/source/introduction-to-information-technology/source/it-outline.md "Course Outlines")
 
-  - [❓ Course FAQ](/source/introduction-to-information-technology/it-faq.md "Course FAQ")
+  - [❓ Course FAQ](/source/introduction-to-information-technology/source/it-faq.md "Course FAQ")
 
 - [⬇️ Fundamentals of Modern Software Engineering and DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
 
@@ -40,17 +40,17 @@
 
 - [⬇️ Mastering Microsoft DevOps Solutions (Get Certified)](/source/mastering-microsoft-devops-solutions/ "Mastering Microsoft DevOps Solutions (Get Certified)")
 
-  - [⚠️ Course Info and Prerequisites](/source/mastering-microsoft-devops-solutions/microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
+  - [⚠️ Course Info and Prerequisites](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-info-prerequisite.md "Course Info and Prerequisites")
 
-  - [📃 Course Outlines](/source/mastering-microsoft-devops-solutions/microsoft-devops-outline.md "Course Outlines")
+  - [📃 Course Outlines](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-outline.md "Course Outlines")
 
-  - [🔖 Course Lessons Outcomes](/source/mastering-microsoft-devops-solutions/microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
+  - [🔖 Course Lessons Outcomes](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-  - [🧪 Course Demos/Labs](/source/mastering-microsoft-devops-solutions/microsoft-devops-demos-labs.md "Course Demos/Labs")
+  - [🧪 Course Demos/Labs](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-demos-labs.md "Course Demos/Labs")
 
-  - [📝 Course Preparation Points](/source/mastering-microsoft-devops-solutions/microsoft-devops-lessons-preparation.md "Course Preparation Points")
+  - [📝 Course Preparation Points](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-lessons-preparation.md "Course Preparation Points")
 
-  - [❓ Course FAQ](/source/mastering-microsoft-devops-solutions/microsoft-devops-faq.md "Course FAQ")
+  - [❓ Course FAQ](/source/mastering-microsoft-devops-solutions/source/microsoft-devops-faq.md "Course FAQ")
 
 - [⬇️ Mastering Terraform (Get Certified)](source/mastering-terraform/ "Mastering Terraform (Get Certified)")
 
