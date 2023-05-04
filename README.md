@@ -25,17 +25,17 @@
 
 - [⬇️ Fundamentals of Modern Software Engineering and DevOps](/source/advanced-introduction-to-devops/ "Advanced Introduction to DevOps")
 
-  - [⚠️ Course Info and Prerequisites](/source/advanced-introduction-to-devops/devops-info-prerequisite.md "Course Info and Prerequisites")
+  - [⚠️ Course Info and Prerequisites](/source/advanced-introduction-to-devops/source/devops-info-prerequisite.md "Course Info and Prerequisites")
 
-  - [📃 Course Outlines](/source/advanced-introduction-to-devops/devops-outline.md "Course Outlines")
+  - [📃 Course Outlines](/source/advanced-introduction-to-devops/source/devops-outline.md "Course Outlines")
 
-  - [🔖 Course Lessons Outcomes](/source/advanced-introduction-to-devops/devops-lessons-outcomes.md "Course Lessons Outcomes")
+  - [🔖 Course Lessons Outcomes](/source/advanced-introduction-to-devops/source/devops-lessons-outcomes.md "Course Lessons Outcomes")
 
-  - [🧪 Course Demos/Labs](/source/advanced-introduction-to-devops/devops-demos-labs.md "Course Demos/Labs")
+  - [🧪 Course Demos/Labs](/source/advanced-introduction-to-devops/source/devops-demos-labs.md "Course Demos/Labs")
 
-  - [📝 Course Preparation Points](/source/advanced-introduction-to-devops/devops-lessons-preparation.md "Course Preparation Points")
+  - [📝 Course Preparation Points](/source/advanced-introduction-to-devops/source/devops-lessons-preparation.md "Course Preparation Points")
 
-  - [❓ Course FAQ](/source/advanced-introduction-to-devops/devops-faq.md "Course FAQ")
+  - [❓ Course FAQ](/source/advanced-introduction-to-devops/source/devops-faq.md "Course FAQ")
 
 
 - [⬇️ Mastering Microsoft DevOps Solutions (Get Certified)](/source/mastering-microsoft-devops-solutions/ "Mastering Microsoft DevOps Solutions (Get Certified)")
