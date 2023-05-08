@@ -2,60 +2,60 @@
 
 1: Navigate to start menu and open Hyper-v Manager.
 
-![](images/install-uninstall-docker/01-Hyper-v.png)
+![](/source/docs/images/install-uninstall-docker/01-Hyper-v.png)
 
 2.1 Select your Linux virtual machine. </br>
 2.2 Click start.
 
-![](images/install-uninstall-docker/02-Ubu-VM-Start.PNG)
+![](/source/docs/images/install-uninstall-docker/02-Ubu-VM-Start.PNG)
   
 
 3: Open terminal
  
 
-![](images/install-uninstall-docker/03-Open-Terminal.PNG)
+![](/source/docs/images/install-uninstall-docker/03-Open-Terminal.PNG)
   
 4: Run the following command to update package management:
 
 > sudo apt update
 
-![](images/install-uninstall-docker/04-apt-update.PNG)
+![](/source/docs/images/install-uninstall-docker/04-apt-update.PNG)
 
 5: Run the following command to Install docker :
 
 > sudo apt install docker.io
 
-![](images/install-uninstall-docker/05-Install-docker.PNG)
+![](/source/docs/images/install-uninstall-docker/05-Install-docker.PNG)
 
 6: You can also remove docker by running the following command:
 
 > sudo apt remove docker.io
 
-![](images/install-uninstall-docker/06-Remove-docker.PNG)
+![](/source/docs/images/install-uninstall-docker/06-Remove-docker.PNG)
 
 7: Let's download docker again.
 
 > sudo apt install docker.io
 
-![](images/install-uninstall-docker/07-Install-docker.PNG)
+![](/source/docs/images/install-uninstall-docker/07-Install-docker.PNG)
 
 8: Examine Docker Hub:
 
 8.1.1 Navigate to [Docker Hub](http://hub.docker.com/)</br>
 8.1.2 Examine the available images:
 
-![](images/install-uninstall-docker/08-Navigate-explore.PNG)
+![](/source/docs/images/install-uninstall-docker/08-Navigate-explore.PNG)
 
 
 8.2 We will examine 2 examples which are: </br>
 8.2.1: Ubuntu . </br>
 8.2.2: Alpine. </br>
 
-![](images/install-uninstall-docker/09-Ubuntu-Apline.PNG)
+![](/source/docs/images/install-uninstall-docker/09-Ubuntu-Apline.PNG)
 
 8.3 Navigate to ubuntu you can see the pull command highlighted:
 </br></br>
-![](images/install-uninstall-docker/010-Ubuntu.PNG)
+![](/source/docs/images/install-uninstall-docker/010-Ubuntu.PNG)
 - Let's Pull some images:
 </br></br>
 
@@ -67,11 +67,11 @@
 
 > sudo docker images
 
-![](images/install-uninstall-docker/011-pull-ubuntu.PNG)
+![](/source/docs/images/install-uninstall-docker/011-pull-ubuntu.PNG)
 
 10: Navigate back to alpine page you can see the alpine command.
 
-![](images/install-uninstall-docker/012-alpine.PNG)
+![](/source/docs/images/install-uninstall-docker/012-alpine.PNG)
 
 11.1 Run the following command to pull alpine latest image: </br>
 11.2 Run the following command to check the docker images, you can notice we have 2 images (ubuntu that we have pulled earlier and alpine).
@@ -80,7 +80,7 @@
 
 > sudo docker images
 
-![](images/install-uninstall-docker/013-pull-alpine.PNG)
+![](/source/docs/images/install-uninstall-docker/013-pull-alpine.PNG)
 
 
 12.1 But we can pull an image with a specific version it's the same command followed by :then the version you want to pull like the following command for alpine. </br>
@@ -90,33 +90,33 @@
 
 > sudo docker images
 
-![](images/install-uninstall-docker/014-alpine-tag.PNG)
+![](/source/docs/images/install-uninstall-docker/014-alpine-tag.PNG)
 
 13: Let's Make our first container by running the following command.
 
 > sudo docker run -it --name con-1 ubuntu /bin/bash
 
-![](images/install-uninstall-docker/015-run-cont.PNG)
+![](/source/docs/images/install-uninstall-docker/015-run-cont.PNG)
 
 
 14: Let's Open a new Terminal. </br>
 14.1 Right-click on the highlighted terminal icon. </br>
 14.2 Click new window. </br>
 
-![](images/install-uninstall-docker/016-new-terminal.PNG)
+![](/source/docs/images/install-uninstall-docker/016-new-terminal.PNG)
 
   
 15: Run the following command to check the running containers.
 
 > sudo docker ps
 
-![](images/install-uninstall-docker/017-docker-ps.PNG)
+![](/source/docs/images/install-uninstall-docker/017-docker-ps.PNG)
 
 16: Navigate to the first terminal window to exit the container:
 
 > exit
 
-![](images/install-uninstall-docker/018-exit-con.PNG)
+![](/source/docs/images/install-uninstall-docker/018-exit-con.PNG)
 
   
 
@@ -124,7 +124,7 @@
 
 > sudo docker ps
 
-![](images/install-uninstall-docker/019-docker-ps.PNG)
+![](/source/docs/images/install-uninstall-docker/019-docker-ps.PNG)
 
   
 
@@ -132,7 +132,7 @@
 
 > sudo docker run -it --name con-2 ubuntu /bin/bash
 
-![](images/install-uninstall-docker/020-docker-con2.PNG)
+![](/source/docs/images/install-uninstall-docker/020-docker-con2.PNG)
 
   
 
@@ -141,7 +141,7 @@
 > sudo docker ps -a
 
 
-![](images/install-uninstall-docker/021-dockeps-all.PNG)
+![](/source/docs/images/install-uninstall-docker/021-dockeps-all.PNG)
 
   
 
@@ -149,10 +149,10 @@
 
 > exit
 
-![](images/install-uninstall-docker/022-exit.PNG)
+![](/source/docs/images/install-uninstall-docker/022-exit.PNG)
 
 21: Navigate to the second terminal to check running containers.
 
 > sudo docker ps
 
-![](images/install-uninstall-docker/023-dockerps.PNG)
+![](/source/docs/images/install-uninstall-docker/023-dockerps.PNG)
