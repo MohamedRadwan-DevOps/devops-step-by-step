@@ -64,7 +64,9 @@
 
 - [🙋‍♀️ Q/A](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
 
-- [⭐ Reviews](/source/reviews.md "Click here to See Members Reviews")
+- [⭐ Reviews (Individuals)](/source/review-individuals.md "Click here to See Members Reviews")
+
+- [⭐ Reviews (Corporates)](/source/review-corporates.md "Click here to See Corporates Reviews")
 
 - [📅 Course Schedule](/source/course-schedule.md "Course Schedule")
 
@@ -77,6 +79,8 @@
 - [💪 Mentoring Service](/source/mentoring-service.md "Mentoring Service")
 
 - [📅 Events Schedule](/source/events-schedule.md "Events Schedule")
+
+- [👪 Community Gathering](/source/community-gathering.md/ "Community Gathering]")
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 

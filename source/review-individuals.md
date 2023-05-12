@@ -1,4 +1,4 @@
-# Course Reviews
+# Course Reviews (Individuals)
 
 ![Kareem Khamis](images/reviewers/kareem-fathy.png)
 
