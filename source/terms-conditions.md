@@ -42,5 +42,7 @@ Please check:
 12- It should be noted that all the information on GitHub is part of the course conditions, and you must review it well and follow continuous updates.
 
 13- You should know that by replying to the e-mail sent and by signing non-disclosure and copy rights agreement  , this is an acknowledgment from you to agree to all these conditions.
+
+14- Please note that course support will only be available for one month after the course. Afterward, a fee of 500 EGP per ticket will be charged.
  
-14- In case of any issue, please send an e-mail to the following address (Devopsvisions.help@outlook.com). Please use the same name and e-mail which are used for registration for quick access to your profile.
+15- In case of any issue, please send an e-mail to the following address (Devopsvisions.help@outlook.com). Please use the same name and e-mail which are used for registration for quick access to your profile.
