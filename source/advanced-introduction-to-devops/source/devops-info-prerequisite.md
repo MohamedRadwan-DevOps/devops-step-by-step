@@ -30,7 +30,7 @@ and Vodafone cash number 01224073193 but please contact first through whatsApp M
 
 The exact date will be announced two weeks before the start date.
 
-[Check for schedule update on this page](../course-schedule.md)
+[Check for schedule update on this page](../../course-schedule.md)
 
 
 ### For Registration:
@@ -45,7 +45,7 @@ Also, we will announce the course start date for each round on Linked In and Fac
 
 Moreover, the timing shall be updated on the following timetable page:
 
-[Timetable](../course-schedule.md)
+[Timetable](../../course-schedule.md)
 
 
   
@@ -74,6 +74,6 @@ For any inquiries? Look at the following FAQ page:
 
 The starting date will be updated on the following course Date & Time page:
 
-[Date & Time Schedule ](../course-schedule.md)
+[Date & Time Schedule ](../../course-schedule.md)
 
 **[⬆ back to top](#fundamentals-of-modern-software-engineering-and-devops)**
