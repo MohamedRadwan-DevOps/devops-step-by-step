@@ -14,3 +14,6 @@ More info about our Public Calendar and other events ([click here](https://calen
 | 07 September 2022| 19:00 - 20:30  | Mock and simulation of Software Engineers interviews| [Mohamed Moshrif](events-speakers.md) | ![Mohamed Moshrif](images/speakers/Mohamed-Moshrif.png)|
 | 03 October 2022|  19:00 - 20:30  | Modern way to build and manage Infrastructure-as-Code: visually | [Chafik Belhaoues](events-speakers.md) | ![Chafik Belhaoues](images/speakers/Chafik-Belhaoues.png)|
 | 02 November 2022| 19:00 - 20:30  | Ask Me Anything | [Mohamed Radwan](events-speakers.md) | ![Mohamed Radwan](images/speakers/Mohamed-Radwan.png)|
+
+# The Secret to Success with MVPs
+![The Secret to Success with MVPs](images/mics/Secret-to-success-mvps.png)|
