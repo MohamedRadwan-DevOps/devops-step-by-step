@@ -79,7 +79,7 @@
 
 - [📅 Events Schedule](/source/events-schedule.md "Events Schedule")
 
-- [👪 Community Gathering](/source/community-gathering.md/ "Community Gathering]")
+- [👪 Community Gathering](/source/community-gathering.md/ "Community Gathering")
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 
