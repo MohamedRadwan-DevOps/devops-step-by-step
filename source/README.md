@@ -49,6 +49,10 @@
   
   - [📰 News](./mentoring-service/source/news.md "News")
 
+  - [📅 Events Schedule](./mentoring-service/source/events-schedule.md "Events Schedule")
+
+  - [👪 Community Gathering](./mentoring-service/source/community-gathering.md "Community Gathering")
+
 - [📑 Source Code](/source/source-code/ "Source Code/Labs")
 
 - [🎯 Guides](/source/docs/ "Guides")
