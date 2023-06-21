@@ -48,7 +48,7 @@ The courses shall have technical support and a free subscription to the mentorsh
 
 Your mentor shall be able to solve any problems you might face or answer any questions you might have. And I shall personally supervise the program to make sure it lives up to the desired standard.
 
-[This link is for more information on the mentorship program](mentoring-service.md)
+[This link is for more information on the mentorship program](./mentoring-service/source/conditions.md)
 
 ## How much does the technical support or mentorship program cost?
 
@@ -56,7 +56,7 @@ First of all, the technical support or mentorship program is an optional choice 
 
 Also, the mentorship and the technical support are free for the top contributors who contribute to our internal/external community.
 
-[This link is for more information on the mentorship program](mentoring-service.md)
+[This link is for more information on the mentorship program](./mentoring-service/source/conditions.md)
 
 ## Are there any more advantages to the technical support or mentorship program?
 
