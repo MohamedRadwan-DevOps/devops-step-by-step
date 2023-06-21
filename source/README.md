@@ -57,7 +57,7 @@
 
   - [🔎 Contribution Culture](./contribution/source/contribution-culture.md "Contribution Culture")
 
-  - [💡 How to contribute?](./source/how-to-contribute.md "How to contribute")
+  - [💡 How to contribute?](./contribution/source/how-to-contribute.md "How to contribute")
 
   - [🎯 Guidelines to write Q/A Demos](./contribution/source/Guidlines-to-write-Q-A-demos.md "Guidelines to write Q/A Demos")
 
