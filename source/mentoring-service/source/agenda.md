@@ -14,12 +14,12 @@
 
 The meeting will be divided into two parts:
 
-#### Part 1: Discuss Submitted Work Challenges
+### Part 1: Discuss Submitted Work Challenges
 
 Discuss up to five submitted work challenges, allocating 10-15 minutes to each challenge.
 This provides an opportunity for members to share their experiences and discuss potential solutions to common work challenges.
 
-#### Part 2:Mentor-Selected Topics
+### Part 2: Mentor-Selected Topics
 
 Discuss one or more topics selected by the mentors, based on priority and time constraints.
 This provides an opportunity for members to learn from the mentors and discuss topics of interest to the community.
