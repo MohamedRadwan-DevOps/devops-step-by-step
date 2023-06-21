@@ -1,6 +1,6 @@
 # About Our Guest Speakers
 
-![Luke Killick](images/speakers/Luke-Killick.png)
+![Luke Killick](/source/images/speakers/Luke-Killick.png)
 
 Luke Killick
 =============
@@ -12,7 +12,7 @@ Luke is a Senior Recruiter in the UK, he falls into recruitment after university
 
 <br></br>
 
-![Mohamed Moshrif](images/speakers/Mohamed-Moshrif.png)
+![Mohamed Moshrif](/source/images/speakers/Mohamed-Moshrif.png)
 
 Mohamed Moshrif
 =============
@@ -29,7 +29,7 @@ In the last couple of years, he helped multiple international businesses to open
 
 <br></br>
 
-![Chafik Belhaoues](images/speakers/Chafik-Belhaoues.png)
+![Chafik Belhaoues](/source/images/speakers/Chafik-Belhaoues.png)
 
 Chafik Belhaoues
 =============
@@ -41,7 +41,7 @@ Chafik is the founder of Brainboard, he is an engineer with more than 15 years o
 
 <br></br>
 
-![Mohamed Radwan](images/speakers/Mohamed-Radwan.png)
+![Mohamed Radwan](/source/images/speakers/Mohamed-Radwan.png)
 
 Mohamed Radwan
 =============

@@ -55,6 +55,18 @@
 
   - [📃 Course Outlines](/source/mastering-terraform/terraform-outline.md "Course Outlines")
 
+- [💪 Mentoring Service](/source/mentoring-service/ "Mentoring Service")
+
+  - [📃 Mentor Service Conditions](/source/mentoring-service/source/conditions.md "Mentor Service Conditions")
+
+  - [📅 Agenda](/source/mentoring-service/source/agenda.md "Agenda")
+
+  - [📰 News](/source/mentoring-service/source/news.md "News")
+
+  - [📅 Events Schedule](/source/mentoring-service/source/events-schedule.md "Events Schedule")
+
+  - [👪 Community Gathering](/source/mentoring-service/source/community-gathering.md "Community Gathering")
+  
 - [📑 Source Code](/source/source-code/ "Source Code/Labs")
 
 - [🎯 Guides](/source/docs/ "Guides")
@@ -74,12 +86,6 @@
 - [📝 Terms & Conditions](/source/terms-conditions.md "Terms & Conditions")
 
 - [📜 Return Policy](/source/cancel-return-policy.md "Return Policy")
- 
-- [💪 Mentoring Service](/source/mentoring-service.md "Mentoring Service")
-
-- [📅 Events Schedule](/source/events-schedule.md "Events Schedule")
-
-- [👪 Community Gathering](/source/community-gathering.md/ "Community Gathering")
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 
