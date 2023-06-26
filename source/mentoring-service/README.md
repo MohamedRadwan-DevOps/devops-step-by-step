@@ -9,3 +9,5 @@
 - [📅 Events Schedule](./source/events-schedule.md "Events Schedule")
 
 - [👪 Community Gathering](./source/community-gathering.md "Community Gathering")
+
+- [💭 Mindmap for Mentorship Program Services](source/MindMap.md)
