@@ -26,7 +26,23 @@ This provides an opportunity for members to learn from the mentors and discuss t
 
 ## Mentor MeetUp
 
-Placeholder
+The meeting will be divided into four parts:
+
+### Part 1: News
+
+Cover program news and reports, including updates on lectures, meetings, and attendance. We will also provide a brief overview of each lecture and where to find its recording. Additionally, we will discuss any decisions and procedures that have been made in the program, such as transferring the profile to GitHub, updating the schedule, upcoming events, and so on.
+
+### Part 2: Self-Introductions
+
+Each of 3-4 members will introduce themselves. Each member will have 5-7 minutes to talk about their background, interests, and goals.
+
+### Part 3: Why does this opinion show a wrong mindset?
+
+Discuss some Facebook comments that demonstrate incorrect or limiting mindsets and use them as a learning opportunity to challenge and improve our own mindsets.
+
+### Part 4: Program Updates (Group Advisory, Mentor for All, etc.)
+
+Cover updates on various subprograms, including Group Advisory and Mentor for All. We will discuss any new features, developments, or changes to these programs, as well as any other relevant updates related to the program.
 
 ## Soft Skills
 
