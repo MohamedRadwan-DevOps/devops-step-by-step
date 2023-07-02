@@ -1,7 +1,13 @@
 # DevOps CoP (Community of Practice)
+
+<!--
 <p align="center">
-  <img src="images/mics/cop-2.gif" />
+  <img src="source/images/mics/cop-2.gif">  
 </p>
+-->
+
+![](/source/images/mics/cop-2.gif)
+
 
 ## Schedule for our CoP/CoE/Mentor
 More info about our Public Calendar and other events ([click here](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
@@ -14,6 +20,8 @@ More info about our Public Calendar and other events ([click here](https://calen
 | 07 September 2022| 19:00 - 20:30  | Mock and simulation of Software Engineers interviews| [Mohamed Moshrif](events-speakers.md) | ![Mohamed Moshrif](/source/images/speakers/Mohamed-Moshrif.png)|
 | 03 October 2022|  19:00 - 20:30  | Modern way to build and manage Infrastructure-as-Code: visually | [Chafik Belhaoues](events-speakers.md) | ![Chafik Belhaoues](/source/images/speakers/Chafik-Belhaoues.png)|
 | 02 November 2022| 19:00 - 20:30  | Ask Me Anything | [Mohamed Radwan](events-speakers.md) | ![Mohamed Radwan](/source/images/speakers/Mohamed-Radwan.png)|
+| 11 July 2023| 18:00 - 19:30  | The Secret to Success with Anthony Mashford & Mohamed Radwan | [Anthony Mashford](events-speakers.md) | ![Anthony Mashford](/source/images/speakers/Anthony-Mashford.png)|
+
 
 # The Secret to Success with MVPs
-![The Secret to Success with MVPs](/source/images/mics/Secret-to-success-mvps.png)|
+![The Secret to Success with MVPs](/source/images/mics/Secret-to-success-mvps.png)

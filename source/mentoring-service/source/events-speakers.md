@@ -56,3 +56,19 @@ He has a huge passion for automation with professional experience spanning the d
 Mohamed has a YouTube channel and blog where they have hundreds of videos and articles with thousands of subscribers and millions of views from all over the globe.
 
 <br></br>
+
+![Anthony Mashford](/source/images/speakers/Anthony-Mashford.png)
+
+Anthony Mashford
+=============
+
+Bio
+---
+
+Anthony Mashford is a Cloud Solutions Architect working for NetApp and a Microsoft MVP for Azure. Specialise in working with customers to help them understand the Microsoft Azure cloud and how it can transform the way their business functions and help drive innovation.
+
+Anthony has more than two decades of experience working across various verticals including public sector. From start-up companies through to large enterprises, he has helped design, implement and support a wide range of environments.
+
+Anthony has a real passion for cloud computing and how it is democratising the world of IT, allowing everyone to achieve huge compute power that until recently was only available to large corporations with enterprise scale environments and very deep pockets! he works with organsiations to help them transform and grow their business using Azure and to understand where they can take advantage of its flexibility and scale.
+
+<br></br>
