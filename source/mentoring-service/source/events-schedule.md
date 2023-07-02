@@ -1,13 +1,8 @@
 # DevOps CoP (Community of Practice)
 
-<!--
 <p align="center">
-  <img src="source/images/mics/cop-2.gif">  
+    <img src="../../images/mics/cop-2.gif">
 </p>
--->
-
-![](/source/images/mics/cop-2.gif)
-
 
 ## Schedule for our CoP/CoE/Mentor
 More info about our Public Calendar and other events ([click here](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
