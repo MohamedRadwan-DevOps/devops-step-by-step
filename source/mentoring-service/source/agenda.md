@@ -38,7 +38,7 @@ Each of 3-4 members will introduce themselves. Each member will have 5-7 minutes
 
 ### Part 3: Why does this opinion show a wrong mindset?
 
-Discuss some Facebook comments that demonstrate incorrect or limiting mindsets and use them as a learning opportunity to challenge and improve our own mindsets.
+Discuss some Facebook comments or real situations that demonstrate incorrect or limiting mindsets and use them as a learning opportunity to challenge and improve our own mindsets.
 
 ### Part 4: Program Updates (Group Advisory, Mentor for All, etc.)
 
