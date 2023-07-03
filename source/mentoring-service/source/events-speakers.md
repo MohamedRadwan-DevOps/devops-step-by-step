@@ -2,7 +2,7 @@
 
 ![Luke Killick](/source/images/speakers/Luke-Killick.png)
 
-Luke Killick
+## Luke Killick
 =============
 
 Bio
@@ -14,7 +14,7 @@ Luke is a Senior Recruiter in the UK, he falls into recruitment after university
 
 ![Mohamed Moshrif](/source/images/speakers/Mohamed-Moshrif.png)
 
-Mohamed Moshrif
+## Mohamed Moshrif
 =============
 
 Bio
@@ -31,7 +31,7 @@ In the last couple of years, he helped multiple international businesses to open
 
 ![Chafik Belhaoues](/source/images/speakers/Chafik-Belhaoues.png)
 
-Chafik Belhaoues
+## Chafik Belhaoues
 =============
 
 Bio
@@ -43,7 +43,7 @@ Chafik is the founder of Brainboard, he is an engineer with more than 15 years o
 
 ![Mohamed Radwan](/source/images/speakers/Mohamed-Radwan.png)
 
-Mohamed Radwan
+## Mohamed Radwan
 =============
 
 Bio
@@ -59,7 +59,7 @@ Mohamed has a YouTube channel and blog where they have hundreds of videos and ar
 
 ![Anthony Mashford](/source/images/speakers/Anthony-Mashford.png)
 
-Anthony Mashford
+## Anthony Mashford
 =============
 
 Bio
