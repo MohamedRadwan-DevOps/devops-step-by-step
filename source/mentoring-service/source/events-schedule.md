@@ -11,11 +11,11 @@ More info about our Public Calendar and other events ([click here](https://calen
 
 | Date    | Time    |    Session Title| Speaker |   Pic    |
 | --------|-------- | ----------------| --------|----------|
-| 08 August 2022| 16:00 - 17:00  | The easy way to make your job application stand out from the rest | [Luke Killick](events-speakers.md) |![Luke-Killick](/source/images/speakers/Luke-Killick.png)|
-| 07 September 2022| 19:00 - 20:30  | Mock and simulation of Software Engineers interviews| [Mohamed Moshrif](events-speakers.md) | ![Mohamed Moshrif](/source/images/speakers/Mohamed-Moshrif.png)|
-| 03 October 2022|  19:00 - 20:30  | Modern way to build and manage Infrastructure-as-Code: visually | [Chafik Belhaoues](events-speakers.md) | ![Chafik Belhaoues](/source/images/speakers/Chafik-Belhaoues.png)|
-| 02 November 2022| 19:00 - 20:30  | Ask Me Anything | [Mohamed Radwan](events-speakers.md) | ![Mohamed Radwan](/source/images/speakers/Mohamed-Radwan.png)|
-| 11 July 2023| 18:00 - 19:30  | The Secret to Success with Anthony Mashford & Mohamed Radwan | [Anthony Mashford](events-speakers.md) | ![Anthony Mashford](/source/images/speakers/Anthony-Mashford.png)|
+| 08 August 2022| 16:00 - 17:00  | The easy way to make your job application stand out from the rest | [Luke Killick](events-speakers.md#luke-killick) |![Luke-Killick](/source/images/speakers/Luke-Killick.png)|
+| 07 September 2022| 19:00 - 20:30  | Mock and simulation of Software Engineers interviews| [Mohamed Moshrif](events-speakers.md#mohamed-moshrif) | ![Mohamed Moshrif](/source/images/speakers/Mohamed-Moshrif.png)|
+| 03 October 2022|  19:00 - 20:30  | Modern way to build and manage Infrastructure-as-Code: visually | [Chafik Belhaoues](events-speakers.md#chafik-belhaoues) | ![Chafik Belhaoues](/source/images/speakers/Chafik-Belhaoues.png)|
+| 02 November 2022| 19:00 - 20:30  | Ask Me Anything | [Mohamed Radwan](events-speakers.md#mohamed-radwan) | ![Mohamed Radwan](/source/images/speakers/Mohamed-Radwan.png)|
+| 11 July 2023| 18:00 - 19:30  | The Secret to Success with Anthony Mashford & Mohamed Radwan | [Anthony Mashford](events-speakers.md#anthony-mashford) | ![Anthony Mashford](/source/images/speakers/Anthony-Mashford.png)|
 
 
 # The Secret to Success with MVPs
