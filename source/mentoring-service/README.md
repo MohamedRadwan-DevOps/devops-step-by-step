@@ -10,4 +10,4 @@
 
 - [👪 Community Gathering](./source/community-gathering.md "Community Gathering")
 
-- [💭 Mindmap for Mentorship Program Services](source/mind-map.md)
+- [💭 Mindmap for Mentorship Program Services](./source/mind-map.md)
