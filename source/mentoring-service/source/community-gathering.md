@@ -14,11 +14,3 @@
 
 ![USA ](/source/images/mics/usa-apr-23.jpg)
 
-## Egypt/Cairo May 2023
-
-![Egypt ](/source/images/mics/Egypt-Mamluk-Desert-27-May-23.jpg)
-
-## Egypt/Cairo June 2023
-
-![Egypt ](/source/images/mics/Egypt-Aisha-Fahmy-Palace-11-June-23.jpg)
-![Egypt ](/source/images/mics/Egypt-Cairo-Tower-11-June-23.jpg)
