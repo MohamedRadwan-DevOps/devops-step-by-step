@@ -67,7 +67,7 @@
 
   - [👪 Community Gathering](/source/mentoring-service/source/community-gathering.md "Community Gathering")
   
-  - [💭 Mindmap for Mentorship Program Services](/source/mentoring-service/source/MindMap.md)
+  - [💭 Mindmap for Mentorship Program Services](/devops-step-by-step/source/mentoring-service/source/mind-map.md)
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 
