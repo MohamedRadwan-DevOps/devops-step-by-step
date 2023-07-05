@@ -118,7 +118,7 @@
   &ensp;
   [![MVP](/source/images/mics/mvp-icon.png "Microsoft Most Valuable Professional")](https://mvp.microsoft.com/en-us/PublicProfile/4039889?fullName=Mohamed%20Radwan/)
  &ensp;
- [![Facebook](/source/images/mics/facebook.png "Facebook")](https://www.facebook.com/mradwandevops)
+ [![Facebook](/source/images/mics/facebook-icon.png "Facebook")](https://www.facebook.com/mradwandevops)
  
   
 
