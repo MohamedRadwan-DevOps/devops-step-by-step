@@ -1,5 +1,5 @@
 ## News
-  - [Previous News](#previous-news)
+  - [All Previous News Before the First Meetup meeting](#previous-news)
     - [Annual Activities](#annual-activities)
     - [Mentor Meetup](#mentor-meetup)
     - [Open the Discussion on the Inner-source](#open-the-discussion-on-the-inner-source)
@@ -33,7 +33,7 @@
 ### <br/>
 # Mentor Meetup
 ### - This is the first mentor meetup
-### - Will be  on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October
+### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October
 ### - You Can find the meeting agenda at the Following Link:
 - [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
 ### <br/>
@@ -41,7 +41,7 @@
 ### - The discussion was opened on the inner-source to allow members to discuss various topics
 ### <br/>
 # Move the Profile From the Q/A to the Inner Source
-### - we have moved user profiles from our KB (Q&A) to a private repo (inner-source),As this is a private repo, no one public can access it without adding them first
+### - We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first
 ### <br/>
 # The Group Advisory
 ### - A group advisory meeting is being prepared
@@ -50,8 +50,8 @@
 # Discounts
 ## Members will be given a discount on the renewal fees for the mentor program in case of:
 ### - They participate as a group advisory
-### - people who will join the private repo before the end of May 2023
-### - people who will complete their profile for the user profile at the private repo before the end of May 2023
+### - People who will join the private repo before the end of May 2023
+### - People who will complete their profile for the user profile at the private repo before the end of May 2023
 
 ### <br/>
 
@@ -125,6 +125,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y### <br/>
 ### <br/>
 # Gathering
 ## In-Person Gathering:
+### - Japan
 ### - Egypt 
 ### - USA
 ## Ladies gathering 
