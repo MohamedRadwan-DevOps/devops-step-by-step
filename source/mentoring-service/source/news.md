@@ -125,9 +125,9 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y### <br/>
 ### <br/>
 # Gathering
 ## In-Person Gathering:
-### - Japan
-### - Egypt 
-### - USA
+### - Japan/Tokyo Nov 2022
+### - Egypt/Cairo Feb 2023 
+### - USA/Seattle April 2023
 ## Ladies gathering 
 ### - Egypt-Cairo-Tower on 11-06-2023
 ### - Egypt-Aisha-Fahmy-Palace 11-06-2023
