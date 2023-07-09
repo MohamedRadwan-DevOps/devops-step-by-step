@@ -64,4 +64,4 @@ Placeholder
 
 ## Management & Ask me anything
 
-this activity will give the opportunity to members to ask the more experienced members or invitetd guests present about any challenges they face in their professional lives and work environment
+In this activity, members will have the opportunity to ask the more experienced members about any challenges they face in their professional lives and work environment
