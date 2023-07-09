@@ -52,7 +52,6 @@ Placeholder
 
 In this activity, the most participating, interactive and experienced members were chosen to form the main management team, and we will meet every once in a while to discuss the various activities and take a vote on the various decisions related to activities and events.
 
-
 ## DevOps Public Session
 
 Members will give devops lectures in Arabic and English languages and it will be presented to the public to contribute to spreading knowledge and community awareness
@@ -65,4 +64,4 @@ Placeholder
 
 ## Management & Ask me anything
 
-Placeholder
+In this activity, members will have the opportunity to ask the more experienced members about any challenges they face in their professional lives and work environment
