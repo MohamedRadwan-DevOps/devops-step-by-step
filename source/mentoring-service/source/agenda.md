@@ -60,12 +60,12 @@ Members will give devops lectures in Arabic and English languages and it will be
 
 ## Guest Speaker
 
-In this activity, an expert will be invited to give a lecture to the members , it will be divided into three parts:
+In this activity, an expert will be invited to give a lecture to the members, it will be divided into three parts:
 ### Part 1: the lecture
 The guest speaker will give a lecture of any topic related to technical topics.
 
 ### Part 2: Soft Skills
-this part is about soft skills and how to deal professionally in the work environment.
+This part is about soft skills and how to deal professionally in the work environment.
 
 ### Part 3: Q&A
 Members can ask the guest speaker any question related to the topic of the lecture.
