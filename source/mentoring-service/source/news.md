@@ -2,6 +2,7 @@
   - [All Previous News Before the First Meetup meeting](#previous-news)
     - [Annual Activities](#annual-activities)
     - [Mentor Meetup](#mentor-meetup)
+    - [Qaderoon initiative](#qaderoon-initiative)
     - [Open the Discussion on the Inner-source](#open-the-discussion-on-the-inner-source)
     - [Move the Profile From the Q/A to the Inner Source](#move-the-profile-from-the-qa-to-the-inner-source)
     - [The Group Advisory](#the-group-advisory)
@@ -36,6 +37,9 @@
 ### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October
 ### - You Can find the meeting agenda at the Following Link:
 - [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
+### <br/>
+# Qaderoon initiative
+### Eng. Mohamed Radwan joined the “Qaderoon” initiative, which is an Egyptian initiative to rehabilitate and develop youth with the support of the Ministry of Social Solidarity, and it was agreed on joint cooperation.
 ### <br/>
 # Open the Discussion on the Inner-source
 ### - The discussion was opened on the inner-source to allow members to discuss various topics
