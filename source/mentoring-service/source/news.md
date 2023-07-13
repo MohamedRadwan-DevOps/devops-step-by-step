@@ -49,19 +49,18 @@
 ### <br/>
 # The Group Advisory
 ### - A group advisory meeting is being prepared.
-### - 12 members subscribe as a group advisory.
+### - 12 members subscribed as a group advisory.
 ### <br/>
 # Discounts
 ## Members will be given a discount on the renewal fees for the mentor program in case of:
 ### - They participate as a group advisory.
-### - People who will join the private repo before the end of May 2023.
-### - People who will complete their profile for the user profile at the private repo before the end of May 2023.
+### - They join the private repo before the end of May 2023.
+### - They complete their profile for the user profile at the private repo before the end of May 2023.
 
 ### <br/>
 
 # The Secret to Success
-### - The Secret to Success with MVPs [Anthony Mashford](events-speakers.md#anthony-mashford)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) will be  on 11-07-2023 at 8:00 PM Cairo Time You Can Watch Using the Following Link:
-https://youtube.com/live/O2a66scHyc8
+### - The Secret to Success with MVPs [Anthony Mashford](events-speakers.md#anthony-mashford)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) was on 11-07-2023 at 8:00 PM Cairo Time.
 ### <br/>
 # Random Casual Online Mentor Meetup
 ### - As one of the mentor activities there is a random online meetup the first one was done on 01-07-2023 at 1:00 PM Cairo time. 
@@ -81,7 +80,7 @@ https://youtube.com/live/O2a66scHyc8
 ### - It was on 21-06-2023 at 9:00 PM Cairo time and the next one will be in December.
 ### - The number of attendees was more than 30. 
 ### - Discuss 5 work challenges for mentor members.
-### - Discuss performance improvement topic.
+### - Discuss performance improvement topics.
 ### <br/>
 
 # Communication Skills Session Part 2
@@ -98,7 +97,7 @@ https://www.linkedin.com/in/mhshahin/
 https://www.youtube.com/watch?v=LNmBb1Yrdko
 ### <br/>
 # Post Mortem After Communication Skills Session Part 2
-### - after Communication Skills Session there was Post Mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
+### - After Communication Skills Session there was Post Mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
 ### <br/>
 # DevOps Sessions Securely Deploying Apps with Azure AD and Terraform
 ### Presenter:
@@ -133,9 +132,11 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y### <br/>
 ### - Egypt/Cairo Feb 2023. 
 ### - USA/Seattle April 2023.
 ## Ladies gathering 
-### - Egypt-Cairo-Tower on 11-06-2023.
-### - Egypt-Aisha-Fahmy-Palace 11-06-2023.
-### - Egypt-Mamluk-Desert on 27-05-2023.
+### - Egypt/Cairo Tower on 11-06-2023.
+### - Egypt/Aisha Fahmy Palace 11-06-2023.
+### - Egypt/Mamluk Desert on 27-05-2023.
+### - Egypt/Nile City on 08-07-2023.
+
 ## Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
 
 ### <br/>
