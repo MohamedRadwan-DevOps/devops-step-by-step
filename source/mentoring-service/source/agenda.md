@@ -54,13 +54,20 @@ In this activity, the most participating, interactive and experienced members we
 
 ## DevOps Public Session
 
-Members will give devops lectures in Arabic and English languages and it will be presented to the public to contribute to spreading knowledge and community awareness
+Members will give devops lectures in Arabic and English languages and it will be presented to the public to contribute to spreading knowledge and community awareness.
 
 
 ## Guest Speaker
 
-Placeholder
+In this activity, an expert will be invited to give a lecture to the members, it will be divided into three parts:
+### Part 1: the lecture
+The guest speaker will give a lecture of any topic related to technical topics.
 
+### Part 2: Soft Skills
+This part is about soft skills and how to deal professionally in the work environment.
+
+### Part 3: Q&A
+Members can ask the guest speaker any question related to the topic of the lecture.
 
 ## Management & Ask me anything
 
