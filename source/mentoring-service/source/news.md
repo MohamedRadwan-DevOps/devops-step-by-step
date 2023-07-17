@@ -19,6 +19,7 @@
     - [Cloud Migration Project](#cloud-migration-project)
     - [Induction and Onboarding Session for The Mentor Program](#induction-and-onboarding-session-for-the-mentor-program)
     - [Gathering](#gathering)
+    - [Public google form for questions](#public-google-form-for-questions)
     - [Communication Skills Session Part 1](#communication-skills-session-part-1)
     - [Members Celebration](#members-celebration)
 
@@ -29,7 +30,8 @@
 ### - There are 24 activities/year. 
 ### -  There are 2 activities/month.
 ### - There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following link:
-- [Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+- [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+- [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
 ### <br/>
 
 # Mentor Meetup
@@ -149,6 +151,12 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### - Egypt/Nile City on 08-07-2023.
 
 ## Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
+### <br/>
+
+# Public google form for questions
+### Mentor members created a form that anyone can ask a question and one of them will answer it.
+### If someone sends a message to eng. Radwan and he doesn't respond to it, he apologizes , but you can contact using the form at the following Link: 
+https://forms.gle/kkMBZGD1hWWPWq349
 ### <br/>
 
 # Communication Skills Session Part 1
