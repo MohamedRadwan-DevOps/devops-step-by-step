@@ -46,7 +46,16 @@ Cover updates on various subprograms, including Group Advisory and Mentor for Al
 
 ## Soft Skills
 
-Placeholder
+This activity will be divided into 2 parts:
+
+### Part 1: The session
+
+We will give lectures on soft skills and management such as communication skills, persuasion skills, negotiation skills, etc.
+These lectures will be done in two forms, the first form is for the members and the second form will be reorganized for the general public by the members so that we spread knowledge in general and also an opportunity for the members to participate and develop presentation and explanation skills.
+
+### Part 2: Q&A
+
+Members can ask the speaker any question related to the topic of the lecture.
 
 ## Leadership Meeting
 
