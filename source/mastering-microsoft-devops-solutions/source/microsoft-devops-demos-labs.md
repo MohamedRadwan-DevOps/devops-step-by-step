@@ -2,22 +2,19 @@
 
 ## Course Demos/Labs
   - [Module 1: DevOps transformation for enterprise DevOps](#module-1-devops-transformation-for-enterprise-devops)
-    - [Azure Board project customization](#azure-board-project-customization)
-    - [GitHub Projects and Project boards](#github-projects-and-project-boards)
-    - [Plan upcoming work using iteration in GitHub project](#plan-upcoming-work-using-iteration-in-github-project)
-    - [Collaborate using GitHub team discussions](#collaborate-using-github-team-discussions)
-    - [Using GitHub Pages with Jekyll](#using-github-pages-with-jekyll)
-    - [Link GitHub to Azure Boards](#link-github-to-azure-boards)
-    - [Migrate from TFVC to Git](#migrate-from-tfvc-to-git)
     - [Using different types of Git merge](#using-different-types-of-git-merge)
     - [Using Git Flow branching strategy](#using-git-flow-branching-strategy)
-    - [Generate changelog automatically](#generate-changelog-automatically)
+    - [Branch policies and settings](#branch-policies-and-settings)
+    - [Migrate from TFVC to Git](#migrate-from-tfvc-to-git)
     - [Explore and implement Git hooks](#explore-and-implement-git-hooks)
     - [Work with large repositories](#work-with-large-repositories)
     - [Purge repository data](#purge-repository-data)
-    - [Manage releases with GitHub Repos](#manage-releases-with-github-repos)
-    - [Automate release notes with GitHub](#automate-release-notes-with-github)
-    - [Automate release notes with Azure DevOps](#automate-release-notes-with-azure-devops)
+    - [Azure Board project customization](#azure-board-project-customization)
+    - [Explore types of GitHub accounts](#explore-types-of-github-accounts)
+    - [GitHub Projects and Project boards](#github-projects-and-project-boards)
+    - [Plan upcoming work using iteration in GitHub project](#plan-upcoming-work-using-iteration-in-github-project)
+    - [Collaborate using GitHub team discussions](#collaborate-using-github-team-discussions)
+    - [Link GitHub to Azure Boards](#link-github-to-azure-boards)
   - [Module 2: Implement CI with Azure Pipelines and GitHub Actions](#module-2-implement-ci-with-azure-pipelines-and-github-actions)
     - [Create a multi-platform Pipeline](#create-a-multi-platform-pipeline)
     - [Integrate GitHub with Azure Pipeline](#integrate-github-with-azure-pipeline)
@@ -32,8 +29,9 @@
     - [Pipeline as Code with YAML](#pipeline-as-code-with-yaml)
     - [Helm Chart Deployment to Azure Kubernetes Service AKS](#helm-chart-deployment-to-azure-kubernetes-service-aks)
     - [Automate container image builds when a base image is updated in an Azure container registry](#automate-container-image-builds-when-a-base-image-is-updated-in-an-azure-container-registry)
-    - [Branch policies and settings](#branch-policies-and-settings)
     - [Connecting Azure AD with GitHub](#connecting-azure-ad-with-github)
+    - [Using GitHub Pages with Jekyll](#using-github-pages-with-jekyll)
+    - [Automate release notes with GitHub and Azure DevOps](#automate-release-notes-with-github-and-azure-devops)
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
     - [Controlling deployments using Release Gates](#controlling-deployments-using-release-gates)
     - [Set Up Service Connection](#set-up-service-connection)
@@ -53,6 +51,8 @@
     - [Integrate Service now with Azure DevOps](#integrate-service-now-with-azure-devops)
     - [Understanding manual tests vs automated tests](#understanding-manual-tests-vs-automated-tests)
     - [Azure Pipelines integration with Jira Software](#azure-pipelines-integration-with-jira-software)
+    - [Generate changelog automatically](#generate-changelog-automatically)
+    - [Manage releases with GitHub Repos](#manage-releases-with-github-repos)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
     - [Setting up blue-green deployment](#setting-up-blue-green-deployment)
     - [Manage feature flags](#manage-feature-flags)
@@ -88,7 +88,39 @@
 
 ## Module 1: DevOps transformation for enterprise DevOps
 
+### Using different types of Git merge
+
+In this demo, you will learn and understand ....
+
+### Using Git Flow branching strategy
+
+In this demo, you will learn and understand ....
+
+### Branch policies and settings
+
+In this demo, you will learn and understand ....
+
+### Migrate from TFVC to Git
+ 
+In this demo, you will learn and understand ...
+
+### Explore and implement Git hooks
+
+In this demo, you will learn and understand ....
+
+### Work with large repositories
+
+In this demo, you will learn and understand ....
+
+### Purge repository data
+
+In this demo, you will learn and understand ....
+
 ### Azure Board project customization
+ 
+In this demo, you will learn and understand ....
+
+### Explore types of GitHub accounts
  
 In this demo, you will learn and understand ....
 
@@ -104,53 +136,10 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Using GitHub Pages with Jekyll
- 
-In this demo, you will learn and understand ....
-
 ### Link GitHub to Azure Boards
  
 In this demo, you will learn and understand ....
 
-### Migrate from TFVC to Git
- 
-In this demo, you will learn and understand ....
-
-### Using different types of Git merge
-
-In this demo, you will learn and understand ....
-
-### Using Git Flow branching strategy
-
-In this demo, you will learn and understand ....
-
-### Generate changelog automatically
-
-In this demo, you will learn and understand ....
-
-### Explore and implement Git hooks
-
-In this demo, you will learn and understand ....
-
-### Work with large repositories
-
-In this demo, you will learn and understand ....
-
-### Purge repository data
-
-In this demo, you will learn and understand ....
-
-### Manage releases with GitHub Repos
-
-In this demo, you will learn and understand ....
-
-### Automate release notes with GitHub
-
-In this demo, you will learn and understand ....
-
-### Automate release notes with Azure DevOps
-
-In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
@@ -209,13 +198,18 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Branch policies and settings
-
-In this demo, you will learn and understand ....
-
 ### Connecting Azure AD with GitHub
 
 In this demo, you will learn and understand ....
+
+### Using GitHub Pages with Jekyll
+ 
+In this demo, you will learn and understand ....
+
+### Automate release notes with GitHub and Azure DevOps
+
+In this demo, you will learn and understand ....
+
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
@@ -292,6 +286,14 @@ In this demo, you will learn and understand ....
 
 ### Azure Pipelines integration with Jira Software
  
+In this demo, you will learn and understand ....
+
+### Generate changelog automatically
+
+In this demo, you will learn and understand ....
+
+### Manage releases with GitHub Repos
+
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
