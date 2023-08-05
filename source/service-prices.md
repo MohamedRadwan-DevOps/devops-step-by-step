@@ -2,22 +2,19 @@
 
 **Fundamentals of Modern Software Engineering and DevOps Course fees**
 
- - The first package: $500.
+ - The first package: $650 instead of $800.
 
  It includes attending live sessions with the ability to watch recorded sessions for four days of your choosing.
 
- - The second package: $750.
+ - The second package: $950 instead of $1100.
 
 It includes attending live sessions with the ability to watch recorded sessions permanently.
 
- - The third package: $750.
-
- It includes the ability to watch all recorded sessions permanently with no need to attend the sessions.
 
 **Mentoring Service subscription fees**
 
 - Mentoring program is exclusive only to the members who have previously enrolled in the course in any batch.
-- Cost of the annual subscription is $84 annually, which is $7/month.
+- Annual subscription costs $80 to $120 annually depending on your age category.
 - Annual subscription is paid once a year at the beginning of the subscription.
 - Joining fees of the program is $320, to be paid once.
 - Course members are exempted from joining fees if they join immediately after the course (the grace period is only one week after the course).
