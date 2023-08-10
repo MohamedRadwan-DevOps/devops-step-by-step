@@ -5,9 +5,8 @@
 - Sharing job offers that are received from companies with the members and nominating them.
 - Providing a high-quality answer for any number of questions on our internal Stack-Overflow.
 - A monthly session will be conducted to answer any questions received from the members and any asked questions at the end of the session and review CVs and give recommendations to enhance it
-- Monthly technical support tickets, which will include a remote session using TeamViewer with a team member or Mohamed Radwan if necessary, while making sure that the issue is resolved or a definitive answer to the question.
+- Monthly technical support tickets, which will include a remote session using TeamViewer with a team member or our experts members if necessary, while making sure that the issue is resolved or a definitive answer to the question.
 - The chance to attend a technical support tickets session with other members to get more experience about the issues and how to solve them.
-- The chance to attend the same course with the new modifications and improvements free of charge with the next rounds
 - 10-20% discount for other courses.
 - Private sessions (one-to-one), the duration of the session is half an hour.
 - Attending and participating in CoP (Community of Practice) events and activities.
