@@ -2,17 +2,13 @@
 
 ## Mastering Microsoft DevOps Solutions Course lessons outcomes
   - [Module 1: DevOps transformation for enterprise DevOps](#module-1-devops-transformation-for-enterprise-devops)
-    - [Lesson 1: Plan Agile with GitHub Projects and Azure Boards](#lesson-1-plan-agile-with-github-projects-and-azure-boards)
-    - [Lesson 2: Introduction to source control](#lesson-2-introduction-to-source-control)
-    - [Lesson 3: Describe types of source control systems](#lesson-3-describe-types-of-source-control-systems)
-    - [Lesson 4: Work with Azure Repos and GitHub](#lesson-4-work-with-azure-repos-and-github)
-    - [Lesson 5: Structure your Git Repo](#lesson-5-structure-your-git-repo)
-    - [Lesson 6: Manage Git branches and workflows](#lesson-6-manage-git-branches-and-workflows)
-    - [Lesson 7: Collaborate with pull requests in Azure Repos](#lesson-7-collaborate-with-pull-requests-in-azure-repos)
-    - [Lesson 8: Explore Git hooks](#lesson-8-explore-git-hooks)
-    - [Lesson 9: Plan foster inner source](#lesson-9-plan-foster-inner-source)
-    - [Lesson 10: Manage Git repositories](#lesson-10-manage-git-repositories)
-    - [Lesson 11: Identify technical debt](#lesson-11-identify-technical-debt)
+    - [Lesson 1: Manage Git branches and workflows](#lesson-1-manage-git-branches-and-workflows)
+    - [Lesson 2: Plan foster inner source](#lesson-2-plan-foster-inner-source)
+    - [Lesson 3: Structure your Git Repo](#lesson-3-structure-your-git-repo)
+    - [Lesson 4: Managing version control](#lesson-4-managing-version-control)
+    - [Lesson 5: Explore Git hooks](#lesson-5-explore-git-hooks)
+    - [Lesson 6: Work with large repositories in git](#lesson-6-work-with-large-repositories-in-git)
+    - [Lesson 7: Plan Agile with GitHub Projects and Azure Boards](#lesson-7-plan-agile-with-github-projects-and-azure-boards)
   - [Module 2: Implement CI with Azure Pipelines and GitHub Actions](#module-2-implement-ci-with-azure-pipelines-and-github-actions)
     - [Lesson 1: Explore Azure Pipelines](#lesson-1-explore-azure-pipelines)
     - [Lesson 2: Manage Azure Pipeline agents and pools](#lesson-2-manage-azure-pipeline-agents-and-pools)
@@ -63,6 +59,7 @@
     - [Lesson 4: Static analyzers](#lesson-4-static-analyzers)
     - [Lesson 5: OWASP and Dynamic Analyzers](#lesson-5-owasp-and-dynamic-analyzers)
     - [Lesson 6: Security Monitoring and Governance](#lesson-6-security-monitoring-and-governance)
+    - [Lesson 7: Identify technical debt](#lesson-7-identify-technical-debt)
 
 
 
