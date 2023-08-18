@@ -65,25 +65,14 @@
     - [Deploy Azure resources using Bicep and Azure Pipelines, GitHub Actions](#deploy-azure-resources-using-bicep-and-azure-pipelines-github-actions)
     - [Explore Azure Automation State Configuration (DSC)](#explore-azure-automation-state-configuration-dsc)
   - [Module 6: Design and implement a dependency management strategy](#module-6-design-and-implement-a-dependency-management-strategy)
-    - [Package management with GitHub Packages](#package-management-with-github-packages)
+    - [No Demos](#no-demos)
   - [Module 7: Implement continuous feedback](#module-7-implement-continuous-feedback)
     - [Monitoring application performance with Application Insights.](#monitoring-application-performance-with-application-insights)
-    - [Integration between Azure DevOps and Microsoft Teams](#integration-between-azure-devops-and-microsoft-teams)
-    - [Sharing Team Knowledge using Azure Project Wikis](#sharing-team-knowledge-using-azure-project-wikis)
-    - [Create and manage action groups in the Azure portal](#create-and-manage-action-groups-in-the-azure-portal)
-    - [Customize alert notifications using Logic Apps](#customize-alert-notifications-using-logic-apps)
     - [End-to-end traceability](#end-to-end-traceability)
-    - [Use the Service Map solution in Azure](#use-the-service-map-solution-in-azure)
   - [Module 8: Implement security and validate code bases for compliance](#module-8-implement-security-and-validate-code-bases-for-compliance)
-    - [Implement GitHub Dependabot alerts and security updates](#implement-github-dependabot-alerts-and-security-updates)
-    - [Managing technical debt with SonarQube and Azure DevOps](#managing-technical-debt-with-sonarqube-and-azure-devops)
+    - [Managing technical debt with SonarCloud and Azure DevOps](#managing-technical-debt-with-sonarcloud-and-azure-devops)
     - [Configure OWASP Zap in a Release Pipeline](#configure-owasp-zap-in-a-release-pipeline)
-    - [Create and manage policies to enforce compliance](#create-and-manage-policies-to-enforce-compliance)
-    - [Create and manage Azure Blueprints](#create-and-manage-azure-blueprints)
-    - [Configure conditional access policies on Azure DevOps](#Configure-conditional-access-policies-on-azure-devops)
     - [Understanding Azure DevOps Role-based access control \& permissions](#understanding-azure-devops-role-based-access-control--permissions)
-    - [Configure role-based access control (RBAC) roles in Azure Kubernetes Service (AKS) using Ansible](#configure-role-based-access-control-rbac-roles-in-azure-kubernetes-service-aks-using-ansible)
-    - [Configure managed identities for Azure resources on a VM using the Azure portal](#configure-managed-identities-for-azure-resources-on-a-vm-using-the-azure-portal)
 
 
 ## Module 1: DevOps transformation for enterprise DevOps
@@ -347,9 +336,7 @@ In this demo, you will learn and understand ....
 
 ## Module 6: Design and implement a dependency management strategy
 
-### Package management with GitHub Packages
- 
-In this demo, you will learn and understand ....
+### No Demos
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
@@ -360,40 +347,17 @@ In this demo, you will learn and understand ....
  
 In this demo, you will learn and understand ....
 
-### Integration between Azure DevOps and Microsoft Teams
- 
-In this demo, you will learn and understand ....
-
-### Sharing Team Knowledge using Azure Project Wikis
- 
-In this demo, you will learn and understand ....
-
-### Create and manage action groups in the Azure portal
- 
-In this demo, you will learn and understand ....
-
-### Customize alert notifications using Logic Apps
- 
-In this demo, you will learn and understand ....
-
 ### End-to-end traceability
  
 In this demo, you will learn and understand ....
 
-### Use the Service Map solution in Azure
- 
-In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
 
 ## Module 8: Implement security and validate code bases for compliance
 
-### Implement GitHub Dependabot alerts and security updates
-
-In this demo, you will learn and understand ....
-
-### Managing technical debt with SonarQube and Azure DevOps
+### Managing technical debt with SonarCloud and Azure DevOps
  
 In this demo, you will learn and understand ....
 
@@ -401,27 +365,7 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Create and manage policies to enforce compliance
-
-In this demo, you will learn and understand ....
-
-### Create and manage Azure Blueprints
-
-In this demo, you will learn and understand ....
-
-### Configure conditional access policies on Azure DevOps
-
-In this demo, you will learn and understand ....
-
 ### Understanding Azure DevOps Role-based access control & permissions
-
-In this demo, you will learn and understand ....
-
-### Configure role-based access control (RBAC) roles in Azure Kubernetes Service (AKS) using Ansible
-
-In this demo, you will learn and understand ....
-
-### Configure managed identities for Azure resources on a VM using the Azure portal
 
 In this demo, you will learn and understand ....
 
