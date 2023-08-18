@@ -1,6 +1,8 @@
 # General FAQ
 
 # Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
+- [General FAQ](#general-faq)
+- [Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)](#frequently-asked-questions-faq-and--code-of-conduct-coc)
   - [Are there any rules for writing our questions/issues?](#are-there-any-rules-for-writing-our-questionsissues)
   - [I have an issue in the chat area during the session and I can't send messages?](#i-have-an-issue-in-the-chat-area-during-the-session-and-i-cant-send-messages)
   - [How to join the meeting?](#how-to-join-the-meeting)
@@ -40,7 +42,7 @@ Most people join the meeting without any issue following the instructions provid
 
 ## Will the courses and lectures be recorded in case I couldn’t attend live sessions?
 
-Yes, the lectures shall be recorded and available for free for 4 days you shall be chosen in advance. However, if you want a permanent recording of the lecture, the price of a single lecture will be an additional $25. That is why I am stressing the importance of attendance and not skipping.
+Yes, the lectures shall be recorded and available for free for 4 days you shall be chosen in advance. However, if you want a permanent recording of the lecture, the price of a single lecture will be an additional cost. That is why I am stressing the importance of attendance and not skipping.
 
 ## Are there any more advantages to the courses?
 
@@ -75,7 +77,7 @@ The registration deadline for any course is two weeks prior to the course start 
 
 ## Can I purchase the lecture recordings without registering for the course?
 
-Yes, that is possible, and in that case, the price of the recorded course shall be $750.
+Yes, that is possible, and in that case, the price of the recorded course shall be the same price as package 2 and you can look at that in the price page.
 
 For more details regarding prices, please check the price page:
 

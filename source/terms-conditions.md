@@ -15,7 +15,7 @@ You should not use the chat program unless absolutely necessary.
 
 6- It will required to provide us your Gmail email so that we can add you on the YouTube channel of the course to be able to watch the exclusive videos for subscribers.
 
-7- The first session of the course  (Induction session) will be sent two weeks before the course begins. Please make sure to receive the session invitation and attend the session.
+7- The invitation of the first session of the course (Induction session) will be sent two weeks before the course begins. Please make sure to receive the session invitation and attend the session.
   
 8- The following data must be sent in full to help us create file for each member of the course
 - Full name.
@@ -37,12 +37,12 @@ In order to enjoy all the benefits that we offer to the participants in the cour
 
 Please check:
 
-[Cancellation and Return Policy](cancel-return-policy.md) .
+[Cancellation and Return Policy](cancel-return-policy.md).
 
 12- It should be noted that all the information on GitHub is part of the course conditions, and you must review it well and follow continuous updates.
 
 13- You should know that by replying to the e-mail sent and by signing non-disclosure and copy rights agreement, this is an acknowledgment from you to agree to all these conditions.
 
-14- The course support will only be available for one month after the course. Afterward, a fee of $25 instead of $35 per ticket will be charged.
+14- The course support will only be available for one month after the course. Afterward, a fee will be paid per ticket support, you can look at the [service price](service-prices.md) page for more information. 
 
-15- In case of any issue, please send an e-mail to the following address (Devopsvisions.help@outlook.com). Please use the same name and e-mail which are used for registration for quick access to your profile.
+15- In case of any issues, please send an e-mail to the following address (Devopsvisions.help@outlook.com). Please use the same name and e-mail which are used for registration in the course for quick access to your profile.
