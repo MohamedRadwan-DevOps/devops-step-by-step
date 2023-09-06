@@ -1,4 +1,16 @@
 ## News
+ - [All Previous News Before the Second Meetup meeting](#secondmeetup-news)
+    - [The Group Advisory Meetings](#the-group-advisory-meetings)
+    - [The Leadership Team Meeting](#the-leadership-team-meeting)
+    - [The Support Rules](#the-support-rules)
+    - [The Private Sessions Rules](#the-private-sessions-rules)
+    - [Maximizing Productivity with Azure DevOps and Logic Apps](#maximizing-productivity-with-azure-devops-and-logic-apps)
+    - [MVP TechBytes with Mohamed Radwan](#mvp-techbytes-with-mohamed-radwan)
+    - [Communication Skills Session Part 3](#communication-skills-session-part-3)
+    - [The Management and Ask me anything](#the-management-and-ask-me-anything)
+    - [The Mentor Meetup](#the-mentor-meetup)
+    - [The Secret to Success with Michael Blumenthal and Mohamed Radwan](#the-secret-to-success-with-michael-blumenthal-and-mohamed-radwan)
+    - [The Group Therapy ](#the-group-therapy)
   - [All Previous News Before the First Meetup meeting](#previous-news)
     - [Annual Activities](#annual-activities)
     - [Mentor Meetup](#mentor-meetup)
@@ -19,13 +31,71 @@
     - [Cloud Migration Project](#cloud-migration-project)
     - [Induction and Onboarding Session for The Mentor Program](#induction-and-onboarding-session-for-the-mentor-program)
     - [Gathering](#gathering)
-    - [Public google form for questions](#public-google-form-for-questions)
+    - [Public Google form for questions](#public-google-form-for-questions)
     - [Communication Skills Session Part 1](#communication-skills-session-part-1)
     - [Members Celebration](#members-celebration)
 
-  <br/>
-  <br/>
+ # The Group Advisory Meetings
+  ### - 2 meetings was held on 19-07-2023 at 8:30 PM and 01-08-2023 at 8:00 PM Cairo Time.
+  ### - 14 members subscribed as a group advisory.
+  ### - You Can find the group advisory and its members at the following link:
+- [Group Advisory](https://devopsvisionsqa.mohamedradwan.com/?qa=690/what-names-current-groups-registered-group-advisory-program) 
+ ### <br/>
+ # The Leadership Team Meeting
+ ### - A leadership meeting was held on 15-08-2023 at 9:00 PM Cairo Time.
+ ### - All the group advisory members were added to the leadership team So, every group advisory is part of the leadership team but not every member of the leadership team is a group advisory since the group advisory is a personal choice.
+ ### <br/>
+# The Support Rules
 
+ ### <br/>
+# The Private Sessions Rules
+
+ ### <br/>
+# Maximizing Productivity with Azure DevOps and Logic Apps
+### - It was on 29-08-2023 at 9:00 PM Cairo time.
+### - The number of online attendees was more than 300.
+### - It was about Maximizing Productivity with Azure DevOps and Logic Apps (2 ways integration).
+### Presenter:
+### - Rehab Ragab
+https://www.linkedin.com/in/rehab-ragab-04a22b19a/
+### - Mohamed Radwan
+https://www.linkedin.com/in/mohamedahmedradwan/
+### - You Can find the session at the Following Link: 
+ ### <br/>
+# MVP TechBytes with Mohamed Radwan
+### - It was about Git Branch and Merge Strategy using Azure DevOps.
+### - This session offers a comprehensive breakdown of GitFlow, Git Release branches, and various merge approaches
+### - You Can find the session at the Following Link: 
+https://www.youtube.com/watch?v=2uf7V9xvO6s
+ ### <br/>
+# Communication Skills Session Part 3
+### - It was on 05-09-2023 at 9:00 PM Cairo time.
+### - The number of online attendees was more than 250. 
+### - Presenters:
+### - Mohamed Elrais: Technical Skills.
+https://www.linkedin.com/in/mohamedelrais/
+### - Mostafa Ahmed: Email Etiquette.
+https://www.linkedin.com/in/mostafa-ahmed-1b588862/
+### - Mahmoud Shahin:Profisional Communication.
+https://www.linkedin.com/in/mhshahin/
+### - You Can find the session at the Following Link: 
+
+### <br/>
+# The Management and Ask me anything
+### - It will be on 19-09-2023 at 9:00 PM Cairo time.
+
+ ### <br/>
+ # The Mentor Meetup
+### - It will be on 04-10-2023 at 9:00 PM Cairo time.
+
+ ### <br/>
+ #  The Secret to Success with Michael Blumenthal and Mohamed Radwan
+### - The Secret to Success with MVPs [Michael Blumenthal](events-speakers)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) will be on 14-10-2023 at 9:00 PM Cairo Time.
+### <br/>
+ # The Group Therapy
+### - It will be on 08-11-2023 at 9:00 PM Cairo time.
+
+ ### <br/>
  # Annual Activities
 ### - There are 24 activities/year. 
 ### -  There are 2 activities/month.
@@ -33,7 +103,6 @@
 - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
 ### <br/>
-
 # Mentor Meetup
 ### - This is the first mentor meetup.
 ### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October.
@@ -76,14 +145,14 @@
 
 # Joining New Members
 ## Special Members Joining Like:
-### - An Associate Professor of Electrical and Computer Engineering with 20 years of experience at  the University, Florida, USA.
+### - An Associate Professor of Electrical and Computer Engineering with 20 years of experience at  the University, of Florida, USA.
 ### - A Senior Architect with 13 years of experience at Microsoft Ireland.
-### - An AI Researcher at Egypt, Computational linguist and NLP engineer in Egypt.
+### - An AI Researcher in Egypt, Computational linguist, and NLP engineer in Egypt.
 ### - A Technical manager with 17 years of experience in Egypt.
 ### <br/>
 
 # Private Youtube Videos
-### - Private youtube videos will be deleted at the end of September 2023 and they will be limited paid service.
+### - Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
 ### <br/>
 
 # Group Therapy
@@ -101,14 +170,14 @@
 https://www.linkedin.com/in/mohamedelrais/
 ### - Mostafa Ahmed: Email Etiquette.
 https://www.linkedin.com/in/mostafa-ahmed-1b588862/
-### - Mahmoud Shahin:professional Communication.
+### - Mahmoud Shahin: Professional Communication.
 https://www.linkedin.com/in/mhshahin/
 ### - You Can find small Snapshots from the session at the Following Link: 
 https://www.youtube.com/watch?v=LNmBb1Yrdko
 ### <br/>
 
 # Post Mortem After Communication Skills Session Part 2
-### - After Communication Skills Session there was Post Mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
+### - After the Communication Skills Session there was a post-mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
 ### <br/>
 
 # DevOps Sessions Securely Deploying Apps with Azure AD and Terraform
@@ -144,7 +213,7 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### - Egypt/Cairo Feb 2023. 
 ### - USA/Seattle April 2023.
 
-## Ladies gathering 
+## Ladies Gathering 
 ### - Egypt/Cairo Tower on 11-06-2023.
 ### - Egypt/Aisha Fahmy Palace 11-06-2023.
 ### - Egypt/Mamluk Desert on 27-05-2023.
@@ -153,9 +222,9 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ## Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
 ### <br/>
 
-# Public google form for questions
+# Public Google form for questions
 ### Mentor members created a form that anyone can ask a question and one of them will answer it.
-### If someone sends a message to eng. Radwan and he doesn't respond to it, he apologizes , but you can contact using the form at the following Link: 
+### If someone sends a message to eng. Radwan didn't respond to it, he apologizes, but you can contact him using the form at the following Link: 
 https://forms.gle/kkMBZGD1hWWPWq349
 ### <br/>
 
