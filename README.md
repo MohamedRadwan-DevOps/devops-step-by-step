@@ -114,8 +114,6 @@
    &ensp;
    [![Facebook](/source/images/mics/facebook-icon.png "Facebook")](https://www.facebook.com/mradwandevops)
   &ensp;
-   [![Facebook](/source/images/mics/facebook-icon.png "Facebook")](https://www.facebook.com/mradwandevops)
-  &ensp;
   [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](#)
   &ensp;
   [![Website](/source/images/mics/website-icon.png "Website")](https://mohamedradwan.com/)
