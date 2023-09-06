@@ -67,7 +67,7 @@
 
   - [👪 Community Gathering](/source/mentoring-service/source/community-gathering.md "Community Gathering")
   
-  - [💭 Mindmap for Mentorship Program Services](/source/mentoring-service/source/MindMap.md)
+  - [💭 Mindmap for Mentorship Program Services](source/mentoring-service/source/mind-map.md)
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 
@@ -112,6 +112,8 @@
   &ensp;
   [![YouTube](/source/images/mics/youtube-icon.png "Arabic YouTube Channel")](https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1)
    &ensp;
+   [![Facebook](/source/images/mics/facebook-icon.png "Facebook")](https://www.facebook.com/mradwandevops)
+  &ensp;
    [![Facebook](/source/images/mics/facebook-icon.png "Facebook")](https://www.facebook.com/mradwandevops)
   &ensp;
   [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](#)

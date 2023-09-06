@@ -1,4 +1,4 @@
-![Mindmap](MindMap.png)
+![Mindmap](../../images/mics/mentor-service/mind-map.png)
 
 # Introduction
 

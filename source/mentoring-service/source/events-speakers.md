@@ -1,9 +1,7 @@
 # About Our Guest Speakers
-
-![Luke Killick](/source/images/speakers/Luke-Killick.png)
-
-Luke Killick
-=============
+# Luke Killick
+![Luke Killick](../../images/speakers/luke-killick.png) 
+============
 
 Bio
 ---
@@ -11,10 +9,9 @@ Bio
 Luke is a Senior Recruiter in the UK, he falls into recruitment after university, starting in the contracting markets and moving into the permanent world. This followed a mixed bag of sales roles which, as it turns out, applies pretty well to recruitment and resourcing. His professional interests include sales, recruiting strategy, and tech.
 
 <br></br>
+# Mohamed Moshrif
 
-![Mohamed Moshrif](/source/images/speakers/Mohamed-Moshrif.png)
-
-Mohamed Moshrif
+![Mohamed Moshrif](../../images/speakers/mohamed-moshrif.png)
 =============
 
 Bio
@@ -28,10 +25,8 @@ In the last couple of years, he helped multiple international businesses to open
 
 
 <br></br>
-
-![Chafik Belhaoues](/source/images/speakers/Chafik-Belhaoues.png)
-
-Chafik Belhaoues
+# Chafik Belhaoues
+![Chafik Belhaoues](../../images/speakers/chafik-belhaoues.png)
 =============
 
 Bio
@@ -40,10 +35,8 @@ Bio
 Chafik is the founder of Brainboard, he is an engineer with more than 15 years of experience building and managing cloud infrastructures (on-prem and in the cloud). He worked on different positions DevOps, SRE and cloud architecture and before starting his own company he was the CTO of Scaleway (French cloud provider).
 
 <br></br>
-
-![Mohamed Radwan](/source/images/speakers/Mohamed-Radwan.png)
-
-Mohamed Radwan
+# Mohamed Radwan
+![Mohamed Radwan](../../images/speakers/mohamed-radwan.png)
 =============
 
 Bio
@@ -56,10 +49,8 @@ He has a huge passion for automation with professional experience spanning the d
 Mohamed has a YouTube channel and blog where they have hundreds of videos and articles with thousands of subscribers and millions of views from all over the globe.
 
 <br></br>
-
-![Anthony Mashford](/source/images/speakers/Anthony-Mashford.png)
-
-Anthony Mashford
+# Anthony Mashford
+![Anthony Mashford](../../images/speakers/anthony-mashford.png)
 =============
 
 Bio

@@ -274,7 +274,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Shehab Awni](images/reviewers/shehabameen.png)
+![Shehab Awni](images/reviewers/shehab-ameen.png)
 
 ## Shehab Awni
 ## Senior Infrastructure Operations Engineer/Qatar
@@ -384,7 +384,7 @@ Reviewer's Video (Arabic)
 
 <br></br>
 
-![Ahmed Ola](images/reviewers/ahmedola.png)
+![Ahmed Ola](images/reviewers/ahmed-ola.png)
 
 ## Ahmed Ola
 ## Senior Web Developer/Egypt
@@ -472,7 +472,7 @@ Lastly, Mohamed Radwan gave us a lot of advices, and taught us how to properly i
 
 <br></br>
 
-![Ali Gamal](images/reviewers/aligamal.png)
+![Ali Gamal](images/reviewers/ali-gamal.png)
 
 ## Ali Gamal
 ## Embedded Systems and IoT Engineer/Egypt
@@ -561,7 +561,7 @@ The Mentor Program provided by the course is outstanding mentor speakers that wi
 
 <br></br>
 
-![Mona Mohamed](images/reviewers/MonaMohamed.png)
+![Mona Mohamed](images/reviewers/mona-mohamed.png)
 
 ## Mona Mohamed
 ## Test Automation Engineer / The Netherlands
