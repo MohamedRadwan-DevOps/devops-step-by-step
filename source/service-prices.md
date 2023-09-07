@@ -2,13 +2,13 @@
 
 **Fundamentals of Modern Software Engineering and DevOps Course fees**
 
- - The first package: $650 instead of $800.
+ - The first /source/images/mics/: $650 instead of $800.
 
  It includes attending live sessions with the ability to watch recorded sessions for four (4) days after your request.
 
  - The second package: $950 instead of $1100.
 
-It includes attending live sessions with the ability to watch recorded sessions permanently.
+It includes attending live sessions with the ability to watch recorded sessions only for 3 months after the course.
 
 Cost of the recorded session for the course for extra 4 days is $40 instead of $60.
 
