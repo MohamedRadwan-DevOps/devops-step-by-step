@@ -16,22 +16,17 @@
     - [Collaborate using GitHub team discussions](#collaborate-using-github-team-discussions)
     - [Link GitHub to Azure Boards](#link-github-to-azure-boards)
   - [Module 2: Implement CI with Azure Pipelines and GitHub Actions](#module-2-implement-ci-with-azure-pipelines-and-github-actions)
-    - [Create a multi-platform Pipeline](#create-a-multi-platform-pipeline)
+    - [Provision deployment groups](#provision-deployment-groups)
+    - [Intro to Pipeline as Code](#intro-to-pipeline-as-code)
+    - [Configure CI/CD Pipelines as Code with YAML](#configure-cicd-pipelines-as-code-with-yaml)
     - [Integrate GitHub with Azure Pipeline](#integrate-github-with-azure-pipeline)
-    - [Implement CI/CD using GitHub Actions](#implement-cicd-using-github-actions)
-    - [Implement GitHub Actions by using DevOps Starter](#implement-github-actions-by-using-devops-starter)
+    - [Intro to GitHub Actions](#intro-to-github-actions)
     - [Use GitHub self-hosted runner](#use-github-self-hosted-runner)
     - [Create GitHub encrypted secrets (repo, environment, organization)](#create-github-encrypted-secrets-repo-environment-organization)
-    - [Create and deploy container image with Azure Kubernetes Services (AKS) and Azure container Registry (ACR)](#create-and-deploy-container-image-with-azure-kubernetes-services-aks-and-azure-container-registry-acr)
-    - [Auto provision Azure Pipeline agent](#auto-provision-azure-pipeline-agent)
-    - [Deploy a container app to a Service Fabric Cluster](#deploy-a-container-app-to-a-service-fabric-cluster)
-    - [Backing Up Azure App Service](#backing-up-azure-app-service)
-    - [Pipeline as Code with YAML](#pipeline-as-code-with-yaml)
-    - [Helm Chart Deployment to Azure Kubernetes Service AKS](#helm-chart-deployment-to-azure-kubernetes-service-aks)
-    - [Automate container image builds when a base image is updated in an Azure container registry](#automate-container-image-builds-when-a-base-image-is-updated-in-an-azure-container-registry)
-    - [Connecting Azure AD with GitHub](#connecting-azure-ad-with-github)
+    - [Implement CI/CD using GitHub Actions](#implement-cicd-using-github-actions)
     - [Using GitHub Pages with Jekyll](#using-github-pages-with-jekyll)
-    - [Automate release notes with GitHub and Azure DevOps](#automate-release-notes-with-github-and-azure-devops)
+    - [Create and deploy container image with Azure Kubernetes Services (AKS) and Azure container Registry (ACR)](#create-and-deploy-container-image-with-azure-kubernetes-services-aks-and-azure-container-registry-acr)
+    - [Helm Chart Deployment to Azure Kubernetes Service AKS](#helm-chart-deployment-to-azure-kubernetes-service-aks)
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
     - [Controlling deployments using Release Gates](#controlling-deployments-using-release-gates)
     - [Set Up Service Connection](#set-up-service-connection)
@@ -46,18 +41,19 @@
     - [Creating a release dashboard](#creating-a-release-dashboard)
     - [Manage retention policy for release](#manage-retention-policy-for-release)
     - [Create a Service Principle](#create-a-service-principle)
-    - [Provision deployment groups](#provision-deployment-groups)
     - [Manage flaky tests](#manage-flaky-tests)
     - [Integrate Service now with Azure DevOps](#integrate-service-now-with-azure-devops)
     - [Understanding manual tests vs automated tests](#understanding-manual-tests-vs-automated-tests)
     - [Azure Pipelines integration with Jira Software](#azure-pipelines-integration-with-jira-software)
     - [Generate changelog automatically](#generate-changelog-automatically)
     - [Manage releases with GitHub Repos](#manage-releases-with-github-repos)
+    - [Automate release notes with GitHub and Azure DevOps](#automate-release-notes-with-github-and-azure-devops)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
     - [Setting up blue-green deployment](#setting-up-blue-green-deployment)
     - [Manage feature flags](#manage-feature-flags)
     - [Setting up Ring-based deployment](#setting-up-ring-based-deployment)
     - [Integrating Azure Key Vault with Azure DevOps](#integrating-azure-key-vault-with-azure-devops)
+    - [Connecting Azure AD with GitHub](#connecting-azure-ad-with-github)
   - [Module 5: Manage infrastructure as code using Azure and DSC](#module-5-manage-infrastructure-as-code-using-azure-and-dsc)
     - [Work with Azure CLI](#work-with-azure-cli)
     - [Create a PowerShell Workflow Runbook in Automation](#create-a-powershell-workflow-runbook-in-automation)
@@ -135,7 +131,15 @@ In this demo, you will learn and understand ....
 
 ## Module 2: Implement CI with Azure Pipelines and GitHub Actions
 
-### Create a multi-platform Pipeline
+### Provision deployment groups
+ 
+In this demo, you will learn and understand ....
+
+### Intro to Pipeline as Code
+
+In this demo, you will learn and understand ....
+
+### Configure CI/CD Pipelines as Code with YAML
 
 In this demo, you will learn and understand ....
 
@@ -143,12 +147,8 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Implement CI/CD using GitHub Actions
+### Intro to GitHub Actions
 
-In this demo, you will learn and understand ....
-
-### Implement GitHub Actions by using DevOps Starter
- 
 In this demo, you will learn and understand ....
 
 ### Use GitHub self-hosted runner
@@ -159,35 +159,7 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Create and deploy container image with Azure Kubernetes Services (AKS) and Azure container Registry (ACR)
-
-In this demo, you will learn and understand ....
-
-### Auto provision Azure Pipeline agent
-
-In this demo, you will learn and understand ....
-
-### Deploy a container app to a Service Fabric Cluster
-
-In this demo, you will learn and understand ....
-
-### Backing Up Azure App Service
-
-In this demo, you will learn and understand ....
-
-### Pipeline as Code with YAML
-
-In this demo, you will learn and understand ....
-
-### Helm Chart Deployment to Azure Kubernetes Service AKS
-
-In this demo, you will learn and understand ....
-
-### Automate container image builds when a base image is updated in an Azure container registry
-
-In this demo, you will learn and understand ....
-
-### Connecting Azure AD with GitHub
+### Implement CI/CD using GitHub Actions
 
 In this demo, you will learn and understand ....
 
@@ -195,7 +167,11 @@ In this demo, you will learn and understand ....
  
 In this demo, you will learn and understand ....
 
-### Automate release notes with GitHub and Azure DevOps
+### Create and deploy container image with Azure Kubernetes Services (AKS) and Azure container Registry (ACR)
+
+In this demo, you will learn and understand ....
+
+### Helm Chart Deployment to Azure Kubernetes Service AKS
 
 In this demo, you will learn and understand ....
 
@@ -257,10 +233,6 @@ In this demo, you will learn and understand ....
  
 In this demo, you will learn and understand ....
 
-### Provision deployment groups
- 
-In this demo, you will learn and understand ....
-
 ### Manage flaky tests
  
 In this demo, you will learn and understand ....
@@ -285,6 +257,10 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
+### Automate release notes with GitHub and Azure DevOps
+
+In this demo, you will learn and understand ....
+
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
 
@@ -303,6 +279,10 @@ In this demo, you will learn and understand ....
 In this demo, you will learn and understand ....
  
 ### Integrating Azure Key Vault with Azure DevOps
+
+In this demo, you will learn and understand ....
+
+### Connecting Azure AD with GitHub
 
 In this demo, you will learn and understand ....
 
