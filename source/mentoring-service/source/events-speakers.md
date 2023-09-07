@@ -64,7 +64,7 @@ Anthony has a real passion for cloud computing and how it is democratising the w
 
 <br></br>
 
-# Anthony Mashford
+# Michael Blumenthal
 ![Michael Blumenthal](../../images/speakers/michael-blumenthal.png)
 =============
 
