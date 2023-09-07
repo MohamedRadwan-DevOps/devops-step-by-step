@@ -63,3 +63,16 @@ Anthony has more than two decades of experience working across various verticals
 Anthony has a real passion for cloud computing and how it is democratising the world of IT, allowing everyone to achieve huge compute power that until recently was only available to large corporations with enterprise scale environments and very deep pockets! he works with organsiations to help them transform and grow their business using Azure and to understand where they can take advantage of its flexibility and scale.
 
 <br></br>
+
+# Anthony Mashford
+![Michael Blumenthal](../../images/speakers/michael-blumenthal.png)
+=============
+
+Bio
+---
+
+Michael Blumenthal is a Microsoft 365 Apps and Services MVP. Since 2017, he has been responsible for product management and service management of Microsoft 365 inside companies ranging from 1K to 50K+ employees. Prior to that, he spent more than two decades in IT consulting, primarily as a SharePoint architect and Office 365 advisor. He helps teams of businesspeople be more productive and ensures that the organization gets value from its Office 365 investment. As a technical community leader, he co-leads the M365 Chicago online conference as its speaker manager. He has spoken at technology events and user groups globally as well as national conferences such as Microsoft Ignite. He currently is part of the organizing committee for M365 Chicago.
+
+Microsoft first recognized Michael as an MVP in 2015. He has also been recognized as an INETA Community Champion in 2010, 2011, 2012, and 2013.
+
+<br></br>
