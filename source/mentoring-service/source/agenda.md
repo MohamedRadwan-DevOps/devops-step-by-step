@@ -63,47 +63,47 @@ This meeting is intended for members of the Leadership & Group Advisory team, du
 
 - Minutes Essentials
 
-Identify crucial information for meeting minutes, including persons involved, actions, and timeframes.
+  Identify crucial information for meeting minutes, including persons involved, actions, and timeframes.
 
 - Review of Previous Minutes and Actions
 
-Reflect on the outcomes and actions from our last meeting.
+  Reflect on the outcomes and actions from our last meeting.
 
 - Status of Direct Member Contact
 
-Evaluate the current status of individual members' one-on-one interactions with their respective Group Advisors (GA).
+  Evaluate the current status of individual members' one-on-one interactions with their respective Group Advisors (GA).
 
 - Initial Objectives for Group Advisors
 
-Discuss our primary objectives for Group Advisors, emphasizing the importance of building strong relationships with all members.
+  Discuss our primary objectives for Group Advisors, emphasizing the importance of building strong relationships with all members.
 
 - Challenges and Solutions
 
-Open discussion on any challenges faced by Group Advisors or members and explore potential solutions.
+  Open discussion on any challenges faced by Group Advisors or members and explore potential solutions.
 
 - Action Items
 
-Review and discuss specific action items related to individual members or group dynamics.
+  Review and discuss specific action items related to individual members or group dynamics.
 
 - Risks and Warnings
 
-Identify and address potential risks and warnings associated with Group Advisors and their responsibilities.
+  Identify and address potential risks and warnings associated with Group Advisors and their responsibilities.
 
 - 360° Evaluations
 
-Explore the various methods for conducting evaluations, including assessments from Group Advisors, members, and self-evaluations.
+  Explore the various methods for conducting evaluations, including assessments from Group Advisors, members, and self-evaluations.
 
 - Future of Group Advisors
 
-Delve into the vision and evolution of the Group Advisors program.
+  Delve into the vision and evolution of the Group Advisors program.
 
 - Review of Rules and Regulations
 
-Revisit existing rules and regulations, and propose any necessary amendments.
+  Revisit existing rules and regulations, and propose any necessary amendments.
 
 - Q&A
 
-Open the floor for questions and discussions.
+  Open the floor for questions and discussions.
 
 ## DevOps Public Session
 
