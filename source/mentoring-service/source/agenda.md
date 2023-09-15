@@ -4,7 +4,7 @@
   - [Group Therapy](#group-therapy)
   - [Mentor MeetUp](#mentor-meetup)
   - [Soft Skills](#soft-skills)
-  - [Leadership Meeting](#leadership-meeting)
+  - [Leadership & Group Advisory](#leadership--group-advisory)
   - [DevOps Public Session](#devops-public-session)
   - [Guest Speaker](#guest-speaker)
   - [Management \& Ask me anything](#management--ask-me-anything)
@@ -12,7 +12,7 @@
 
 ## Group Therapy
 
-The meeting will be divided into two parts:
+The meeting is divided into two parts:
 
 ### Part 1: Discuss Submitted Work Challenges
 
@@ -24,9 +24,10 @@ This provides an opportunity for members to share their experiences and discuss 
 Discuss one or more topics selected by the mentors, based on priority and time constraints.
 This provides an opportunity for members to learn from the mentors and discuss topics of interest to the community.
 
+
 ## Mentor MeetUp
 
-The meeting will be divided into four parts:
+The meeting is divided into four parts:
 
 ### Part 1: News
 
@@ -40,44 +41,117 @@ Each of 3-4 members will introduce themselves. Each member will have 5-7 minutes
 
 Discuss some Facebook comments or real situations that demonstrate incorrect or limiting mindsets and use them as a learning opportunity to challenge and improve our own mindsets.
 
-### Part 4: Program Updates (Group Advisory, Mentor for All, etc.)
-
-Cover updates on various subprograms, including Group Advisory and Mentor for All. We will discuss any new features, developments, or changes to these programs, as well as any other relevant updates related to the program.
 
 ## Soft Skills
 
-This activity will be divided into 2 parts:
+The session is divided into 2 parts:
 
-### Part 1: The session
+### Part 1: Enhancing Soft Skills
 
-We will give lectures on soft skills and management such as communication skills, persuasion skills, negotiation skills, etc.
-These lectures will be done in two forms, the first form is for the members and the second form will be reorganized for the general public by the members so that we spread knowledge in general and also an opportunity for the members to participate and develop presentation and explanation skills.
+Informative lectures on essential soft skills such as communication, persuasion, negotiation, and more. These lectures are designed to equip you with practical strategies and techniques to improve your professional effectiveness. 
+
+To ensure wider knowledge dissemination, members will also have the opportunity to reorganize and present these topics to the general public. This not only promotes knowledge sharing but also allows members to enhance their presentation and explanation skills. It's a chance for everyone to participate and contribute to the growth of the community.
 
 ### Part 2: Q&A
 
-Members can ask the speaker any question related to the topic of the lecture.
+An interactive Q&A segment where attendees can participate actively. This segment provides an opportunity for attendees to seek clarifications, share their experiences, and engage in meaningful discussions with the speakers.
 
-## Leadership Meeting
 
-In this activity, the most participating, interactive and experienced members were chosen to form the main management team, and we will meet every once in a while to discuss the various activities and take a vote on the various decisions related to activities and events.
+## Leadership & Group Advisory
+
+This meeting is intended for members of the Leadership & Group Advisory team, during this meeting, we will focus on the following key topics:
+
+- Minutes Essentials
+
+  Identify crucial information for meeting minutes, including persons involved, actions, and timeframes.
+
+- Review of Previous Minutes and Actions
+
+  Reflect on the outcomes and actions from our last meeting.
+
+- Status of Direct Member Contact
+
+  Evaluate the current status of individual members' one-on-one interactions with their respective Group Advisors (GA).
+
+- Initial Objectives for Group Advisors
+
+  Discuss our primary objectives for Group Advisors, emphasizing the importance of building strong relationships with all members.
+
+- Challenges and Solutions
+
+  Open discussion on any challenges faced by Group Advisors or members and explore potential solutions.
+
+- Action Items
+
+  Review and discuss specific action items related to individual members or group dynamics.
+
+- Risks and Warnings
+
+  Identify and address potential risks and warnings associated with Group Advisors and their responsibilities.
+
+- 360° Evaluations
+
+  Explore the various methods for conducting evaluations, including assessments from Group Advisors, members, and self-evaluations.
+
+- Future of Group Advisors
+
+  Delve into the vision and evolution of the Group Advisors program.
+
+- Review of Rules and Regulations
+
+  Revisit existing rules and regulations, and propose any necessary amendments.
+
+- Q&A
+
+  Open the floor for questions and discussions.
 
 ## DevOps Public Session
 
-Members will give devops lectures in Arabic and English languages and it will be presented to the public to contribute to spreading knowledge and community awareness.
+The session is divided into two parts:
+
+### Part 1: Knowledge Sharing Session
+
+Knowledgeable speakers will deliver insightful sessions on various topics related to DevOps. The speakers aim to provide valuable information, best practices, and real-world examples to empower and inspire the audience.
+
+This session is dedicated to empowering and enlightening the community by providing invaluable insights and knowledge. 
+
+### Part 2: Interactive Q&A
+
+An interactive Q&A segment where attendees can participate actively. This segment provides an opportunity for attendees to seek clarifications, share their experiences, and engage in meaningful discussions with the speakers.
 
 
 ## Guest Speaker
 
-In this activity, an expert will be invited to give a lecture to the members, it will be divided into three parts:
-### Part 1: the lecture
-The guest speaker will give a lecture of any topic related to technical topics.
+Distinguished guest speakers who will be sharing their expertise and insights with our members. 
 
-### Part 2: Soft Skills
-This part is about soft skills and how to deal professionally in the work environment.
+The session is divided into three parts:
 
-### Part 3: Q&A
-Members can ask the guest speaker any question related to the topic of the lecture.
+### Part 1: Technical Session
+
+Our esteemed guest speaker will deliver a captivating lecture on a technical topic of great relevance. With their extensive knowledge and experience, they will provide valuable insights, practical examples, and the latest trends in the industry. 
+This lecture is designed to spark curiosity, inspire innovation, and broaden horizons.
+
+### Part 2: Enhancing Soft Skills
+
+As technical expertise alone is not sufficient for success. Part 2 of our session will focus on the importance of soft skills and the professional competencies required to thrive in the workplace. 
+
+Our guest speaker will share valuable advice, practical strategies, and real-life experiences to help members develop effective communication, leadership, teamwork, and problem-solving skills. Enhancing these soft skills is crucial for building strong professional relationships, fostering collaboration, and achieving long-term career growth.
+
+### Part 3: Interactive Q&A
+
+An interactive Q&A segment where the members will have the opportunity to engage directly with the guest speaker. Get direct answers, clarification, and further insights from the expert.
+
 
 ## Management & Ask me anything
 
-In this activity, members will have the opportunity to ask the more experienced members about any challenges they face in their professional lives and work environment
+The meeting is divided into two parts:
+
+### Part 1: Q&A - Ask the Experts
+
+Offers a valuable opportunity for members to seek guidance and advice from experienced professionals. You can ask questions about any challenges you face in your professional life and work environment. 
+
+Our knowledgeable panel of experienced members will share their insights, practical solutions, and best practices to help you navigate and overcome these challenges.
+
+### Part 2: Program Updates (Group Advisory, Mentor for All, etc.)
+
+Cover updates on various subprograms, including Group Advisory and Mentor for All. We will discuss any new features, developments, or changes to these programs, as well as any other relevant updates related to the program.
