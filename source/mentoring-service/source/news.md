@@ -1,5 +1,5 @@
 ## News
- - [All Previous News Before the Second Meetup meeting](#secondmeetup-news)
+ - [All News between Meetup (#1) July and Meetup (#2) October ](#secondmeetup-news)
     - [The Group Advisory Meetings](#the-group-advisory-meetings)
     - [The Leadership Team Meeting](#the-leadership-team-meeting)
     - [The Support Rules](#the-support-rules)
@@ -11,7 +11,7 @@
     - [The Mentor Meetup](#the-mentor-meetup)
     - [The Secret to Success with Michael Blumenthal and Mohamed Radwan](#the-secret-to-success-with-michael-blumenthal-and-mohamed-radwan)
     - [The Group Therapy ](#the-group-therapy)
-  - [All Previous News Before the First Meetup meeting](#previous-news)
+  - [All Previous News Before Meetup (#1) July](#previous-news)
     - [Annual Activities](#annual-activities)
     - [Mentor Meetup](#mentor-meetup)
     - [Qaderoon initiative](#qaderoon-initiative)
