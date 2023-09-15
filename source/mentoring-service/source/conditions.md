@@ -3,7 +3,7 @@
 **This program includes the following benefits:**
 
 - Sharing job offers that are received from companies with the members and nominating them.
-- Providing a high-quality answer for any number of questions on our internal Stack-Overflow.
+- Providing a high-quality answer for any number of questions on our internal Knowledge Base (KB).
 - A monthly session will be conducted to answer any questions received from the members and any asked questions at the end of the session and review CVs and give recommendations to enhance it
 - Monthly technical support tickets, which will include a remote session using TeamViewer with a team member or our experts members if necessary, while making sure that the issue is resolved or a definitive answer to the question.
 - The chance to attend a technical support tickets session with other members to get more experience about the issues and how to solve them.
