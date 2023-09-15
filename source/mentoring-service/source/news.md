@@ -1,17 +1,25 @@
 ## News
- - [All News After Meetup (#1) July and Before Meetup (#2) October ](#secondmeetup-news)
+  - [All News After Meetup (#1) July and Before Meetup (#2) October ](#secondmeetup-news)
     - [The Group Advisory Meetings](#the-group-advisory-meetings)
     - [The Leadership Team Meeting](#the-leadership-team-meeting)
     - [The Support Rules](#the-support-rules)
-    - [The Private Sessions Rules](#the-private-sessions-rules)
+    - [The Mentor Private one - one Sessions Rules](#the-mentor-private-one---one-sessions-rules)
     - [Maximizing Productivity with Azure DevOps and Logic Apps](#maximizing-productivity-with-azure-devops-and-logic-apps)
     - [MVP TechBytes with Mohamed Radwan](#mvp-techbytes-with-mohamed-radwan)
     - [Communication Skills Session Part 3](#communication-skills-session-part-3)
     - [The Management and Ask me anything](#the-management-and-ask-me-anything)
     - [The Mentor Meetup](#the-mentor-meetup)
     - [The Secret to Success with Michael Blumenthal and Mohamed Radwan](#the-secret-to-success-with-michael-blumenthal-and-mohamed-radwan)
-    - [The Group Therapy ](#the-group-therapy)
-  - [All News Before Meetup (#1) July](#previous-news)
+    - [The Group Therapy](#the-group-therapy)
+    - [The Annual Calendar](#the-annual-calendar)
+    - [The DevOps Course Update license](#the-devops-course-update-license)
+    - [The Mentor and Course Update Price](#the-mentor-and-course-update-price)
+    - [The Discord Event](#the-discord-event)
+    - [The NDA Right](#the-nda-right)
+    - [The Group Advisory Activity](#the-group-advisory-activity)
+    - [The New Platform](#the-new-platform)
+    - [Onboarding](#onboarding)
+ - [All News Before Meetup (#1) July](#previous-news)  
     - [Annual Activities](#annual-activities)
     - [Mentor Meetup](#mentor-meetup)
     - [Qaderoon initiative](#qaderoon-initiative)
@@ -35,21 +43,26 @@
     - [Communication Skills Session Part 1](#communication-skills-session-part-1)
     - [Members Celebration](#members-celebration)
 
+
  # The Group Advisory Meetings
   ### - 2 meetings was held on 19-07-2023 at 8:30 PM and 01-08-2023 at 8:00 PM Cairo Time.
   ### - 14 members subscribed as a group advisory.
   ### - You Can find the group advisory and its members at the following link:
-- [Group Advisory](https://devopsvisionsqa.mohamedradwan.com/?qa=690/what-names-current-groups-registered-group-advisory-program) 
+- [Group Advisory Members](https://devopsvisionsqa.mohamedradwan.com/?qa=690/what-names-current-groups-registered-group-advisory-program) 
+### - You Can find the group advisory rules at the following link:
+- [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
  ### <br/>
  # The Leadership Team Meeting
  ### - A leadership meeting was held on 15-08-2023 at 9:00 PM Cairo Time.
  ### - All the group advisory members were added to the leadership team So, every group advisory is part of the leadership team but not every member of the leadership team is a group advisory since the group advisory is a personal choice.
  ### <br/>
 # The Support Rules
-
+### -  The course support will only be available for one month after the course. Afterward, a fee will be paid per ticket support, you can look at [the service price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) page for more information.
  ### <br/>
-# The Private Sessions Rules
-
+# The Mentor Private one - one Sessions Rules
+ ### - The urgent session will be 30 min with a paid fee and the reservation is at least a week earlier.
+ ### - You can book private sessions with the person annually, with a minimum of two sessions and a maximum of five sessions, depending on his level of experience.
+ ### - You can find the price of private one-one sessions at [the service price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) page for more information.
  ### <br/>
 # Maximizing Productivity with Azure DevOps and Logic Apps
 ### - It was on 29-08-2023 at 9:00 PM Cairo time.
@@ -90,13 +103,42 @@ https://www.linkedin.com/in/mhshahin/
 
  ### <br/>
  #  The Secret to Success with Michael Blumenthal and Mohamed Radwan
-### - The Secret to Success with MVPs [Michael Blumenthal](events-speakers)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) will be on 14-10-2023 at 9:00 PM Cairo Time.
+### - The Secret to Success with MVPs [Michael Blumenthal](events-speakers.md#michael-blumenthal)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) will be on 14-10-2023 at 9:00 PM Cairo Time.
 ### <br/>
  # The Group Therapy
 ### - It will be on 08-11-2023 at 9:00 PM Cairo time.
 
  ### <br/>
- # Annual Activities
+ # The Annual Calendar
+ ### - There is a new update on the annual calendar and it also shows the end of 2024, You can find this calendar at the following link:
+- [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+- [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
+ 
+  ### <br/>
+# The DevOps Course Update license
+  ### - The license changed for the course and package 2 is now only 3 months
+  ### <br/>
+# The Mentor and Course Update Price
+  ### - The price is increased as well for both courses and the entry for the mentor, You can find this price at the following link:
+- [Price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) 
+  ### <br/>
+# The Discord Event
+ ### - Discord events are now using the event feature and the old meeting channels are being canceled
+  ### <br/>
+# The NDA Right
+ ### - Groups can be formed online or in person. The NDA rights are considered after the group has been formed.
+ ### <br/>
+# The Group Advisory Activity
+ ### - A group advisory tag and information on our KB and rules will be updated regularly
+ ### <br/>
+# The New Platform
+ ### - It is now possible for Mentors to register on the new platform using  the following link:
+- [Platform](https://learn.mohamedradwan.com/) 
+  ### <br/>
+# Onboarding
+ ### - All of our new members will be onboarding for 3 months and we will divide the year into 4 quarters when they join.
+### <br/>
+# Annual Activities
 ### - There are 24 activities/year. 
 ### -  There are 2 activities/month.
 ### - There is a public calendar starting from May 2023 to May 2024, You can find this calendar at the following link:
@@ -115,7 +157,7 @@ https://www.linkedin.com/in/mhshahin/
 ### <br/>
 
 # Open the Discussion on the Inner-source
-### - The discussion was opened on the inner-source to allow members to discuss various topics.
+### - The discussion was opened on the inner source to allow members to discuss various topics.
 ### <br/>
 
 # Move the Profile From the Q/A to the Inner Source
@@ -140,7 +182,7 @@ https://www.linkedin.com/in/mhshahin/
 
 # Random Casual Online Mentor Meetup
 ### - As one of the mentor activities there is a random online meetup the first one was done on 01-07-2023 at 1:00 PM Cairo time. 
-### - The number of attendees 10 members.
+### - The number of attendees is 10 members.
 ### <br/>
 
 # Joining New Members
@@ -253,5 +295,3 @@ https://www.youtube.com/watch?v=Ll6j1_9DuWc
 ### - Joining Big Company. 
 ### - Joining New Members.
 ### <br/>
-
-
