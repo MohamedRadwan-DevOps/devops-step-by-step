@@ -21,6 +21,6 @@ The mentoring program is exclusive only to the members who have previously enrol
 - Course members are exempted from joining fees if they join immediately after the course or before the course starts (the grace period is only one week after the course).
 - The annual membership will exempt members from any price increase in the future.
 - The cost of one technical support ticket is $120 instead of $170 per ticket.
-- The cost of the private session (one-to-one) is $15 up to $40 depending on your age category and the booking method.
+- The cost of the private session (one-to-one) is $15 up to $60 depending on your age category and the booking method and conditions.
 
 For more information about the prices, please contact our Financial Manager in Egypt, Ms Nadia via WhatsApp and send a text msg to the following no. (**00201224073193**)
