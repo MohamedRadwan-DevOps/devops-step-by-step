@@ -126,14 +126,14 @@ https://www.linkedin.com/in/mhshahin/
  ### - Discord events are now using the event feature and the old meeting channels are being canceled
   ### <br/>
 # The NDA Right
- ### - Groups can be formed online or in person. The NDA rights are considered after the group has been formed.
+ ### - Groups can be formed online or in person. The NDA rights are considered before the group has been formed.
  ### <br/>
 # The Group Advisory Activity
  ### - A group advisory tag and information on our KB and rules will be updated regularly
  ### <br/>
 # The New Platform
- ### - It is now possible for Mentors to register on the new platform using  the following link:
-- [Platform](https://learn.mohamedradwan.com/) 
+ ### - It is now possible for Mentors to register on the new platform please check discoed for the link and more information.
+
   ### <br/>
 # Onboarding
  ### - All of our new members will be onboarding for 3 months and we will divide the year into 4 quarters when they join.
