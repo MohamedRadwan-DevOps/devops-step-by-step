@@ -155,7 +155,7 @@ https://www.linkedin.com/in/mhshahin/
   - [⬆ back to top](#news)
     
 # The New Platform
- ### - It is now possible for Mentors to register on the new platform using  the following link:
+ ### - It is now possible for Mentor's members to register on the new platform using  the following link:
 - [Platform](https://learn.mohamedradwan.com/) 
   ### <br/>
   
