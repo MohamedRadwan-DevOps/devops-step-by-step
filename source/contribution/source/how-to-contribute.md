@@ -68,7 +68,7 @@ However, there are some things to know before jumping in and starting to ask/ans
 
 #### What to do before Answering?
 
-Before answering any questions you need to read the [FAQ](../faq.md) and watch this [Youtube Video](https://www.youtube.com/watch?v=C3sPXx4Hzmw)
+Before answering any questions you need to read the [FAQ](../../faq.md) and watch this [Youtube Video](https://www.youtube.com/watch?v=C3sPXx4Hzmw)
 
 Also consider reading this question [here](http://devopsvisionsqa.mohamedradwan.com/?qa=65/what-i-need-to-do-before-using-our-q%26a-platform&show=66#a66).
 
