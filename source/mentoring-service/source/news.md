@@ -1,5 +1,5 @@
 ## News
-  - [All News After Meetup (#1) July and Before Meetup (#2) October ](#secondmeetup-news)
+  - [All News After Meetup (#1) July 2023 and Before Meetup (#2) October 2023](#the-second-meetup-news)
     - [The Group Advisory Meetings](#the-group-advisory-meetings)
     - [The Leadership Team Meeting](#the-leadership-team-meeting)
     - [The Support Rules](#the-support-rules)
@@ -19,7 +19,7 @@
     - [The Group Advisory Activity](#the-group-advisory-activity)
     - [The New Platform](#the-new-platform)
     - [Onboarding](#onboarding)
- - [All News Before Meetup (#1) July](#previous-news)  
+ - [All News Before Meetup (#1) July 2023](#the-first-meetup-news)  
     - [Annual Activities](#annual-activities)
     - [Mentor Meetup](#mentor-meetup)
     - [Qaderoon initiative](#qaderoon-initiative)
@@ -43,7 +43,7 @@
     - [Communication Skills Session Part 1](#communication-skills-session-part-1)
     - [Members Celebration](#members-celebration)
 
-
+# The Second Meetup News
  # The Group Advisory Meetings
   ### - 2 meetings was held on 19-07-2023 at 8:30 PM and 01-08-2023 at 8:00 PM Cairo Time.
   ### - 14 members subscribed as a group advisory.
@@ -52,18 +52,25 @@
 ### - You Can find the group advisory rules at the following link:
 - [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
  ### <br/>
+   [⬆ back to top](#news)
+    
  # The Leadership Team Meeting
  ### - A leadership meeting was held on 15-08-2023 at 9:00 PM Cairo Time.
  ### - All the group advisory members were added to the leadership team So, every group advisory is part of the leadership team but not every member of the leadership team is a group advisory since the group advisory is a personal choice.
  ### <br/>
+ 
 # The Support Rules
 ### -  The course support will only be available for one month after the course. Afterward, a fee will be paid per ticket support, you can look at [the service price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) page for more information.
  ### <br/>
+   [⬆ back to top](#news)
+   
 # The Mentor Private one - one Sessions Rules
  ### - The urgent session will be 30 min with a paid fee and the reservation is at least a week earlier.
  ### - You can book private sessions with the person annually, with a minimum of two sessions and a maximum of five sessions, depending on his level of experience.
  ### - You can find the price of private one-one sessions at [the service price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) page for more information.
  ### <br/>
+   [⬆ back to top](#news)
+    
 # Maximizing Productivity with Azure DevOps and Logic Apps
 ### - It was on 29-08-2023 at 9:00 PM Cairo time.
 ### - The number of online attendees was more than 300.
@@ -75,12 +82,16 @@ https://www.linkedin.com/in/rehab-ragab-04a22b19a/
 https://www.linkedin.com/in/mohamedahmedradwan/
 ### - You Can find the session at the Following Link: 
  ### <br/>
+   [⬆ back to top](#news)
+    
 # MVP TechBytes with Mohamed Radwan
 ### - It was about Git Branch and Merge Strategy using Azure DevOps.
 ### - This session offers a comprehensive breakdown of GitFlow, Git Release branches, and various merge approaches
 ### - You Can find the session at the Following Link: 
 https://www.youtube.com/watch?v=2uf7V9xvO6s
  ### <br/>
+   [⬆ back to top](#news)
+    
 # Communication Skills Session Part 3
 ### - It was on 05-09-2023 at 9:00 PM Cairo time.
 ### - The number of online attendees was more than 250. 
@@ -92,52 +103,70 @@ https://www.linkedin.com/in/mostafa-ahmed-1b588862/
 ### - Mahmoud Shahin:Profisional Communication.
 https://www.linkedin.com/in/mhshahin/
 ### - You Can find the session at the Following Link: 
-
 ### <br/>
+  [⬆ back to top](#news)
+   
 # The Management and Ask me anything
 ### - It will be on 19-09-2023 at 9:00 PM Cairo time.
-
  ### <br/>
+ 
  # The Mentor Meetup
 ### - It will be on 04-10-2023 at 9:00 PM Cairo time.
-
  ### <br/>
+   [⬆ back to top](#news)
+    
  #  The Secret to Success with Michael Blumenthal and Mohamed Radwan
 ### - The Secret to Success with MVPs [Michael Blumenthal](events-speakers.md#michael-blumenthal)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) will be on 14-10-2023 at 9:00 PM Cairo Time.
 ### <br/>
+
  # The Group Therapy
 ### - It will be on 08-11-2023 at 9:00 PM Cairo time.
-
  ### <br/>
+   [⬆ back to top](#news)
+    
  # The Annual Calendar
  ### - There is a new update on the annual calendar and it also shows the end of 2024, You can find this calendar at the following link:
 - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
- 
   ### <br/>
+  
 # The DevOps Course Update license
   ### - The license changed for the course and package 2 is now only 3 months
   ### <br/>
+    [⬆ back to top](#news)
+     
 # The Mentor and Course Update Price
   ### - The price is increased as well for both courses and the entry for the mentor, You can find this price at the following link:
 - [Price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) 
   ### <br/>
+  
 # The Discord Event
  ### - Discord events are now using the event feature and the old meeting channels are being canceled
   ### <br/>
+    [⬆ back to top](#news)
+     
 # The NDA Right
  ### - Groups can be formed online or in person. The NDA rights are considered before the group has been formed.
  ### <br/>
+ 
 # The Group Advisory Activity
  ### - A group advisory tag and information on our KB and rules will be updated regularly
  ### <br/>
+   [⬆ back to top](#news)
+    
 # The New Platform
- ### - It is now possible for Mentors to register on the new platform please check discoed for the link and more information.
+
+ ### - It is now possible for Mentor's members to register on the new platform using  the following link:
+- [Platform](https://learn.mohamedradwan.com/) 
 
   ### <br/>
+  
 # Onboarding
  ### - All of our new members will be onboarding for 3 months and we will divide the year into 4 quarters when they join.
 ### <br/>
+  [⬆ back to top](#news)
+   
+# The First Meetup News
 # Annual Activities
 ### - There are 24 activities/year. 
 ### -  There are 2 activities/month.
@@ -145,13 +174,16 @@ https://www.linkedin.com/in/mhshahin/
 - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
 ### <br/>
+  [⬆ back to top](#news)
+   
 # Mentor Meetup
 ### - This is the first mentor meetup.
 ### - It will be on 18-07-2023 at 8:00 PM Cairo Time and the next one will be in October.
 ### - You Can find the meeting agenda at the Following Link:
 - [Agenda](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mentoring-service/source/agenda.md#mentor-meetup) 
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Qaderoon initiative
 ### - Eng. Mohamed Radwan joined the “Qaderoon” initiative, which is an Egyptian initiative to rehabilitate and develop youth with the support of the Ministry of Social Solidarity, and it was agreed on joint cooperation.
 ### <br/>
@@ -159,7 +191,8 @@ https://www.linkedin.com/in/mhshahin/
 # Open the Discussion on the Inner-source
 ### - The discussion was opened on the inner source to allow members to discuss various topics.
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Move the Profile From the Q/A to the Inner Source
 ### - We have moved user profiles from our KB (Q&A) to a private repo (inner-source), and since this is a private repo, no one public can access it without adding them first.
 ### <br/>
@@ -168,7 +201,8 @@ https://www.linkedin.com/in/mhshahin/
 ### - A group advisory meeting will be on 19-07-2023 at 8:30 PM Cairo Time .
 ### - 12 members subscribed as a group advisory.
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Discounts
 ## Members will be given a discount on the renewal fees for the mentor program (in December) in case of:
 ### - They participate as a group advisory.
@@ -179,7 +213,8 @@ https://www.linkedin.com/in/mhshahin/
 # The Secret to Success
 ### - The Secret to Success with MVPs [Anthony Mashford](events-speakers.md#anthony-mashford)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) was on 11-07-2023 at 8:00 PM Cairo Time.
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Random Casual Online Mentor Meetup
 ### - As one of the mentor activities there is a random online meetup the first one was done on 01-07-2023 at 1:00 PM Cairo time. 
 ### - The number of attendees is 10 members.
@@ -192,7 +227,8 @@ https://www.linkedin.com/in/mhshahin/
 ### - An AI Researcher in Egypt, Computational linguist, and NLP engineer in Egypt.
 ### - A Technical manager with 17 years of experience in Egypt.
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Private Youtube Videos
 ### - Private YouTube videos will be deleted at the end of September 2023 and they will be limited paid service.
 ### <br/>
@@ -203,7 +239,8 @@ https://www.linkedin.com/in/mhshahin/
 ### - Discuss 5 work challenges for mentor members.
 ### - Discuss performance improvement topics.
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Communication Skills Session Part 2
 ### - It was on 22-06-2023 at 9:00 PM Cairo time.
 ### - The number of online attendees was more than 350. 
@@ -217,7 +254,8 @@ https://www.linkedin.com/in/mhshahin/
 ### - You Can find small Snapshots from the session at the Following Link: 
 https://www.youtube.com/watch?v=LNmBb1Yrdko
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Post Mortem After Communication Skills Session Part 2
 ### - After the Communication Skills Session there was a post-mortem to discuss the session to extract the lesson learned and avoid repetition problems in the following sessions.
 ### <br/>
@@ -229,7 +267,8 @@ https://www.linkedin.com/in/abdelhalimzaki/
 ### - You Can find the session at the Following Link: 
 https://www.youtube.com/watch?v=s88vCcoEI5Y
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Mentor Private one - one Session Details
 ### - The First Ordinary Session will be 30 min with a paid fee of 500 EGP and the reservation is at least a month earlier.
 ### - The First urgent session will be 30 min with a paid fee of 2000 EGP and the reservation is at least a week earlier.
@@ -243,7 +282,8 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 ## Training project
 ### - It will be a Cloud Migration training project for mentor members. 
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Induction and Onboarding Session for The Mentor Program
 ### - It was on 05-06-2023 at 8:00 PM Cairo time.
 ### - This is the meeting of the induction and onboarding session for the new members of the Mentor program.
@@ -263,7 +303,8 @@ https://www.youtube.com/watch?v=s88vCcoEI5Y
 
 ## Virtual Gathering on 18-03-2023 from 12:00 PM to 07:00 PM Cairo time
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Public Google form for questions
 ### Mentor members created a form that anyone can ask a question and one of them will answer it.
 ### If someone sends a message to eng. Radwan didn't respond to it, he apologizes, but you can contact him using the form at the following Link: 
@@ -286,7 +327,8 @@ https://www.linkedin.com/in/mohamedahmedradwan/
 ### - You Can find small Snapshots from the session at the Following Link: 
 https://www.youtube.com/watch?v=Ll6j1_9DuWc
 ### <br/>
-
+  [⬆ back to top](#news)
+   
 # Members Celebration
 ### Mentor members are celebrated for their accomplishments as follows:
 ### - Salary Raise. 
@@ -295,3 +337,4 @@ https://www.youtube.com/watch?v=Ll6j1_9DuWc
 ### - Joining Big Company. 
 ### - Joining New Members.
 ### <br/>
+  [⬆ back to top](#news)
