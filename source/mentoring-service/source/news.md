@@ -146,7 +146,7 @@ https://www.linkedin.com/in/mhshahin/
     [⬆ back to top](#news)
      
 # The NDA Right
- ### - Groups can be formed online or in person. The NDA rights are considered after the group has been formed.
+ ### - Groups can be formed online or in person. The NDA rights are considered before the group has been formed.
  ### <br/>
  
 # The Group Advisory Activity
@@ -155,8 +155,10 @@ https://www.linkedin.com/in/mhshahin/
    [⬆ back to top](#news)
     
 # The New Platform
+
  ### - It is now possible for Mentor's members to register on the new platform using  the following link:
 - [Platform](https://learn.mohamedradwan.com/) 
+
   ### <br/>
   
 # Onboarding
