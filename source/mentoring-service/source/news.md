@@ -59,6 +59,7 @@
  # The Leadership Team Meeting
  ### - A leadership meeting was held on 15-08-2023 at 9:00 PM Cairo Time.
  ### - All the group advisory members were added to the leadership team So, every group advisory is part of the leadership team but not every member of the leadership team is a group advisory since the group advisory is a personal choice.
+ ### - The next meeting will be on 22 October 2023.
  ### <br/>
  
 # The Support Rules
@@ -83,14 +84,13 @@
 https://www.linkedin.com/in/rehab-ragab-04a22b19a/
 ### - Mohamed Radwan
 https://www.linkedin.com/in/mohamedahmedradwan/
-### - You Can find the session at the Following Link: 
 <br>
 
 [⬆ back to top](#news)
     
 # MVP TechBytes with Mohamed Radwan
 ### - It was about Git Branch and Merge Strategy using Azure DevOps.
-### - This session offers a comprehensive breakdown of GitFlow, Git Release branches, and various merge approaches
+### - This session offers a comprehensive breakdown of GitFlow, Git Release branches, and various merge approaches.
 ### - You Can find the session at the Following Link: 
 https://www.youtube.com/watch?v=2uf7V9xvO6s
 <br>
@@ -107,12 +107,11 @@ https://www.linkedin.com/in/mohamedelrais/
 https://www.linkedin.com/in/mostafa-ahmed-1b588862/
 ### - Mahmoud Shahin:Profisional Communication.
 https://www.linkedin.com/in/mhshahin/
-### - You Can find the session at the Following Link: 
 ### <br/>
   [⬆ back to top](#news)
    
 # The Management and Ask me anything
-### - It will be on 19-09-2023 at 9:00 PM Cairo time.
+### - It was on 19-09-2023 at 9:00 PM Cairo time.
  ### <br/>
  
  # The Mentor Meetup
@@ -122,7 +121,7 @@ https://www.linkedin.com/in/mhshahin/
 [⬆ back to top](#news)
     
  #  The Secret to Success with Michael Blumenthal and Mohamed Radwan
-### - The Secret to Success with MVPs [Michael Blumenthal](events-speakers.md#michael-blumenthal)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) will be on 14-10-2023 at 9:00 PM Cairo Time.
+### - The Secret to Success with MVPs [Michael Blumenthal](events-speakers.md#michael-blumenthal)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) will be on 12-10-2023 at 9:00 PM Cairo Time.
 ### <br/>
 
  # The Group Therapy
@@ -138,7 +137,7 @@ https://www.linkedin.com/in/mhshahin/
   ### <br/>
   
 # The DevOps Course Update license
-  ### - The license changed for the course and package 2 is now only 3 months
+  ### - The license changed for the course and package 2 is now only 3 months.
 <br>
 
 [⬆ back to top](#news)
@@ -149,7 +148,7 @@ https://www.linkedin.com/in/mhshahin/
   ### <br/>
   
 # The Discord Event
- ### - Discord events are now using the event feature and the old meeting channels are being canceled
+ ### - Discord events are now using the event feature and the old meeting channels are being canceled.
 <br>
 
 [⬆ back to top](#news)
@@ -159,20 +158,24 @@ https://www.linkedin.com/in/mhshahin/
  ### <br/>
  
 # The Group Advisory Activity
- ### - A group advisory tag and information on our KB and rules will be updated regularly
+ ### - A group advisory's tag and information on our KB and rules will be updated regularly.
 <br>
 
 [⬆ back to top](#news)
     
 # The New Platform
 
- ### - It is now possible for Mentor's members to register on the new platform using  the following link:
+ ### - It is now possible for Mentor's members to register on the new platform using the following link:
 - [Platform](https://learn.mohamedradwan.com/) 
 
   ### <br/>
   
 # Onboarding
  ### - All of our new members will be onboarding for 3 months and we will divide the year into 4 quarters when they join.
+ ### - First quarter  (January to March)
+ ### - Second quarter (April to June)
+ ### - Third quarter  (July to September)
+ ### - Fourth quarter (October to December)
 <br>
 
 [⬆ back to top](#news)
