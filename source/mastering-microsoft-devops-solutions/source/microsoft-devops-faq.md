@@ -11,7 +11,7 @@ To become a Microsoft Certified: DevOps Engineer Expert, you must pass additiona
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/).
 - [Microsoft Certified: Azure Developer Associate certification](https://learn.microsoft.com/en-us/certifications/azure-developer/).
 
-![Certification](../images/mics/mastering-devops-certification.png)
+![Certification](../../images/mics/mastering-devops-certification.png)
 
 ## Do I have to take Microsoft Certified Azure Administrator Associate or  Microsoft Certified Azure Developer Associate exam before take AZ 400 exam?
 
@@ -21,7 +21,6 @@ No, you can take AZ-400 exam first then take the other exam later.
 
 You can review all the prerequisites of the course on the following link:
 
-[Course prerequisites](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/mastering-microsoft-devops-solutions/microsoft-devops-info-prerequisite.md)
-
+[Course prerequisites](microsoft-devops-info-prerequisite.md)
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
