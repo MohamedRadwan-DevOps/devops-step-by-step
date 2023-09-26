@@ -64,6 +64,6 @@ For any inquiries? Look at the following Q&A page:
 
 The starting date will be updated on the following course Date & Time page:
 
-[Date & Time Schedule ](../course-schedule.md)
+[Date & Time Schedule ](/source/course-schedule.md)
 
 **[⬆ back to top](#introduction-to-information-technology)**
