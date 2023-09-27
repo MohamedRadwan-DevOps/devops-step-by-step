@@ -1,5 +1,5 @@
 ## News
-  - [All News After Meetup (#1) July 2023 and Before Meetup (#2) October 2023](#the-second-meetup-news)
+  - [All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023](#all-news-between-meetup-1-jul-2023-and-meetup-2-oct-2023)
     - [Group Advisory Meetings](#group-advisory-meetings)
     - [Leadership Team Meeting](#leadership-team-meeting)
     - [Support Rules](#support-rules)
@@ -43,13 +43,13 @@
     - [Communication Skills Session Part 1](#communication-skills-session-part-1)
     - [Members Celebration](#members-celebration)
 
-# The Second Meetup News
+# All News Between Meetup (#1) Jul 2023 and Meetup (#2) Oct 2023
 
 ## Group Advisory Meetings
 
 - **Date and Time:** 
 
-    - Aug 01, 2023, at 6:00 PM UK Time
+    - Aug 01, 2023, at 6:00 PM UK Time.
     - Jul 19, 2023, at 6:30 PM UK Time.
 
 - 14 members have subscribed as a group advisory.
@@ -62,7 +62,6 @@
   
   [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
 
-[⬆ back to top](#news)
 
 ## Leadership Team Meeting
 
@@ -73,17 +72,11 @@
 - The next meeting will be on 22 October 2023.
 
 
-[⬆ back to top](#news)
-
- 
 ## Support Rules
 
 -  Course support will only be available for one month after the course. Afterward, a fee will be paid per ticket support. For more details on pricing, please visit the [Service Prices](../../service-prices.md) page.
 
 
-[⬆ back to top](#news)
-
-   
 ## One-to-One Sessions Rules
 
 - The urgent session will be 30 minutes with a paid fee and the reservation is at least a week earlier.
@@ -92,9 +85,6 @@
 
 - For more details on pricing, please visit the [Service Prices](../../service-prices.md) page.
 
- 
-[⬆ back to top](#news)
-   
 
 ## Maximizing Productivity with Azure DevOps and Logic Apps
 
@@ -113,9 +103,6 @@
 - [Mohamed Radwan](https://www.linkedin.com/in/mohamedahmedradwan/)
 
 
-[⬆ back to top](#news)
-
-    
 ## MVP TechBytes with Mohamed Radwan
 
 - **Topic:** The session focused on "Git Branch and Merge Strategy using Azure DevOps".
@@ -125,16 +112,13 @@
 - **Video Link:** You can find the session at the following link: [Git Branch and Merge Strategy using Azure DevOps](https://www.youtube.com/watch?v=2uf7V9xvO6s).
 
 
-[⬆ back to top](#news)
-
-    
 ## Communication Skills Session Part (3)
 
 - **Date and Time:** Sep 05, 2023, at 7:00 PM UK Time.
 
 - **Online Attendance:** Over 250 participants.
 
-- **Topic:** The session focused on "Presentation Skills, Email etiquette, and Personal branding".
+- **Topic:** The session focused on "Presentation Skills, Email Etiquette, and Personal Branding".
 
 ### Presenters:
 
@@ -145,9 +129,6 @@
 - [Mahmoud Shahin](https://www.linkedin.com/in/mhshahin/)
 
 
-[⬆ back to top](#news)
-
-   
 ## Ask Me Anything & Management
 
 - **Date and Time:** September 19, 2023, at 7:00 PM UK Time.
@@ -155,15 +136,9 @@
 - **Agenda:** The meeting focused on discussing the questions submitted by mentor members.
 
 
-[⬆ back to top](#news)
-
- 
 ## Mentor Meetup
 
 - **Date and Time:** Oct 04, 2023, at 7:00 PM UK Time.
-
-
-[⬆ back to top](#news)
 
 
 ## Secret to Success with Michael Blumenthal & Mohamed Radwan
@@ -173,17 +148,11 @@
 - **Topic:** Explore the "Secret to Success" [Michael Blumenthal](events-speakers.md#michael-blumenthal) and [Mohamed Radwan](events-speakers.md#mohamed-radwan).
 
 
-[⬆ back to top](#news)
-
-
 ## Group Therapy
 
 - **Date and Time:** Nov 08, 2023, at 7:00 PM UK Time.
 
 
-[⬆ back to top](#news)
-
-    
 ## Annual Calendar
 
 - We have introduced a new update to the annual calendar, which now extends to the end of 2024.
@@ -195,15 +164,9 @@
     - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
 
 
-[⬆ back to top](#news)
-
-
 ## DevOps Course License Update
 
-- The course license has been updated, and now Package 2 lasts for just three months
-
-
-[⬆ back to top](#news)
+- The course license has been updated, and now Package 2 lasts for just three months.
 
 
 ## Mentor and Course Update Pricing
@@ -213,15 +176,9 @@
 - For more details on pricing, please visit the [Service Prices](../../service-prices.md) page.
 
 
-[⬆ back to top](#news)
-
-
 ## Discord Events
 
 - We're now using Discord's Event feature for all our events, and the old meeting channels are no longer in use.
-
-
-[⬆ back to top](#news)
 
 
 ## NDA Right
@@ -229,24 +186,17 @@
 - Groups can be formed either online or in person, and NDA rights are taken into account before the group is created.
 
 
-[⬆ back to top](#news)
-
- 
 ## Group Advisory Updates
 
 - The tag, information, and rules for group advisory will be updated regularly on our Knowledge Base.
 
 
-[⬆ back to top](#news)
-
-    
 # The New Platform
 
-- It is now possible for the Mentor's members to register on the new platform using the following link: [Platform](https://learn.mohamedradwan.com/) 
+- It is now possible for the Mentor's members to register on the new platform using the following link:
 
+  [Platform](https://learn.mohamedradwan.com/) 
 
-[⬆ back to top](#news)
- 
 
 ## New Member Onboarding
 
@@ -257,8 +207,8 @@
     - Third Quarter: July to September
     - Fourth Quarter: October to December
 
+**[⬆ back to top](#news)**
 
-[⬆ back to top](#news)
 
 
 # The First Meetup News
