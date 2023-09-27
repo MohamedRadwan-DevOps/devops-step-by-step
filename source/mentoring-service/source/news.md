@@ -1,24 +1,24 @@
 ## News
   - [All News After Meetup (#1) July 2023 and Before Meetup (#2) October 2023](#the-second-meetup-news)
-    - [The Group Advisory Meetings](#the-group-advisory-meetings)
-    - [The Leadership Team Meeting](#the-leadership-team-meeting)
-    - [The Support Rules](#the-support-rules)
-    - [The Mentor Private one - one Sessions Rules](#the-mentor-private-one---one-sessions-rules)
+    - [Group Advisory Meetings](#group-advisory-meetings)
+    - [Leadership Team Meeting](#leadership-team-meeting)
+    - [Support Rules](#support-rules)
+    - [One-to-One Sessions Rules](#one-to-one-sessions-rules)
     - [Maximizing Productivity with Azure DevOps and Logic Apps](#maximizing-productivity-with-azure-devops-and-logic-apps)
     - [MVP TechBytes with Mohamed Radwan](#mvp-techbytes-with-mohamed-radwan)
-    - [Communication Skills Session Part 3](#communication-skills-session-part-3)
-    - [The Management and Ask me anything](#the-management-and-ask-me-anything)
-    - [The Mentor Meetup](#the-mentor-meetup)
-    - [The Secret to Success with Michael Blumenthal and Mohamed Radwan](#the-secret-to-success-with-michael-blumenthal-and-mohamed-radwan)
-    - [The Group Therapy](#the-group-therapy)
-    - [The Annual Calendar](#the-annual-calendar)
-    - [The DevOps Course Update license](#the-devops-course-update-license)
+    - [Communication Skills Session Part (3)](#communication-skills-session-part-3)
+    - [Ask Me Anything & Management](#ask-me-anything--management)
+    - [Mentor Meetup](#mentor-meetup)
+    - [Secret to Success with Michael Blumenthal & Mohamed Radwan](#secret-to-success-with-michael-blumenthal--mohamed-radwan)
+    - [Group Therapy](#group-therapy)
+    - [Annual Calendar](#annual-calendar)
+    - [DevOps Course License Update](#devops-course-license-update)
     - [The Mentor and Course Update Price](#the-mentor-and-course-update-price)
-    - [The Discord Event](#the-discord-event)
-    - [The NDA Right](#the-nda-right)
-    - [The Group Advisory Activity](#the-group-advisory-activity)
+    - [Discord Events](#discord-events)
+    - [NDA Right](#nda-right)
+    - [Group Advisory Updates](#group-advisory-updates)
     - [The New Platform](#the-new-platform)
-    - [Onboarding](#onboarding)
+    - [New Member Onboarding](#new-member-onboarding)
  - [All News Before Meetup (#1) July 2023](#the-first-meetup-news)  
     - [Annual Activities](#annual-activities)
     - [Mentor Meetup](#mentor-meetup)
@@ -44,193 +44,224 @@
     - [Members Celebration](#members-celebration)
 
 # The Second Meetup News
- # The Group Advisory Meetings
-  ### - 2 meetings was held on 19-07-2023 at 8:30 PM and 01-08-2023 at 8:00 PM Cairo Time.
-  ### - 14 members subscribed as a group advisory.
-  ### - You Can find the group advisory and its members at the following link:
-- [Group Advisory Members](https://devopsvisionsqa.mohamedradwan.com/?qa=690/what-names-current-groups-registered-group-advisory-program) 
-### - You Can find the group advisory rules at the following link:
-- [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
-<br>
+
+## Group Advisory Meetings
+
+- **Date and Time:** 
+
+    - Aug 01, 2023, at 6:00 PM UK Time
+    - Jul 19, 2023, at 6:30 PM UK Time.
+
+- 14 members have subscribed as a group advisory.
+
+- You can find the group advisory members at the following link:
+
+  [Group Advisory Members](https://devopsvisionsqa.mohamedradwan.com/?qa=690/what-names-current-groups-registered-group-advisory-program) 
+
+- You Can find the group advisory rules at the following link: 
+  
+  [Group Advisory Rules](https://devopsvisionsqa.mohamedradwan.com/?qa=853/what-are-the-rules-of-the-group-advisory-sub-program) 
 
 [⬆ back to top](#news)
 
-<br>
+## Leadership Team Meeting
 
- # The Leadership Team Meeting
- ### - A leadership meeting was held on 15-08-2023 at 9:00 PM Cairo Time.
- ### - All the group advisory members were added to the leadership team So, every group advisory is part of the leadership team but not every member of the leadership team is a group advisory since the group advisory is a personal choice.
- ### - The next meeting will be on 22 October 2023.
- <br>
+- **Date and Time:** Aug 15, 2023, at 7:00 PM UK Time.
+
+- All the group advisory members were added to the leadership team. This means that every group advisory member is now part of the leadership team. However, it's essential to understand that not every member of the leadership team is necessarily a group advisory member because joining the group advisory is a personal choice.
+
+- The next meeting will be on 22 October 2023.
+
 
 [⬆ back to top](#news)
 
- <br>
  
-# The Support Rules
-### -  The course support will only be available for one month after the course. Afterward, a fee will be paid per ticket support, you can look at [the service price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) page for more information.
-<br>
+## Support Rules
+
+-  Course support will only be available for one month after the course. Afterward, a fee will be paid per ticket support. For more details on pricing, please visit the [Service Prices](../../service-prices.md) page.
+
 
 [⬆ back to top](#news)
 
-<br>
    
-# The Mentor Private one - one Sessions Rules
- ### - The urgent session will be 30 min with a paid fee and the reservation is at least a week earlier.
- ### - You can book private sessions with the person annually, with a minimum of two sessions and a maximum of five sessions, depending on his level of experience.
- ### - You can find the price of private one-one sessions at [the service price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) page for more information.
- <br>
+## One-to-One Sessions Rules
+
+- The urgent session will be 30 minutes with a paid fee and the reservation is at least a week earlier.
+
+- Sessions can be booked on an annual basis. You can schedule a minimum of two sessions and a maximum of five sessions, depending on the person's level of experience.
+
+- For more details on pricing, please visit the [Service Prices](../../service-prices.md) page.
+
  
 [⬆ back to top](#news)
    
-<br>
 
-# Maximizing Productivity with Azure DevOps and Logic Apps
-### - It was on 29-08-2023 at 9:00 PM Cairo time.
-### - The number of online attendees was more than 300.
-### - It was about Maximizing Productivity with Azure DevOps and Logic Apps (2 ways integration).
-### Presenter:
-### - Rehab Ragab
-https://www.linkedin.com/in/rehab-ragab-04a22b19a/
-### - Mohamed Radwan
-https://www.linkedin.com/in/mohamedahmedradwan/
-<br><br>
+## Maximizing Productivity with Azure DevOps and Logic Apps
+
+- **Date and Time:** Aug 29, 2023, at 7:00 PM UK Time.
+
+- **Online Attendance:** Over 300 participants.
+
+- **Topic:** Maximizing Productivity with Azure DevOps and Logic Apps (2-Way Integration).
+
+- **Video Link:** You can find the session at the following link: [Maximizing Productivity with Azure DevOps and Logic Apps](https://www.youtube.com/watch?v=AhBsuOYnEEI&t=414s).
+
+### Presenters:
+
+- [Rehab Ragab](https://www.linkedin.com/in/rehab-ragab-04a22b19a/)
+
+- [Mohamed Radwan](https://www.linkedin.com/in/mohamedahmedradwan/)
+
 
 [⬆ back to top](#news)
 
-<br>
     
-# MVP TechBytes with Mohamed Radwan
-### - It was about Git Branch and Merge Strategy using Azure DevOps.
-### - This session offers a comprehensive breakdown of GitFlow, Git Release branches, and various merge approaches.
-### - You Can find the session at the Following Link: 
-https://www.youtube.com/watch?v=2uf7V9xvO6s
-<br><br>
+## MVP TechBytes with Mohamed Radwan
+
+- **Topic:** The session focused on "Git Branch and Merge Strategy using Azure DevOps".
+
+- **Content:** The session provided an in-depth exploration of GitFlow, Git Release branches, and different merging techniques.
+
+- **Video Link:** You can find the session at the following link: [Git Branch and Merge Strategy using Azure DevOps](https://www.youtube.com/watch?v=2uf7V9xvO6s).
+
 
 [⬆ back to top](#news)
 
-<br>
     
-# Communication Skills Session Part 3
-### - It was on 05-09-2023 at 9:00 PM Cairo time.
-### - The number of online attendees was more than 250. 
-### - Presenters:
-### - Mohamed Elrais: Technical Skills.
-https://www.linkedin.com/in/mohamedelrais/
-### - Mostafa Ahmed: Email Etiquette.
-https://www.linkedin.com/in/mostafa-ahmed-1b588862/
-### - Mahmoud Shahin:Profisional Communication.
-https://www.linkedin.com/in/mhshahin/
-<br><br>
- 
+## Communication Skills Session Part (3)
+
+- **Date and Time:** Sep 05, 2023, at 7:00 PM UK Time.
+
+- **Online Attendance:** Over 250 participants.
+
+- **Topic:** The session focused on "Presentation Skills, Email etiquette, and Personal branding".
+
+### Presenters:
+
+- [Mohamed Elrais](https://www.linkedin.com/in/mohamedelrais/)
+
+- [Mostafa Ahmed](https://www.linkedin.com/in/mostafa-ahmed-1b588862/)
+
+- [Mahmoud Shahin](https://www.linkedin.com/in/mhshahin/)
+
+
 [⬆ back to top](#news)
 
-<br>
    
-# The Management and Ask me anything
-### - It was on 19-09-2023 at 9:00 PM Cairo time.
- <br>
+## Ask Me Anything & Management
+
+- **Date and Time:** September 19, 2023, at 7:00 PM UK Time.
+
+- **Agenda:** The meeting focused on discussing the questions submitted by mentor members.
+
 
 [⬆ back to top](#news)
 
- <br>
  
- # The Mentor Meetup
-### - It will be on 04-10-2023 at 9:00 PM Cairo time.
-<br>
+## Mentor Meetup
+
+- **Date and Time:** Oct 04, 2023, at 7:00 PM UK Time.
+
 
 [⬆ back to top](#news)
 
-<br>
+
+## Secret to Success with Michael Blumenthal & Mohamed Radwan
+
+- **Date and Time:** Oct 12, 2023, at 7:00 PM UK Time.
+
+- **Topic:** Explore the "Secret to Success" [Michael Blumenthal](events-speakers.md#michael-blumenthal) and [Mohamed Radwan](events-speakers.md#mohamed-radwan).
+
+
+[⬆ back to top](#news)
+
+
+## Group Therapy
+
+- **Date and Time:** Nov 08, 2023, at 7:00 PM UK Time.
+
+
+[⬆ back to top](#news)
+
     
- #  The Secret to Success with Michael Blumenthal and Mohamed Radwan
-### - The Secret to Success with MVPs [Michael Blumenthal](events-speakers.md#michael-blumenthal)  & [Mohamed Radwan](events-speakers.md#mohamed-radwan) will be on 12-10-2023 at 9:00 PM Cairo Time.
-<br>
+## Annual Calendar
+
+- We have introduced a new update to the annual calendar, which now extends to the end of 2024.
+
+-  You can find this calendar at the following links:
+
+    - [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+
+    - [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
+
 
 [⬆ back to top](#news)
 
-<br>
 
- # The Group Therapy
-### - It will be on 08-11-2023 at 9:00 PM Cairo time.
-<br>
+## DevOps Course License Update
 
-[⬆ back to top](#news)
+- The course license has been updated, and now Package 2 lasts for just three months
 
-<br>
-    
- # The Annual Calendar
- ### - There is a new update on the annual calendar and it also shows the end of 2024, You can find this calendar at the following link:
-- [Public Calendar](https://calendar.google.com/calendar/u/0?cid=YTE5NjZmM2NmZjhjNTUzYzBhYmMzODhmZWQxYzdjNzFhZTdkNzcwODc1NDQ2ZjkyYTFkYjRiODRmNGFmNDM2YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
-- [Private Calendar "needs to login to KB (Q&A)"](https://devopsvisionsqa.mohamedradwan.com/?qa=780/what-is-the-annual-calendar-for-the-mentor-activities&show=780#q780) 
-  <br>
 
 [⬆ back to top](#news)
 
-  <br>
 
-# The DevOps Course Update license
-  ### - The license changed for the course and package 2 is now only 3 months.
-<br>
+## Mentor and Course Update Pricing
 
-[⬆ back to top](#news)
+- The prices for both courses and mentorship have been raised.
 
-<br>
+- For more details on pricing, please visit the [Service Prices](../../service-prices.md) page.
 
-# The Mentor and Course Update Price
-  ### - The price is increased as well for both courses and the entry for the mentor, You can find this price at the following link:
-- [Price](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/blob/main/source/service-prices.md) 
-  <br>
 
 [⬆ back to top](#news)
 
-<br>
 
-# The Discord Event
- ### - Discord events are now using the event feature and the old meeting channels are being canceled.
-<br>
+## Discord Events
 
-[⬆ back to top](#news)
+- We're now using Discord's Event feature for all our events, and the old meeting channels are no longer in use.
 
-<br>
-
-# The NDA Right
- ### - Groups can be formed online or in person. The NDA rights are considered before the group has been formed.
- <br>
 
 [⬆ back to top](#news)
 
- <br>
+
+## NDA Right
+
+- Groups can be formed either online or in person, and NDA rights are taken into account before the group is created.
+
+
+[⬆ back to top](#news)
+
  
-# The Group Advisory Activity
- ### - A group advisory's tag and information on our KB and rules will be updated regularly.
-<br>
+## Group Advisory Updates
+
+- The tag, information, and rules for group advisory will be updated regularly on our Knowledge Base.
+
 
 [⬆ back to top](#news)
 
 <br>
     
 # The New Platform
- ### - It is now possible for Mentor's members to register on the new platform using the following link:
-- [Platform](https://learn.mohamedradwan.com/) 
-  <br>
+
+- It is now possible for the Mentor's members to register on the new platform using the following link: [Platform](https://learn.mohamedradwan.com/) 
+
+
+[⬆ back to top](#news)
+ 
+
+## New Member Onboarding
+
+- For our new members, the onboarding process will span 3 months. We've divided the year into 4 quarters to align with their joining dates:
+
+    - First Quarter: January to March
+    - Second Quarter: April to June
+    - Third Quarter: July to September
+    - Fourth Quarter: October to December
+
 
 [⬆ back to top](#news)
 
-<br>  
 
-# Onboarding
- ### - All of our new members will be onboarding for 3 months and we will divide the year into 4 quarters when they join.
- ### - First quarter  (January to March)
- ### - Second quarter (April to June)
- ### - Third quarter  (July to September)
- ### - Fourth quarter (October to December)
-<br>
-
-[⬆ back to top](#news)
-
-<br>
-   
 # The First Meetup News
 # Annual Activities
 ### - There are 24 activities/year. 
