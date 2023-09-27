@@ -239,7 +239,6 @@
 
 [⬆ back to top](#news)
 
-<br>
     
 # The New Platform
 
