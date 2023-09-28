@@ -4,7 +4,7 @@
 
 - [📅 Agenda](./source/agenda.md "Agenda")
   
-- [📰 News](./source/News.md "News")
+- [📰 News](/source/mentoring-service/source/news.md "News")
 
 - [📅 Events Schedule](./source/events-schedule.md "Events Schedule")
 
