@@ -16,7 +16,7 @@ More info about our Public Calendar and other events ([click here](https://calen
 | 03 October 2022|  19:00 - 20:30  | Modern way to build and manage Infrastructure-as-Code: visually | [Chafik Belhaoues](events-speakers.md#chafik-belhaoues) | ![Chafik Belhaoues](../../images/speakers/chafik-belhaoues.png)|
 | 02 November 2022| 19:00 - 20:30  | Ask Me Anything | [Mohamed Radwan](events-speakers.md#mohamed-radwan) | ![Mohamed Radwan](../../images/speakers/mohamed-radwan.png)|
 | 11 July 2023| 18:00 - 19:30  | The Secret to Success with Anthony Mashford & Mohamed Radwan | [Anthony Mashford](events-speakers.md#anthony-mashford) | ![Anthony Mashford](../../images/speakers/anthony-mashford.png)|
-| 12 Oct 2023| 19:00 - 20:30  | The Secret to Success with Michael Blumenthal & Mohamed Radwan| [Michael Blumenthal](events-speakers.md#michael-blumenthal) | ![Michael Blumenthal](../../images/speakers/michael-blumenthal.png)|
+| 09 Nov 2023| 19:00 - 20:30  | The Secret to Success with Michael Blumenthal & Mohamed Radwan| [Michael Blumenthal](events-speakers.md#michael-blumenthal) | ![Michael Blumenthal](../../images/speakers/michael-blumenthal.png)|
 
 
 # The Secret to Success with MVPs
