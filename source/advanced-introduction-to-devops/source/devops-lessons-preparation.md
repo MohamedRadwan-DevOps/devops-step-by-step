@@ -98,7 +98,7 @@
 
 - Enable IIS on your windows machine (windows feature)
 
-  - [Enable IIS on your windows machine (windows feature) Webpage](https://gis.wsu.edu/portal/portalhelp/en/web-adaptor/latest/install/iis/enable-iis-10-components-server.htm)
+  - [Enable IIS on your windows machine (windows feature) Webpage](https://cloudzy.com/blog/install-iis-on-windows-10/)
 
   - [Enable IIS on your windows machine (windows feature) Video](https://www.youtube.com/watch?v=fTMPq3Ti1OU)
 
@@ -186,7 +186,7 @@
 
 - Maintainability index metric
 
-  - [Maintainability index metric Webpage](https://dartcodemetrics.dev/docs/metrics/maintainability-index)
+  - [Maintainability index metric Webpage](https://dcm.dev/docs/metrics/maintainability-index/)
 
   - [Maintainability index metric Video](https://www.youtube.com/watch?v=0Dpmhg8Gp2E)
 
