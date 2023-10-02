@@ -48,7 +48,7 @@ Moreover, the timing shall be updated on the following timetable page:
   
 ### Course prerequisites : 
 
-- The previous course ( [Fundamentals of Modern Software Engineering and DevOps ](../advanced-introduction-to-devops)) or the equivalent of it.
+- The previous course ( [Fundamentals of Modern Software Engineering and DevOps ](/source/advanced-introduction-to-devops)) or the equivalent of it.
 
 - Cloud computing concepts, including an understanding of PaaS, SaaS, and IaaS implementations.
 
