@@ -53,7 +53,7 @@
 
 - [⬇️ Mastering Terraform (Get Certified)](source/mastering-terraform/ "Mastering Terraform (Get Certified)")
 
-  - [📃 Course Outlines](/source/mastering-terraform/terraform-outline.md "Course Outlines")
+  - [📃 Course Outlines](source/mastering-terraform/source/terraform-outline.md "Course Outlines")
 
 - [💪 Mentoring Service](/source/mentoring-service/ "Mentoring Service")
 
