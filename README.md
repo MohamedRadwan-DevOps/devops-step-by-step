@@ -112,7 +112,7 @@
   &ensp;
   [![YouTube](/source/images/mics/youtube-icon.png "Arabic YouTube Channel")](https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1)
   &ensp;
-  [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](#)
+   [![Instagram](/source/images/mics/instagram-icon.png "Instagram")](https://www.instagram.com/mradwan06/)
   &ensp;
   [![Website](/source/images/mics/website-icon.png "Website")](https://mohamedradwan.com/)
   &ensp;
