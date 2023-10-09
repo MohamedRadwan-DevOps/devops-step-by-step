@@ -143,7 +143,7 @@
 
 ## Secret to Success with Michael Blumenthal & Mohamed Radwan
 
-- **Date and Time:** Oct 12, 2023, at 7:00 PM UK Time.
+- **Date and Time:** Nov 9, 2023, at 7:00 PM UK Time.
 
 - **Topic:** Explore the "Secret to Success" [Michael Blumenthal](events-speakers.md#michael-blumenthal) and [Mohamed Radwan](events-speakers.md#mohamed-radwan).
 
