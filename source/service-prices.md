@@ -8,7 +8,7 @@
 
  - The second package: $900 instead of $1350.
 
-It includes attending live sessions with the ability to watch recorded sessions only for 3 months after the course.
+It includes attending live sessions with the ability to watch recorded sessions during the course and for 2 months only after the course.
 
 The cost of the recorded session for the course for an extra 4 days is $40 instead of $60.
 
