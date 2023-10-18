@@ -21,12 +21,11 @@
     - [Lesson 9: Using Secrets and Pages along with GitHub Actions for CI/CD](#lesson-9-using-secrets-and-pages-along-with-github-actions-for-cicd)
     - [Lesson 10: Building and Working with Containers](#lesson-10-building-and-working-with-containers)
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
-    - [Lesson 1: Introduction to continuous delivery](#lesson-1-introduction-to-continuous-delivery)
-    - [Lesson 2: Create a release pipeline](#lesson-2-create-a-release-pipeline)
-    - [Lesson 3: Explore release strategy recommendations](#lesson-3-explore-release-strategy-recommendations)
-    - [Lesson 4: Provision and test environments](#lesson-4-provision-and-test-environments)
-    - [Lesson 5: Manage and modularize tasks and templates](#lesson-5-manage-and-modularize-tasks-and-templates)
-    - [Lesson 6: Automate inspection of health](#lesson-6-automate-inspection-of-health)
+    - [Lesson 1: Release pipeline and Release recommendations](#lesson-1-release-pipeline-and-release-recommendations)
+    - [Lesson 2: Provision and Test environments](#lesson-2-provision-and-test-environments)
+    - [Lesson 3: Manage and modularize tasks and templates](#lesson-3-manage-and-modularize-tasks-and-templates)
+    - [Lesson 4: Automate inspection of health](#lesson-4-automate-inspection-of-health)
+    - [Lesson 5: Managing releases and release notes](#lesson-5-managing-releases-and-release-notes)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
     - [Lesson 1: Introduction to deployment patterns](#lesson-1-introduction-to-deployment-patterns)
     - [Lesson 2: Implement blue# green deployment and feature toggles](#lesson-2-implement-blue-green-deployment-and-feature-toggles)
@@ -61,7 +60,6 @@
     - [Lesson 5: OWASP and Dynamic Analyzers](#lesson-5-owasp-and-dynamic-analyzers)
     - [Lesson 6: Security Monitoring and Governance](#lesson-6-security-monitoring-and-governance)
     - [Lesson 7: Identify technical debt](#lesson-7-identify-technical-debt)
-
 
 
 ## Module 1: DevOps transformation for enterprise DevOps
