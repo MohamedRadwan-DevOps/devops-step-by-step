@@ -29,25 +29,19 @@
     - [Helm Chart Deployment to Azure Kubernetes Service AKS](#helm-chart-deployment-to-azure-kubernetes-service-aks)
   - [Module 3: Design and implement a release strategy](#module-3-design-and-implement-a-release-strategy)
     - [Controlling deployments using Release Gates](#controlling-deployments-using-release-gates)
-    - [Set Up Service Connection](#set-up-service-connection)
-    - [Monitor availability with URL ping tests](#monitor-availability-with-url-ping-tests)
-    - [Create and run a load test with Azure Load Testing Preview](#create-and-run-a-load-test-with-azure-load-testing-preview)
+    - [Create and Run Test Cases using Azure DevOps Test Plans](#create-and-run-test-cases-using-azure-devops-test-plans)
+    - [Exploratory Testing with Azure Test Plans](#exploratory-testing-with-azure-test-plans)
+    - [Create and run a load test with Azure Load Testing](#create-and-run-a-load-test-with-azure-load-testing)
     - [Identify performance regressions by automating load tests with CI/CD](#identify-performance-regressions-by-automating-load-tests-with-cicd)
     - [Create and manage task groups](#create-and-manage-task-groups)
     - [Create and manage variable groups](#create-and-manage-variable-groups)
     - [Set up service hooks to monitor the pipeline](#set-up-service-hooks-to-monitor-the-pipeline)
     - [Configure and manage Azure DevOps and GitHub Notifications](#configure-and-manage-azure-devops-and-github-notifications)
     - [Integrate Build Failure Notification with Slack](#integrate-build-failure-notification-with-slack)
-    - [Creating a release dashboard](#creating-a-release-dashboard)
-    - [Manage retention policy for release](#manage-retention-policy-for-release)
-    - [Create a Service Principle](#create-a-service-principle)
-    - [Manage flaky tests](#manage-flaky-tests)
-    - [Integrate Service now with Azure DevOps](#integrate-service-now-with-azure-devops)
-    - [Understanding manual tests vs automated tests](#understanding-manual-tests-vs-automated-tests)
-    - [Azure Pipelines integration with Jira Software](#azure-pipelines-integration-with-jira-software)
+    - [Manage Azure DevOps retention policies](#manage-azure-devops-retention-policies)
+    - [Manage releases with GitHub](#manage-releases-with-github)
+    - [Automate Release Notes in Azure DevOps and GitHub](#automate-release-notes-in-azure-devops-and-github)
     - [Generate changelog automatically](#generate-changelog-automatically)
-    - [Manage releases with GitHub Repos](#manage-releases-with-github-repos)
-    - [Automate release notes with GitHub and Azure DevOps](#automate-release-notes-with-github-and-azure-devops)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
     - [Setting up blue-green deployment](#setting-up-blue-green-deployment)
     - [Manage feature flags](#manage-feature-flags)
@@ -185,15 +179,15 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Set Up Service Connection
+### Create and Run Test Cases using Azure DevOps Test Plans
  
 In this demo, you will learn and understand ....
 
-### Monitor availability with URL ping tests
+### Exploratory Testing with Azure Test Plans
 
 In this demo, you will learn and understand ....
 
-### Create and run a load test with Azure Load Testing Preview
+### Create and run a load test with Azure Load Testing
  
 In this demo, you will learn and understand ....
 
@@ -221,44 +215,20 @@ In this demo, you will learn and understand ....
 
 In this demo, you will learn and understand ....
 
-### Creating a release dashboard
+### Manage Azure DevOps retention policies
  
 In this demo, you will learn and understand ....
 
-### Manage retention policy for release
+### Manage releases with GitHub
  
 In this demo, you will learn and understand ....
 
-### Create a Service Principle
- 
-In this demo, you will learn and understand ....
-
-### Manage flaky tests
- 
-In this demo, you will learn and understand ....
-
-### Integrate Service now with Azure DevOps
- 
-In this demo, you will learn and understand ....
-
-### Understanding manual tests vs automated tests
- 
-In this demo, you will learn and understand ....
-
-### Azure Pipelines integration with Jira Software
+### Automate Release Notes in Azure DevOps and GitHub
  
 In this demo, you will learn and understand ....
 
 ### Generate changelog automatically
-
-In this demo, you will learn and understand ....
-
-### Manage releases with GitHub Repos
-
-In this demo, you will learn and understand ....
-
-### Automate release notes with GitHub and Azure DevOps
-
+ 
 In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
