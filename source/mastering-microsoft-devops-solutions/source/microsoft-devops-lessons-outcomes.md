@@ -28,7 +28,7 @@
     - [Lesson 5: Managing releases and release notes](#lesson-5-managing-releases-and-release-notes)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
     - [Lesson 1: Introduction to deployment patterns](#lesson-1-introduction-to-deployment-patterns)
-    - [Lesson 2: Implement blue# green deployment and feature toggles](#lesson-2-implement-blue-green-deployment-and-feature-toggles)
+    - [Lesson 2: Implement blue-green deployment and feature toggles](#lesson-2-implement-blue-green-deployment-and-feature-toggles)
     - [Lesson 3: Implement canary releases and dark launching](#lesson-3-implement-canary-releases-and-dark-launching)
     - [Lesson 4: Implement A/B testing and progressive exposure deployment](#lesson-4-implement-ab-testing-and-progressive-exposure-deployment)
     - [Lesson 5: Integrate with identity management systems](#lesson-5-integrate-with-identity-management-systems)
