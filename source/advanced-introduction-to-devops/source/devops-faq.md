@@ -20,7 +20,6 @@
   - [Unfortunately, I haven’t successfully found a job yet. What do you suggest I do to make good use of my time till the course starts?](#unfortunately-i-havent-successfully-found-a-job-yet-what-do-you-suggest-i-do-to-make-good-use-of-my-time-till-the-course-starts)
   - [What are the minimum system requirements for the course?](#what-are-the-minimum-system-requirements-for-the-course)
   - [Is there anything else I need to know about the course?](#is-there-anything-else-i-need-to-know-about-the-course)
-  - [Where or how can I register?](#where-or-how-can-i-register)
 
 
 ## Will I be qualified to work as a DevOps Engineer after finishing the course?
@@ -157,12 +156,6 @@ You need to know that this is a demanding course and the more you focus and effo
 Also, you must know that there is significant preparation that you must do before every lecture and after every lecture, there shall be an assessment that you must take, see the following link for the list of Demos/Labs for the course.
 
 [Demos/Labs](devops-demos-labs.md)
-
-
-## Where or how can I register?
-
-Kindly check this [question](/source/faq.md#when-shall-the-courses-start-how-shall-i-pay-is-there-a-deadline-for-payment)
-
 
 
 
