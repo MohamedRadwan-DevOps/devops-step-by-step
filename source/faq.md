@@ -42,7 +42,13 @@ Most people join the meeting without any issue following the instructions provid
 
 ## Will the courses and lectures be recorded in case I couldn’t attend live sessions?
 
-Yes, the lectures shall be recorded and available for free for 4 days you shall be chosen in advance. However, if you want a permanent recording of the lecture, the price of a single lecture will be an additional cost. That is why I am stressing the importance of attendance and not skipping.
+Yes, the lectures will be recorded and accessible to both Package (1) and Package (2) members, but with varying durations.
+
+- **Package (1):** the recordings will be available for four days.
+
+- **Package (2):** the recordings will be available throughout the duration of the course and for an additional two months after the course ended.
+
+This is why I emphasize the significance of attending the live sessions and strongly discourage skipping them.
 
 ## Are there any more advantages to the courses?
 
@@ -54,7 +60,11 @@ Your mentor shall be able to solve any problems you might face or answer any que
 
 ## How much does the technical support or mentorship program cost?
 
-First of all, the technical support or mentorship program is an optional choice and not mandatory. The subscription fee is $7/month and it's paid annually which means $84/year.
+First of all, the technical support or mentorship program is an optional choice and not mandatory. 
+
+For more details regarding prices, please check the price page:
+
+[Service Price List](./service-prices.md)
 
 Also, the mentorship and the technical support are free for the top contributors who contribute to our internal/external community.
 
@@ -77,7 +87,7 @@ The registration deadline for any course is two weeks prior to the course start 
 
 ## Can I purchase the lecture recordings without registering for the course?
 
-Yes, that is possible, and in that case, the price of the recorded course shall be the same price as package 2 and you can look at that in the price page.
+Yes, that is possible, and in that case, the price of the recorded course shall be the same price as package (2) and you can look at that in the price page.
 
 For more details regarding prices, please check the price page:
 
@@ -99,7 +109,9 @@ Moreover, the timing shall be updated on the following timetable page:
 
 And it is best you take a look at the reviews left by those who have finished the course. Each and every one of them explains how they benefited from the course and shares their experience that might be very close to your case and thereby answering all your questions.
 
-[Course Reviews](reviews.md)
+[Individuals Reviews](./review-individuals.md)
+
+[Corporates Reviews](./review-corporates.md)
 
 ## I want to contribute but I don't know what should I do?
 You need to learn what it means to be a contributor and I am trying to help everyone here.
