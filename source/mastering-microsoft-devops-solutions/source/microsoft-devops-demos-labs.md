@@ -43,11 +43,12 @@
     - [Automate Release Notes in Azure DevOps and GitHub](#automate-release-notes-in-azure-devops-and-github)
     - [Generate changelog automatically](#generate-changelog-automatically)
   - [Module 4: Implement a secure continuous deployment using Azure Pipelines](#module-4-implement-a-secure-continuous-deployment-using-azure-pipelines)
-    - [Setting up blue-green deployment](#setting-up-blue-green-deployment)
-    - [Manage feature flags](#manage-feature-flags)
-    - [Setting up Ring-based deployment](#setting-up-ring-based-deployment)
+    - [Set up blue-green deployment](#set-up-blue-green-deployment)
+    - [Set up Ring-based deployment](#set-up-ring-based-deployment)
+    - [Connecting Entra ID (Azure AD) with GitHub](#connecting-entra-id-azure-ad-with-github)
+    - [Set up Service Principle and Service Connection](#set-up-service-principle-and-service-connection)
+    - [Manage Feature Flags with Azure App Configuration](#manage-feature-flags-with-azure-app-configuration)
     - [Integrating Azure Key Vault with Azure DevOps](#integrating-azure-key-vault-with-azure-devops)
-    - [Connecting Azure AD with GitHub](#connecting-azure-ad-with-github)
   - [Module 5: Manage infrastructure as code using Azure and DSC](#module-5-manage-infrastructure-as-code-using-azure-and-dsc)
     - [Work with Azure CLI](#work-with-azure-cli)
     - [Create a PowerShell Workflow Runbook in Automation](#create-a-powershell-workflow-runbook-in-automation)
@@ -236,25 +237,30 @@ In this demo, you will learn and understand ....
 
 ## Module 4: Implement a secure continuous deployment using Azure Pipelines
 
-### Setting up blue-green deployment
+### Set up blue-green deployment
  
 In this demo, you will learn and understand ....
 
-### Manage feature flags
+### Set up Ring-based deployment
+ 
+In this demo, you will learn and understand ....
+
+### Connecting Entra ID (Azure AD) with GitHub
 
 In this demo, you will learn and understand ....
 
-### Setting up Ring-based deployment
+### Set up Service Principle and Service Connection
+
+In this demo, you will learn and understand ....
+
+### Manage Feature Flags with Azure App Configuration
  
 In this demo, you will learn and understand ....
- 
+
 ### Integrating Azure Key Vault with Azure DevOps
 
 In this demo, you will learn and understand ....
 
-### Connecting Azure AD with GitHub
-
-In this demo, you will learn and understand ....
 
 **[⬆ back to top](#mastering-microsoft-devops-solutions-get-certified)**
 
