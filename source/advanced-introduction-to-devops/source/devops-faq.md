@@ -4,7 +4,7 @@
 - [Fundamentals of Modern Software Engineering and DevOps](#fundamentals-of-modern-software-engineering-and-devops)
 - [Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)](#frequently-asked-questions-faq-and--code-of-conduct-coc)
   - [Will completing this course qualify me for a DevOps Engineer role?](#will-completing-this-course-qualify-me-for-a-devops-engineer-role)
-  - [Which tools and technologies are included in the course, and will it cover Kubernetes, Docker, and Configuration Management Tools such as Ansible or Terraform?](#which-tools-and-technologies-are-included-in-the-course-and-will-it-cover-kubernetes-docker-and-configuration-management-tools-such-as-ansible-or-terraform)
+  - [Which tools and technologies are included in the course, and will it cover Kubernetes, Docker, and Configuration Management Tools?](#which-tools-and-technologies-are-included-in-the-course-and-will-it-cover-kubernetes-docker-and-configuration-management-tools)
   - [Will this course help with mobile apps, considering my prior Programming Fundamentals course with Eng. Moshrif, and how does DevOps benefit my future?](#will-this-course-help-with-mobile-apps-considering-my-prior-programming-fundamentals-course-with-eng-moshrif-and-how-does-devops-benefit-my-future)
   - [I've briefly studied DevOps in a college Data Warehousing class, but I'm still unclear about the field. Can you briefly explain DevOps and its compatibility with Full Stack development?](#ive-briefly-studied-devops-in-a-college-data-warehousing-class-but-im-still-unclear-about-the-field-can-you-briefly-explain-devops-and-its-compatibility-with-full-stack-development)
   - [Is the course mostly theoretical and aimed at understanding the concepts of DevOps?](#is-the-course-mostly-theoretical-and-aimed-at-understanding-the-concepts-of-devops)
@@ -28,7 +28,7 @@ Yes as a Junior DevOps Eng. Even though this course is an advanced introduction,
 
 Also, it depends on other knowledge and skills you have and remember, you need time in an actual DevOps job to get real experience.
 
-## Which tools and technologies are included in the course, and will it cover Kubernetes, Docker, and Configuration Management Tools such as Ansible or Terraform?
+## Which tools and technologies are included in the course, and will it cover Kubernetes, Docker, and Configuration Management Tools?
 
 We will use Azure DevOps and GitHub, but no Jenkins. 
 
@@ -47,8 +47,6 @@ The Course shall be useful in any specialization in software whether it's a mobi
 Of course, a programming fundamentals course will make a huge difference especially if you took it with Eng. Moshrif. 
 
 You can also work in DevOps roles; it has a huge market demand all over the world, especially in the UK and EU.
-
-
 
 ## I've briefly studied DevOps in a college Data Warehousing class, but I'm still unclear about the field. Can you briefly explain DevOps and its compatibility with Full Stack development?
 
@@ -81,7 +79,6 @@ NO, only an attendance certificate.
 
 ## I've set up Gitlab and Docker Security locally, with some DevOps lab experience. My goal is to become a DevSecOps Engineer, focusing on Kubernetes, Gitlab CI, and integration. I'd appreciate your guidance on how to align with my goals in the course.
 
-
 This course does not use Gitlab, it uses Azure pipeline instead. For you to be a DevSecOps Engineer, you have to be a good, properly built DevOps engineer first because DevSecOps is an advanced stage of DevOps. And this course provides an introduction to DevSecOps but we will not get into details.
 
 The course will be an advanced leap in your way of thinking and in your work in the field. So, my advice is, to forget everything and start with us from scratch, our way, and hopefully, you’ll see the result and you’ll even impress yourself with what you’ll be capable of doing.
@@ -92,7 +89,6 @@ Those are two different companies that provide cloud services, and no you don’
 You can review all the prerequisites of the course on the following link:
 
 [Course prerequisites](devops-info-prerequisite.md)
-
 
 ## Is a credit card necessary for the course payments, and what should I do if I don't have one?
 
@@ -115,7 +111,6 @@ The course objective is not to learn tools or technology like AWS or Azure, but 
 However, to learn the practices, we must apply them using any tools or technology. You can literally apply what you will learn using any other tools or technology not just the ones you’ve learned in class, and this is an additional advantage to the course: Because you have understood the foundation, tools and technology become much easier to understand and use any of them.
 
 In the end, AWS and Azure have market demands almost equally.
-
 
 ## What if I don’t have the course requirements/prerequisites?
 
