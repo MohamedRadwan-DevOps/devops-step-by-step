@@ -3,32 +3,32 @@
 # Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)
 - [Fundamentals of Modern Software Engineering and DevOps](#fundamentals-of-modern-software-engineering-and-devops)
 - [Frequently Asked Questions (FAQ) and  Code of Conduct (CoC)](#frequently-asked-questions-faq-and--code-of-conduct-coc)
-  - [Will I be qualified to work as a DevOps Engineer after finishing the course?](#will-i-be-qualified-to-work-as-a-devops-engineer-after-finishing-the-course)
-  - [It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?](#it-is-unclear-what-tools-we-shall-use-whether-they-are-azure-devops-or-jenkins-will-we-work-with-configuration-management-tools-such-as-ansible-or-terraform-will-we-get-into-subjects-like-kubernetes-and-docker)
-  - [Will the course be useful in Mobile applications? I have taken the Programming Fundamentals Course before with Eng. Moshrif, will it benefit me? How will DevOps benefit me afterwards?](#will-the-course-be-useful-in-mobile-applications-i-have-taken-the-programming-fundamentals-course-before-with-eng-moshrif-will-it-benefit-me-how-will-devops-benefit-me-afterwards)
-  - [I’ve taken an overview of DevOps in a Data Warehousing class in college but in fact, the field itself is a bit unclear. If you could just give us a hint on what it is and the available opportunities for it and will it be a complement to a career in Full stack development?](#ive-taken-an-overview-of-devops-in-a-data-warehousing-class-in-college-but-in-fact-the-field-itself-is-a-bit-unclear-if-you-could-just-give-us-a-hint-on-what-it-is-and-the-available-opportunities-for-it-and-will-it-be-a-complement-to-a-career-in-full-stack-development)
+  - [Will completing this course qualify me for a DevOps Engineer role?](#will-completing-this-course-qualify-me-for-a-devops-engineer-role)
+  - [Which tools and technologies are included in the course, and will it cover Kubernetes, Docker, and Configuration Management Tools such as Ansible or Terraform?](#which-tools-and-technologies-are-included-in-the-course-and-will-it-cover-kubernetes-docker-and-configuration-management-tools-such-as-ansible-or-terraform)
+  - [Will this course help with mobile apps, considering my prior Programming Fundamentals course with Eng. Moshrif, and how does DevOps benefit my future?](#will-this-course-help-with-mobile-apps-considering-my-prior-programming-fundamentals-course-with-eng-moshrif-and-how-does-devops-benefit-my-future)
+  - [I've briefly studied DevOps in a college Data Warehousing class, but I'm still unclear about the field. Can you briefly explain DevOps and its compatibility with Full Stack development?](#ive-briefly-studied-devops-in-a-college-data-warehousing-class-but-im-still-unclear-about-the-field-can-you-briefly-explain-devops-and-its-compatibility-with-full-stack-development)
   - [Is the course mostly theoretical and aimed at understanding the concepts of DevOps?](#is-the-course-mostly-theoretical-and-aimed-at-understanding-the-concepts-of-devops)
-  - [Will there be an advanced level course immediately after or will there be a long time period between both courses?](#will-there-be-an-advanced-level-course-immediately-after-or-will-there-be-a-long-time-period-between-both-courses)
-  - [What are the jobs I can apply for after finishing the course? Because I’m currently working as a system analyst, and I want to make a career shif?](#what-are-the-jobs-i-can-apply-for-after-finishing-the-course-because-im-currently-working-as-a-system-analyst-and-i-want-to-make-a-career-shif)
+  - [Is there an advanced course right after, or is there a significant gap between the courses?](#is-there-an-advanced-course-right-after-or-is-there-a-significant-gap-between-the-courses)
+  - [Which career opportunities are available after the course for a shift from system analysis?](#which-career-opportunities-are-available-after-the-course-for-a-shift-from-system-analysis)
   - [Is there a Certification track with Exams?](#is-there-a-certification-track-with-exams)
-  - [I’ve locally installed Gitlab as well as Docker Security with Trivy Scanner, and I have some information about DevOps. I’ve tried a few labs of Qwiklabs. But I’m seeing a great experience obviously in the course, especially in Module 7 is marvellous but to be clear on what my goals are, I’m doing all this to be a DevSecOps Engineer. So, what I need is Kubernetes as well as Gitlab (CI) and integration of course. I know you are doing something that suits everyone but, I need your advice.](#ive-locally-installed-gitlab-as-well-as-docker-security-with-trivy-scanner-and-i-have-some-information-about-devops-ive-tried-a-few-labs-of-qwiklabs-but-im-seeing-a-great-experience-obviously-in-the-course-especially-in-module-7-is-marvellous-but-to-be-clear-on-what-my-goals-are-im-doing-all-this-to-be-a-devsecops-engineer-so-what-i-need-is-kubernetes-as-well-as-gitlab-ci-and-integration-of-course-i-know-you-are-doing-something-that-suits-everyone-but-i-need-your-advice)
-  - [What is the difference between AWS and Azure? And do I have to have a Linux background or at least know something about it because I know nothing about Linux?](#what-is-the-difference-between-aws-and-azure-and-do-i-have-to-have-a-linux-background-or-at-least-know-something-about-it-because-i-know-nothing-about-linux)
-  - [How important is it to have a credit card in the course? And will the money be withdrawn from it? And what if I don’t have a credit card, what shall I do?](#how-important-is-it-to-have-a-credit-card-in-the-course-and-will-the-money-be-withdrawn-from-it-and-what-if-i-dont-have-a-credit-card-what-shall-i-do)
+  - [I've set up Gitlab and Docker Security locally, with some DevOps lab experience. My goal is to become a DevSecOps Engineer, focusing on Kubernetes, Gitlab CI, and integration. I'd appreciate your guidance on how to align with my goals in the course.](#ive-set-up-gitlab-and-docker-security-locally-with-some-devops-lab-experience-my-goal-is-to-become-a-devsecops-engineer-focusing-on-kubernetes-gitlab-ci-and-integration-id-appreciate-your-guidance-on-how-to-align-with-my-goals-in-the-course)
+  - [What distinguishes AWS from Azure, and is Linux knowledge required, given that I have no prior experience with Linux?](#what-distinguishes-aws-from-azure-and-is-linux-knowledge-required-given-that-i-have-no-prior-experience-with-linux)
+  - [Is a credit card necessary for the course payments, and what should I do if I don't have one?](#is-a-credit-card-necessary-for-the-course-payments-and-what-should-i-do-if-i-dont-have-one)
   - [Will we get into AWS? Is it more desirable in the market?](#will-we-get-into-aws-is-it-more-desirable-in-the-market)
   - [What if I don’t have the course requirements/prerequisites?](#what-if-i-dont-have-the-course-requirementsprerequisites)
-  - [Will I be able to work in this field as a fresh graduate with no experience?](#will-i-be-able-to-work-in-this-field-as-a-fresh-graduate-with-no-experience)
-  - [Unfortunately, I haven’t successfully found a job yet. What do you suggest I do to make good use of my time till the course starts?](#unfortunately-i-havent-successfully-found-a-job-yet-what-do-you-suggest-i-do-to-make-good-use-of-my-time-till-the-course-starts)
+  - [Can I enter this field as a recent graduate with no prior experience?](#can-i-enter-this-field-as-a-recent-graduate-with-no-prior-experience)
+  - [I'm still job-hunting. How can I make the best use of my time before the course starts?](#im-still-job-hunting-how-can-i-make-the-best-use-of-my-time-before-the-course-starts)
   - [What are the minimum system requirements for the course?](#what-are-the-minimum-system-requirements-for-the-course)
   - [Is there anything else I need to know about the course?](#is-there-anything-else-i-need-to-know-about-the-course)
 
 
-## Will I be qualified to work as a DevOps Engineer after finishing the course?
+## Will completing this course qualify me for a DevOps Engineer role?
 
 Yes as a Junior DevOps Eng. Even though this course is an advanced introduction, you shall be fully capable of applying for a job and working, because our main objective is to properly build and equip you for the actual job market. 
 
 Also, it depends on other knowledge and skills you have and remember, you need time in an actual DevOps job to get real experience.
 
-## It is unclear what tools we shall use, whether they are Azure DevOps or Jenkins. Will we work with Configuration Management Tools such as Ansible or Terraform? Will we get into subjects like Kubernetes and Docker?
+## Which tools and technologies are included in the course, and will it cover Kubernetes, Docker, and Configuration Management Tools such as Ansible or Terraform?
 
 We will use Azure DevOps and GitHub, but no Jenkins. 
 
@@ -40,7 +40,7 @@ Also, there is another extremely important thing: the course objective is not to
 
 However, to learn the practices, we must apply them using any tools or technology. You can literally apply what you will learn using any other tools or technology not just the ones you’ve learned in class, and this is an additional advantage to the course: Because you have understood the foundation, tools and technology become much easier to understand and use any of them.
 
-## Will the course be useful in Mobile applications? I have taken the Programming Fundamentals Course before with Eng. Moshrif, will it benefit me? How will DevOps benefit me afterwards?
+## Will this course help with mobile apps, considering my prior Programming Fundamentals course with Eng. Moshrif, and how does DevOps benefit my future?
 
 The Course shall be useful in any specialization in software whether it's a mobile application, back-end, or full-stack because it covers the foundation of the software industry practices and principles in terms of the product’s life cycle and enhancing its performance. 
 
@@ -50,7 +50,7 @@ You can also work in DevOps roles; it has a huge market demand all over the worl
 
 
 
-## I’ve taken an overview of DevOps in a Data Warehousing class in college but in fact, the field itself is a bit unclear. If you could just give us a hint on what it is and the available opportunities for it and will it be a complement to a career in Full stack development?
+## I've briefly studied DevOps in a college Data Warehousing class, but I'm still unclear about the field. Can you briefly explain DevOps and its compatibility with Full Stack development?
 
 It is not a complement to a career in Full Stack development, it is a whole new direction. But, if you are a full-stack developer, then it is a good thing because it will help you a lot.
 
@@ -60,7 +60,7 @@ The course is very practical, and you’ll have hands-on experience and do every
 
 [Demos/Labs](devops-demos-labs.md)
 
-## Will there be an advanced level course immediately after or will there be a long time period between both courses?
+## Is there an advanced course right after, or is there a significant gap between the courses?
 
 The course shall be very rich. I don’t want to say, “just handle this one and then worry about the next one later on!”. I just want you to consider this course as the foundation and enough for you to start working. (But you’ll graduate from it like a GP physician or a first-year engineering student) The purpose of this course is for you to be properly built and ready for work and for you to actually know how to do the work itself but it will not make you a specialist or an expert. 
 
@@ -68,7 +68,7 @@ This is something that must come with simultaneous work-study
 
 There are no more courses ready at the moment. Of course, it will take some time for me to prepare for any more courses but hopefully, it won’t take long.
 
-## What are the jobs I can apply for after finishing the course? Because I’m currently working as a system analyst, and I want to make a career shif?
+## Which career opportunities are available after the course for a shift from system analysis?
 
 Here is more than one professional level for DevOps as well as more than one sub-specialization. But as an entry-level you shall be able to apply for:
 
@@ -79,14 +79,14 @@ Here is more than one professional level for DevOps as well as more than one sub
 
 NO, only an attendance certificate.
 
-## I’ve locally installed Gitlab as well as Docker Security with Trivy Scanner, and I have some information about DevOps. I’ve tried a few labs of Qwiklabs. But I’m seeing a great experience obviously in the course, especially in Module 7 is marvellous but to be clear on what my goals are, I’m doing all this to be a DevSecOps Engineer. So, what I need is Kubernetes as well as Gitlab (CI) and integration of course. I know you are doing something that suits everyone but, I need your advice.
+## I've set up Gitlab and Docker Security locally, with some DevOps lab experience. My goal is to become a DevSecOps Engineer, focusing on Kubernetes, Gitlab CI, and integration. I'd appreciate your guidance on how to align with my goals in the course.
 
 
 This course does not use Gitlab, it uses Azure pipeline instead. For you to be a DevSecOps Engineer, you have to be a good, properly built DevOps engineer first because DevSecOps is an advanced stage of DevOps. And this course provides an introduction to DevSecOps but we will not get into details.
 
 The course will be an advanced leap in your way of thinking and in your work in the field. So, my advice is, to forget everything and start with us from scratch, our way, and hopefully, you’ll see the result and you’ll even impress yourself with what you’ll be capable of doing.
 
-## What is the difference between AWS and Azure? And do I have to have a Linux background or at least know something about it because I know nothing about Linux?
+## What distinguishes AWS from Azure, and is Linux knowledge required, given that I have no prior experience with Linux?
 
 Those are two different companies that provide cloud services, and no you don’t have to be an expert but you should know basic bash script; you shall learn all that in the course.
 You can review all the prerequisites of the course on the following link:
@@ -94,7 +94,7 @@ You can review all the prerequisites of the course on the following link:
 [Course prerequisites](devops-info-prerequisite.md)
 
 
-## How important is it to have a credit card in the course? And will the money be withdrawn from it? And what if I don’t have a credit card, what shall I do?
+## Is a credit card necessary for the course payments, and what should I do if I don't have one?
 
 The credit card is for free registration on Microsoft Azure Cloud that will provide you with $200 worth of free services. And no money shall be withdrawn from your card because I shall teach you how to deactivate this feature.
 
@@ -123,7 +123,7 @@ In that case, try developing a simple software program like a timetable or phone
 
 We are going to code and develop simple software in the course. So, I don’t want your first time seeing or writing code to be in the course; you have to come prepared so you can keep up.
 
-## Will I be able to work in this field as a fresh graduate with no experience?
+## Can I enter this field as a recent graduate with no prior experience?
 
 If you are a graduate of this field and were basically clever, committed, and made a lot of effort in the course, hopefully after you finish you shall be able to work better than those who have been in the field for five years, but you have to make a significant amount of effort in the course and also target the junior job as it will be impossible to join as a Senior DevOps which needs a lot of real experience.
 
@@ -131,7 +131,7 @@ But, if you are not a graduate of the field nor do you have experience in progra
 
 Our field is generally that of patience and endurance.
 
-## Unfortunately, I haven’t successfully found a job yet. What do you suggest I do to make good use of my time till the course starts?
+## I'm still job-hunting. How can I make the best use of my time before the course starts?
 
 Watch my DevOps videos on my Youtube channels.
 
