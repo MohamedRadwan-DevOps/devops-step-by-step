@@ -46,14 +46,17 @@
   - [📃 Mentor Service Conditions](./mentoring-service/source/conditions.md "Mentor Service Conditions")
 
   - [📅 Agenda](./mentoring-service/source/agenda.md "Agenda")
-  
-  - [📰 News](./mentoring-service/source/news.md "News")
 
   - [📅 Events Schedule](./mentoring-service/source/events-schedule.md "Events Schedule")
 
   - [👪 Community Gathering](./mentoring-service/source/community-gathering.md "Community Gathering")
 
   - [💭 Mindmap for Mentorship Program Services](./mentoring-service/source/mind-map.md)
+
+- [📰 News](/source/news/ "News")
+
+  - [🗞️ News 2023](/source/news/source/news-2023.md "News 2023")
+  - [🗞️ News 2024](/source/news/source/news-2024.md "News 2024")
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 

@@ -61,13 +61,16 @@
 
   - [📅 Agenda](/source/mentoring-service/source/agenda.md "Agenda")
 
-  - [📰 News](/source/mentoring-service/source/news.md "News")
-
   - [📅 Events Schedule](/source/mentoring-service/source/events-schedule.md "Events Schedule")
 
   - [👪 Community Gathering](/source/mentoring-service/source/community-gathering.md "Community Gathering")
   
   - [💭 Mindmap for Mentorship Program Services](source/mentoring-service/source/mind-map.md)
+
+- [📰 News](/source/news/ "News")
+
+  - [🗞️ News 2023](/source/news/source/news-2023.md "News 2023")
+  - [🗞️ News 2024](/source/news/source/news-2024.md "News 2024")
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 
