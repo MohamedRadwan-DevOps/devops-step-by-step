@@ -88,7 +88,7 @@
 
 - [❓ General FAQ](/source/faq.md "FAQ")
 
-- [🙋‍♀️ Q/A (Knowledge Base) (KB)](http://devopsvisionsqa.mohamedradwan.com/ "Q/A")
+- [🙋‍♀️ Q/A (Knowledge Base) (KB)](https://qa.devopsvisions.com/ "Q/A")
 
 - [⭐ Reviews (Individuals)](/source/review-individuals.md "Click here to See Members Reviews")
 
