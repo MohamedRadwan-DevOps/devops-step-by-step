@@ -12,7 +12,7 @@
     - [Part 1: Enhancing Soft Skills](#part-1-enhancing-soft-skills)
     - [Part 2: Q\&A](#part-2-qa)
   - [Leadership \& Group Advisory](#leadership--group-advisory)
-  - [DevOps Public Session](#devops-public-session)
+  - [Public Technical Session](#public-technical-session)
     - [Part 1: Knowledge Sharing Session](#part-1-knowledge-sharing-session)
     - [Part 2: Interactive Q\&A](#part-2-interactive-qa)
   - [Guest Speaker](#guest-speaker)
@@ -22,6 +22,9 @@
   - [Management \& Ask me anything](#management--ask-me-anything)
     - [Part 1: Q\&A - Ask the Experts](#part-1-qa---ask-the-experts)
     - [Part 2: Program Updates (Group Advisory, Mentor for All, etc.)](#part-2-program-updates-group-advisory-mentor-for-all-etc)
+  - [Book Workshop](#book-workshop)
+  - [CV Review Workshop](#cv-review-workshop)
+  - [Annual Plan](#annual-plan)
 
 
 ## Group Therapy
@@ -119,7 +122,7 @@ This meeting is intended for members of the Leadership & Group Advisory team, du
   Open the floor to questions and discussions.
 
 
-## DevOps Public Session
+## Public Technical Session
 
 The session is divided into two parts:
 
@@ -170,3 +173,31 @@ Our knowledgeable panel of experienced members will share their insights, practi
 ### Part 2: Program Updates (Group Advisory, Mentor for All, etc.)
 
 Covering updates on various subprograms, including Group Advisory and Mentor for All. We will discuss any updated features, developments, or changes to these programs, as well as any other relevant updates related to the program.
+
+## Book Workshop
+
+In this workshop, members select a book to read and engage in detailed discussions together. 
+
+Each workshop session focuses on specific chapters or overarching themes, creating a supportive platform for members to exchange insights, interpretations, and personal reflections. 
+
+This structured approach not only enriches participants' understanding of the text but also strengthens community bonds through shared intellectual and emotional experiences.
+
+## CV Review Workshop
+
+In this workshop, participants will submit their CVs, which will be selected for review based on specific criteria. 
+
+During the event, selected CVs will be discussed in detail, providing constructive feedback, tailored advice, and professional insights. 
+
+This collaborative and educational environment aims to enhance participants' skills in CV preparation and presentation, ultimately aiding them in achieving their career goals.
+
+## Annual Plan 
+
+Held at the end of the year, this session is a crucial time for reflection and forward planning. 
+
+Members gather to review the past year's activities, analyzing statistics and discussing feedback to assess our community's growth and impact. 
+
+This comprehensive review helps to highlight successes and areas for improvement. Following the reflection, the session shifts focus to the future, outlining strategic plans and setting goals for the upcoming year. 
+
+This structured approach ensures our community remains aligned with its mission and is well-prepared to tackle new challenges and opportunities.
+
+**[⬆ back to top](#agenda-of-mentor-program-events)**
