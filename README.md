@@ -71,6 +71,7 @@
 
   - [🗞️ News 2023](/source/news/source/news-2023.md "News 2023")
   - [🗞️ News 2024](/source/news/source/news-2024.md "News 2024")
+  - [🗞️ News 2025](/source/news/source/news-2025.md "News 2025")
 
 - [❤️ Contribution](/source/contribution/ "Contribution")
 
