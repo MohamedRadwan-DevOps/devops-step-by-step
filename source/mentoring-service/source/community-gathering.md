@@ -17,3 +17,7 @@
 ## KSA/Riyadh March 2024
 
 ![KSA ](/source/images/mics/ksa-mar-24.jpg)
+
+## Egypt/Cairo August 2024
+
+![EGY ](/source/images/mics/egy-aug-24.jpg)
