@@ -170,7 +170,7 @@
 
   - [Dynamic analysis for code Webpage](https://www.harness.io/blog/static-vs-dynamic-code-analysis)
 
-  - [Dynamic analysis for code Video](https://www.youtube.com/watch?v=seuW81p4gv4)
+  - [Dynamic analysis for code Video](https://youtu.be/HDg1bCuq0AE)
 
 - Unit testing
 
