@@ -356,7 +356,7 @@
 
   - [GitHub Insights Webpage](https://docs.github.com/en/enterprise-cloud@latest/organizations/collaborating-with-groups-in-organizations/viewing-insights-for-your-organization)
 
-  - [GitHub Insights Video](https://www.youtube.com/watch?v=wq1LGr2j1Fw)
+  - [GitHub Insights Video](https://www.youtube.com/watch?v=HwYLw2M0Q_k)
 
 - Gitlab
 
