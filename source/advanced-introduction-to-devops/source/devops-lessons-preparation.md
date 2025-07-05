@@ -344,7 +344,7 @@
 
   - [GitHub Projects Webpage](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 
-  - [GitHub Projects Video](https://www.youtube.com/watch?v=nI5VdsVl0FM)
+  - [GitHub Projects Video](https://www.youtube.com/watch?v=rAxD42mAZhw)
 
 - GitHub Advanced Security
 
@@ -356,7 +356,7 @@
 
   - [GitHub Insights Webpage](https://docs.github.com/en/enterprise-cloud@latest/organizations/collaborating-with-groups-in-organizations/viewing-insights-for-your-organization)
 
-  - [GitHub Insights Video](https://www.youtube.com/watch?v=wq1LGr2j1Fw)
+  - [GitHub Insights Video](https://www.youtube.com/watch?v=HwYLw2M0Q_k)
 
 - Gitlab
 
