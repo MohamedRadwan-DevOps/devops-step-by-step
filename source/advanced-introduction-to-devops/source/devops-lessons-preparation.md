@@ -344,7 +344,7 @@
 
   - [GitHub Projects Webpage](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 
-  - [GitHub Projects Video](https://www.youtube.com/watch?v=nI5VdsVl0FM)
+  - [GitHub Projects Video](https://www.youtube.com/watch?v=rAxD42mAZhw)
 
 - GitHub Advanced Security
 
