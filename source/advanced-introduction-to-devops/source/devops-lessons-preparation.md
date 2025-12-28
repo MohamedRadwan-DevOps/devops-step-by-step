@@ -538,7 +538,9 @@
 
 - John Allspaw delivery cycles chart
 
-  - [John Allspaw delivery cycles chart Webpage](https://slideplayer.com/slide/16478160/96/images/15/John+Allspaw%E2%80%99s+visual+%E2%80%93+Fast+delivery+cycles.jpg)
+  - [John Allspaw delivery cycles chart Webpage](https://www.slideshare.net/slideshow/10-deploys-per-day-dev-and-ops-cooperation-at-flickr/1628368)
+
+  - [John Allspaw delivery cycles chart Video](https://tech-talks.code-maven.com/ten-plus-deploys-per-day.html)
 
 - Continuous Deployment
 
