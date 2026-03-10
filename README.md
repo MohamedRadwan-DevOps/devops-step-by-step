@@ -16,14 +16,13 @@
 <br/>
 </div>
 
-> [!IMPORTANT]
-> **🚀 Foundation of the DevOps Step-By-Step Roadmap and Vision**
->
-> This repository represents the foundation of **DevOps Step-By-Step**. It brings together the roadmap, structured learning paths, course outlines, hands-on labs, and supporting materials that define the vision and provide a clear, step-by-step progression for learners and practitioners.
->
-> We also launched additional platforms to extend our mentorship and community experience. These spaces help us scale collaboration, enable broader contribution, and create more room for community projects, technical articles, and mentorship-focused engagement while keeping this repository as the central reference point for the roadmap and learning content.
->
-> Explore the extended ecosystem below.
+## **Foundation of the DevOps Step-By-Step Roadmap and Vision**
+
+ This repository represents the foundation of **DevOps Step-By-Step**. It brings together the roadmap, structured learning paths, course outlines, hands-on labs, and supporting materials that define the vision and provide a clear, step-by-step progression for learners and practitioners.
+
+We also launched additional platforms to extend our mentorship and community experience. These spaces help us scale collaboration, enable broader contribution, and create more room for community projects, technical articles, and mentorship-focused engagement while keeping this repository as the central reference point for the roadmap and learning content.
+
+Explore the extended ecosystem below.
 
 ---
 
